@@ -1,0 +1,67 @@
+Signature-Version: 1.0
+SHA1-Digest-Manifest: ejqupQR9v0sfkUzh7xitpv7vOgA=
+Created-By: 1.6.0 (IBM Corporation)
+SHA1-Digest-Manifest-Main-Attributes: 232V3DM9YtSWMYVszwGq/bRix/o=
+
+Name: org/eclipse/ui/internal/presentations/r21/widgets/R21PaneFolderB
+ uttonListener.java
+SHA1-Digest: znaKbnxxDUjNKydL6+QYZ6w4sQw=
+
+Name: META-INF/eclipse.inf
+SHA1-Digest: SAqY+5ITAL0mkdYeijlSRhyIaZk=
+
+Name: org/eclipse/ui/internal/presentations/R21ViewStackPresentation.j
+ ava
+SHA1-Digest: EQ2dOVFNeF8Hrn2YwFnWkCFd9MQ=
+
+Name: org/eclipse/ui/internal/presentations/r21/widgets/R21PaneFolder.
+ java
+SHA1-Digest: zgo6WWXMRJVmMjjzda949gWkm0Y=
+
+Name: org/eclipse/ui/internal/presentations/r21/widgets/ViewForm.java
+SHA1-Digest: vehgCjCNELcDBEtf903OmljsyS8=
+
+Name: org/eclipse/ui/internal/presentations/R21BasicStackPresentation.
+ java
+SHA1-Digest: GN+9pVGnTcySfhM94rQPigd1T9Y=
+
+Name: about.html
+SHA1-Digest: M+fykt9heyWoEv1LNiIEeBhi/2Q=
+
+Name: org/eclipse/ui/internal/presentations/R21EditorStackPresentation
+ .java
+SHA1-Digest: hBjCYu2m67m2p7f/TJwlSWK4KkA=
+
+Name: org/eclipse/ui/internal/presentations/r21/widgets/CTabItem.java
+SHA1-Digest: QR5bz1L/bWJJ+DJcemsZEe4N7GQ=
+
+Name: org/eclipse/ui/internal/presentations/r21/R21Colors.java
+SHA1-Digest: rEIlqyy5+jJ/0xh1OttdAwyUymo=
+
+Name: plugin.properties
+SHA1-Digest: vFznxEAYpftwArF3AtwVkvk9DqM=
+
+Name: org/eclipse/ui/internal/presentations/r21/R21PresentationPlugin.
+ java
+SHA1-Digest: LoMLgXxr9St2Nrd1jAS5ULBzYZU=
+
+Name: org/eclipse/ui/internal/presentations/R21PresentationFactory.jav
+ a
+SHA1-Digest: eXoYmogWcDXYX+XZm8Td9Izoikc=
+
+Name: org/eclipse/ui/internal/presentations/r21/widgets/CTabFolder.jav
+ a
+SHA1-Digest: 6yKfu4OF2esL+Eq2QwZuqBrFF/g=
+
+Name: org/eclipse/ui/internal/presentations/r21/widgets/CTabFolderEven
+ t.java
+SHA1-Digest: UKprQBx+032HysA8fq0jUImpLrE=
+
+Name: org/eclipse/ui/internal/presentations/r21/R21PresentationMessage
+ s.java
+SHA1-Digest: r2FoFsDBKAZ2JS7nnUbTEUnegBY=
+
+Name: org/eclipse/ui/internal/presentations/r21/widgets/CTabFolderList
+ ener.java
+SHA1-Digest: 5CIj9RCun4lSCWAY2fE3Kv2XF/k=
+

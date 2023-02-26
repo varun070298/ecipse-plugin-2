@@ -1,0 +1,82 @@
+Manifest-Version: 1.0
+Eclipse-SourceBundle: org.eclipse.ui.views.log;version="1.0.200.v20110
+ 404";roots:="."
+Bundle-Vendor: %provider-name
+Bundle-Localization: plugin
+Bundle-Name: %name
+Bundle-SymbolicName: org.eclipse.ui.views.log.source
+Bundle-Version: 1.0.200.v20110404
+Bundle-ManifestVersion: 2
+
+Name: META-INF/eclipse.inf
+SHA1-Digest: KyT9FF7C7t86NoBoa2kZT3ZJBfw=
+
+Name: org/eclipse/ui/internal/views/log/OpenLogDialog.java
+SHA1-Digest: TReqoT4SsmKP0rNuKTzlEjcTcoA=
+
+Name: org/eclipse/ui/internal/views/log/OpenIDELogFileAction.java
+SHA1-Digest: PiAjLLnNiyn5ESYHH0j+oh/HngQ=
+
+Name: org/eclipse/ui/internal/views/log/Group.java
+SHA1-Digest: Gx1NAz/5Rs02Uhrlen7kgOQnXeY=
+
+Name: org/eclipse/ui/internal/views/log/LogSession.java
+SHA1-Digest: QtyyvJvOMuxMNxsjBEVQ8zGQEUA=
+
+Name: org/eclipse/ui/internal/views/log/EventDetailsDialog.java
+SHA1-Digest: WUjXSh2Ns4YodROjDpaVMQYQGhY=
+
+Name: org/eclipse/ui/internal/views/log/TailInputStream.java
+SHA1-Digest: 5/FXL8jpC2hIwfWTuXOqVmVa3HU=
+
+Name: org/eclipse/ui/internal/views/log/LogFilesManager.java
+SHA1-Digest: olbo4GQo+D7qIY9RZAIVsNDWjs4=
+
+Name: about.html
+SHA1-Digest: ejOZra0kypGLQQ2bJtGTX+LI8tU=
+
+Name: org/eclipse/ui/internal/views/log/LogEntry.java
+SHA1-Digest: arszGdkj9BPY4A9CrFfG/g99z2A=
+
+Name: org/eclipse/ui/internal/views/log/Messages.java
+SHA1-Digest: DdT2tw/wLc1172VdmvgLl27MKn4=
+
+Name: plugin.properties
+SHA1-Digest: oENryHdesqKvrrXadta/yX91OSs=
+
+Name: org/eclipse/ui/internal/views/log/Activator.java
+SHA1-Digest: nprruHOfH7RUZtVZdrFHuPAr30Y=
+
+Name: org/eclipse/ui/internal/views/log/ImportLogAction.java
+SHA1-Digest: pk/qEO2VxFKLQPIylixLdIq6m7A=
+
+Name: org/eclipse/ui/internal/views/log/ILogFileProvider.java
+SHA1-Digest: i7J1CYlLSZ2ZAA9kvjqfbWh2ScU=
+
+Name: org/eclipse/ui/internal/views/log/IHelpContextIds.java
+SHA1-Digest: fQNL+PUsh0rhFRS86RVUEAr9hEY=
+
+Name: org/eclipse/ui/internal/views/log/EventDetailsDialogAction.java
+SHA1-Digest: nWIkwMIJZ0XNkS5VEfutU+lcllQ=
+
+Name: org/eclipse/ui/internal/views/log/AbstractEntry.java
+SHA1-Digest: vkZZXbj5HNIsZ/qdfgmPRnjnOpo=
+
+Name: org/eclipse/ui/internal/views/log/LogViewContentProvider.java
+SHA1-Digest: Y83cmM1636qJLGxMdhs797SrtcQ=
+
+Name: org/eclipse/ui/internal/views/log/FilterDialog.java
+SHA1-Digest: lp2gk+Z0eIZZP+L2PGTsCQXQFPU=
+
+Name: org/eclipse/ui/internal/views/log/SharedImages.java
+SHA1-Digest: LezyqqrxDr5iRqp/FUwdL7PDFzA=
+
+Name: org/eclipse/ui/internal/views/log/LogView.java
+SHA1-Digest: mMiTs1uR6vtbeSCDA8VhQAQT4uo=
+
+Name: org/eclipse/ui/internal/views/log/LogViewLabelProvider.java
+SHA1-Digest: /uUl3xrZie9p5XsxxcShhQAQPlA=
+
+Name: org/eclipse/ui/internal/views/log/LogReader.java
+SHA1-Digest: vQCgqKwNyDNsfPrOChoQB/5Lp3k=
+

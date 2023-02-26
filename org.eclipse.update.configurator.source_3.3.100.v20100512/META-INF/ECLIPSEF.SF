@@ -1,0 +1,115 @@
+Signature-Version: 1.0
+SHA1-Digest-Manifest: LIxzW3bfIJBeDsu937ZUCYu0gf0=
+Created-By: 1.6.0 (IBM Corporation)
+SHA1-Digest-Manifest-Main-Attributes: mXVbJw08hkjKmFz99a6TGyqpgTY=
+
+Name: org/eclipse/update/internal/configurator/SiteEntry.java
+SHA1-Digest: c5Fhi5mf9ljTiwtMvWcrXZuIpJ4=
+
+Name: org/eclipse/update/internal/configurator/branding/IProductConsta
+ nts.java
+SHA1-Digest: NVc9YmS+cVExQ1uSPYD+8cNxHMk=
+
+Name: org/eclipse/update/internal/configurator/PluginParser.java
+SHA1-Digest: 0yQ+UtGMB//IT0AcyM4bnH56rD8=
+
+Name: org/eclipse/update/internal/configurator/BundleManifest.java
+SHA1-Digest: 1a9VD1SuLdJJsHi1ntpHAgdkyGI=
+
+Name: org/eclipse/update/internal/configurator/branding/IniFileReader.
+ java
+SHA1-Digest: lQObwhePiUoJfA0lGXgoULg8BTI=
+
+Name: org/eclipse/update/configurator/IPlatformConfigurationFactory.ja
+ va
+SHA1-Digest: KwV61mM9H6Q/+5JFXQolNXYbn8s=
+
+Name: org/eclipse/update/internal/configurator/IConfigurationConstants
+ .java
+SHA1-Digest: QYTZ8lIjwK4x+xLyoDaMUxJINEU=
+
+Name: org/eclipse/update/internal/configurator/Locker_JavaNio.java
+SHA1-Digest: RGs7Ac2jqIO+32Y4gfz21Lo/baU=
+
+Name: org/eclipse/update/internal/configurator/VersionedIdentifier.jav
+ a
+SHA1-Digest: dELBEFHb1T37KrMGxENytd92sqY=
+
+Name: org/eclipse/update/internal/configurator/PlatformConfigurationFa
+ ctory.java
+SHA1-Digest: HQLZ63ZiG7hZna1c3RvoiBMnNys=
+
+Name: plugin.properties
+SHA1-Digest: kWRVdvK/FwuNTMWwEGNriuRFW5c=
+
+Name: org/eclipse/update/internal/configurator/branding/AboutInfo.java
+SHA1-Digest: XT/JXEG0/6NgcG45uRyiX2Q7nzQ=
+
+Name: org/eclipse/update/configurator/IPlatformConfiguration.java
+SHA1-Digest: dPB905tt2U0bbaKh6ixMhn8ozeY=
+
+Name: org/eclipse/update/internal/configurator/Configuration.java
+SHA1-Digest: XFI9a42UZO3iYaU88lAlY2E2uB8=
+
+Name: org/eclipse/update/internal/configurator/BundleGroupComponent.ja
+ va
+SHA1-Digest: Se1HE6wYZVUNwcvx3PHzO67jRec=
+
+Name: org/eclipse/update/internal/configurator/ConfigurationActivator.
+ java
+SHA1-Digest: OHxT0r+6EG8/n2H7HptEADy49Tk=
+
+Name: org/eclipse/update/internal/configurator/FeatureEntry.java
+SHA1-Digest: YsDd39EElCVlvBy93RnUmTIrSnA=
+
+Name: org/eclipse/update/configurator/ConfiguratorUtils.java
+SHA1-Digest: JBza96CDMjAx4KiJdKKFOLMOrtY=
+
+Name: org/eclipse/update/internal/configurator/Locker_JavaIo.java
+SHA1-Digest: Bitp5J3Ar20SJzS0uoB/8VS0gPM=
+
+Name: org/eclipse/update/internal/configurator/Locker.java
+SHA1-Digest: aTC2tsOl04mm7Q+5kZ0ES1g/wxY=
+
+Name: META-INF/eclipse.inf
+SHA1-Digest: SAqY+5ITAL0mkdYeijlSRhyIaZk=
+
+Name: org/eclipse/update/internal/configurator/FullFeatureParser.java
+SHA1-Digest: w6OhAnm0kfdTO5OLZhFSl3e5aFs=
+
+Name: org/eclipse/update/internal/configurator/PlatformConfiguration.j
+ ava
+SHA1-Digest: zb0pqcWVFwuNeCWOVJRFZJ1TJCk=
+
+Name: org/eclipse/update/internal/configurator/Messages.java
+SHA1-Digest: idPj8QfK7ENvg75umgCa4Exul3k=
+
+Name: org/eclipse/update/internal/configurator/PluginEntry.java
+SHA1-Digest: ldg40uNkMnFDjrK+rZ/8HafHYnk=
+
+Name: about.html
+SHA1-Digest: M+fykt9heyWoEv1LNiIEeBhi/2Q=
+
+Name: org/eclipse/update/internal/configurator/branding/IBundleGroupCo
+ nstants.java
+SHA1-Digest: E4ZXUzsWF9g+eG/PaZtN1MFOa4s=
+
+Name: org/eclipse/update/internal/configurator/ConfigurationParser.jav
+ a
+SHA1-Digest: hi+AIMpiuGoEFw0H7QrsEh7X49U=
+
+Name: org/eclipse/update/internal/configurator/FeatureParser.java
+SHA1-Digest: TxiLWeREsOCGOP8sK3Thuru7yCI=
+
+Name: org/eclipse/update/internal/configurator/UpdateURLDecoder.java
+SHA1-Digest: 8kVYDgcnQ7ATgOV7sSP+4iF0JUA=
+
+Name: org/eclipse/update/internal/configurator/XMLPrintHandler.java
+SHA1-Digest: L9I2GDTphvILwqEv2XNhvx91Skg=
+
+Name: org/eclipse/update/internal/configurator/Utils.java
+SHA1-Digest: P73IEIYbC7vzjDppQwODLdZd0e0=
+
+Name: org/eclipse/update/internal/configurator/SitePolicy.java
+SHA1-Digest: RytEih5a+smZEqBXiD8TLpRIwko=
+

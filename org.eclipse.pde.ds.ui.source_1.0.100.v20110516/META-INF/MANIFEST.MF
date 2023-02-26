@@ -1,0 +1,166 @@
+Manifest-Version: 1.0
+Eclipse-SourceBundle: org.eclipse.pde.ds.ui;version="1.0.100.v20110516
+ ";roots:="."
+Bundle-Vendor: %providerName
+Bundle-Localization: plugin
+Bundle-Name: %pluginName
+Bundle-SymbolicName: org.eclipse.pde.ds.ui.source
+Bundle-Version: 1.0.100.v20110516
+Bundle-ManifestVersion: 2
+
+Name: org/eclipse/pde/internal/ds/ui/editor/dialogs/DSEditReferenceDia
+ log.java
+SHA1-Digest: GItSFg9mprhByF++gi6iSnbP9dE=
+
+Name: org/eclipse/pde/internal/ds/ui/wizards/DSFileWizardPage.java
+SHA1-Digest: T4HzfCyCDOsYJzDmFidkUW7V6OA=
+
+Name: org/eclipse/pde/internal/ds/ui/editor/sections/DSPropertiesSecti
+ on.java
+SHA1-Digest: j1BKx/H61PKucH1guf5eMlA3bP0=
+
+Name: org/eclipse/pde/internal/ds/ui/Messages.java
+SHA1-Digest: KhjK++S1oYYS2y+8oraYcK9BHtE=
+
+Name: org/eclipse/pde/internal/ds/ui/parts/IFormEntryListener.java
+SHA1-Digest: L8r/aDraWQsoPG5l9SFMJqZli+Q=
+
+Name: org/eclipse/pde/internal/ds/ui/editor/sections/DSReferenceSectio
+ n.java
+SHA1-Digest: bipgdcetAVlj+ZBEyMOHlmcea8I=
+
+Name: org/eclipse/pde/internal/ds/ui/parts/FormEntry.java
+SHA1-Digest: kRh71Oj4i8jNcPZACaOywBXGFGI=
+
+Name: plugin.properties
+SHA1-Digest: NaECzCwN7eFuWEB2xvF5Tw6+MzY=
+
+Name: org/eclipse/pde/internal/ds/ui/editor/DSServicesPage.java
+SHA1-Digest: 6EmNNqP6Rj8eUbqmEnGXFhYKoS0=
+
+Name: org/eclipse/pde/internal/ds/ui/editor/dialogs/DSEditPropertyDial
+ og.java
+SHA1-Digest: 0WG+o5zv2qBM4SCrD1RgKDZt1Q0=
+
+Name: org/eclipse/pde/internal/ds/ui/editor/DSOverviewPage.java
+SHA1-Digest: iQAi2kmwgXKlR5ZX03wHS88z32Y=
+
+Name: org/eclipse/pde/internal/ds/ui/editor/DSInputContext.java
+SHA1-Digest: kSlz688cKnEr1vdsvW6PVrRDY/E=
+
+Name: org/eclipse/pde/internal/ds/ui/editor/DSTextHover.java
+SHA1-Digest: IreQZsPDiXHaZl91mowvRVpIc7U=
+
+Name: org/eclipse/pde/internal/ds/ui/wizards/DSNewWizard.java
+SHA1-Digest: /7DJwbvX2tsyKHeHyiSp3EQijTY=
+
+Name: org/eclipse/pde/internal/ds/ui/editor/DSEditorContributor.java
+SHA1-Digest: 4kbeQK3F3nVyj00fJqsrBUqPYGU=
+
+Name: org/eclipse/pde/internal/ds/ui/Activator.java
+SHA1-Digest: CJFrJJMVmQK3N9mxIMKTnVsXr2o=
+
+Name: org/eclipse/pde/internal/ds/ui/editor/DSFormOutlinePage.java
+SHA1-Digest: 5wOJ959Hk6yUtFgTjorHbEg5tvI=
+
+Name: org/eclipse/pde/internal/ds/ui/wizards/DSCreationOperation.java
+SHA1-Digest: uTJP4kGgSzbFJ4IcIqOYo5iSIEE=
+
+Name: org/eclipse/pde/internal/ds/ui/parts/ComboPart.java
+SHA1-Digest: habQZ8TBoQ5yaFoljqQ9TxH0OuE=
+
+Name: org/eclipse/pde/internal/ds/ui/SWTUtil.java
+SHA1-Digest: O+lUVvd97IfC/fV1ezCQ+IQdegQ=
+
+Name: org/eclipse/pde/internal/ds/ui/editor/FormLayoutFactory.java
+SHA1-Digest: tBxRwjUgHpO718+klMz6+U1UCQY=
+
+Name: org/eclipse/pde/internal/ds/ui/editor/DSInputContextManager.java
+SHA1-Digest: z0tKUJ6n0a/JR4srv2F/lV3/Zjw=
+
+Name: org/eclipse/pde/internal/ds/ui/editor/contentassist/DSContentAss
+ istProcessor.java
+SHA1-Digest: 9Dgj/SKpWYdrMYKxcQ+h6RdTjPk=
+
+Name: org/eclipse/pde/internal/ds/ui/editor/sections/DSOptionsSection.
+ java
+SHA1-Digest: ZYqkmNW8E/Btiw7qyvrnkxAeGsk=
+
+Name: org/eclipse/pde/internal/ds/ui/editor/contentassist/DSCompletion
+ Proposal.java
+SHA1-Digest: hk2hOJKg5+/qH48AOsAPV9Qi7h4=
+
+Name: org/eclipse/pde/internal/ds/ui/editor/DSLabelProvider.java
+SHA1-Digest: qy5X6SOK5oU/y6ihEOQ4A93zUI4=
+
+Name: org/eclipse/pde/internal/ds/ui/editor/sections/DSProvideSection.
+ java
+SHA1-Digest: HlPhzFPr/z/GC3A2HDX2TL780W0=
+
+Name: org/eclipse/pde/internal/ds/ui/editor/contentassist/DSContentAss
+ istText.java
+SHA1-Digest: cPSdd8RxqR6yNjatEzW1Rh4yObs=
+
+Name: META-INF/eclipse.inf
+SHA1-Digest: KyT9FF7C7t86NoBoa2kZT3ZJBfw=
+
+Name: org/eclipse/pde/internal/ds/ui/editor/FormEntryAdapter.java
+SHA1-Digest: HC3vxSR59Jsmp4pztXQW8aOnudI=
+
+Name: org/eclipse/pde/internal/ds/ui/editor/dialogs/DSEditProvideDialo
+ g.java
+SHA1-Digest: ENOqmj5y2LxAQaj3Ux9+GotBIW0=
+
+Name: about.html
+SHA1-Digest: ejOZra0kypGLQQ2bJtGTX+LI8tU=
+
+Name: org/eclipse/pde/internal/ds/ui/editor/DSEditor.java
+SHA1-Digest: gJL9uYIdusEXDarFqfAX72WGCcg=
+
+Name: org/eclipse/pde/internal/ds/ui/IConstants.java
+SHA1-Digest: WQwomtiBtEns3dizzRQS/aNAuuA=
+
+Name: org/eclipse/pde/internal/ds/ui/editor/DSTypeSelectionExtension.j
+ ava
+SHA1-Digest: FSTa77TuQ9DySpjBQJL1lAKBr/0=
+
+Name: org/eclipse/pde/internal/ds/ui/editor/contentassist/DSAttrComple
+ tionProposal.java
+SHA1-Digest: IH5GuSqIc+QpvWzs47AUXSi3m6A=
+
+Name: org/eclipse/pde/internal/ds/ui/editor/DSSourcePage.java
+SHA1-Digest: 4JY3eygA3L7IBD8ingF0KEvLspc=
+
+Name: org/eclipse/pde/internal/ds/ui/editor/dialogs/DSEditPropertiesDi
+ alog.java
+SHA1-Digest: S80PKH1VirihTve8I6y0emzM2eM=
+
+Name: org/eclipse/pde/internal/ds/ui/editor/contentassist/TypePackageC
+ ompletionProcessor.java
+SHA1-Digest: oSyMksLYZpkm5IfYHZ3EugE4PGc=
+
+Name: org/eclipse/pde/internal/ds/ui/editor/contentassist/TypeCompleti
+ onProposal.java
+SHA1-Digest: ulbRylmSZkx19U+jSbnFm3Jn0DU=
+
+Name: org/eclipse/pde/internal/ds/ui/SharedImages.java
+SHA1-Digest: Z0/+WU9BVYCg+Q/xedtBDe5niKg=
+
+Name: org/eclipse/pde/internal/ds/ui/editor/DSHyperlinkDetector.java
+SHA1-Digest: gJHYhW+u1JZwPC/cSOSOPBWIrAo=
+
+Name: org/eclipse/pde/internal/ds/ui/editor/DSContentProvider.java
+SHA1-Digest: DNkzRDVep+5OtS0aM9KLZm5ShQo=
+
+Name: org/eclipse/pde/internal/ds/ui/wizards/DSNewClassCreationWizard.
+ java
+SHA1-Digest: DLxnk3hLQtH+c9ze4KJXGIQKy6s=
+
+Name: org/eclipse/pde/internal/ds/ui/editor/DSSourceViewerConfiguratio
+ n.java
+SHA1-Digest: IjEiIDE+UvXmES/uy2csRDJOdHk=
+
+Name: org/eclipse/pde/internal/ds/ui/editor/sections/DSComponentSectio
+ n.java
+SHA1-Digest: NeCWGxnth9hk+bP4MLDpdBIGupc=
+

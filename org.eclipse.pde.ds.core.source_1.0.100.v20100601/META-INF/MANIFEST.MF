@@ -1,0 +1,109 @@
+Manifest-Version: 1.0
+Eclipse-SourceBundle: org.eclipse.pde.ds.core;version="1.0.100.v201006
+ 01";roots:="."
+Bundle-Vendor: %providerName
+Bundle-Localization: plugin
+Bundle-Name: %pluginName
+Bundle-SymbolicName: org.eclipse.pde.ds.core.source
+Bundle-Version: 1.0.100.v20100601
+Bundle-ManifestVersion: 2
+
+Name: org/eclipse/pde/internal/ds/core/text/DSDocumentFactory.java
+SHA1-Digest: lm7aftaP92Wom4ogHfh4g6EiUpk=
+
+Name: org/eclipse/pde/internal/ds/core/text/DSDocumentHandler.java
+SHA1-Digest: ldkXyoKVWCJUMeIecBAXM9mcmMU=
+
+Name: org/eclipse/pde/internal/ds/core/text/DSModel.java
+SHA1-Digest: YR+92GVvsMu+CDo7G5NxMUTaVQk=
+
+Name: org/eclipse/pde/internal/ds/core/IDSConstants.java
+SHA1-Digest: deXwlktF+EkKIihjShfeaVOoCtA=
+
+Name: org/eclipse/pde/internal/ds/core/IDSReference.java
+SHA1-Digest: luXe0v9PSpEyWy1hU6wokKecSR4=
+
+Name: plugin.properties
+SHA1-Digest: qQDat0ZWzCcNN2tcJ7VnYTIrbSs=
+
+Name: org/eclipse/pde/internal/ds/core/text/DSProvide.java
+SHA1-Digest: RHt+XNOLxt6X2uMlHoyx9LWo07g=
+
+Name: org/eclipse/pde/internal/ds/core/Messages.java
+SHA1-Digest: /eG++tW6QgnS/fiqOadySgZ+hFg=
+
+Name: org/eclipse/pde/internal/ds/core/IDSProperty.java
+SHA1-Digest: VAtNxLS2V/oGdJOTTytr+7UWjHQ=
+
+Name: org/eclipse/pde/internal/ds/core/IDSImplementation.java
+SHA1-Digest: 3U321W05aa+Kl/vCX8Dz94VMnP4=
+
+Name: org/eclipse/pde/internal/ds/core/builders/XMLErrorReporter.java
+SHA1-Digest: 58lRtd98LH20rSd++bTahZz1n6g=
+
+Name: org/eclipse/pde/internal/ds/core/IDSComponent.java
+SHA1-Digest: 2OdMnutMV5oHEOlMed2dCwdpyPk=
+
+Name: org/eclipse/pde/internal/ds/core/text/DSProperty.java
+SHA1-Digest: bbzP6wOgIYabE8pAvY9LjKgPFBU=
+
+Name: org/eclipse/pde/internal/ds/core/text/DSImplementation.java
+SHA1-Digest: BMRpEn2nCEzV20FTH5jOtW6SLQA=
+
+Name: org/eclipse/pde/internal/ds/core/IDSService.java
+SHA1-Digest: DhYJyT7+4xU+73W3O7/xFOW09Do=
+
+Name: org/eclipse/pde/internal/ds/core/builders/DefaultSAXParser.java
+SHA1-Digest: Uc1MvthP2E6pfEXDWFoBPv5PO/w=
+
+Name: META-INF/eclipse.inf
+SHA1-Digest: KyT9FF7C7t86NoBoa2kZT3ZJBfw=
+
+Name: org/eclipse/pde/internal/ds/core/text/DSReference.java
+SHA1-Digest: DriN+xP0tqv7/TdagV3rMDpkaX0=
+
+Name: org/eclipse/pde/internal/ds/core/IDSDocumentFactory.java
+SHA1-Digest: TflzeJPDvZh2vg4VacwtbjjTauc=
+
+Name: org/eclipse/pde/internal/ds/core/IDSObject.java
+SHA1-Digest: vA8nmYZJ62DaYqFyx3m7JU5YFl0=
+
+Name: org/eclipse/pde/internal/ds/core/builders/DSBuilder.java
+SHA1-Digest: nhQXHPO2raZfBSQIBh8rJzyReeo=
+
+Name: org/eclipse/pde/internal/ds/core/builders/DSJavaHelper.java
+SHA1-Digest: Ccs38BUN/+6iTrgytJ8zevheVIw=
+
+Name: org/eclipse/pde/internal/ds/core/Activator.java
+SHA1-Digest: SSbv2370rkreYcXKLh9dRf6rnrU=
+
+Name: about.html
+SHA1-Digest: ejOZra0kypGLQQ2bJtGTX+LI8tU=
+
+Name: org/eclipse/pde/internal/ds/core/IDSModel.java
+SHA1-Digest: ugdyMzTPjtgb+UKe5chIrlUP8Q0=
+
+Name: org/eclipse/pde/internal/ds/core/text/DSObject.java
+SHA1-Digest: kaMRztWNKpwR1yGQe9cskm6wqj0=
+
+Name: org/eclipse/pde/internal/ds/core/text/DSComponent.java
+SHA1-Digest: f7jcTtDvrDxgEiFvwmP91UfxsZ0=
+
+Name: org/eclipse/pde/internal/ds/core/builders/DSMarkerFactory.java
+SHA1-Digest: DFx6ZTg1x/z5Bc0tQ3UWIum+XaY=
+
+Name: org/eclipse/pde/internal/ds/core/IDSProvide.java
+SHA1-Digest: 9PiVeSpjHQ3otIY/H4zy6dRYWSI=
+
+Name: org/eclipse/pde/internal/ds/core/IDSProperties.java
+SHA1-Digest: 7zNkSjQ8MfmzeFtiQOU2HYiA3gQ=
+
+Name: org/eclipse/pde/internal/ds/core/text/DSService.java
+SHA1-Digest: pb7UkuR4MXDI9ZwZl9TkC1ME6VM=
+
+Name: org/eclipse/pde/internal/ds/core/builders/DSErrorReporter.java
+SHA1-Digest: IA3lqSMxHHE6ZBlXIvFWDI+coec=
+
+Name: org/eclipse/pde/internal/ds/core/text/DSProperties.java
+SHA1-Digest: sHEUdTvVIwwXKvZJqw/ndXGj7nw=
+

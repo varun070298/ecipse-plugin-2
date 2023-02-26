@@ -1,0 +1,472 @@
+Signature-Version: 1.0
+SHA1-Digest-Manifest: yehlonsWzuqmlI7+WruZs2YgmEg=
+Created-By: 1.6.0 (IBM Corporation)
+SHA1-Digest-Manifest-Main-Attributes: lRPbFcgr2ieBBCxmR+VoP9IaMeo=
+
+Name: org/eclipse/ui/internal/cheatsheets/actions/CheatSheetMenu.java
+SHA1-Digest: sovIn6FyTIMNaZbXY62lBOszNY4=
+
+Name: org/eclipse/ui/internal/cheatsheets/CheatSheetStopWatch.java
+SHA1-Digest: jCvsQskBUHUSsRAuMqKFIZ0lH7c=
+
+Name: org/eclipse/ui/internal/cheatsheets/data/IParserTags.java
+SHA1-Digest: PJ1Xqn0FG9V+2qj1+0Vbc4TPozM=
+
+Name: org/eclipse/ui/internal/cheatsheets/composite/model/TaskDependen
+ cies.java
+SHA1-Digest: 0SqRVPVLKxycV2BQ/tR9zsrThts=
+
+Name: org/eclipse/ui/internal/cheatsheets/views/CheatSheetManager.java
+SHA1-Digest: 1MmEj+Hbk5mvt0ERnspa1jNOqNM=
+
+Name: org/eclipse/ui/internal/cheatsheets/state/DefaultStateManager.ja
+ va
+SHA1-Digest: Fb9GJjXCLF0vzCHO7u6AtI1RbJA=
+
+Name: org/eclipse/ui/internal/cheatsheets/registry/CheatSheetRegistryR
+ eader.java
+SHA1-Digest: j5VXhvstpCdgBRon/BOp5xWjn4o=
+
+Name: org/eclipse/ui/internal/cheatsheets/composite/parser/EditableTas
+ kParseStrategy.java
+SHA1-Digest: MjNgLcKxbnS+SBQNZ+WNlyZOvd0=
+
+Name: org/eclipse/ui/internal/cheatsheets/data/RepeatedSubItem.java
+SHA1-Digest: HCgEivy2t/p5jOEXpsfGRlyEMTg=
+
+Name: org/eclipse/ui/internal/cheatsheets/state/MementoStateManager.ja
+ va
+SHA1-Digest: OpxRRoscraaYbx8vVOFxSUprUIg=
+
+Name: org/eclipse/ui/internal/cheatsheets/views/CoreItem.java
+SHA1-Digest: hu5/1vpZ33kPLsjhrKXeINtmW7s=
+
+Name: org/eclipse/ui/internal/provisional/cheatsheets/TaskExplorer.jav
+ a
+SHA1-Digest: URT2fM7BEx15Jtrw5c8H3vHcP6M=
+
+Name: org/eclipse/ui/internal/cheatsheets/state/TrayStateManager.java
+SHA1-Digest: qLJvFCxTAVNKSMh/S8KInp3wPe4=
+
+Name: org/eclipse/ui/cheatsheets/AbstractItemExtensionElement.java
+SHA1-Digest: +RwnLr9exX0l3OcE4OTjHj4pEAI=
+
+Name: org/eclipse/ui/internal/cheatsheets/data/ICheatSheet.java
+SHA1-Digest: 0t8VLu4eCzKJV0AfNiFSXXLlDho=
+
+Name: org/eclipse/ui/internal/cheatsheets/composite/views/TaskEditorMa
+ nager.java
+SHA1-Digest: QvRQ6rlB1heZW0+NwjKeqngdHNQ=
+
+Name: org/eclipse/ui/internal/cheatsheets/data/IActionItem.java
+SHA1-Digest: pAQDWhPqqHxcb/jnvBjS8e2jglw=
+
+Name: org/eclipse/ui/internal/cheatsheets/registry/Category.java
+SHA1-Digest: j24b6yD53g9JJB0cE8m5zPxYqgI=
+
+Name: org/eclipse/ui/internal/cheatsheets/handlers/OpenMessageDialogHa
+ ndler.java
+SHA1-Digest: mwtaXIH2Yp45tqWQ4tqVzoJokvs=
+
+Name: org/eclipse/ui/internal/cheatsheets/composite/model/TaskChoiceCo
+ mpletionStrategy.java
+SHA1-Digest: yDfbDBjWQ/RFXXS5fg1GCGneLV8=
+
+Name: org/eclipse/ui/cheatsheets/ICheatSheetEvent.java
+SHA1-Digest: QCh0M6R4ki0BaoYddu+MfZORVk0=
+
+Name: schema/cheatSheetContentFileSpec.exsd
+SHA1-Digest: Ge5V5c2uAViV5Rto64BfroU80MY=
+
+Name: schema/compositeContentFile.html
+SHA1-Digest: v7/c0ob/umIyJ+RzGLgNPTs2X/M=
+
+Name: org/eclipse/ui/internal/provisional/cheatsheets/TaskEditor.java
+SHA1-Digest: 35hxyoJBCRxgNrivgX/PmLBBlNg=
+
+Name: org/eclipse/ui/internal/cheatsheets/handlers/DialogIntegerValueC
+ onverter.java
+SHA1-Digest: 2oJmMy/GHeKMa9AlvfTzz91derw=
+
+Name: org/eclipse/ui/internal/cheatsheets/composite/model/EditableTask
+ .java
+SHA1-Digest: hOgMaHH/VKc1VAGonjwvxteQzjo=
+
+Name: org/eclipse/ui/internal/cheatsheets/data/PerformWhen.java
+SHA1-Digest: PE6Acn3mDoNir6UhB2/SipswVi0=
+
+Name: org/eclipse/ui/internal/cheatsheets/data/ParserStatusUtility.jav
+ a
+SHA1-Digest: 1G2/3exrymXeOwT+3vd42/fpW5E=
+
+Name: org/eclipse/ui/cheatsheets/CheatSheetExtensionFactory.java
+SHA1-Digest: S7Oqk79HpfX1yan4nGmdrmQx2Pk=
+
+Name: org/eclipse/ui/internal/cheatsheets/composite/model/AbstractTask
+ .java
+SHA1-Digest: 1GZGbKQIBNCMWIScYqiPM+JT00U=
+
+Name: org/eclipse/ui/internal/cheatsheets/actions/CheatSheetHelpMenuAc
+ tion.java
+SHA1-Digest: hPOs6qppnxvVbcERC602Rr+FJrg=
+
+Name: org/eclipse/ui/internal/cheatsheets/state/ICheatSheetStateManage
+ r.java
+SHA1-Digest: KwANsxhOiDIn/qwm7SQwlMqrSBE=
+
+Name: org/eclipse/ui/internal/cheatsheets/data/AbstractExecutable.java
+SHA1-Digest: +wrmeufnS47GIXkfar5576FOIa0=
+
+Name: org/eclipse/ui/internal/cheatsheets/composite/parser/MarkupParse
+ r.java
+SHA1-Digest: WHgZPopVooaejmt2/x3Yg0bQw9Q=
+
+Name: schema/cheatSheetContent.exsd
+SHA1-Digest: qq5CkYZ8utPgTlTsc59xnsMkYyg=
+
+Name: org/eclipse/ui/internal/cheatsheets/ActionRunner.java
+SHA1-Digest: cizxZngLjXi/EKsaFXGLQHDLZag=
+
+Name: org/eclipse/ui/internal/cheatsheets/CheatSheetHistory.java
+SHA1-Digest: VW2hX4bymtlP8GJtsCNpY9wuBv4=
+
+Name: org/eclipse/ui/internal/cheatsheets/composite/explorer/OverlayIc
+ on.java
+SHA1-Digest: ZualwTygs3LnepCa6EZZWW7VqNQ=
+
+Name: org/eclipse/ui/internal/cheatsheets/views/SubItemCompositeHolder
+ .java
+SHA1-Digest: No834jnWgRB7JmjJW3EBOT7mivU=
+
+Name: org/eclipse/ui/internal/provisional/cheatsheets/ITaskGroup.java
+SHA1-Digest: Vrx+YhO6ZoXJsdqCLiik8rzTcFg=
+
+Name: org/eclipse/ui/internal/cheatsheets/CheatSheetPlugin.java
+SHA1-Digest: pwbHbYPn9dV9UbGrCqPohmipke4=
+
+Name: org/eclipse/ui/internal/provisional/cheatsheets/IEditableTask.ja
+ va
+SHA1-Digest: gSfZFFSXw5PlJb9F0DktU3ptRwc=
+
+Name: org/eclipse/ui/internal/cheatsheets/registry/CheatSheetElement.j
+ ava
+SHA1-Digest: UJIDWZqSJ+sZA98A9A/GudPtcrU=
+
+Name: org/eclipse/ui/internal/cheatsheets/views/CheatSheetPage.java
+SHA1-Digest: X9Ay3U+7fBWEh0oE++yUqR42rQI=
+
+Name: org/eclipse/ui/internal/cheatsheets/data/CheatSheetCommand.java
+SHA1-Digest: UUZ4DK6Lxedu53uauddBzb22Vsg=
+
+Name: org/eclipse/ui/internal/cheatsheets/data/Item.java
+SHA1-Digest: FatReqVTBvqZnNQROaghUfvEPR0=
+
+Name: org/eclipse/ui/internal/cheatsheets/composite/explorer/StartActi
+ on.java
+SHA1-Digest: IG5JcHa/h7be7SVbRfSkqIhbZsU=
+
+Name: org/eclipse/ui/internal/cheatsheets/data/CheatSheetParser.java
+SHA1-Digest: yVcjHnkmSeicb9Mx0E5sAF6ynBE=
+
+Name: org/eclipse/ui/internal/cheatsheets/actions/CheatSheetCategoryBa
+ sedSelectionAction.java
+SHA1-Digest: 5f176VybjlY/p5oQ8k0rO60ArdQ=
+
+Name: org/eclipse/ui/cheatsheets/ICheatSheetAction.java
+SHA1-Digest: Q41vPZSDgwAiBIEZ27E+QCIsheU=
+
+Name: org/eclipse/ui/internal/cheatsheets/composite/model/TaskGroup.ja
+ va
+SHA1-Digest: L0SILhjLuCzjLv72BA+1N/eZux4=
+
+Name: org/eclipse/ui/internal/cheatsheets/composite/model/BlockedTaskF
+ inder.java
+SHA1-Digest: ccWSxdavSQqHckUn7QjNKQTAO50=
+
+Name: org/eclipse/ui/internal/cheatsheets/composite/explorer/TreeExplo
+ rerMenu.java
+SHA1-Digest: RJyEDGmk6jyiLTZ1aPsNrLhU888=
+
+Name: org/eclipse/ui/internal/cheatsheets/views/CheatSheetViewer.java
+SHA1-Digest: 7JsKfwk/wNU1RFRIoOZvglfFfLY=
+
+Name: org/eclipse/ui/internal/cheatsheets/composite/explorer/TreeLabel
+ Provider.java
+SHA1-Digest: 9+eKcgAx7eMZ5maT5YIVberlhiA=
+
+Name: org/eclipse/ui/internal/cheatsheets/composite/parser/ITaskParseS
+ trategy.java
+SHA1-Digest: 0U7MUl9ztxCZRqTS3fxSCxyis9c=
+
+Name: org/eclipse/ui/internal/cheatsheets/CheatsheetSearchParticipant.
+ java
+SHA1-Digest: U3Nu3SKCDGEZ3aBZrPSL3i2yTQw=
+
+Name: org/eclipse/ui/internal/cheatsheets/views/CheatSheetExpandRestor
+ eAction.java
+SHA1-Digest: 8EbaZwfRv2R38wNkQadPPuoSyAA=
+
+Name: org/eclipse/ui/internal/cheatsheets/registry/Sorter.java
+SHA1-Digest: o4H4SIhmVSHMFs5ce3Cr36B4nxw=
+
+Name: org/eclipse/ui/internal/cheatsheets/state/NoSaveStateManager.jav
+ a
+SHA1-Digest: w41VwxsLlsoxWhRVHEm7t5B6yF4=
+
+Name: org/eclipse/ui/internal/cheatsheets/CommandRunner.java
+SHA1-Digest: NQhh3n4ojc0icK7yvZvG8gnrrMw=
+
+Name: org/eclipse/ui/cheatsheets/OpenCheatSheetFromHelpAction.java
+SHA1-Digest: mjRgGNroqi1dfamcMAb9K0bEvw0=
+
+Name: org/eclipse/ui/internal/cheatsheets/handlers/OpenCheatSheetURLHa
+ ndler.java
+SHA1-Digest: ewLdmdK7+chZ9NKxQgh+ZQPn6xg=
+
+Name: about.html
+SHA1-Digest: M+fykt9heyWoEv1LNiIEeBhi/2Q=
+
+Name: org/eclipse/ui/internal/cheatsheets/views/StringDelimitedTokeniz
+ er.java
+SHA1-Digest: xrxuQ9+pp1cZsCtyVZxCXF7kiX4=
+
+Name: org/eclipse/ui/internal/cheatsheets/views/Page.java
+SHA1-Digest: UAlZ7Ez6g5YIKxVM258xyOGVcyk=
+
+Name: org/eclipse/ui/internal/cheatsheets/data/SubItem.java
+SHA1-Digest: bNWJKpYWXsu6sJDGW+lvX9+t0mg=
+
+Name: org/eclipse/ui/internal/cheatsheets/registry/CheatSheetParameter
+ Values.java
+SHA1-Digest: wifFCuag8r2P81j7FdpCzUsHIBI=
+
+Name: org/eclipse/ui/cheatsheets/OpenCheatSheetAction.java
+SHA1-Digest: IEIhvpBFlFsa5EWn35B4+RI6TNY=
+
+Name: org/eclipse/ui/cheatsheets/CheatSheetViewerFactory.java
+SHA1-Digest: 6h71RaElPTnWui/vxFIfUo1JlwE=
+
+Name: org/eclipse/ui/internal/cheatsheets/registry/CheatSheetItemExten
+ sionElement.java
+SHA1-Digest: 9pNQQEOsEDjGx1vWCi/8M9YHrM0=
+
+Name: org/eclipse/ui/internal/cheatsheets/composite/views/CheatsheetTa
+ skEditor.java
+SHA1-Digest: HscPfgN2tKxRv97kYO29rGud/Cc=
+
+Name: org/eclipse/ui/internal/cheatsheets/composite/explorer/TreeTaskE
+ xplorer.java
+SHA1-Digest: abJsWf3rGx3DL5FVZ6zxwu1L0aQ=
+
+Name: org/eclipse/ui/internal/cheatsheets/data/ParserInput.java
+SHA1-Digest: zGK1aLB+2iYnrNduScBmk7osvJg=
+
+Name: org/eclipse/ui/internal/cheatsheets/actions/IMenuContributor.jav
+ a
+SHA1-Digest: zZB61IzIbh/EmKBc3ITuO9Ng8FU=
+
+Name: org/eclipse/ui/internal/cheatsheets/data/IExecutableItem.java
+SHA1-Digest: YIlGCM/ltZA+TAsIC+9bzb6BOdo=
+
+Name: org/eclipse/ui/internal/cheatsheets/composite/explorer/AbstractO
+ verlayIcon.java
+SHA1-Digest: ofpPt55hNCER+ETrgUJxk79VUbk=
+
+Name: org/eclipse/ui/internal/cheatsheets/ICheatSheetResource.java
+SHA1-Digest: eL9YTR5M3bsSjGTV5d6SM4WDuXA=
+
+Name: schema/cheatSheetContentFileSpec.html
+SHA1-Digest: JnS1oZK/mrgZei+wEWg35vooYEE=
+
+Name: org/eclipse/ui/internal/cheatsheets/data/IncompatibleSiblingChec
+ ker.java
+SHA1-Digest: f69EDr59vVB1cuwj3ZcFlpjg3yw=
+
+Name: org/eclipse/ui/internal/cheatsheets/composite/model/SuccesorTask
+ Finder.java
+SHA1-Digest: ofLOny+Y/Mu0ygF/EI8+gb+Fbgw=
+
+Name: org/eclipse/ui/internal/cheatsheets/composite/model/CompositeChe
+ atSheetModel.java
+SHA1-Digest: tdv4++w8JBNtIyl0mLhYnzHxLic=
+
+Name: org/eclipse/ui/internal/cheatsheets/handlers/OpenInputDialogHand
+ ler.java
+SHA1-Digest: eeYzOyCmHRQn7U+nRsJ7bqkRoV4=
+
+Name: org/eclipse/ui/internal/cheatsheets/views/CheatSheetHelpPart.jav
+ a
+SHA1-Digest: iJod/mAU98wMfLnUDrh+9KllTvA=
+
+Name: schema/cheatSheetItemExtension.exsd
+SHA1-Digest: ZfbM2L17rb4WzqEdZpI7VpVFlxo=
+
+Name: org/eclipse/ui/internal/provisional/cheatsheets/ICompositeCheatS
+ heetTask.java
+SHA1-Digest: A3gq2GbUTY3BOJnvJ0dxJPvNu8s=
+
+Name: org/eclipse/ui/internal/cheatsheets/data/ISubItemItem.java
+SHA1-Digest: hITRZiVGDmQ9NpOCpH837Io/lb4=
+
+Name: META-INF/eclipse.inf
+SHA1-Digest: SAqY+5ITAL0mkdYeijlSRhyIaZk=
+
+Name: org/eclipse/ui/internal/cheatsheets/composite/model/TaskSetCompl
+ etionStrategy.java
+SHA1-Digest: scATZTyv4bBndkBw1VFVM/FiE8Y=
+
+Name: org/eclipse/ui/internal/provisional/cheatsheets/ICompositeCheatS
+ heet.java
+SHA1-Digest: HQq6FdbTwUrTIWOQ5mUYCq4GTtU=
+
+Name: org/eclipse/ui/internal/cheatsheets/views/NoopAction.java
+SHA1-Digest: KGYtMjGhP/dBxCotBqoN/aENVqk=
+
+Name: org/eclipse/ui/cheatsheets/ICheatSheetManager.java
+SHA1-Digest: zqoh7WGkcy8djn2s/CtvDm56+qI=
+
+Name: org/eclipse/ui/internal/cheatsheets/actions/CheatSheetMenuAction
+ .java
+SHA1-Digest: D8aOsypkWen86GzsZTIv6BxIQqk=
+
+Name: org/eclipse/ui/internal/cheatsheets/composite/views/DescriptionP
+ anel.java
+SHA1-Digest: potmyP7XSBy4FZBYeN6YKBvX2xU=
+
+Name: org/eclipse/ui/internal/cheatsheets/dialogs/CheatSheetCategoryBa
+ sedSelectionDialog.java
+SHA1-Digest: HdGQyqfUvIsht+Ehw7Su9lKlIUw=
+
+Name: org/eclipse/ui/internal/cheatsheets/data/AbstractSubItem.java
+SHA1-Digest: tjC8o7IC3zREcl5iK1Ljpca3J34=
+
+Name: org/eclipse/ui/internal/cheatsheets/Messages.java
+SHA1-Digest: R/GblnrKzWtL6xL5XDbwlP5DRdY=
+
+Name: org/eclipse/ui/internal/cheatsheets/composite/model/CompositeChe
+ atSheetSaveHelper.java
+SHA1-Digest: oI+a/cU/9qYK9IIkkjVcKG3zuOc=
+
+Name: org/eclipse/ui/internal/cheatsheets/composite/parser/CompositeCh
+ eatSheetParser.java
+SHA1-Digest: sEdsDqhc6x0uqsdsBtjQnpVOmkM=
+
+Name: schema/compositeContentFile.exsd
+SHA1-Digest: qANa2KvbZM4DbzvtkXlNYt0+9TE=
+
+Name: org/eclipse/ui/internal/cheatsheets/composite/parser/ICompositeC
+ heatsheetTags.java
+SHA1-Digest: eibIRa+ruqGkuzX9oAmbU2PloZg=
+
+Name: org/eclipse/ui/internal/cheatsheets/data/CheatSheetParserExcepti
+ on.java
+SHA1-Digest: 7pOYUVTU7GkZY7Sp6lQyL9dhwc8=
+
+Name: org/eclipse/ui/internal/cheatsheets/views/ViewItem.java
+SHA1-Digest: apjKaV1/ydjIFosRAvm+Ez402t8=
+
+Name: org/eclipse/ui/internal/cheatsheets/data/Action.java
+SHA1-Digest: E4/wA0V0fuQV5fWH3Y9ulf0U02k=
+
+Name: org/eclipse/ui/internal/cheatsheets/composite/views/CompositeChe
+ atSheetPage.java
+SHA1-Digest: 2/MdXKXeqDE4XhK1C+9IzLwAWuw=
+
+Name: org/eclipse/ui/internal/cheatsheets/views/ErrorPage.java
+SHA1-Digest: hmOC9eWheueMlpHPvXeJSmH7FbE=
+
+Name: org/eclipse/ui/internal/cheatsheets/composite/parser/TaskGroupPa
+ rseStrategy.java
+SHA1-Digest: YM/MyJURyAmfUrLSkiWB2Eja8EE=
+
+Name: plugin.properties
+SHA1-Digest: rzFE1ZLjp2nSXRdsFZT5/Vh/U38=
+
+Name: org/eclipse/ui/internal/cheatsheets/data/ConditionalSubItem.java
+SHA1-Digest: /shGCZZ6PUfce/fJipGDKRDL70k=
+
+Name: org/eclipse/ui/internal/cheatsheets/data/Intro.java
+SHA1-Digest: wmR8RiBU9qCrypuwgNXzqJ+7pns=
+
+Name: org/eclipse/ui/internal/cheatsheets/data/IPerformWhenItem.java
+SHA1-Digest: cb4Ix63Djuw70q8rNZy7Qe0wY1o=
+
+Name: org/eclipse/ui/internal/cheatsheets/CheatSheetEvaluationContext.
+ java
+SHA1-Digest: U6mrpHlhFH6koHd/S83meWPv1H4=
+
+Name: org/eclipse/ui/internal/cheatsheets/views/ViewUtilities.java
+SHA1-Digest: 7qYIoga57OrSpLslbwKFK+/ZAdI=
+
+Name: org/eclipse/ui/cheatsheets/CheatSheetListener.java
+SHA1-Digest: oqyKPDZ2RY6Br3Rv9xmsqxD6YBc=
+
+Name: org/eclipse/ui/internal/cheatsheets/composite/views/TaskExplorer
+ Manager.java
+SHA1-Digest: mWk+dKvZGpdY1dz6vQxGUn7iviE=
+
+Name: org/eclipse/ui/internal/cheatsheets/actions/OpenPerspective.java
+SHA1-Digest: cNz55tFV43bNe6p9vh3wdcqlbz0=
+
+Name: org/eclipse/ui/internal/cheatsheets/composite/explorer/ConfirmRe
+ startDialog.java
+SHA1-Digest: edXd7QCTOb1S6fEtGVD14FwfVJw=
+
+Name: org/eclipse/ui/internal/cheatsheets/views/IntroItem.java
+SHA1-Digest: 4Q+nOUV4YDGJm9eg6evsDj/odSM=
+
+Name: org/eclipse/ui/internal/cheatsheets/composite/explorer/SkipActio
+ n.java
+SHA1-Digest: TpeX46C/VD9QMUjFuPsTqbxjLRY=
+
+Name: org/eclipse/ui/internal/cheatsheets/data/CheatSheetSaveHelper.ja
+ va
+SHA1-Digest: D2I/cDueU2h55E/wDpalQEbOgXM=
+
+Name: org/eclipse/ui/internal/cheatsheets/views/CheatSheetView.java
+SHA1-Digest: QFiN2121a7M3bgjll3/TSMAh2H4=
+
+Name: org/eclipse/ui/internal/cheatsheets/handlers/OpenCheatSheetHandl
+ er.java
+SHA1-Digest: az9IGdctlv7po4NVQaFDTpjEmdY=
+
+Name: org/eclipse/ui/internal/cheatsheets/registry/RegistryReader.java
+SHA1-Digest: tNSgEYi72WCaj4IQ7vq9CmkHfAU=
+
+Name: org/eclipse/ui/internal/cheatsheets/data/CheatSheet.java
+SHA1-Digest: F3R4geBwW+CpqA2GfsP5EOmMPy4=
+
+Name: org/eclipse/ui/internal/cheatsheets/composite/model/TaskStateUti
+ lities.java
+SHA1-Digest: 6q7kHmQhsK4edQnsqh+ipFWXwLY=
+
+Name: org/eclipse/ui/internal/cheatsheets/composite/explorer/RestartAl
+ lAction.java
+SHA1-Digest: pbhxiG3Tsq78/6RRqIYpvSjl8Rs=
+
+Name: org/eclipse/ui/internal/cheatsheets/composite/parser/IStatusCont
+ ainer.java
+SHA1-Digest: UVlVbVP7soVzUWVoRUVjMbsiaF0=
+
+Name: org/eclipse/ui/internal/cheatsheets/views/CheatSheetEvent.java
+SHA1-Digest: XYJou5oAt05lH8EvHJIfozeRTQU=
+
+Name: org/eclipse/ui/cheatsheets/ICheatSheetViewer.java
+SHA1-Digest: 3wjFUdpaGrbTR50R8r045qqmNv4=
+
+Name: org/eclipse/ui/internal/cheatsheets/composite/explorer/TreeConte
+ ntProvider.java
+SHA1-Digest: cPeUEGtyBEW+kSeIx1ofBc5/VKQ=
+
+Name: org/eclipse/ui/internal/cheatsheets/registry/CheatSheetCollectio
+ nSorter.java
+SHA1-Digest: VNZDuSN9022WxKH1xku0F2q0kb0=
+
+Name: org/eclipse/ui/internal/cheatsheets/composite/explorer/ResetTask
+ Action.java
+SHA1-Digest: P0cq/PWMeKlEs0+/20BAAE+GjXU=
+
+Name: org/eclipse/ui/internal/cheatsheets/registry/CheatSheetCollectio
+ nElement.java
+SHA1-Digest: Gr6dzrBglFSfq/59WT0gXiNh45Y=
+

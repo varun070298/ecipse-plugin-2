@@ -1,0 +1,38 @@
+Manifest-Version: 1.0
+Eclipse-PlatformFilter: (osgi.os=win32)
+Eclipse-SourceBundle: org.eclipse.update.core.win32;version="3.2.200.v
+ 20100512"
+Bundle-Vendor: %providerName
+Bundle-Localization: plugin
+Bundle-Name: %fragmentNameWin
+Bundle-SymbolicName: org.eclipse.update.core.win32.source
+Bundle-Version: 3.2.200.v20100512
+Bundle-ManifestVersion: 2
+
+Name: src/make.bat
+SHA1-Digest: K/uVHpl83S6iQ/o+ErZDzgvwdks=
+
+Name: src/make_ia64.bat
+SHA1-Digest: uSICC+3fUaBBdwxdlQfuDyxn//0=
+
+Name: META-INF/eclipse.inf
+SHA1-Digest: KyT9FF7C7t86NoBoa2kZT3ZJBfw=
+
+Name: src/update.cpp
+SHA1-Digest: rb9Ey/maTU66VrXbaPx48S/uv2k=
+
+Name: src/setup.bat
+SHA1-Digest: mnd/mgPWOSqCknovck1DKNSTsek=
+
+Name: src/build.xml
+SHA1-Digest: ylxNcQZKSwJA8mK2bFpnQ+AI3f0=
+
+Name: about.html
+SHA1-Digest: ejOZra0kypGLQQ2bJtGTX+LI8tU=
+
+Name: src/update.h
+SHA1-Digest: qE0S4te+8up598TMpq/UCqoSoEs=
+
+Name: plugin.properties
+SHA1-Digest: XAA0wjG+Tewo5MigyfhuxXtBkhw=
+

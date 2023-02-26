@@ -1,0 +1,425 @@
+Signature-Version: 1.0
+SHA1-Digest-Manifest: i3uZMvnhWWZnePUyeUO+VzPYJNQ=
+Created-By: 1.6.0 (IBM Corporation)
+SHA1-Digest-Manifest-Main-Attributes: kmkUH40/dFrCj8oTmhlE3uI+R1M=
+
+Name: org/objectweb/asm/xml/SAXClassAdapter.java
+SHA1-Digest: TDw3mvyYPRmMNYt4mG5Q40juRz8=
+
+Name: org/objectweb/asm/tree/IincInsnNode.java
+SHA1-Digest: mwIFNQpZ0qmyS19RWgy2YjHmqtA=
+
+Name: org/objectweb/asm/FieldVisitor.java
+SHA1-Digest: 9+tMvT0PGy3ITGkdXlLeQvyc3gY=
+
+Name: org/objectweb/asm/tree/TableSwitchInsnNode.java
+SHA1-Digest: jZ6y1QolIBgnWtkCRLAnx5+6JEc=
+
+Name: org/objectweb/asm/xml/package.html
+SHA1-Digest: r7x2BLDUUD3gkOpQR7L9dGPE8XI=
+
+Name: org/objectweb/asm/util/Traceable.java
+SHA1-Digest: vnpQZt2nkAQY2k4+2BxdqBUPn2w=
+
+Name: org/objectweb/asm/xml/SAXCodeAdapter.java
+SHA1-Digest: uUHooYrSjh49BMpyiUTz478Ea3A=
+
+Name: org/objectweb/asm/tree/FieldNode.java
+SHA1-Digest: DzukQutdRAyAmfTtjQNCaNnPVzo=
+
+Name: org/objectweb/asm/optimizer/jdk1.2.2_017.txt.gz
+SHA1-Digest: YK3Z1yE0ytGwfHBOfoAniXKMLDk=
+
+Name: org/objectweb/asm/tree/analysis/SimpleVerifier.java
+SHA1-Digest: UwcVDETGxsxzsBSq/8fhxpiGm/8=
+
+Name: org/objectweb/asm/optimizer/AnnotationConstantsCollector.java
+SHA1-Digest: jDA9DKamJWDA/p/rnSpSpuRPzEI=
+
+Name: org/objectweb/asm/commons/JSRInlinerAdapter.java
+SHA1-Digest: qOhcp0MM27IhHldAqM8T7MkujRQ=
+
+Name: org/objectweb/asm/optimizer/shrink-signatures.properties
+SHA1-Digest: oj+tewoUkSLLBl2Qm9p+1HkL8k8=
+
+Name: org/objectweb/asm/util/CheckMethodAdapter.java
+SHA1-Digest: VunCzKkA34Onv6PrcgExO6r8+5E=
+
+Name: org/objectweb/asm/attrs/package.html
+SHA1-Digest: kPQ+7pLDHmeVBYOwuDjH/jqKKfk=
+
+Name: org/objectweb/asm/commons/RemappingClassAdapter.java
+SHA1-Digest: PaBtGIrelHJnnXQ28C3l1J2jA3c=
+
+Name: org/objectweb/asm/util/TraceAnnotationVisitor.java
+SHA1-Digest: MCIvUdzguMFgkSTkhvxiJ9jFDOM=
+
+Name: org/objectweb/asm/tree/analysis/AnalyzerException.java
+SHA1-Digest: tIxsUMPh7AhsPjg8mY3zpGzanVs=
+
+Name: org/objectweb/asm/tree/LookupSwitchInsnNode.java
+SHA1-Digest: rundmgG2emmNDMGDwoaJ40ETPRs=
+
+Name: org/objectweb/asm/commons/RemappingAnnotationAdapter.java
+SHA1-Digest: E0q1aUWf6MDGRpCyODu8vgw1Wgw=
+
+Name: org/objectweb/asm/optimizer/ClassConstantsCollector.java
+SHA1-Digest: hlQkkk8yGuflmxi/to4Lu8wimKU=
+
+Name: org/objectweb/asm/optimizer/MethodOptimizer.java
+SHA1-Digest: 0B3WFJaqV6Rk/dZQhFHN3l/thpw=
+
+Name: org/objectweb/asm/tree/analysis/Subroutine.java
+SHA1-Digest: O5BVKNQ9Gz/smim0hhYgeIblRzg=
+
+Name: org/objectweb/asm/tree/analysis/BasicValue.java
+SHA1-Digest: bwhotAkoBLqFa7jhdvkkzSodtJg=
+
+Name: org/objectweb/asm/util/ASMifierMethodVisitor.java
+SHA1-Digest: ttY82xnRokmnBvpG6qHa7J8KK6o=
+
+Name: about_files/README.txt
+SHA1-Digest: EoFQYNnK62tuXGRlIrWZe0Tk9Lo=
+
+Name: org/objectweb/asm/FieldWriter.java
+SHA1-Digest: DMaqdBHcOQ5twYQAMvLT59vANv0=
+
+Name: org/objectweb/asm/ClassAdapter.java
+SHA1-Digest: D9UumMDLZO0lBMmjq9seyCUYHd8=
+
+Name: org/objectweb/asm/signature/package.html
+SHA1-Digest: WCNh1VyZPS55L6VstUJBPw8Lw1I=
+
+Name: org/objectweb/asm/util/CheckClassAdapter.java
+SHA1-Digest: aZzZyHc8TX5h3FJ9H4X8HA2GWn8=
+
+Name: org/objectweb/asm/optimizer/Shrinker.java
+SHA1-Digest: 5Vnv2fFDDabdSGGKEDU6cma/LuE=
+
+Name: org/objectweb/asm/commons/AnalyzerAdapter.java
+SHA1-Digest: 3t4fOHF+F5I7J5SWGxcWzXNW0zc=
+
+Name: org/objectweb/asm/tree/JumpInsnNode.java
+SHA1-Digest: z31dIvoeub/+6ElMIfovhJZVyOc=
+
+Name: org/objectweb/asm/Attribute.java
+SHA1-Digest: M4bD8mCuTEBcZvJqBjP2JIcFJCk=
+
+Name: org/objectweb/asm/tree/ClassNode.java
+SHA1-Digest: N6q+XAqw8dNeZ0MJdf1ktYKilxY=
+
+Name: org/objectweb/asm/optimizer/shrink-annotations.properties
+SHA1-Digest: Mwxarldrgorakb2CV720SesY/Ms=
+
+Name: org/objectweb/asm/tree/LabelNode.java
+SHA1-Digest: btZ2Dad2LsH6Cm32MmJXcR9LslI=
+
+Name: org/objectweb/asm/commons/package.html
+SHA1-Digest: WbN7UJZnrac2hKwpgIjhX2dDn+s=
+
+Name: org/objectweb/asm/util/TraceMethodVisitor.java
+SHA1-Digest: AXWGnMrwMZGgoT9klZMHtVyr/r4=
+
+Name: org/objectweb/asm/tree/MethodNode.java
+SHA1-Digest: jm9XE6oGdA4j12/BoDLLCzSjTQQ=
+
+Name: org/objectweb/asm/util/AbstractVisitor.java
+SHA1-Digest: Rk1NqtxbgcGgy2aIHIsTW/vUObc=
+
+Name: org/objectweb/asm/tree/LineNumberNode.java
+SHA1-Digest: sm6wIusVkbVYuYDk+rBeOF9KZxM=
+
+Name: about_files/LICENSE.txt
+SHA1-Digest: GE6LpX/B3YmMWn9n4yqCYl+1ji0=
+
+Name: org/objectweb/asm/commons/LocalVariablesSorter.java
+SHA1-Digest: Ias5uzvL2IbZHULS3LJpor79zPY=
+
+Name: org/objectweb/asm/xml/asm-xml.dtd
+SHA1-Digest: EGLiK4oi1U8eS4ZvkxoEEwvjZrk=
+
+Name: org/objectweb/asm/tree/LdcInsnNode.java
+SHA1-Digest: c3BTZAshOnsTKKxLSi3ZGIK0Sog=
+
+Name: org/objectweb/asm/commons/RemappingMethodAdapter.java
+SHA1-Digest: 2FB1cqao5leSkzbbsE6NhUPGmyA=
+
+Name: org/objectweb/asm/MethodWriter.java
+SHA1-Digest: k+BDVk/LPV5WpI3/8K+wE/PqJYs=
+
+Name: org/objectweb/asm/optimizer/JarOptimizer.java
+SHA1-Digest: m6HQhhpdzGZfEkQkSHWAXcELEbc=
+
+Name: org/objectweb/asm/util/CheckAnnotationAdapter.java
+SHA1-Digest: u+bVeNtAwREsmCxqoOoMu/1smo0=
+
+Name: org/objectweb/asm/Item.java
+SHA1-Digest: 12E9A7yyOeA3kjMJ9UMGJttkMvw=
+
+Name: org/objectweb/asm/util/ASMifierFieldVisitor.java
+SHA1-Digest: WbULb6I7BIpnVaw9tg5VRl6nAjg=
+
+Name: org/objectweb/asm/signature/SignatureVisitor.java
+SHA1-Digest: gMmO7k8iKDIbLuTgQEYHV2UPo54=
+
+Name: org/objectweb/asm/util/TraceFieldVisitor.java
+SHA1-Digest: 1Dqq6Wov2BZUjBMCfL7By8HaI/4=
+
+Name: org/objectweb/asm/optimizer/FieldConstantsCollector.java
+SHA1-Digest: JX+vtXNXLa72NpkMxhV8SVLn9rQ=
+
+Name: about.html
+SHA1-Digest: MgRwV8Hwg8W/nULPs16TAo9krvQ=
+
+Name: org/objectweb/asm/tree/analysis/package.html
+SHA1-Digest: InmUJw5pgzQRAOjBh0ORnHLd/gQ=
+
+Name: org/objectweb/asm/commons/EmptyVisitor.java
+SHA1-Digest: LWxMu0RYksxujdLu5b3Fb8f3c4I=
+
+Name: org/objectweb/asm/xml/ASMContentHandler.java
+SHA1-Digest: cTcrtEWCwVuq12l+6oPLcW1z7yw=
+
+Name: org/objectweb/asm/Label.java
+SHA1-Digest: ybgBQ2QiyTxMM+nGMvCniDSQjC4=
+
+Name: org/objectweb/asm/tree/MethodInsnNode.java
+SHA1-Digest: EDZDDYkwcUogEAMoyUnAf1uZuR4=
+
+Name: org/objectweb/asm/tree/MultiANewArrayInsnNode.java
+SHA1-Digest: My8HzcfzsQhp3mQDcE9OzHZnWjA=
+
+Name: org/objectweb/asm/util/ASMifierAbstractVisitor.java
+SHA1-Digest: 1nSuH6p8EYlzkuyuvSvhBnVPTbU=
+
+Name: org/objectweb/asm/tree/analysis/Value.java
+SHA1-Digest: SdDuBIsRZxBrrSoThCINDGcMO1I=
+
+Name: org/objectweb/asm/tree/analysis/SmallSet.java
+SHA1-Digest: S7Wf5CiVYV5Zo60N31M/yegdux8=
+
+Name: org/objectweb/asm/MethodAdapter.java
+SHA1-Digest: WoAaZ1IYzHLhEdFWil8yeP+z6rY=
+
+Name: org/objectweb/asm/commons/Remapper.java
+SHA1-Digest: GSGkC2kmmcaFW+1VOk/K6M98gjA=
+
+Name: org/objectweb/asm/commons/TableSwitchGenerator.java
+SHA1-Digest: S7wXI0pdMV70hZGObvfCvXpZueA=
+
+Name: org/objectweb/asm/ClassVisitor.java
+SHA1-Digest: PVisCtNwcaYZGOpd2U8iaj0DGhU=
+
+Name: org/objectweb/asm/xml/SAXFieldAdapter.java
+SHA1-Digest: fj6615k8URPgTDosxZuZtvqXXBc=
+
+Name: org/objectweb/asm/util/ASMifierAnnotationVisitor.java
+SHA1-Digest: Wr/M7YnRLkwPSMX2xZq5Xw+yHbY=
+
+Name: org/objectweb/asm/util/CheckSignatureAdapter.java
+SHA1-Digest: ACOxkkWrEhE04bdWSysPjAWXLuk=
+
+Name: org/objectweb/asm/optimizer/shrink.properties
+SHA1-Digest: CI5omxnhsy1e5RfZFyPRCQDkbb8=
+
+Name: org/objectweb/asm/xml/SAXAnnotationAdapter.java
+SHA1-Digest: 6vtmBo176JqqgL2n40vgGr8pffs=
+
+Name: org/objectweb/asm/tree/analysis/BasicInterpreter.java
+SHA1-Digest: SjBnYFzh/FtPvHgdJpe1n7l8Bys=
+
+Name: org/objectweb/asm/AnnotationVisitor.java
+SHA1-Digest: 9G9RiaQV808UtouYVGYsRuyp/6c=
+
+Name: org/objectweb/asm/tree/package.html
+SHA1-Digest: li5Q7smz3SYqa7qOwRxGw4vZ8aM=
+
+Name: org/objectweb/asm/package.html
+SHA1-Digest: PHHtGV2j/nKF9rWICCcO0mTCKPc=
+
+Name: org/objectweb/asm/xml/Processor.java
+SHA1-Digest: 9e0aYwA6Cewq3g6OFxh5J4CG8Kc=
+
+Name: org/objectweb/asm/tree/analysis/Analyzer.java
+SHA1-Digest: eJkU+wRTh/90TSr3RXaMCBzljXI=
+
+Name: org/objectweb/asm/tree/InnerClassNode.java
+SHA1-Digest: 8pg2/wxJSS6vfQdZTVSvF/PZKwk=
+
+Name: org/objectweb/asm/commons/TryCatchBlockSorter.java
+SHA1-Digest: TZS5jxDd6/DcYhHVCMMdfNXg0qA=
+
+Name: org/objectweb/asm/commons/AdviceAdapter.java
+SHA1-Digest: Id0LZ7r/7wGJi8Z6moQhITKMnN0=
+
+Name: org/objectweb/asm/Frame.java
+SHA1-Digest: 6jsHiAlug8PMB4iDneLQTyOiXLw=
+
+Name: org/objectweb/asm/Type.java
+SHA1-Digest: Xp6LRr9HNlJHlLQUL1T/uPM3/KM=
+
+Name: org/objectweb/asm/optimizer/ConstantPool.java
+SHA1-Digest: mTgbToz4rD3l5M7wJgAFGtX+das=
+
+Name: org/objectweb/asm/optimizer/MethodConstantsCollector.java
+SHA1-Digest: Xer2L6r25OmkVyXTbBapq7mvuRU=
+
+Name: org/objectweb/asm/Handler.java
+SHA1-Digest: 55OecEoj9A8uOwk4uaSx4dHn/bg=
+
+Name: org/objectweb/asm/tree/LocalVariableNode.java
+SHA1-Digest: mfoHLa8Y6nGOykN14I6R/dJco0U=
+
+Name: org/objectweb/asm/tree/VarInsnNode.java
+SHA1-Digest: ItJJsuGCYSuaTwBXEdVz8j59Shw=
+
+Name: org/objectweb/asm/commons/RemappingFieldAdapter.java
+SHA1-Digest: 885V2P/rbXPXEA9YH+TMs37Qy3M=
+
+Name: org/objectweb/asm/optimizer/NameMapping.java
+SHA1-Digest: E0+TAU5wJmuQrVM6X2lghB3WzZY=
+
+Name: META-INF/eclipse.inf
+SHA1-Digest: SAqY+5ITAL0mkdYeijlSRhyIaZk=
+
+Name: org/objectweb/asm/signature/SignatureReader.java
+SHA1-Digest: J2YASkFyMZBoez3gQDtMudAHOK0=
+
+Name: org/objectweb/asm/util/package.html
+SHA1-Digest: DCavXKJC/j8X1L2DUHvrciOOmf8=
+
+Name: org/objectweb/asm/tree/analysis/BasicVerifier.java
+SHA1-Digest: 4ypbk7pe7zWyDtTeCekQSBxDfNE=
+
+Name: org/objectweb/asm/util/TraceSignatureVisitor.java
+SHA1-Digest: gH12RWxYwo1OQ36WHdeomXo7jOU=
+
+Name: org/objectweb/asm/tree/FieldInsnNode.java
+SHA1-Digest: Od8CTa5FOHmfzdjV89tJ5iy/eX4=
+
+Name: org/objectweb/asm/ClassReader.java
+SHA1-Digest: VPFhnx/6bxdQmo7vsQwMiULp8mg=
+
+Name: org/objectweb/asm/commons/SerialVersionUIDAdder.java
+SHA1-Digest: 8Pr7CtkyiWPa4nQpgdJ3oXgFXgw=
+
+Name: org/objectweb/asm/optimizer/jdk1.3.1_19.txt.gz
+SHA1-Digest: du2F1fACkMv/4tBFQwosWmJ8Lj0=
+
+Name: org/objectweb/asm/commons/GeneratorAdapter.java
+SHA1-Digest: kMgwwlYmQWZcqP4yBFZxgtAC754=
+
+Name: org/objectweb/asm/tree/analysis/SourceValue.java
+SHA1-Digest: t2ZLnZJfNi2MFaw5tK4JuuRkgEw=
+
+Name: org/objectweb/asm/commons/StaticInitMerger.java
+SHA1-Digest: atKNXpyJLROSV4AB1EMMUiFNnMk=
+
+Name: org/objectweb/asm/tree/TryCatchBlockNode.java
+SHA1-Digest: /93757/CZLmlFIxVPnsFSKlUFZQ=
+
+Name: org/objectweb/asm/tree/InsnList.java
+SHA1-Digest: u3qO+1M07MkAG30+DS4vvry5ptE=
+
+Name: org/objectweb/asm/tree/TypeInsnNode.java
+SHA1-Digest: BbJkjEsn6TnnhCiObAVicNRd+Bc=
+
+Name: org/objectweb/asm/tree/MemberNode.java
+SHA1-Digest: bDe6OoTaJHEEj95Wl+zbQXHYeCM=
+
+Name: org/objectweb/asm/MethodVisitor.java
+SHA1-Digest: 07N+gI4pcNmlW0hKC+NxlZLOepM=
+
+Name: org/objectweb/asm/optimizer/ClassOptimizer.java
+SHA1-Digest: fMrzGxrgnHx+ZQgk0uv3sFbAqso=
+
+Name: org/objectweb/asm/tree/AnnotationNode.java
+SHA1-Digest: xrE9kXfeYdP+bMkT34WXwejJUBU=
+
+Name: org/objectweb/asm/util/CheckFieldAdapter.java
+SHA1-Digest: bgBEp/Ef2OlO2TnXAlWiCWOaB4M=
+
+Name: org/objectweb/asm/optimizer/shrink-frames.properties
+SHA1-Digest: zho9MGkT3sS0C6FGOVSqg9pfVpk=
+
+Name: org/objectweb/asm/ByteVector.java
+SHA1-Digest: zqPLDwhYAcG4tUt6AmNygqI4IBI=
+
+Name: org/objectweb/asm/tree/analysis/SourceInterpreter.java
+SHA1-Digest: WlONBkuspb7PaDcKgTQ3C83GxUk=
+
+Name: plugin.properties
+SHA1-Digest: 7c7Bt7KO3FJ7q1wqog38ve+ttBE=
+
+Name: org/objectweb/asm/commons/CodeSizeEvaluator.java
+SHA1-Digest: MS+0rQyQcJRw2fDltjzrKUHnC+Q=
+
+Name: org/objectweb/asm/tree/analysis/Interpreter.java
+SHA1-Digest: Jz2zxyIkmATJCJAX+SCMNUGNWT0=
+
+Name: org/objectweb/asm/util/ASMifiable.java
+SHA1-Digest: 6fgjnLP76kyiql2CZ+3G9/ZgVvc=
+
+Name: org/objectweb/asm/tree/AbstractInsnNode.java
+SHA1-Digest: h1yf32G6mNrxOyI2M3SyCGWxwKg=
+
+Name: org/objectweb/asm/AnnotationWriter.java
+SHA1-Digest: I3ierIZFcI5mFQXBIt9Szdj4L54=
+
+Name: org/objectweb/asm/util/TraceAbstractVisitor.java
+SHA1-Digest: Yx27EtnDmChDQLpIv+7SbznvZaY=
+
+Name: org/objectweb/asm/tree/InsnNode.java
+SHA1-Digest: RTBvEW3kraVIVOTCgTLQnwS8v24=
+
+Name: org/objectweb/asm/tree/IntInsnNode.java
+SHA1-Digest: KV+9jdOuGQh6xmsuEV4pZ/1lFsg=
+
+Name: org/objectweb/asm/optimizer/Constant.java
+SHA1-Digest: UqO+P3G/80aNhh3QpslwRLGX5nY=
+
+Name: org/objectweb/asm/optimizer/shrink-writer.properties
+SHA1-Digest: MyYrxeaYdAPkMOy2vAxdwDpYTmU=
+
+Name: org/objectweb/asm/commons/RemappingSignatureAdapter.java
+SHA1-Digest: 7TNVquVqPFHTX4s8VE3o3lk9VlE=
+
+Name: org/objectweb/asm/Opcodes.java
+SHA1-Digest: bFgPIMMEo42vG/rU8FdT0uiVd90=
+
+Name: org/objectweb/asm/util/ASMifierClassVisitor.java
+SHA1-Digest: nGi/6jFZrmZKcyeifiF5Nl65zBY=
+
+Name: org/objectweb/asm/util/TraceClassVisitor.java
+SHA1-Digest: YXvYD0kGyD35PHPQThknihfSA5s=
+
+Name: org/objectweb/asm/commons/SimpleRemapper.java
+SHA1-Digest: +SzRI/s+8Zk77JYdxe7E0QSabYM=
+
+Name: org/objectweb/asm/commons/InstructionAdapter.java
+SHA1-Digest: jRMwqgd82QlKq2RbfK2v7uW84yM=
+
+Name: org/objectweb/asm/commons/Method.java
+SHA1-Digest: OXp+vFoBlOLyWbd4YkpL4lzso+A=
+
+Name: org/objectweb/asm/signature/SignatureWriter.java
+SHA1-Digest: xtFFssZ4fz1d9pIHF02Kvfz2GJk=
+
+Name: org/objectweb/asm/tree/FrameNode.java
+SHA1-Digest: SIWNyW2adYrRmSyJ+R1a5+6vm+Q=
+
+Name: org/objectweb/asm/Edge.java
+SHA1-Digest: 3m1I+5rxyzhhyDuyR0jI0DWgu7Y=
+
+Name: org/objectweb/asm/xml/SAXAdapter.java
+SHA1-Digest: lNAZTDSbF9mMy3nUyrwF+3MOqvU=
+
+Name: org/objectweb/asm/optimizer/shrink-resize.properties
+SHA1-Digest: owbnacPU71JqEj319tOxOAkUzAA=
+
+Name: org/objectweb/asm/ClassWriter.java
+SHA1-Digest: ZBBfn7Cum+Qrkv4wiZpUHI5esd0=
+
+Name: org/objectweb/asm/tree/analysis/Frame.java
+SHA1-Digest: 729ujS/esGcGCNyVXMGrvUY+tyg=
+

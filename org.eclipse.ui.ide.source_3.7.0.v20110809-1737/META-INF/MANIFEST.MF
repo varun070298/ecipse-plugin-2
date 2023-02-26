@@ -1,0 +1,1859 @@
+Manifest-Version: 1.0
+Eclipse-SourceBundle: org.eclipse.ui.ide;version="3.7.0.v20110809-1737
+ ";roots:="."
+Bundle-Vendor: %Plugin.providerName
+Bundle-Localization: plugin
+Bundle-Name: %Plugin.name
+Bundle-SymbolicName: org.eclipse.ui.ide.source
+Bundle-Version: 3.7.0.v20110809-1737
+Bundle-ManifestVersion: 2
+
+Name: org/eclipse/ui/internal/views/markers/MarkerPropertyTester.java
+SHA1-Digest: iAxhLJCK5br41f/bRJUgCYhmGQo=
+
+Name: org/eclipse/ui/internal/views/markers/TodoFiltersContributionPar
+ ameters.java
+SHA1-Digest: BXwarqVZrMftQxRDeYApqZD3/I0=
+
+Name: org/eclipse/ui/views/navigator/LocalSelectionTransfer.java
+SHA1-Digest: kzXpmOPRP0Zw1qT0B8SNmh6ZPrA=
+
+Name: org/eclipse/ui/views/markers/internal/DialogMarkerProperties.jav
+ a
+SHA1-Digest: T35MG3qd5EsKaHYVZ0olE5l21Bw=
+
+Name: org/eclipse/ui/internal/ide/dialogs/IFileStoreFilter.java
+SHA1-Digest: yAniqLrN8N4GZvbvUBxx8v8+GIs=
+
+Name: org/eclipse/ui/internal/views/markers/MarkerSupportItem.java
+SHA1-Digest: ilrmURQXpWjKb0g35SrzKOfcJ8E=
+
+Name: org/eclipse/ui/internal/ide/registry/ProjectImageRegistryReader.
+ java
+SHA1-Digest: n/dCfF8QiDG0mUO75xc0NIFkRtg=
+
+Name: org/eclipse/ui/views/markers/internal/FieldMessage.java
+SHA1-Digest: Aj6PHmezODKwZCzkJpDWVO56Ypo=
+
+Name: org/eclipse/ui/internal/ide/model/WorkbenchStatus.java
+SHA1-Digest: rfLLJKTTiAu/bSBVNSd5igGh/d8=
+
+Name: org/eclipse/ui/views/navigator/ResourceSorter.java
+SHA1-Digest: +trVRv7euL64wwgUdZFghfL8a/s=
+
+Name: org/eclipse/ui/views/navigator/WorkspaceActionGroup.java
+SHA1-Digest: jMTJfb/kkI+f8ckX6VnrbTWVnFU=
+
+Name: org/eclipse/ui/internal/ide/misc/OverlayIcon.java
+SHA1-Digest: 0wPRg/aEyV9CGDeJ3e7EYx0Xuqc=
+
+Name: org/eclipse/ui/views/markers/internal/MarkerGroup.java
+SHA1-Digest: K8TL0t0qgncbaIwV282XpMHZsyM=
+
+Name: org/eclipse/ui/internal/views/tasklist/TaskListMessages.java
+SHA1-Digest: x9wszay17vqjFwr3otAUDdv8FdY=
+
+Name: org/eclipse/ui/views/tasklist/IMarkerConstants.java
+SHA1-Digest: uW932PeLAwqYPkbjehUxBu/Zr7A=
+
+Name: org/eclipse/ui/internal/ide/actions/ProjectPropertyDialogAction.
+ java
+SHA1-Digest: +tuJ5FxzZ30us9aKHT1e4i0JbHM=
+
+Name: org/eclipse/ui/actions/BuildAction.java
+SHA1-Digest: d/YHSTODfLloXOHZ+xmEmH0ZILg=
+
+Name: org/eclipse/ui/internal/wizards/datatransfer/DataTransferMessage
+ s.java
+SHA1-Digest: AreJiOm91GCTWFoeQjT/jHfTJZQ=
+
+Name: org/eclipse/ui/ide/undo/CreateMarkersOperation.java
+SHA1-Digest: FY5LLWo0Hd56gbNE09OrSv7s79s=
+
+Name: org/eclipse/ui/internal/views/markers/AddTaskHandler.java
+SHA1-Digest: 1fTFlqr1gKCqgNHJhgCPxwd+OS0=
+
+Name: org/eclipse/ui/views/markers/internal/FilterEnablementAction.jav
+ a
+SHA1-Digest: HVdvmIgIWze+JJA8ARezmBTrdv8=
+
+Name: org/eclipse/ui/internal/views/markers/QuickFixHandler.java
+SHA1-Digest: zmEYxoyyU9ADGMUtwqJ6HOu/jVw=
+
+Name: org/eclipse/ui/internal/ide/dialogs/RelativePathVariableGroup.ja
+ va
+SHA1-Digest: Ldtp9iWRmEKhye9uQ5fRSkQyDu0=
+
+Name: org/eclipse/ui/internal/wizards/datatransfer/ILeveledImportStruc
+ tureProvider.java
+SHA1-Digest: ISMW5dx6p4QLq6VrB6mT0jtAn4g=
+
+Name: org/eclipse/ui/dialogs/ResourceSelectionDialog.java
+SHA1-Digest: oYbspWbDFCem1cgEdNwk4DEEle4=
+
+Name: org/eclipse/ui/dialogs/WizardExportPage.java
+SHA1-Digest: vnyOpqVA9Z2OCKmDNOGAoTPyJKo=
+
+Name: org/eclipse/ui/views/navigator/SortAndFilterActionGroup.java
+SHA1-Digest: RO843aUpR6XDemD6B16sZ7d3ItI=
+
+Name: org/eclipse/ui/internal/ide/dialogs/IDEPerspectivesPreferencePag
+ e.java
+SHA1-Digest: 9mhnRJkWZf4tShx4hf42mLi3Sy0=
+
+Name: org/eclipse/ui/internal/ide/dialogs/ResourceComparator.java
+SHA1-Digest: ViVrv7BIdjOJtC9feanPERWEEV4=
+
+Name: org/eclipse/ui/internal/wizards/datatransfer/WizardFileSystemRes
+ ourceImportPage1.java
+SHA1-Digest: BSIRSRw8JXZeERPaioFNM7o6M4k=
+
+Name: org/eclipse/ui/internal/views/markers/SeverityAndDescriptionFiel
+ dFilter.java
+SHA1-Digest: a0JTalr7kYofr+76KYTm2nxufkg=
+
+Name: org/eclipse/ui/views/markers/internal/IFilter.java
+SHA1-Digest: et6um5wG/LJHm4Bvs3HmD2ehP3g=
+
+Name: org/eclipse/ui/ide/undo/AbstractMarkersOperation.java
+SHA1-Digest: Vfax6l9p/4bTQ1uiANZPf4/a7hc=
+
+Name: org/eclipse/ui/views/navigator/ToggleLinkingAction.java
+SHA1-Digest: dPqIGjIu7GmVX4FNKXdP+BWY0GE=
+
+Name: org/eclipse/ui/dialogs/ContainerSelectionDialog.java
+SHA1-Digest: uIPuhY0QdmMB0t3bNWo8GMW7574=
+
+Name: org/eclipse/ui/views/framelist/UpAction.java
+SHA1-Digest: 19undFrrf1AKoWI9/vLNwf99UZk=
+
+Name: org/eclipse/ui/internal/ide/undo/WorkspaceUndoMonitor.java
+SHA1-Digest: HJHT/h9dZjLlZKeA2cWjjm2yuSE=
+
+Name: org/eclipse/ui/views/markers/internal/MarkerLabelProvider.java
+SHA1-Digest: XePfcI6/Yxt/oRuZ2aoSs1mDfq0=
+
+Name: org/eclipse/ui/views/markers/internal/DialogProblemProperties.ja
+ va
+SHA1-Digest: joi9NCd7BTrHdJtJWBwH3hSG3oA=
+
+Name: org/eclipse/ui/ide/undo/AbstractWorkspaceOperation.java
+SHA1-Digest: 0IAnbCkr9VYl4WQgSE59HhbiMAQ=
+
+Name: org/eclipse/ui/internal/views/markers/TypesConfigurationArea.jav
+ a
+SHA1-Digest: E3O6b/VCwBHmZG6KbdwZfFrtF1w=
+
+Name: org/eclipse/ui/internal/views/markers/MarkerLocationField.java
+SHA1-Digest: kr+cE24+AZbXrBdtt9b83t258vI=
+
+Name: org/eclipse/ui/internal/views/markers/DescriptionConfigurationAr
+ ea.java
+SHA1-Digest: rCxbBC5pxg5939e5cLFoi6LKhQQ=
+
+Name: org/eclipse/ui/internal/ide/model/ResourceFactory.java
+SHA1-Digest: cIDUBKL7eLkNeqCf/F0QZ/ml2hE=
+
+Name: org/eclipse/ui/internal/views/markers/IncrementUpdateJob.java
+SHA1-Digest: ZQnJcHcbifFFUTMFsvnRc+zQYVk=
+
+Name: org/eclipse/ui/views/navigator/ResourceComparator.java
+SHA1-Digest: ogb4VKmdteS3Ia0i4uUkORgEjfQ=
+
+Name: org/eclipse/ui/views/markers/internal/TableViewLabelProvider.jav
+ a
+SHA1-Digest: tVdp2sE6p7agN3G+APTuj4nIt94=
+
+Name: org/eclipse/ui/views/tasklist/TasksFilter.java
+SHA1-Digest: SBMN2C4NxQ/DOyLWIDOQkOEJVrY=
+
+Name: org/eclipse/ui/views/markers/internal/TableView.java
+SHA1-Digest: VlSu2qlDnHTQ/Hnid2z1NvM1WQA=
+
+Name: org/eclipse/ui/internal/ide/dialogs/InternalErrorDialog.java
+SHA1-Digest: 79mvpnYa8vM/pp1i8pr9l+PcjnA=
+
+Name: org/eclipse/ui/internal/wizards/datatransfer/TarLeveledStructure
+ Provider.java
+SHA1-Digest: 2dp4SOeX9byBoaFJv/rhllVcQe0=
+
+Name: org/eclipse/ui/internal/ide/dialogs/PathVariableDialog.java
+SHA1-Digest: dU3V612p+BR2qOp8S0+VanZS2eE=
+
+Name: org/eclipse/ui/actions/NewExampleAction.java
+SHA1-Digest: 3NuXAOK1F6OiHUlq9erDInj4TbE=
+
+Name: org/eclipse/ui/dialogs/WizardResourceImportPage.java
+SHA1-Digest: txPLEzAoNnJ3cb1eDFB8slB0k+w=
+
+Name: org/eclipse/ui/internal/wizards/datatransfer/TarEntry.java
+SHA1-Digest: 2X7Kl2o8B4bo/VykQiJI0X7l2Ho=
+
+Name: org/eclipse/ui/views/markers/internal/FieldResource.java
+SHA1-Digest: 7eYado2t6QpCp9OTui4qYaXJ/h4=
+
+Name: org/eclipse/ui/views/markers/internal/FieldCreationTime.java
+SHA1-Digest: bQH3r5hXV4HCOy5C0JCHomT6514=
+
+Name: org/eclipse/ui/views/tasklist/TaskPropertiesAction.java
+SHA1-Digest: Gx2HI6/+QBa5FoFZ/JRjYjxk2no=
+
+Name: org/eclipse/ui/wizards/newresource/BasicNewProjectResourceWizard
+ .java
+SHA1-Digest: i7On/C/bG2g1WV3SpD1+C9F/MVk=
+
+Name: org/eclipse/ui/actions/NewWizardMenu.java
+SHA1-Digest: yE/bSpOPlPbuoXhEODa+c474oZQ=
+
+Name: org/eclipse/ui/ide/IContributorResourceAdapter2.java
+SHA1-Digest: zflfzNaICdmuF3wFjm7rOlK1SzE=
+
+Name: org/eclipse/ui/actions/MoveResourceAction.java
+SHA1-Digest: 4MwY1FAiWfj18RRxpYYIPFUXNjc=
+
+Name: org/eclipse/ui/internal/ide/dialogs/WelcomeEditorInput.java
+SHA1-Digest: Ty/j/yTul/YwgaWMfCqQnKwt0XI=
+
+Name: org/eclipse/ui/views/framelist/IFrameSource.java
+SHA1-Digest: O3hbO4exNDUkm+MIOzTTftRDcsc=
+
+Name: org/eclipse/ui/internal/views/markers/MarkerResourceUtil.java
+SHA1-Digest: PWFY0dHD146xxhrgym+nvM5UIDE=
+
+Name: org/eclipse/ui/internal/views/markers/AllMarkersSeverityAndDescr
+ iptionConfigurationArea.java
+SHA1-Digest: VXIuP+WFNkQc13Q1gzdu2uryY94=
+
+Name: org/eclipse/ui/internal/ide/ResourceFilterDecorator.java
+SHA1-Digest: grW0MIOzvOlk8hmuuXcAgjKKOn8=
+
+Name: org/eclipse/ui/views/markers/internal/MarkerFilter.java
+SHA1-Digest: jj/Odb9DXCBUSJ4gJLti0CC7neI=
+
+Name: org/eclipse/ui/views/markers/internal/MarkerSelectionProviderAda
+ pter.java
+SHA1-Digest: cnEDhAhuKssZoQSTdvesxkKhwiA=
+
+Name: org/eclipse/ui/internal/views/markers/UIUpdateJob.java
+SHA1-Digest: kSSCpXjcmtD0lHJEsN+gM+gFsbU=
+
+Name: org/eclipse/ui/views/markers/internal/IItemsChangedListener.java
+SHA1-Digest: 3bAThUZUHqGTMFJ7z5UnWdBPeIM=
+
+Name: org/eclipse/ui/views/markers/internal/TaskView.java
+SHA1-Digest: BaLs7SY7pmKmVr0VWQHZxlAuTCY=
+
+Name: org/eclipse/ui/ide/undo/MoveProjectOperation.java
+SHA1-Digest: dPXpS2MZVcN1wH9FedN8CimfBuU=
+
+Name: org/eclipse/ui/internal/wizards/datatransfer/IFileExporter.java
+SHA1-Digest: KOcYCQfYykh4DD/mJuVBQkxECFI=
+
+Name: org/eclipse/ui/dialogs/WizardDataTransferPage.java
+SHA1-Digest: E3T/rGS/KVIArU0y9O032zejCL8=
+
+Name: org/eclipse/ui/internal/ide/registry/MarkerHelpRegistry.java
+SHA1-Digest: KYN6SlH/dsRlEOhnonDmuDfZoWM=
+
+Name: org/eclipse/ui/internal/ide/ChooseWorkspaceData.java
+SHA1-Digest: YCQRQLrXGW64gf1rr/mIdtd+aHk=
+
+Name: org/eclipse/ui/internal/ide/actions/BuildSetMenu.java
+SHA1-Digest: rClX8JcH6/RIHrichyi2UlQoooY=
+
+Name: org/eclipse/ui/views/markers/internal/DialogTaskProperties.java
+SHA1-Digest: dEwgeTk5ogG8XOhypQ1SMY9v1MI=
+
+Name: org/eclipse/ui/internal/ide/StringMatcher.java
+SHA1-Digest: 05HDGmf0sPb+9x07Wy2uFcK/u4g=
+
+Name: org/eclipse/ui/internal/ide/VirtualResourceDecorator.java
+SHA1-Digest: 4/xzYJGIjsbT9IM7LKno7OPONw0=
+
+Name: org/eclipse/ui/internal/views/markers/ErrorsWarningsParameters.j
+ ava
+SHA1-Digest: fR8mdUJXmwSw+m3Ylq8lhzpQ9uU=
+
+Name: org/eclipse/ui/dialogs/FileSelectionDialog.java
+SHA1-Digest: hJdsENpaTkb+5GnJVOrMZIOF1TU=
+
+Name: org/eclipse/ui/views/markers/internal/FieldPriority.java
+SHA1-Digest: JGuRBopPXf5vPj3NqIQEMZNUFRQ=
+
+Name: org/eclipse/ui/internal/ide/misc/AndFileInfoMatcher.java
+SHA1-Digest: Jo+fx1VA8In+gmFBKsEkhKLCxRI=
+
+Name: org/eclipse/ui/views/tasklist/TaskPropertiesDialog.java
+SHA1-Digest: fCH5Lu6PzrYELKdvCwDl7xqVQ6s=
+
+Name: org/eclipse/ui/internal/ide/actions/LTKLauncher.java
+SHA1-Digest: bCJdcTafRA9tpjYtgvVNxpmYjRY=
+
+Name: org/eclipse/ui/dialogs/MarkerResolutionSelectionDialog.java
+SHA1-Digest: Ixebc0rR+jVuOsEPlwFMpmOmSg0=
+
+Name: org/eclipse/ui/views/markers/internal/MarkerResolutionDialog.jav
+ a
+SHA1-Digest: zMY+09WDzXEQa2+VtR0BnIC3J90=
+
+Name: org/eclipse/ui/views/bookmarkexplorer/BookmarkAction.java
+SHA1-Digest: NGPxEYrsBBw/8CT2Ed0D1voWZNw=
+
+Name: org/eclipse/ui/views/tasklist/ResolveMarkerAction.java
+SHA1-Digest: NNzyPFKG4+t/GXYnARbTN3qivWY=
+
+Name: org/eclipse/ui/ide/dialogs/ImportTypeDialog.java
+SHA1-Digest: UmJHR4caWGcHzbyD0AFtgwOPq4I=
+
+Name: org/eclipse/ui/internal/ide/dialogs/ProjectReferencePage.java
+SHA1-Digest: fMJndYaEJhGjdCEZW9SCoVPfQ7U=
+
+Name: org/eclipse/ui/internal/views/markers/MarkerCreationTimeField.ja
+ va
+SHA1-Digest: giB6OL7P26eZjvnYDkNBtWwbg/U=
+
+Name: org/eclipse/ui/internal/wizards/datatransfer/TarException.java
+SHA1-Digest: 7e+Z0qvxa9QKfqpwZ+xrXtc++Vc=
+
+Name: schema/markerResolution.exsd
+SHA1-Digest: O1X7KfwoA/wCpWA4h4OGaqmhaaw=
+
+Name: schema/markerImageProviders.exsd
+SHA1-Digest: hnpf2Ek9G/UZ1oIQ6rm2/jafzSw=
+
+Name: org/eclipse/ui/actions/TextActionHandler.java
+SHA1-Digest: wb8xh+GqP8ZzxbnyzmmF18IVwIU=
+
+Name: org/eclipse/ui/part/FileEditorInput.java
+SHA1-Digest: IrS20bdQ01Gr7QvmoDIKVbQIyGY=
+
+Name: org/eclipse/ui/internal/ide/dialogs/ResourceFilterEditDialog.jav
+ a
+SHA1-Digest: ecKUvnACELW2dHT4M4+UIjUM6XI=
+
+Name: org/eclipse/ui/internal/views/markers/SortFieldContribution.java
+SHA1-Digest: q4dq/fRW46v9b0MeDgBR7O8ZUCk=
+
+Name: org/eclipse/ui/views/navigator/NavigatorDropAdapter.java
+SHA1-Digest: MUK3YdmGYLTetG447ZQV9GGHfI4=
+
+Name: org/eclipse/ui/IMarkerActionFilter.java
+SHA1-Digest: FDFLi5I2cfsk0xXy/pgN2JCHNYM=
+
+Name: org/eclipse/ui/internal/views/markers/MarkerFieldFilterGroup.jav
+ a
+SHA1-Digest: RQioUiVNg0yiU6zfZVAIBXn8sKM=
+
+Name: org/eclipse/ui/views/navigator/GotoActionGroup.java
+SHA1-Digest: N6H7MEGgax/fmpqWPd736nj5G8w=
+
+Name: org/eclipse/ui/actions/QuickStartAction.java
+SHA1-Digest: tTig9grtpDBb+TLratTuWMI42MU=
+
+Name: org/eclipse/ui/actions/MoveProjectAction.java
+SHA1-Digest: o+b3tAztA9LHYsnoVz6uq8yJgOA=
+
+Name: org/eclipse/ui/internal/ide/model/WorkbenchMarker.java
+SHA1-Digest: k02mkHGUQo7mU+TzFWLpwzoeSZw=
+
+Name: org/eclipse/ui/internal/ide/ResourceDragAndDropEditor.java
+SHA1-Digest: KhEEK1MJmAwNuXmYhMEGfaGatZM=
+
+Name: org/eclipse/ui/views/markers/MarkerViewUtil.java
+SHA1-Digest: f5hVCgPtww0OjSsTok40HwKEsvM=
+
+Name: org/eclipse/ui/internal/ide/dialogs/ResourceInfoPage.java
+SHA1-Digest: TpMAIDyK62zz8ABpAzkK/cqxhYk=
+
+Name: org/eclipse/ui/internal/ide/actions/BuildUtilities.java
+SHA1-Digest: IITI7SIjmWeS2W/3n3ztTEN9FqY=
+
+Name: org/eclipse/ui/dialogs/ProjectLocationMoveDialog.java
+SHA1-Digest: zIhCJISJwMKZFbiD32W0uy3g5/g=
+
+Name: org/eclipse/ui/ide/IGotoMarker.java
+SHA1-Digest: 6p4lhomgYw/xw4o/ZkIoJoyanSE=
+
+Name: org/eclipse/ui/views/tasklist/ITaskListResourceAdapter.java
+SHA1-Digest: 8Pw1lzU4BRnmDZVqF6v2TDhmrQ4=
+
+Name: org/eclipse/ui/internal/views/markers/QuickFixPage.java
+SHA1-Digest: LkaLeSYrD3ymTCvYn65WxFoCMvQ=
+
+Name: org/eclipse/ui/dialogs/WizardNewFileCreationPage.java
+SHA1-Digest: bCHgewi4eCHIDjXP7tuQii/G9KU=
+
+Name: org/eclipse/ui/internal/ide/LineDelimiterEditor.java
+SHA1-Digest: yLW9m1wgsZLnSK7df5mvQk6kiXI=
+
+Name: org/eclipse/ui/internal/views/bookmarkexplorer/BookmarkMessages.
+ java
+SHA1-Digest: sGOHZ51ofEIJeUvnApjAEZSPjps=
+
+Name: org/eclipse/ui/internal/views/markers/FiltersContribution.java
+SHA1-Digest: YmKy5VAztaULzwOYBe7bbov62Dg=
+
+Name: org/eclipse/ui/internal/ide/dialogs/LinkedResourceEditor.java
+SHA1-Digest: tyKa6Aw+Qde1l0VUrZL4UhuZTLI=
+
+Name: org/eclipse/ui/internal/ide/model/WorkbenchAdapterFactory.java
+SHA1-Digest: xI4mTtoeee6JbhZ/3Y1g2Xatgdg=
+
+Name: org/eclipse/ui/views/tasklist/SelectAllTasksAction.java
+SHA1-Digest: 5pOY9Q2WGlo9z17ypLq7WcXpTy8=
+
+Name: org/eclipse/ui/wizards/datatransfer/IImportStructureProvider.jav
+ a
+SHA1-Digest: RInhPQeJaIbVp+UMrafJH4nGJ4E=
+
+Name: org/eclipse/ui/views/navigator/IResourceNavigator.java
+SHA1-Digest: VN5QePzX5EWxdVzpVNcwmrHuCCE=
+
+Name: org/eclipse/ui/views/markers/internal/ActionTaskProperties.java
+SHA1-Digest: APb71frEeSifn/Sd7M1iMOkFHBM=
+
+Name: org/eclipse/ui/views/tasklist/DefaultTaskListResourceAdapter.jav
+ a
+SHA1-Digest: 7oIna0/Mu65m9Up3kpHS8ajLXdQ=
+
+Name: org/eclipse/ui/internal/ide/actions/RetargetActionWithDefault.ja
+ va
+SHA1-Digest: RelbyR7jOGpf11x5tWCkRXdrcHI=
+
+Name: org/eclipse/ui/dialogs/ResourceListSelectionDialog.java
+SHA1-Digest: 8w+d7+enb8SGOmBV29t/e1N0hiM=
+
+Name: org/eclipse/ui/views/navigator/INavigatorHelpContextIds.java
+SHA1-Digest: mJ/ytjlvAwq63v7L0C/dKg8DqiU=
+
+Name: org/eclipse/ui/internal/ide/model/WorkbenchAdapterBuilder.java
+SHA1-Digest: Sp8pP43K/b2wT2/NvCMu4CdTJ8w=
+
+Name: org/eclipse/ui/views/tasklist/MarkCompletedAction.java
+SHA1-Digest: CyKbkyza6F9Xqhupg4M2rm9RGYI=
+
+Name: org/eclipse/ui/views/markers/internal/MarkerNode.java
+SHA1-Digest: ss5Msze7V1fgkPEtcx8K6LRbZRg=
+
+Name: org/eclipse/ui/internal/views/markers/GroupFilterConfigurationAr
+ ea.java
+SHA1-Digest: MLyUGNVr+vLoCqxAnn5BHM4c88g=
+
+Name: org/eclipse/ui/views/markers/MarkerItem.java
+SHA1-Digest: /ef1yo5enxl4beaHpf0uFdRQe1w=
+
+Name: org/eclipse/ui/views/navigator/ResourceNavigator.java
+SHA1-Digest: ZH+ezjqv65W8CbxWyQxrJpS88HA=
+
+Name: org/eclipse/ui/views/navigator/PasteAction.java
+SHA1-Digest: k45kim5I7qpIA9mdsmyvoDoWynE=
+
+Name: org/eclipse/ui/internal/views/markers/MarkerCompletionField.java
+SHA1-Digest: ERZkpfYU+HB4/4/QEKvPaC1UZJ8=
+
+Name: org/eclipse/ui/internal/wizards/datatransfer/WizardProjectsImpor
+ tPage.java
+SHA1-Digest: ymOE+XuW4Nit4BBSOj1vbsU7rQs=
+
+Name: org/eclipse/ui/internal/wizards/datatransfer/IDataTransferHelpCo
+ ntextIds.java
+SHA1-Digest: Tl9fGltwhPgWCCwIVJsiy6h1GkQ=
+
+Name: org/eclipse/ui/internal/views/markers/AllMarkersView.java
+SHA1-Digest: bAFjE/KkQXlz/eu4+ImjSzXwrr8=
+
+Name: org/eclipse/ui/internal/views/markers/CachedMarkerBuilder.java
+SHA1-Digest: 4X2GeupE60s31HoedOD4OZrO+LA=
+
+Name: org/eclipse/ui/views/markers/internal/MarkerSorter.java
+SHA1-Digest: pGgRGkSx/zMnsTgtgDdWhqL2kR8=
+
+Name: org/eclipse/ui/internal/ide/actions/SelectBuildWorkingSetAction.
+ java
+SHA1-Digest: hmxtuGBr1N4n7Yi7e+GvhxjSuyM=
+
+Name: org/eclipse/ui/internal/ide/model/WorkbenchFolder.java
+SHA1-Digest: yOONj4T98Y0TG1ew/Z+vMAdM7ak=
+
+Name: org/eclipse/ui/wizards/datatransfer/SelectFilesOperation.java
+SHA1-Digest: gihhhr1Z1RkujmbAH63nS1H943w=
+
+Name: org/eclipse/ui/wizards/datatransfer/ImportOperation.java
+SHA1-Digest: 1uhLFQyHTlmtGzvzzEXqKPIWlPI=
+
+Name: org/eclipse/ui/internal/views/markers/MarkerHelpAdapterFactory.j
+ ava
+SHA1-Digest: 0/Xx/uZjfTQCWJubF8H+Jm6BAPI=
+
+Name: org/eclipse/ui/views/bookmarkexplorer/BookmarkMessages.java
+SHA1-Digest: +Kdy7JITK0KQByfTki8R60z2IUA=
+
+Name: org/eclipse/ui/dialogs/FilteredResourcesSelectionDialog.java
+SHA1-Digest: kFN5jkJ8JpU0O9sGS5DqJ4T/wTc=
+
+Name: org/eclipse/ui/internal/ide/misc/DisjointSet.java
+SHA1-Digest: D9ilZkipUz4zMFUJet7qH9BNlj8=
+
+Name: org/eclipse/ui/views/markers/internal/TableComparator.java
+SHA1-Digest: JssTbkg0aNE9m5qrP/SPS5xe8qI=
+
+Name: org/eclipse/ui/views/navigator/MainActionGroup.java
+SHA1-Digest: siADmWmAzVyctmpk4n4KjHeIiOA=
+
+Name: org/eclipse/ui/internal/ide/model/WorkbenchProject.java
+SHA1-Digest: RP9ob7QAVCeBpamudfRnvWN+GvI=
+
+Name: org/eclipse/ui/views/tasklist/FiltersAction.java
+SHA1-Digest: K8PamxmeeR/j0UT0H6q7OpAav1o=
+
+Name: org/eclipse/ui/internal/ide/IDESelectionConversionService.java
+SHA1-Digest: shUiT4FCLTLfRHPnIUIUCgkRHZU=
+
+Name: org/eclipse/ui/internal/views/markers/MarkCompletedHandler.java
+SHA1-Digest: Flekd3E04Yifuv8H0MJ0rMPxLBY=
+
+Name: org/eclipse/ui/internal/ide/commands/CopyBuildIdToClipboardHandl
+ er.java
+SHA1-Digest: LC3e2gCPpOe5WzKvHoUnEXsaH8s=
+
+Name: org/eclipse/ui/dialogs/NewFolderDialog.java
+SHA1-Digest: vtRGXaCEF91BPwFqo8/MLNrNKBQ=
+
+Name: org/eclipse/ui/internal/views/markers/MarkersContribution.java
+SHA1-Digest: mkDb9XUv+CGb4qFLW5OOtiyA3H0=
+
+Name: org/eclipse/ui/views/markers/internal/ActionRemoveMarker.java
+SHA1-Digest: rl3A7VfwyMym/eisLD7oxFtz8oM=
+
+Name: org/eclipse/ui/internal/wizards/datatransfer/WizardArchiveFileRe
+ sourceImportPage1.java
+SHA1-Digest: On80WmcHA9cDge182GQDKyqpS+A=
+
+Name: org/eclipse/ui/internal/ide/IDEWorkbenchActivityHelper.java
+SHA1-Digest: gu5ypKWxuI2H/32hIsrbPk6rUm8=
+
+Name: org/eclipse/ui/internal/ide/model/WorkingSetAdapterFactory.java
+SHA1-Digest: bJlR6VOCDlKD+KDSJloOdylZqT8=
+
+Name: org/eclipse/ui/internal/ide/ChooseWorkspaceWithSettingsDialog.ja
+ va
+SHA1-Digest: cZsgrWQ5UH9vdWW8ggmeMo7mcsE=
+
+Name: org/eclipse/ui/internal/views/markers/ProblemsView.java
+SHA1-Digest: gnb0K735x4r+VDWh6aKV2aD6cAU=
+
+Name: org/eclipse/ui/model/WorkbenchContentProvider.java
+SHA1-Digest: NpI1dILIeWNUkRpF/PbTUJrUx0o=
+
+Name: org/eclipse/ui/actions/OpenFileAction.java
+SHA1-Digest: AaLsylSPzjqzq1CNfFIGrPR+HHo=
+
+Name: org/eclipse/ui/views/bookmarkexplorer/BookmarkSorter.java
+SHA1-Digest: tlyyuI5xve7pj90b7kIURQ8rKf8=
+
+Name: org/eclipse/ui/views/markers/internal/IMarkerResourceAdapter.jav
+ a
+SHA1-Digest: ZzwBSLYcw1BBi1jcSovA9qr+PPc=
+
+Name: org/eclipse/ui/wizards/datatransfer/FileSystemStructureProvider.
+ java
+SHA1-Digest: yctvjV7nQAR58bCSmMufVPFG+Y4=
+
+Name: org/eclipse/ui/views/navigator/CopyAction.java
+SHA1-Digest: E7Xig0BkY6Br3GIERus7HTY8EIg=
+
+Name: org/eclipse/ui/views/markers/internal/ITableListener.java
+SHA1-Digest: rHAPa7W5Bn/OaH0cy7B/oDLJ+ik=
+
+Name: org/eclipse/ui/internal/ide/undo/IFileContentDescription.java
+SHA1-Digest: O4A6euKd8nzTUa03yKGGtyqDqQU=
+
+Name: org/eclipse/ui/internal/wizards/newresource/ResourceMessages.jav
+ a
+SHA1-Digest: U085FGVa0tOkt8AJgcq6wfYQJAY=
+
+Name: org/eclipse/ui/internal/views/markers/DeleteCompletedHandler.jav
+ a
+SHA1-Digest: 0TGrmjCmxWxLVkoj2L+v4o0ZNZw=
+
+Name: schema/markerHelp.exsd
+SHA1-Digest: pKt9LC+MDjKxeF90T1saJrpfvog=
+
+Name: org/eclipse/ui/internal/views/markers/CompatibilityFieldFilter.j
+ ava
+SHA1-Digest: /qd5bvTv/9lQ5Aj9J3ixvQZbmnA=
+
+Name: org/eclipse/ui/views/tasklist/FiltersDialog.java
+SHA1-Digest: YHm/oc/D+3/Pa439Y9CXWq0jcXo=
+
+Name: org/eclipse/ui/internal/ide/IDEInternalPreferences.java
+SHA1-Digest: fW1dGJDJAaQs7Y0r3qcg+ngYgWI=
+
+Name: org/eclipse/ui/views/markers/internal/MarkerSupportRegistry.java
+SHA1-Digest: vpqXeDPvgukd97Ge9PnYHWRSo4Y=
+
+Name: org/eclipse/ui/dialogs/WizardNewFolderMainPage.java
+SHA1-Digest: WuRVTZmN9vm5TC+ejpEKjS6D08w=
+
+Name: org/eclipse/ui/ide/undo/AbstractCreateResourcesOperation.java
+SHA1-Digest: qmBvTx1C/OYqnbK7JPtFlhFxfy4=
+
+Name: org/eclipse/ui/internal/views/markers/MarkerCopyHandler.java
+SHA1-Digest: DNu8NP+xI2iD+NPpPIN6RWsHPJc=
+
+Name: org/eclipse/ui/views/framelist/IFrameListHelpContextIds.java
+SHA1-Digest: 2C8Lp+Xnr4GHpPhLOFhc99kHzAs=
+
+Name: org/eclipse/ui/internal/views/markers/MarkerEntry.java
+SHA1-Digest: etXHD+BnvuFD+xwYIZAnMgjXaYQ=
+
+Name: org/eclipse/ui/internal/ide/commands/ResourcePathConverter.java
+SHA1-Digest: hBnhyAl4TNk//CB1ZGHE30qcQ44=
+
+Name: org/eclipse/ui/views/markers/internal/SortUtil.java
+SHA1-Digest: Yo0VPLwWoh/NXLdIzntlCn0nXK4=
+
+Name: org/eclipse/ui/views/markers/internal/MarkerViewLabelProvider.ja
+ va
+SHA1-Digest: JepDk71X25COZkdtqGqCyL0Ha4s=
+
+Name: org/eclipse/ui/internal/ide/dialogs/OpenResourceDialog.java
+SHA1-Digest: uLxpeQpWZLUHh3FV3AtorPlPEgQ=
+
+Name: org/eclipse/ui/internal/ide/actions/OpenLocalFileAction.java
+SHA1-Digest: twCT9yvuHlWMKxQ+/KiHuVx00Zs=
+
+Name: org/eclipse/ui/views/markers/internal/ActionOpenMarker.java
+SHA1-Digest: qZkOghxrUpTq+nqAvlacwHw/VhE=
+
+Name: org/eclipse/ui/internal/ide/dialogs/IDEWorkspacePreferencePage.j
+ ava
+SHA1-Digest: alGKDJdmHe+v9jARS7iVmh6XRs4=
+
+Name: org/eclipse/ui/actions/OpenResourceAction.java
+SHA1-Digest: Akllxh6MdMnmajpnrQdYSoaqa0c=
+
+Name: org/eclipse/ui/IMarkerResolution.java
+SHA1-Digest: x2lVq0KV5SJiebjqtN/l+IPKRzI=
+
+Name: org/eclipse/ui/views/markers/internal/AttributeMarkerGrouping.ja
+ va
+SHA1-Digest: VCxE0b4kJBZLEZwTJQdXqofW1ks=
+
+Name: org/eclipse/ui/IProjectActionFilter.java
+SHA1-Digest: UETcCOCAN2cndNHjkyR4lXBlbWQ=
+
+Name: about.html
+SHA1-Digest: 1e8Q7vyEQQ/5RISXuhlB5aRcHm4=
+
+Name: org/eclipse/ui/internal/views/markers/BookmarksView.java
+SHA1-Digest: YKdmTElON+2RIbJbaTnfTnHGr+I=
+
+Name: org/eclipse/ui/internal/wizards/datatransfer/ArchiveFileManipula
+ tions.java
+SHA1-Digest: xGMaDdWDlCsPjtKVbwC5Vmm2Evg=
+
+Name: org/eclipse/ui/views/bookmarkexplorer/BookmarkLabelProvider.java
+SHA1-Digest: ehiWql7VCNNLlOsnmacHN3LN4n8=
+
+Name: org/eclipse/ui/IMarkerHelpRegistry.java
+SHA1-Digest: vc4aYZd91xRvJuYYSOt8qrKueh0=
+
+Name: org/eclipse/ui/views/markers/internal/IMarkerChangedListener.jav
+ a
+SHA1-Digest: B/zZByzijtTBwoUFxULjspHlEiI=
+
+Name: org/eclipse/ui/views/markers/internal/DialogTaskFilter.java
+SHA1-Digest: 7D1pl5w9cjGcu+vmv7QlOn4dhFI=
+
+Name: org/eclipse/ui/internal/wizards/datatransfer/TarFile.java
+SHA1-Digest: q6sMyw8zTBFiuDX68+SW4A4ekVw=
+
+Name: org/eclipse/ui/internal/ide/ChooseWorkspaceDialog.java
+SHA1-Digest: Vt36IJkZ8Ow2FJ6i/gbPgaqvj6E=
+
+Name: org/eclipse/ui/views/properties/ResourcePropertySource.java
+SHA1-Digest: rzuCVNFHdCuQNpTNG2hGOetvk64=
+
+Name: org/eclipse/ui/internal/views/markers/MarkerResourceField.java
+SHA1-Digest: V2+PGv97BvaKEhawEYNzztjjKgU=
+
+Name: org/eclipse/ui/views/markers/internal/BookmarkView.java
+SHA1-Digest: fK9M+KmhEJYLo0M3YbMTyvYznkg=
+
+Name: org/eclipse/ui/views/tasklist/PasteTaskAction.java
+SHA1-Digest: gGOif6UxjlypsTjumKtntPn057Q=
+
+Name: org/eclipse/ui/views/navigator/CollapseAllAction.java
+SHA1-Digest: EuJKxQQhVDyVxF6RE9fs6Wq/H0E=
+
+Name: org/eclipse/ui/internal/ide/dialogs/ResourceFilterPage.java
+SHA1-Digest: teyONKtV4e7iuQkbq2Q9aOyvp7s=
+
+Name: schema/markerSupport.exsd
+SHA1-Digest: qey1VeeTrCPH8FZ8syk+q76UPrQ=
+
+Name: org/eclipse/ui/views/markers/internal/FieldCategory.java
+SHA1-Digest: nOs/5t2EhJK61eaTxYok67VG2+4=
+
+Name: org/eclipse/ui/ide/FileStoreEditorInputFactory.java
+SHA1-Digest: hCndZOf1w+WA7ROjd7LwUS7tYTs=
+
+Name: org/eclipse/ui/internal/ide/dialogs/WelcomeItem.java
+SHA1-Digest: mmOK7J/GKO14NQgTQ+7yLANqLRc=
+
+Name: org/eclipse/ui/internal/ide/registry/ProjectImageRegistry.java
+SHA1-Digest: Lmt4cOpIsABudi07hjNtKs8tNX8=
+
+Name: org/eclipse/ui/internal/wizards/datatransfer/WizardFileSystemRes
+ ourceExportPage1.java
+SHA1-Digest: J3VX4z0CZJiH5VB7LBhNcPnDpQE=
+
+Name: org/eclipse/ui/internal/ide/dialogs/FileStatesPage.java
+SHA1-Digest: caAGgJR/nD8SutcbOTjtpzwF6f0=
+
+Name: org/eclipse/ui/internal/ide/misc/CheckboxTreeAndListGroup.java
+SHA1-Digest: mtnN49+fNDt1bnhNiVqHbPfsB6Q=
+
+Name: org/eclipse/ui/wizards/newresource/BasicNewResourceWizard.java
+SHA1-Digest: +XeAg+axfGIqOq1j54LdWmOJW/o=
+
+Name: org/eclipse/ui/internal/views/markers/MarkerDescriptionField.jav
+ a
+SHA1-Digest: 2GnPEy2vbHFsW17ht3Co9UQp9XI=
+
+Name: org/eclipse/ui/part/MarkerTransfer.java
+SHA1-Digest: QfFKxJQhD7wm2TzdvqZr8X9hNw4=
+
+Name: org/eclipse/ui/views/bookmarkexplorer/IBookmarkHelpContextIds.ja
+ va
+SHA1-Digest: ltjMdIO1pwRlK/zJpEcPeQVvcNY=
+
+Name: org/eclipse/ui/views/markers/internal/TaskFilter.java
+SHA1-Digest: MiZmHhwQ68A/PQSIXVmQCBQva4k=
+
+Name: org/eclipse/ui/views/navigator/ShowInNavigatorAction.java
+SHA1-Digest: aQlI6uO1Bd6bbQrtLgPftv01V7I=
+
+Name: org/eclipse/ui/views/navigator/GotoResourceAction.java
+SHA1-Digest: hR4QVtR3EZqkW12E+/Nf5Sb2EOg=
+
+Name: org/eclipse/ui/views/markers/internal/MarkerSelectionProviderAct
+ ion.java
+SHA1-Digest: vxSdHSJ4Wo9dIohtEhHX2v1Arz4=
+
+Name: org/eclipse/ui/internal/ide/dialogs/ResourceFilterGroup.java
+SHA1-Digest: mPfvFffmywlZxMpDWBR0oseTqak=
+
+Name: org/eclipse/ui/IMarkerResolutionGenerator2.java
+SHA1-Digest: Yk+GH8moUKxL9hyQfPEV+gtVvXQ=
+
+Name: org/eclipse/ui/internal/views/markers/MarkerSeverityField.java
+SHA1-Digest: fMCioPsCssB4XJGYbSNRnX/D7Sw=
+
+Name: org/eclipse/ui/views/tasklist/TaskAction.java
+SHA1-Digest: qwOWSS1edSbLdY5QHhiNg1uEYtY=
+
+Name: org/eclipse/ui/internal/views/markers/QuickFixWizard.java
+SHA1-Digest: BHX2bzEjNRaGgowPuXxWPUezHB0=
+
+Name: org/eclipse/ui/views/markers/FilterConfigurationArea.java
+SHA1-Digest: MUfOLSt96fXsEHTLUiT5GpoK4Do=
+
+Name: org/eclipse/ui/views/framelist/BackAction.java
+SHA1-Digest: WMbJR4bKvV8JtZoT9avOgk7Mg4I=
+
+Name: org/eclipse/ui/internal/views/markers/FiltersConfigurationDialog
+ .java
+SHA1-Digest: mIeVqXIKtZohjXoakfUNLrMsDds=
+
+Name: org/eclipse/ui/views/markers/internal/FieldDummy.java
+SHA1-Digest: qn/YSD5lGGhFDD8cA4MtdWtKUgQ=
+
+Name: org/eclipse/ui/views/framelist/FrameList.java
+SHA1-Digest: 0Y7OLAYW+1zfN2pRGKO3ngWPU54=
+
+Name: org/eclipse/ui/internal/ide/registry/MarkerHelpRegistryReader.ja
+ va
+SHA1-Digest: yv3za7uyGogrG26BTzS0dYX+TVk=
+
+Name: org/eclipse/ui/views/markers/internal/MarkerNodeRefreshRecord.ja
+ va
+SHA1-Digest: Ms8deVs5cMOqjpBHhf/eR76GME0=
+
+Name: org/eclipse/ui/views/markers/internal/ActionSelectAll.java
+SHA1-Digest: DXWLR84rbqMR06gDYoA9fRGYZEc=
+
+Name: org/eclipse/ui/views/navigator/GotoResourceDialog.java
+SHA1-Digest: I9jYQXd7onO29MrGMbsVax3Ng4Q=
+
+Name: org/eclipse/ui/ide/fileSystem/FileSystemContributor.java
+SHA1-Digest: IKlYb0YfBhqmWjBJNFz4jNX8YwI=
+
+Name: org/eclipse/ui/internal/views/markers/EditablePropertyTester.jav
+ a
+SHA1-Digest: D3Ijbx1TPtupLAbsJAmXF6dBPtM=
+
+Name: org/eclipse/ui/internal/views/markers/MarkerComparator.java
+SHA1-Digest: S8XsRyifBlLWPK5d6g8Ybp+s/6U=
+
+Name: org/eclipse/ui/wizards/datatransfer/PopulateRootOperation.java
+SHA1-Digest: BPCOFKt3Kp1GYQJRpXv4r1/quAs=
+
+Name: org/eclipse/ui/internal/ide/IDEWorkbenchMessages.java
+SHA1-Digest: 4FBpMjuRWQciBfJnarNpNx4u2OI=
+
+Name: org/eclipse/ui/ide/IDEEncoding.java
+SHA1-Digest: l2UwGc199teEObR02sEhiN0pYww=
+
+Name: org/eclipse/ui/views/navigator/ResourceNavigatorMoveAction.java
+SHA1-Digest: UcvtHaiyaJh4Me7Q/5kzyRaPs1s=
+
+Name: org/eclipse/ui/views/bookmarkexplorer/MarkerUtil.java
+SHA1-Digest: KjN4ku5Dm4xlYAQYSc1Z6nnoRoY=
+
+Name: org/eclipse/ui/internal/views/markers/ProblemsSeverityAndDescrip
+ tionConfigurationArea.java
+SHA1-Digest: hzvzUtLrQSU9a7MTZotQFuaCQfo=
+
+Name: org/eclipse/ui/views/framelist/FrameListMessages.java
+SHA1-Digest: v2+s2mKIQIaW6MqZjsWE3TQ/s88=
+
+Name: org/eclipse/ui/internal/ide/dialogs/ResourceTreeAndListGroup.jav
+ a
+SHA1-Digest: O8M26z6C84aqE7qiSJ4As8xibZ0=
+
+Name: org/eclipse/ui/internal/ide/registry/MarkerQueryResult.java
+SHA1-Digest: PjXUp6CymnxI4p9bIPDc71bI9wo=
+
+Name: org/eclipse/ui/views/tasklist/TaskListContentProvider.java
+SHA1-Digest: 3bdCBpG3XIxkkDuXLO5uXh7UwHI=
+
+Name: org/eclipse/ui/actions/CloseUnrelatedProjectsAction.java
+SHA1-Digest: Hv290T3fp/tRhMiFFABo+eTd2jg=
+
+Name: org/eclipse/ui/ide/undo/AbstractResourcesOperation.java
+SHA1-Digest: Vt3pyztyzW1tCyO+UwThRAIPmnM=
+
+Name: org/eclipse/ui/internal/ide/actions/QuickMenuAction.java
+SHA1-Digest: v14aOR1tI6xzKGhSs6MB5AtTq5A=
+
+Name: org/eclipse/ui/IFileEditorInput.java
+SHA1-Digest: oqBI8ANK3O4dNYkg3uzT4tAImO0=
+
+Name: org/eclipse/ui/views/markers/internal/MarkerTreeContentProvider.
+ java
+SHA1-Digest: Hv7Al5Gn5/npCK/sfPj6j3n53bo=
+
+Name: org/eclipse/ui/actions/CopyProjectOperation.java
+SHA1-Digest: ZLPxNtZafSy6g9+Q6mEyVU/MdSE=
+
+Name: org/eclipse/ui/actions/SelectionListenerAction.java
+SHA1-Digest: 9O0E9/pB8GkbBgIIYbtbDHJ/cU0=
+
+Name: org/eclipse/ui/views/markers/MarkerSupportView.java
+SHA1-Digest: 4ArSCTxKdK01LpxAfbabN4afMwA=
+
+Name: org/eclipse/ui/internal/ide/dialogs/ConfigurationLogUpdateSectio
+ n.java
+SHA1-Digest: dKw4nLhZV41Otm7kpZ3selWKPTY=
+
+Name: org/eclipse/ui/internal/ide/ResourceWorkingSetUpdater.java
+SHA1-Digest: SB7ruBHF6MnhAOoeC8bYCVzl59w=
+
+Name: org/eclipse/ui/internal/ide/model/WorkingSetResourceMapping.java
+SHA1-Digest: CGTuqZOEDZqPB4BoxGx/y0JOVXw=
+
+Name: org/eclipse/ui/internal/ide/DialogUtil.java
+SHA1-Digest: TOV3TyBKiJsej/Y4dOidezAAh+E=
+
+Name: org/eclipse/ui/views/markers/internal/TypeMarkerGroup.java
+SHA1-Digest: 39CA7WjWLH8gZDR0hCO9XPpUqpA=
+
+Name: org/eclipse/ui/internal/views/properties/IDEPropertiesMessages.j
+ ava
+SHA1-Digest: rrXoUiyZm+0gYIiRb44209BJdtg=
+
+Name: org/eclipse/ui/views/properties/IDEPropertiesMessages.java
+SHA1-Digest: acRBAKmCob+4zYxLShK/0eUXKWM=
+
+Name: org/eclipse/ui/views/markers/internal/MarkerViewPreferenceDialog
+ .java
+SHA1-Digest: eXdC/W3n8Tuez4n53VjSClXj6o8=
+
+Name: org/eclipse/ui/views/markers/internal/ActionMarkCompleted.java
+SHA1-Digest: lPlvPqDR7oo9AnYNopmpEzi76qg=
+
+Name: org/eclipse/ui/views/markers/internal/FieldDone.java
+SHA1-Digest: G7V3dSGcChtO49f9paq0pSVusHU=
+
+Name: org/eclipse/ui/internal/ide/dialogs/PathVariableEditDialog.java
+SHA1-Digest: EAoVf9PoKL+YkDS9jR3Vmx3qfuY=
+
+Name: org/eclipse/ui/internal/ide/handlers/BuildAllProjectsHandler.jav
+ a
+SHA1-Digest: SLtI3xYtOI9+24DWeprYBvAvrSI=
+
+Name: org/eclipse/ui/ide/FileStoreEditorInput.java
+SHA1-Digest: uwkfVJTpQE82YawB+CrnsGk6x+I=
+
+Name: org/eclipse/ui/views/markers/internal/ProblemFilter.java
+SHA1-Digest: VYLaEiecKCJpu75faC45XLB2tR0=
+
+Name: org/eclipse/ui/internal/views/markers/ExtendedMarkersView.java
+SHA1-Digest: VOJxHPj5whV9dfWGev5L/hBKrLI=
+
+Name: org/eclipse/ui/ide/dialogs/EncodingFieldEditor.java
+SHA1-Digest: Gyya4D3k47gpaCDJy/QBYErayXM=
+
+Name: org/eclipse/ui/views/markers/internal/MarkerAdapter.java
+SHA1-Digest: Xm9xf7WzWsI08a+5LhVKqh05JT4=
+
+Name: org/eclipse/ui/internal/ide/dialogs/BuildOrderPreferencePage.jav
+ a
+SHA1-Digest: /Zy8kq7Mj8xTTlOo46FK0VVbyfY=
+
+Name: org/eclipse/ui/internal/views/markers/ProblemsSeverityAndDescrip
+ tionFieldFilter.java
+SHA1-Digest: j4tC8KMq64zz5PUIpPt9RVt4MCU=
+
+Name: org/eclipse/ui/actions/CreateFolderAction.java
+SHA1-Digest: iiRGkH9AKFawXrH7LoxoXCbt34w=
+
+Name: org/eclipse/ui/views/markers/internal/ActionDeleteCompleted.java
+SHA1-Digest: rKCW7RmcuuDX/0Nx6GB2UCNHBpk=
+
+Name: org/eclipse/ui/views/markers/internal/TaskMarker.java
+SHA1-Digest: Yvqcc6ywa+lDFDETjGixnF9bBHY=
+
+Name: org/eclipse/ui/IContributorResourceAdapter.java
+SHA1-Digest: 2/A7ABJL1BsejSzVc3kAgX8wQ6A=
+
+Name: org/eclipse/ui/wizards/datatransfer/FileSystemImportWizard.java
+SHA1-Digest: N7qv64zSezMx7NmneLsoKaYksk4=
+
+Name: org/eclipse/ui/views/navigator/RefactorActionGroup.java
+SHA1-Digest: 7hD53An69QcexTBLFLDIKRBEGL0=
+
+Name: org/eclipse/ui/ide/dialogs/PathVariableSelectionDialog.java
+SHA1-Digest: lJv3T4UhLUYFqdt2a5dXOo4rFP0=
+
+Name: org/eclipse/ui/internal/ide/dialogs/ResourceWorkingSetPage.java
+SHA1-Digest: xlpD2p0cBVzDDJ3iT/RKb4TeIho=
+
+Name: org/eclipse/ui/internal/ide/dialogs/IDEResourceInfoUtils.java
+SHA1-Digest: WODYMNxRyB5m+lDQBsr1sl437ZU=
+
+Name: org/eclipse/ui/internal/wizards/datatransfer/TarOutputStream.jav
+ a
+SHA1-Digest: TEgnByxRMDm4wMv8hBXSj4gSKJE=
+
+Name: org/eclipse/ui/views/tasklist/PurgeCompletedAction.java
+SHA1-Digest: /C316vkYzCZsFlFPSOaKj+4oIkE=
+
+Name: org/eclipse/ui/internal/views/markers/MarkerSupportInternalUtili
+ ties.java
+SHA1-Digest: N4OthcL3aORI6zsP2/0vqpdo4n4=
+
+Name: org/eclipse/ui/internal/ide/filesystem/FileSystemConfiguration.j
+ ava
+SHA1-Digest: EEA4KOSFqvPcGARqzF83/SDeOBA=
+
+Name: org/eclipse/ui/actions/OpenSystemEditorAction.java
+SHA1-Digest: ZTKudXkfvCdPkvvWFcBvVSaQQsE=
+
+Name: org/eclipse/ui/ide/undo/CopyResourcesOperation.java
+SHA1-Digest: vobSlOdd8LuNiyGRyZIIwvzftzU=
+
+Name: org/eclipse/ui/views/tasklist/TaskSorter.java
+SHA1-Digest: y2TZhEiw10iT/H+ujkLxQiKAKM0=
+
+Name: org/eclipse/ui/internal/views/markers/PriorityMarkerFieldFilter.
+ java
+SHA1-Digest: E9MWM9ETIMfS8Rox/0PqM3DhdhY=
+
+Name: org/eclipse/ui/views/markers/internal/MarkerView.java
+SHA1-Digest: 2R758xeXM8aKSFpkCDXuIJUX6/Q=
+
+Name: org/eclipse/ui/dialogs/ProjectLocationSelectionDialog.java
+SHA1-Digest: o+puP5fMEMrPGWdcgZCLS4rDsi0=
+
+Name: org/eclipse/ui/views/markers/internal/ActionRevealMarker.java
+SHA1-Digest: yvZB52XFzixSYP7wrDaNe1jNn80=
+
+Name: org/eclipse/ui/internal/ide/FeatureSelectionDialog.java
+SHA1-Digest: fL9m1Bje7tItmQEYfYUi/WZx2+Q=
+
+Name: org/eclipse/ui/views/tasklist/TaskList.java
+SHA1-Digest: BFv0CeO+HoOJa8t6COjS3Jm7D+g=
+
+Name: org/eclipse/ui/internal/ide/model/WorkbenchFile.java
+SHA1-Digest: XPAa2qhqJ5Jc1C9gm2TMXwo7B0U=
+
+Name: org/eclipse/ui/views/bookmarkexplorer/BookmarkContentProvider.ja
+ va
+SHA1-Digest: wWDw9a3W+Dag/OEDf+lJ5fkGnZE=
+
+Name: org/eclipse/ui/views/markers/internal/FieldId.java
+SHA1-Digest: cpgkZrsTsEhjcbYfomP0J7wQcno=
+
+Name: org/eclipse/ui/internal/ide/dialogs/ProjectContentsLocationArea.
+ java
+SHA1-Digest: 4TwDzI40m/l8QoaB8dn3LddyisI=
+
+Name: org/eclipse/ui/views/bookmarkexplorer/RemoveBookmarkAction.java
+SHA1-Digest: JurxRTlMYbD4tfAg9kR3UPzr2pY=
+
+Name: org/eclipse/ui/actions/ReadOnlyStateChecker.java
+SHA1-Digest: UJNfwOSz46xIEmnUorPc+ioVqh0=
+
+Name: org/eclipse/ui/internal/ide/misc/FileInfoAttributesMatcher.java
+SHA1-Digest: 3drcUXRYXh/o4KvWpH3/z6nGzQc=
+
+Name: org/eclipse/ui/internal/views/markers/MarkerTypeFieldFilter.java
+SHA1-Digest: Mm3314bsexcdmeEaxVcmwcGSqgM=
+
+Name: org/eclipse/ui/views/navigator/ResourceNavigatorRenameAction.jav
+ a
+SHA1-Digest: OSayQ41AP1w4eS+2hGZOyQDukzA=
+
+Name: org/eclipse/ui/internal/views/markers/MarkerPathField.java
+SHA1-Digest: yVzo+A2djpIefdy1DqMQU4pyLXg=
+
+Name: org/eclipse/ui/internal/ide/IMarkerImageProvider.java
+SHA1-Digest: Iea1HTaDCuK+21MhXP2n2Cua21g=
+
+Name: org/eclipse/ui/views/markers/internal/FieldFolder.java
+SHA1-Digest: 8oL6eW2SLSLLfvzb8TLTNNMjcVA=
+
+Name: org/eclipse/ui/internal/ide/WorkbenchActionBuilder.java
+SHA1-Digest: vXPc9N4YmInsuEGfSSRPJ+lUJlY=
+
+Name: org/eclipse/ui/actions/CopyResourceAction.java
+SHA1-Digest: 5lbsyX+MaYQyeANWz8DX1KJwQCk=
+
+Name: org/eclipse/ui/internal/views/navigator/ResourceNavigatorMessage
+ s.java
+SHA1-Digest: WJzTVuP/58RZ3EMAPK1OrSDZS4Y=
+
+Name: org/eclipse/ui/ide/undo/MoveResourcesOperation.java
+SHA1-Digest: zdnM/BKuWyKQ+yPi4nC8JQpaFh8=
+
+Name: org/eclipse/ui/internal/ide/misc/OrFileInfoMatcher.java
+SHA1-Digest: kqOSEpSDwdKwLT1z657Ery0O4gI=
+
+Name: org/eclipse/ui/internal/ide/undo/AbstractResourceDescription.jav
+ a
+SHA1-Digest: BFASbOYZMi1K4+hYWHBsSy/FXrk=
+
+Name: org/eclipse/ui/views/markers/internal/DialogMarkerFilter.java
+SHA1-Digest: ZXFDbHj4QYMkH4i8owrJ1Pj0A1c=
+
+Name: org/eclipse/ui/internal/ide/AboutInfo.java
+SHA1-Digest: 53UnQFUgqz25nNoD+vjcTyJZK6I=
+
+Name: org/eclipse/ui/actions/ScrubLocalAction.java
+SHA1-Digest: VYi53XpkPB8P4PsJMPYds174vH4=
+
+Name: org/eclipse/ui/internal/ide/registry/MarkerImageProviderRegistry
+ .java
+SHA1-Digest: T+jhjI6HKVMjGyY9CqpOCCzqH6E=
+
+Name: org/eclipse/ui/internal/views/markers/MarkerGoToHandler.java
+SHA1-Digest: Ttig51MbYtCxbvb8Lw1SVu0eZF8=
+
+Name: org/eclipse/ui/internal/views/markers/FileMarkerPropertyTester.j
+ ava
+SHA1-Digest: nVaCWms8beTPWaKLxnSPme9PlO8=
+
+Name: org/eclipse/ui/part/FileInPlaceEditorInput.java
+SHA1-Digest: xk1SMM1T88+/ARpbnvP8Jyte0V0=
+
+Name: org/eclipse/ui/internal/ide/dialogs/WelcomeEditorActionContribut
+ or.java
+SHA1-Digest: NkaTdxnh9LuuEpBa0ioNBjtsthA=
+
+Name: org/eclipse/ui/actions/GlobalBuildAction.java
+SHA1-Digest: fnSGSoPwmB9UANOUvPjLfLJkNQI=
+
+Name: org/eclipse/ui/internal/views/markers/MarkerIDField.java
+SHA1-Digest: XpCM687u4gDxZ3AQ0wdrAFECHFY=
+
+Name: org/eclipse/ui/views/markers/internal/MarkerGroupingEntry.java
+SHA1-Digest: lWzaV4u2ffXrDceWs8aOuEKnEe4=
+
+Name: org/eclipse/ui/views/bookmarkexplorer/BookmarkPropertiesDialog.j
+ ava
+SHA1-Digest: zU/ItOLmBD8ezx348eYMBDWF20U=
+
+Name: org/eclipse/ui/views/navigator/ResourceNavigatorActionGroup.java
+SHA1-Digest: tY5jPE3PzYvbaf/uG3ohHzmAPZ4=
+
+Name: org/eclipse/ui/ResourceWorkingSetFilter.java
+SHA1-Digest: Sdlf6RWv2zU6RH734q+Wnev/qls=
+
+Name: org/eclipse/ui/views/navigator/ResourceNavigatorAction.java
+SHA1-Digest: a6wQpQUIMIGOOBvd1Jh4OEigcKk=
+
+Name: org/eclipse/ui/ide/IDE.java
+SHA1-Digest: xPdZ+Rha2T3B20LkvcXQmn8ptNM=
+
+Name: org/eclipse/ui/internal/views/markers/MarkerViewerContentProvide
+ r.java
+SHA1-Digest: jrBNT0lnDvqOK+vQejlASvIXYKk=
+
+Name: org/eclipse/ui/actions/RenameResourceAction.java
+SHA1-Digest: Ze9MIKfxrekusTwjv042mini3pU=
+
+Name: org/eclipse/ui/internal/ide/IIDEHelpContextIds.java
+SHA1-Digest: NlgHWItq+BlxxR7bqeT8vic79J0=
+
+Name: org/eclipse/ui/views/markers/internal/MarkerMessages.java
+SHA1-Digest: LpQXkZ/4Eg2h3immsUgjWZT1yoU=
+
+Name: org/eclipse/ui/internal/wizards/datatransfer/ZipLeveledStructure
+ Provider.java
+SHA1-Digest: 2NgLLRrBvxEzkOog4I5mxcnyZ+E=
+
+Name: org/eclipse/ui/internal/wizards/datatransfer/WizardArchiveFileRe
+ sourceExportPage1.java
+SHA1-Digest: 4magP1yH37XXIKMHcyLV7zEYMZs=
+
+Name: org/eclipse/ui/ide/undo/UpdateMarkersOperation.java
+SHA1-Digest: HsVjtPUiePTCs4NEdSd8DVWwBPg=
+
+Name: org/eclipse/ui/internal/wizards/datatransfer/MinimizedFileSystem
+ Element.java
+SHA1-Digest: rCaxn2i3foVrltrH5mvdmsmfe+E=
+
+Name: org/eclipse/ui/actions/AddBookmarkAction.java
+SHA1-Digest: okt1yDLovGJ3vdJMhB6mrB6aKaU=
+
+Name: org/eclipse/ui/wizards/datatransfer/ZipFileStructureProvider.jav
+ a
+SHA1-Digest: PwXA34By2lTBPvzYKGJWR1LsAOk=
+
+Name: org/eclipse/ui/internal/views/markers/MockMarkerEntry.java
+SHA1-Digest: BPd9+yOy/F+v0FM3Hcvi++EAgtQ=
+
+Name: org/eclipse/ui/IMarkerResolutionGenerator.java
+SHA1-Digest: PIYHmM+/sj0zNlGredzzVDT1coI=
+
+Name: org/eclipse/ui/internal/ide/handlers/ShowResourceByPathHandler.j
+ ava
+SHA1-Digest: stwWlMczjyp9d9t0NSiuzB1qZEA=
+
+Name: org/eclipse/ui/views/bookmarkexplorer/OpenBookmarkAction.java
+SHA1-Digest: ycoh2rGW83Xq9hzoNcLQa8VL3t4=
+
+Name: org/eclipse/ui/views/markers/internal/ProblemMarker.java
+SHA1-Digest: FOmBNsIsIv8wqS8AVsdBK6iMsGc=
+
+Name: org/eclipse/ui/internal/ide/StatusUtil.java
+SHA1-Digest: 0luBSLAxx3s4YUOQrqoLSBv+NUk=
+
+Name: org/eclipse/ui/views/markers/MarkerField.java
+SHA1-Digest: SCu7QnPnqRoEYQb1gWV//YX1x1g=
+
+Name: org/eclipse/ui/views/navigator/StringMatcher.java
+SHA1-Digest: 83J5EgiDFd3tcCHm6wozFNmR/lU=
+
+Name: org/eclipse/ui/internal/ide/dialogs/PathVariablesGroup.java
+SHA1-Digest: aYChdrw2Xd32HsiRcYQtGYKJ7G4=
+
+Name: org/eclipse/ui/internal/views/markers/ScopeArea.java
+SHA1-Digest: 6qNv0hmAWmdOVbNj9AgrecrYgLI=
+
+Name: org/eclipse/ui/views/navigator/ResourceSelectionUtil.java
+SHA1-Digest: rHhax0GV071vyJNW1uC/aJFO8Xs=
+
+Name: org/eclipse/ui/internal/ide/IDEInternalWorkbenchImages.java
+SHA1-Digest: UQNufjwI+VCwMvuYAUFc2f9naWA=
+
+Name: org/eclipse/ui/internal/wizards/datatransfer/FileSystemExportOpe
+ ration.java
+SHA1-Digest: 89ow1zZP8ij8qiBUtbi4Cwb1710=
+
+Name: org/eclipse/ui/dialogs/ContainerGenerator.java
+SHA1-Digest: d3cBlxG7jfQolDrudDhzz30tSjY=
+
+Name: org/eclipse/ui/ide/undo/WorkspaceUndoUtil.java
+SHA1-Digest: pC7tevikjx0sGuMKvzqUnANux0Y=
+
+Name: org/eclipse/ui/internal/ide/misc/ContainerContentProvider.java
+SHA1-Digest: yy9a+gikU5h1cTKxnC64mYiwRD8=
+
+Name: org/eclipse/ui/internal/wizards/datatransfer/TarFileExporter.jav
+ a
+SHA1-Digest: Pc3XkXOwITliGgHmHWWXQtqOUjo=
+
+Name: org/eclipse/ui/internal/ide/DefaultContributorResourceAdapter.ja
+ va
+SHA1-Digest: sMBarOnuCE04gmQksjVky35bMRw=
+
+Name: org/eclipse/ui/internal/wizards/datatransfer/ZipFileExporter.jav
+ a
+SHA1-Digest: TPP3wMtpBOefusULG32QKeGX35M=
+
+Name: org/eclipse/ui/internal/ide/model/FileInputAdapterFactory.java
+SHA1-Digest: T8p0VrcZOI1L00W/zat+Uq1v/Zw=
+
+Name: org/eclipse/ui/views/markers/internal/ConcreteMarker.java
+SHA1-Digest: pUHBb0mZc+BqY0VUCHVU+9QcHOQ=
+
+Name: org/eclipse/ui/actions/WorkspaceAction.java
+SHA1-Digest: gF6udJfKlCCcHfBye3qu9hCwF2c=
+
+Name: org/eclipse/ui/actions/CopyFilesAndFoldersOperation.java
+SHA1-Digest: rvepYWdGrf4bBLnyFYwLxeOU8Ys=
+
+Name: org/eclipse/ui/ide/dialogs/UIResourceFilterDescription.java
+SHA1-Digest: acUONcgXnKJi59XcQllxeGK5fqo=
+
+Name: org/eclipse/ui/ide/undo/CreateFileOperation.java
+SHA1-Digest: xjBxkSpgCza2Si90APVm8+P/UNA=
+
+Name: org/eclipse/ui/ide/undo/ResourceDescription.java
+SHA1-Digest: UguCRGv0QsUjVWVNO91yJFyKdOw=
+
+Name: org/eclipse/ui/views/bookmarkexplorer/PasteBookmarkAction.java
+SHA1-Digest: R8IKIKaCV3C5DwAdduoAMsMIMP4=
+
+Name: META-INF/eclipse.inf
+SHA1-Digest: KyT9FF7C7t86NoBoa2kZT3ZJBfw=
+
+Name: org/eclipse/ui/internal/ide/model/WorkbenchWorkspace.java
+SHA1-Digest: 1AvI5Wk6JoC4+Zj0S45dNyhETa4=
+
+Name: org/eclipse/ui/views/markers/internal/DialogBookmarkFilter.java
+SHA1-Digest: 6gnYy55aVzQnnmLO3VOoatX/cw0=
+
+Name: org/eclipse/ui/internal/ide/misc/ContainerSelectionGroup.java
+SHA1-Digest: QeId8MrtnupfQ/lwuyiti/k12YY=
+
+Name: org/eclipse/ui/internal/views/markers/DeleteHandler.java
+SHA1-Digest: oHZybcDwhFgfUpKfjqVx5LaBa2A=
+
+Name: org/eclipse/ui/internal/wizards/datatransfer/ArchiveFileExportOp
+ eration.java
+SHA1-Digest: XIaZAO9dUahtPHLAD1gLY135Z2k=
+
+Name: org/eclipse/ui/internal/ide/dialogs/ProjectLinkedResourcePage.ja
+ va
+SHA1-Digest: eaGKIuW3rUhCamMATrcuUWDWwkY=
+
+Name: org/eclipse/ui/views/markers/MarkerFieldFilter.java
+SHA1-Digest: CWhli0l06Iiy/q3VqPHLY57g1Ck=
+
+Name: org/eclipse/ui/internal/ide/ContentTypeDecorator.java
+SHA1-Digest: +vgnpLJuZCztdFWtEAtP0Ntxqak=
+
+Name: org/eclipse/ui/wizards/datatransfer/FileSystemExportWizard.java
+SHA1-Digest: QJQVt60t9PUsTKOHNTaFsM1mbqg=
+
+Name: org/eclipse/ui/views/markers/MarkerViewHandler.java
+SHA1-Digest: sKg+nR5aYZxSazL2fzGdLiHU0F0=
+
+Name: org/eclipse/ui/ide/undo/DeleteResourcesOperation.java
+SHA1-Digest: gdyI+8czOQT/lY7fnel4w0b4ums=
+
+Name: org/eclipse/ui/views/navigator/FilterSelectionAction.java
+SHA1-Digest: Xq/SF20gfhhvxztqmazGsen+Uxw=
+
+Name: org/eclipse/ui/views/markers/internal/ActionProblemProperties.ja
+ va
+SHA1-Digest: o4F7xWfd8qqa3LACsq/WIKG8wEk=
+
+Name: org/eclipse/ui/actions/CreateFileAction.java
+SHA1-Digest: OBuTOua2AL0ZnOMktBu2vYZTFnE=
+
+Name: org/eclipse/ui/views/markers/internal/MarkerType.java
+SHA1-Digest: O/uvF7pmU9/u1iLXuC/4KBaUm+4=
+
+Name: org/eclipse/ui/views/bookmarkexplorer/EditBookmarkAction.java
+SHA1-Digest: K8o/p84xrT5yA1Oz6tY4LcwSRzg=
+
+Name: org/eclipse/ui/internal/ide/TipsAndTricksAction.java
+SHA1-Digest: OjDk1Rj2542JvXyG3xhtHQaWxyY=
+
+Name: org/eclipse/ui/internal/ide/IDEWorkbenchErrorHandler.java
+SHA1-Digest: aetoaQmcH+0voqdow7nHIe3ZKd8=
+
+Name: org/eclipse/ui/IStorageEditorInput.java
+SHA1-Digest: BRJuzNSIWnrLEf3SelOonlHxwhY=
+
+Name: org/eclipse/ui/views/tasklist/RemoveTaskAction.java
+SHA1-Digest: 2W8fN132MQOfNHtCkbD2Pb/oX+Q=
+
+Name: plugin.properties
+SHA1-Digest: wbg/6f7fx4O6ZntIA8HA7axOcTs=
+
+Name: org/eclipse/ui/views/markers/internal/BookmarkFilter.java
+SHA1-Digest: yB8ia7YqjBMUWddQDlpEfx/Nvww=
+
+Name: org/eclipse/ui/internal/views/markers/QuickFixPropertyTester.jav
+ a
+SHA1-Digest: fg0oMnSpT2ebojXIZ5yVwgm/rIA=
+
+Name: org/eclipse/ui/views/tasklist/MarkerType.java
+SHA1-Digest: PPAxRLH9DLlkdwBJ1LjYTZ1/8Zk=
+
+Name: org/eclipse/ui/ide/undo/DeleteMarkersOperation.java
+SHA1-Digest: SEQ6UwC7pleQ7XlEKhanAAuH7rA=
+
+Name: org/eclipse/ui/views/markers/FiltersContributionParameters.java
+SHA1-Digest: 5ew0DOpF5Nups3+Frcy9l6PVWGY=
+
+Name: org/eclipse/ui/actions/WorkspaceModifyDelegatingOperation.java
+SHA1-Digest: N98hmEcDEp9Uxr27ZfOmV6aQPzo=
+
+Name: org/eclipse/ui/views/bookmarkexplorer/BookmarkNavigator.java
+SHA1-Digest: fjMTB3JkQazWaayGYVR/FpHOLKw=
+
+Name: org/eclipse/ui/actions/DeleteResourceAction.java
+SHA1-Digest: o6b5Cn8YCyBJiwiymKkbvtsJi84=
+
+Name: org/eclipse/ui/internal/views/markers/MarkerProblemSeverityAndMe
+ ssageField.java
+SHA1-Digest: WHOgmSzN21Gut1U/K+jCY/EJtIc=
+
+Name: org/eclipse/ui/internal/ide/dialogs/WelcomeEditorCopyAction.java
+SHA1-Digest: TQF6+8QhBY9p6P8Xv0JoYnzDnsI=
+
+Name: org/eclipse/ui/internal/views/markers/CompletionConfigurationAre
+ a.java
+SHA1-Digest: 8zNy5n8mvJBe9SGQuY+s7joXjWw=
+
+Name: org/eclipse/ui/internal/ide/LinkedResourceDecorator.java
+SHA1-Digest: JEjvndMBVQMhr6hydvTxX/39If8=
+
+Name: org/eclipse/ui/views/markers/internal/ActionPasteMarker.java
+SHA1-Digest: qRQBhjKyZoQG1M/59ejxRwQoQp8=
+
+Name: org/eclipse/ui/internal/views/markers/ConfigureContentsDialogHan
+ dler.java
+SHA1-Digest: LbeRgGP13ZgxMpdiyDoakmopG8I=
+
+Name: org/eclipse/ui/internal/ide/dialogs/IElementFilter.java
+SHA1-Digest: ROx6YK/6Hebur5bzD/QRxnr8udU=
+
+Name: org/eclipse/ui/internal/views/markers/PriorityConfigurationArea.
+ java
+SHA1-Digest: k08e++FMRfd9hYI7Ypy100XJ2lc=
+
+Name: org/eclipse/ui/views/tasklist/CopyTaskAction.java
+SHA1-Digest: 7itMnpsu+X9tjW8Iw+c8ZlnvW9Y=
+
+Name: org/eclipse/ui/internal/ide/misc/ResourceAndContainerGroup.java
+SHA1-Digest: m6f3YL7Cez+zs+JKQ7n0yN+qZSQ=
+
+Name: org/eclipse/ui/internal/views/markers/ViewerColumnsDialog.java
+SHA1-Digest: eVFLhI3KjtyExih/Ku02v2geBAU=
+
+Name: org/eclipse/ui/internal/wizards/datatransfer/TarInputStream.java
+SHA1-Digest: RYD6xMdaMGFYScL1ey1S9Crn9zg=
+
+Name: org/eclipse/ui/internal/ide/IDEPreferenceInitializer.java
+SHA1-Digest: lU0VEYynwmMMYjqqNJPl2BKp2XY=
+
+Name: org/eclipse/ui/dialogs/WizardExportResourcesPage.java
+SHA1-Digest: siKXGFCxxO4qtk99ElcBSIzmahs=
+
+Name: org/eclipse/ui/internal/ide/dialogs/SimpleListContentProvider.ja
+ va
+SHA1-Digest: 6B618qV+jIAGf+Ju+JcrGiZ0cLg=
+
+Name: org/eclipse/ui/internal/ide/registry/IDERegistryReader.java
+SHA1-Digest: rmaH9/Vz5pFAYUvg6OgsZ/oxue8=
+
+Name: org/eclipse/ui/internal/views/markers/DeltaMarkerEntry.java
+SHA1-Digest: tcZTzTd7UvpotqRx+axOa1HSxJQ=
+
+Name: org/eclipse/ui/internal/views/markers/SeverityAndDescriptionConf
+ igurationArea.java
+SHA1-Digest: M10FpMoO65kQa9zat+C5q8OqTrU=
+
+Name: org/eclipse/ui/views/tasklist/MarkerUtil.java
+SHA1-Digest: cn3rvFLQJMQBDGWXogqzMBL70/w=
+
+Name: org/eclipse/ui/views/markers/internal/ContentGeneratorDescriptor
+ .java
+SHA1-Digest: 9TmauvQVxNO+c1mRTdrNcorHorE=
+
+Name: org/eclipse/ui/internal/ide/dialogs/FileSystemSelectionArea.java
+SHA1-Digest: luHHOcb5dnpmfj22fugdd5HJjW4=
+
+Name: org/eclipse/ui/views/navigator/SortViewAction.java
+SHA1-Digest: nelenHUHg5kx8X6Wn5vhvobZmps=
+
+Name: org/eclipse/ui/actions/RefreshAction.java
+SHA1-Digest: lIl9bC+PdYSR0b0D1T/M20v149Y=
+
+Name: org/eclipse/ui/internal/views/markers/MarkerContentGenerator.jav
+ a
+SHA1-Digest: eQi91+qRV9J1jb/V4Kdvkxyt1dM=
+
+Name: org/eclipse/ui/views/navigator/ResourceNavigatorMessages.java
+SHA1-Digest: 3pmyJ3AraB5pU9MVN3neRJStvlk=
+
+Name: org/eclipse/ui/internal/views/framelist/FrameListMessages.java
+SHA1-Digest: jKq/t+fkhYd/ktxARZOnRw9OWjg=
+
+Name: org/eclipse/ui/internal/views/markers/MarkerTypeField.java
+SHA1-Digest: tRI8n45cNGSIVZXEOifOI/gaTxg=
+
+Name: org/eclipse/ui/internal/views/markers/TypeFieldGroup.java
+SHA1-Digest: qCGsIkpcvQfUUZ/E7J9I3A7F1pM=
+
+Name: org/eclipse/ui/views/markers/internal/FiltersAction.java
+SHA1-Digest: ExDMebcWhJdHf3ZANeec7+48Sdo=
+
+Name: schema/resourceFilters.exsd
+SHA1-Digest: mItJPXAPU4U4w/11VAWOgCQv/zw=
+
+Name: org/eclipse/ui/ide/ResourceUtil.java
+SHA1-Digest: AGFXKdrDoofl7ay9DpV4KMBJC2E=
+
+Name: org/eclipse/ui/internal/views/markers/MarkerSeverityAndDescripti
+ onField.java
+SHA1-Digest: 08Rt+PYx/Z1hfk4r5n2LnWQu7WI=
+
+Name: org/eclipse/ui/views/markers/internal/DialogProblemFilter.java
+SHA1-Digest: qY9wzejhtoBmrIpUs0fZklZ4e44=
+
+Name: org/eclipse/ui/internal/ide/dialogs/WelcomeEditorInputFactory.ja
+ va
+SHA1-Digest: QBkQs66XENxuaaTPkbMw7krDKdE=
+
+Name: org/eclipse/ui/internal/ide/dialogs/WelcomeEditor.java
+SHA1-Digest: hjAZChO/DqRYA9H7wAoJcu0FSok=
+
+Name: org/eclipse/ui/internal/views/markers/MarkersChangeListener.java
+SHA1-Digest: 22yR6vRb3ibXDvl4sFMCiJmwihM=
+
+Name: org/eclipse/ui/internal/ide/model/WorkbenchRootResource.java
+SHA1-Digest: KeOacmD3Jhg0Y/mxAiJgEcUk5NM=
+
+Name: org/eclipse/ui/internal/ide/EditorAreaDropAdapter.java
+SHA1-Digest: 9EIlvbCZ649jfJsZzU/nLsKp8/Q=
+
+Name: org/eclipse/ui/views/framelist/FrameAction.java
+SHA1-Digest: RToWl3nkCAGqerZIFnSsgBX39W8=
+
+Name: org/eclipse/ui/ide/dialogs/ResourceEncodingFieldEditor.java
+SHA1-Digest: Dg3dhniRW8+6LHtCKxJFhUTjCD4=
+
+Name: org/eclipse/ui/views/navigator/NavigatorFrameSource.java
+SHA1-Digest: ajkdYEpjJAA7Ba4BmUgbp6AdPgA=
+
+Name: org/eclipse/ui/IURIEditorInput.java
+SHA1-Digest: 2jKgS6yZhnP7+jmnzb7he6nzCek=
+
+Name: org/eclipse/ui/dialogs/WizardNewLinkPage.java
+SHA1-Digest: KjAlGn/g206e5PI8HDGsn/HTP5o=
+
+Name: org/eclipse/ui/views/navigator/FiltersContentProvider.java
+SHA1-Digest: BZRCkyDchAafiA9lH4RcfJsU7Yg=
+
+Name: org/eclipse/ui/views/markers/internal/TableSortAction.java
+SHA1-Digest: h2B49Mb7yOQBjMFbiwNU8QjrJIg=
+
+Name: org/eclipse/ui/part/ResourceTransfer.java
+SHA1-Digest: vv0EjELXnQbJ0FpK+78dPspILuo=
+
+Name: org/eclipse/ui/internal/ide/undo/MarkerDescription.java
+SHA1-Digest: OS4ix+rJYzKyFSyqrry/mvBttvQ=
+
+Name: org/eclipse/ui/internal/views/markers/GroupsContribution.java
+SHA1-Digest: quESZDuCYs82BLU06fpRbU0Y3AM=
+
+Name: org/eclipse/ui/views/markers/internal/FieldLineNumber.java
+SHA1-Digest: jMnKTeC25McGASKG5YXBw3x0c7c=
+
+Name: org/eclipse/ui/views/markers/internal/BookmarkMarker.java
+SHA1-Digest: ONKHR1na2Cf+A+IzJ8Kf32TLaBM=
+
+Name: org/eclipse/ui/dialogs/SaveAsDialog.java
+SHA1-Digest: 4xyZPAelOUYn9Q6R9VtrDKF6kM8=
+
+Name: org/eclipse/ui/actions/AddTaskAction.java
+SHA1-Digest: edkfR3ILTO8O2GVZ7DieeSp0KiY=
+
+Name: org/eclipse/ui/views/tasklist/GotoTaskAction.java
+SHA1-Digest: 2sqMwMykfDh9aN184y6vK+xxJX0=
+
+Name: org/eclipse/ui/ide/dialogs/AbstractEncodingFieldEditor.java
+SHA1-Digest: IWPTSWPqPjS8NLa4cZIsDriStCQ=
+
+Name: org/eclipse/ui/views/markers/internal/MarkerTypesModel.java
+SHA1-Digest: ADI1dy46yjCPcD9s2nll9HTdGPk=
+
+Name: org/eclipse/ui/views/navigator/ResourcePatternFilter.java
+SHA1-Digest: z1NiK+b8ba3qcd4nIqIuKL1kZY8=
+
+Name: org/eclipse/ui/views/markers/internal/DefaultMarkerResourceAdapt
+ er.java
+SHA1-Digest: f9YCpyC6JoDr5CS37/jTkT2Dd2I=
+
+Name: org/eclipse/ui/internal/views/markers/MarkerUpdateJob.java
+SHA1-Digest: YVk7yneTAdHd99hoVMI+w+8niyU=
+
+Name: org/eclipse/ui/views/markers/internal/ActionCopyMarker.java
+SHA1-Digest: bXzxZHkkIFIJkCW2CADF4PcuBdY=
+
+Name: org/eclipse/ui/internal/views/markers/Markers.java
+SHA1-Digest: TvGw8IuEZ/2z8d6O3uW0qI8LDkc=
+
+Name: org/eclipse/ui/internal/ide/IDEWorkbenchPlugin.java
+SHA1-Digest: x3IKa/z/T673PZZPOiY+bqFRipc=
+
+Name: org/eclipse/ui/internal/views/markers/MarkerColumnLabelProvider.
+ java
+SHA1-Digest: nr/sGqZrn3XcfUXXP5WHRJC4dQU=
+
+Name: org/eclipse/ui/ide/ResourceSelectionUtil.java
+SHA1-Digest: pL4ow6VxNZPnKvbzGapxY5XyySs=
+
+Name: org/eclipse/ui/views/tasklist/MarkerTypesModel.java
+SHA1-Digest: GMWqujQenCyfrrmfbsF8W8XcYAA=
+
+Name: org/eclipse/ui/wizards/datatransfer/WizardExternalProjectImportP
+ age.java
+SHA1-Digest: +XcPKlMpD4aeE3mAPmAZq2+z8e4=
+
+Name: org/eclipse/ui/internal/ide/filesystem/FileSystemMessages.java
+SHA1-Digest: rCNLuvE8OK4+9d05WvftKrrjZtY=
+
+Name: org/eclipse/ui/internal/ide/undo/UndoMessages.java
+SHA1-Digest: Vu5hGwqiZbTCaLyh1pmAh6SmDA0=
+
+Name: org/eclipse/ui/internal/ide/actions/BuildSetAction.java
+SHA1-Digest: fNqnWRS3FjsX9Ax+yj5/0T/dwKE=
+
+Name: org/eclipse/ui/IMarkerResolution2.java
+SHA1-Digest: jOEGC7vcnL0Y7wcwgVe/H5F3cIo=
+
+Name: org/eclipse/ui/dialogs/WizardImportPage.java
+SHA1-Digest: ZeqPMvJMyD92iFl/fq1KanyTDPE=
+
+Name: org/eclipse/ui/internal/ide/dialogs/CreateLinkedResourceGroup.ja
+ va
+SHA1-Digest: F55AqKrhZ7hRdgQW1jNJ2PzQllo=
+
+Name: org/eclipse/ui/actions/NewProjectAction.java
+SHA1-Digest: IGV0hmb2li7k2Li3YoVn3A9ZJXI=
+
+Name: schema/projectNatureImages.exsd
+SHA1-Digest: BmELahXKILcHzrpHDh4Ds4KV318=
+
+Name: org/eclipse/ui/internal/ide/filesystem/FileSystemStructureProvid
+ er.java
+SHA1-Digest: BQmKCOBg5i0xYwP38wSBbFU7JTA=
+
+Name: org/eclipse/ui/wizards/datatransfer/ZipFileImportWizard.java
+SHA1-Digest: LKT/4RhXsUYAOSdYReCiZIv2p1A=
+
+Name: org/eclipse/ui/actions/CloseResourceAction.java
+SHA1-Digest: SPC3+LklcW2YRHD1EfNx9TCemg4=
+
+Name: org/eclipse/ui/views/markers/internal/TableSortDialog.java
+SHA1-Digest: dZdH10EyMl5lU6MKfh81jHap2mo=
+
+Name: org/eclipse/ui/ide/undo/CopyProjectOperation.java
+SHA1-Digest: IJELhp8xw7rStqCgx1syCfpVKmQ=
+
+Name: org/eclipse/ui/actions/CopyProjectAction.java
+SHA1-Digest: mcT9xj6oICCUSv+qdgaTF5B+N3M=
+
+Name: org/eclipse/ui/internal/ide/model/StandardPropertiesAdapterFacto
+ ry.java
+SHA1-Digest: pyKAiq6pEeBhEGXoQbonuS79lAE=
+
+Name: org/eclipse/ui/internal/ide/undo/ProjectDescription.java
+SHA1-Digest: Si4iwnBB8jc7mI4Mw9zDktrhnAM=
+
+Name: org/eclipse/ui/internal/views/markers/MarkerSortUtil.java
+SHA1-Digest: 4Gb7Uo3+WZjkqeGAXNgoUvPEvzc=
+
+Name: org/eclipse/ui/views/markers/MarkerSupportConstants.java
+SHA1-Digest: sqlY7aB96u0ob/h3ypefk3PYn88=
+
+Name: org/eclipse/ui/internal/ide/dialogs/IDEEditorsPreferencePage.jav
+ a
+SHA1-Digest: nEMpfXHc7VgE7qdkHMrnfREUxQ4=
+
+Name: org/eclipse/ui/wizards/newresource/BasicNewFileResourceWizard.ja
+ va
+SHA1-Digest: P4zgGaU6ZbNSnzAHnUEZjbG6NhQ=
+
+Name: org/eclipse/ui/internal/ide/dialogs/FileFolderSelectionDialog.ja
+ va
+SHA1-Digest: nAFIIjVhdghV+MBg7uLXDcSBuwE=
+
+Name: org/eclipse/ui/internal/views/markers/OpenMarkersViewHandler.jav
+ a
+SHA1-Digest: ezgi/Qy/3NEEG/2FAqGKQ0kNsDs=
+
+Name: schema/filesystemSupport.exsd
+SHA1-Digest: XaWDP4w1iam07lacwK3mwDdf/CI=
+
+Name: org/eclipse/ui/views/tasklist/ITaskListHelpContextIds.java
+SHA1-Digest: iZ4rI0EPCSyTdlV9p77cQ5W3gyo=
+
+Name: org/eclipse/ui/actions/WorkspaceModifyOperation.java
+SHA1-Digest: C9ENgQE+WqVvsn7eGhiteGHXqSI=
+
+Name: org/eclipse/ui/internal/ide/undo/FolderDescription.java
+SHA1-Digest: g4gI3ZWaCnbe3eBA0vjhJ2ZKOgI=
+
+Name: org/eclipse/ui/internal/views/markers/TasksView.java
+SHA1-Digest: H/mv1z0CaHfYlZzyxQWAgGJ2Nm4=
+
+Name: org/eclipse/ui/views/bookmarkexplorer/CopyBookmarkAction.java
+SHA1-Digest: O2tckuLRUa5/n7qrivKB3wouipA=
+
+Name: org/eclipse/ui/ide/undo/AbstractCopyOrMoveResourcesOperation.jav
+ a
+SHA1-Digest: uDoFZgvapqfb7+EmkV7w0E+Wk/s=
+
+Name: org/eclipse/ui/dialogs/WizardNewProjectReferencePage.java
+SHA1-Digest: rOsEAwncjVbwFoV+wGMZmP5itrM=
+
+Name: org/eclipse/ui/views/bookmarkexplorer/SelectAllAction.java
+SHA1-Digest: iYgdTff9vY5eus587R6kUD/7mtA=
+
+Name: org/eclipse/ui/internal/views/markers/MarkersViewColumnsDialog.j
+ ava
+SHA1-Digest: 6Y9mAGd2TnG1yntZILYhoi8sEXw=
+
+Name: org/eclipse/ui/internal/ide/IURIEditorInputAdapterFactory.java
+SHA1-Digest: 8oLNJDOrxQWqm8tyng5RVoS8KmI=
+
+Name: org/eclipse/ui/views/navigator/NavigatorDragAdapter.java
+SHA1-Digest: YjvNfS+pEiZQ77eUnx7E8DUkYgg=
+
+Name: org/eclipse/ui/internal/ide/undo/FileDescription.java
+SHA1-Digest: 2lxxsZraSZ6sz2B3Oy4o7FhtW/o=
+
+Name: org/eclipse/ui/internal/ide/misc/StringFileInfoMatcher.java
+SHA1-Digest: ++ectjV6oZGvGzDqSXsTPATS200=
+
+Name: org/eclipse/ui/views/framelist/TreeFrame.java
+SHA1-Digest: M+OrZpg/vgEc09/XLH599lmF2Uk=
+
+Name: org/eclipse/ui/views/markers/internal/ActionAddGlobalTask.java
+SHA1-Digest: rZyrEGoMnSh0vLT1z5/ZuB2fBuM=
+
+Name: org/eclipse/ui/internal/ide/actions/OpenWorkspaceAction.java
+SHA1-Digest: eLljVzR4Wm6N0Dm5OCVVuG1rOLo=
+
+Name: org/eclipse/ui/ide/undo/CreateFolderOperation.java
+SHA1-Digest: USVxJoYr5t1vpnAWTac9fiDE2bE=
+
+Name: org/eclipse/ui/dialogs/WizardNewProjectCreationPage.java
+SHA1-Digest: XNPlam6KWDBrG+W0zwIcWZu886g=
+
+Name: org/eclipse/ui/internal/ide/handlers/OpenResourceHandler.java
+SHA1-Digest: Pz20XekYg2cF/26FAJ8NdbVUhKQ=
+
+Name: org/eclipse/ui/internal/views/markers/MarkerPriorityField.java
+SHA1-Digest: 4BCwf6AsJ0SpwnX307zYFZ58JDI=
+
+Name: org/eclipse/ui/views/tasklist/NewTaskAction.java
+SHA1-Digest: 03aC/EuSzhHA5I8TC9WWpiBM+v0=
+
+Name: org/eclipse/ui/internal/views/markers/DescriptionFieldFilter.jav
+ a
+SHA1-Digest: Qn7oRNxR4DZ8ZqPxiwQLVdyJWp0=
+
+Name: org/eclipse/ui/internal/views/markers/CompatibilityMarkerFieldFi
+ lterGroup.java
+SHA1-Digest: FoAWqxqR/49pc5vYXCtRHyjFOv0=
+
+Name: org/eclipse/ui/internal/views/markers/CompletionFieldFilter.java
+SHA1-Digest: HvoEA9I1JCFPM+IRrUEhu4Waq2Y=
+
+Name: org/eclipse/ui/internal/wizards/datatransfer/FileSystemExporter.
+ java
+SHA1-Digest: 2TCf3HC37ecqbot1GY4thqHsvw8=
+
+Name: org/eclipse/ui/views/markers/internal/FieldSeverityAndMessage.ja
+ va
+SHA1-Digest: 2AXuzE9zv/26XUSnDQt+ZGx8x+o=
+
+Name: org/eclipse/ui/views/framelist/ForwardAction.java
+SHA1-Digest: v6w5kRiE2Dj7a904CuabS5+id2Y=
+
+Name: org/eclipse/ui/views/framelist/TreeViewerFrameSource.java
+SHA1-Digest: 7vanb4/M63xye4WtVkIgg3DYOP0=
+
+Name: org/eclipse/ui/internal/ide/model/WorkspaceFactory.java
+SHA1-Digest: +s4JgkqlWpVnCtSkvm0iw1a1l2w=
+
+Name: org/eclipse/ui/actions/OpenWithMenu.java
+SHA1-Digest: lthfstzU1nTAHi6tkzJ9nOKFiYc=
+
+Name: org/eclipse/ui/internal/ide/misc/AndResourceFilter.java
+SHA1-Digest: FgOpgSknjZz27dClb+ntCuB/hV0=
+
+Name: org/eclipse/ui/internal/ide/misc/NotFileInfoMatcher.java
+SHA1-Digest: NoEIx7EHNmh3v9cDBSTLDsWyaOE=
+
+Name: org/eclipse/ui/views/markers/internal/AbstractField.java
+SHA1-Digest: 6JlQX+B7UBtuEybRAGkDzhvmpP8=
+
+Name: org/eclipse/ui/internal/ide/Policy.java
+SHA1-Digest: 50MNnt186/1JlrQ6uAfCv13nPwc=
+
+Name: org/eclipse/ui/internal/ide/actions/ToggleAutoBuildAction.java
+SHA1-Digest: qXPWV3cj5FcqiPXsb3Lv+w/Xq2A=
+
+Name: org/eclipse/ui/views/navigator/OpenActionGroup.java
+SHA1-Digest: 8oKHQBfXokzIJfmU2Zn4EZSMiiE=
+
+Name: org/eclipse/ui/internal/ide/dialogs/CleanDialog.java
+SHA1-Digest: oEIbhgJ9q2LcUBc1Hao+sBueI14=
+
+Name: org/eclipse/ui/internal/ide/commands/CopyConfigToClipboardHandle
+ r.java
+SHA1-Digest: aboKBFiUwUP5OVgvrNVxFS1EKUQ=
+
+Name: org/eclipse/ui/views/markers/internal/ActionResolveMarker.java
+SHA1-Digest: 6tQVqgvTV0RGaev6gf7hALmIet0=
+
+Name: org/eclipse/ui/IResourceActionFilter.java
+SHA1-Digest: y+I/Ueobac9jKEInR2GZVKOyHZI=
+
+Name: org/eclipse/ui/internal/views/markers/SelectedWarningsParameters
+ .java
+SHA1-Digest: GgcjF4Vvhp0WUkRdA2OYqv8oMCw=
+
+Name: org/eclipse/ui/internal/views/markers/MarkersPropertyPage.java
+SHA1-Digest: IOvspMuOvJK5lAd2nJqoF3YbQvo=
+
+Name: org/eclipse/ui/internal/views/markers/ViewerSettingsAndStatusDia
+ log.java
+SHA1-Digest: 1p0ZbpF1ZVO2uznPTS+lxZci1go=
+
+Name: org/eclipse/ui/ide/IDEActionFactory.java
+SHA1-Digest: rxCjpx18o8TOKye7/QlNbkbW9aM=
+
+Name: org/eclipse/ui/internal/views/markers/AllMarkersSeverityAndDescr
+ iptionFieldFilter.java
+SHA1-Digest: 2W8NBB+8HiCZaQY7YgKK2zo1jqM=
+
+Name: org/eclipse/ui/internal/views/markers/MarkerShowInAdapter.java
+SHA1-Digest: HLwuBexkFrs58WGEQBc09WOJRr4=
+
+Name: org/eclipse/ui/internal/ide/dialogs/WelcomeParser.java
+SHA1-Digest: ffarYIc7nAkVEK2QDXWpZI6kI2s=
+
+Name: org/eclipse/ui/actions/MoveFilesAndFoldersOperation.java
+SHA1-Digest: WnI9VCcfur40caabnC+i0osvm6w=
+
+Name: org/eclipse/ui/internal/ide/filesystem/FileSystemSupportRegistry
+ .java
+SHA1-Digest: PswHYXj4it7uNspHV+iN5DP3k+4=
+
+Name: org/eclipse/ui/internal/ide/registry/MarkerQuery.java
+SHA1-Digest: ruAdeJAEkwzih+YiLjcpqq8/1pM=
+
+Name: org/eclipse/ui/wizards/datatransfer/FileStoreStructureProvider.j
+ ava
+SHA1-Digest: K2tnLJKfU0+bxbEoOw1LxOmZSmU=
+
+Name: org/eclipse/ui/wizards/newresource/BasicNewFolderResourceWizard.
+ java
+SHA1-Digest: RHdOd5rKHqedgMnksvSmYlGuZi4=
+
+Name: org/eclipse/ui/ide/undo/CreateProjectOperation.java
+SHA1-Digest: ZR6cQuSwhjbpqyqqxIMfuLd+QzA=
+
+Name: org/eclipse/ui/internal/ide/dialogs/LinkedResourcesPreferencePag
+ e.java
+SHA1-Digest: LjOx6Nu+CGtH8HEMXWmJOKkKYYo=
+
+Name: org/eclipse/ui/views/framelist/Frame.java
+SHA1-Digest: nSc4IkJW9+oifPBIBVcCxIZfiOw=
+
+Name: org/eclipse/ui/internal/views/markers/MarkerSelectAllHandler.jav
+ a
+SHA1-Digest: 9nEvMTQAlKX8g8v6qP2kLrvehFo=
+
+Name: org/eclipse/ui/views/properties/FilePropertySource.java
+SHA1-Digest: BsjAb12ecLzK+o6C5VHaF2v5tMc=
+
+Name: org/eclipse/ui/part/FileEditorInputFactory.java
+SHA1-Digest: T6++F5CuLbfAxMS9hvFuphtDHL4=
+
+Name: org/eclipse/ui/internal/ide/undo/ContainerDescription.java
+SHA1-Digest: +vJcrgJQgjp22i5oOSzAuj19ZFA=
+
+Name: org/eclipse/ui/views/markers/internal/ActionMarkerProperties.jav
+ a
+SHA1-Digest: 8Nt9HVSvW2Y3siYwN5zXeG7Pm9k=
+
+Name: org/eclipse/ui/views/markers/internal/Util.java
+SHA1-Digest: fvLmSiuwWdFU7cakkbqgB9G1uzs=
+
+Name: org/eclipse/ui/internal/ide/actions/BuildCleanAction.java
+SHA1-Digest: z01WFZP6lwTFa6rWuoX+WmXaxms=
+
+Name: org/eclipse/ui/internal/views/markers/ConfigureColumnsHandler.ja
+ va
+SHA1-Digest: VF4FmcRUxGwhZ9HHSQPXpGraer0=
+
+Name: org/eclipse/ui/internal/views/markers/MarkersViewPropertyTester.
+ java
+SHA1-Digest: I6ZBosScoxKUEsOGGF0m+E0lLpQ=
+
+Name: org/eclipse/ui/views/markers/internal/MarkerList.java
+SHA1-Digest: TttBOktk5218k0oP5nrs514eZKU=
+
+Name: org/eclipse/ui/views/framelist/GoIntoAction.java
+SHA1-Digest: oG1jWXEDw2RE5SNlLvZEdqSCt40=
+
+Name: org/eclipse/ui/ide/IIDEActionConstants.java
+SHA1-Digest: 9sLMjeK3v0rlSX8I9Zv305iRqmw=
+
+Name: org/eclipse/ui/internal/views/markers/MarkersTreeViewer.java
+SHA1-Digest: bd8Ji60TeAWBq7HqGci+sjtbKaM=
+
+Name: org/eclipse/ui/views/markers/internal/CategoryComparator.java
+SHA1-Digest: W2UgePYftpXH6ywJGRc4fHXnHdA=
+
+Name: org/eclipse/ui/views/markers/WorkbenchMarkerResolution.java
+SHA1-Digest: 5LCQCzx2UpnjD2ka1fWBu89INV0=
+
+Name: org/eclipse/ui/views/markers/internal/IField.java
+SHA1-Digest: 6F1jRzM1g9Wd1sSioBMfVAG7otY=
+
+Name: org/eclipse/ui/internal/ide/ProblemImageProvider.java
+SHA1-Digest: QyMpX9UPuQu3RvHeNSqGyyjJ/Yg=
+
+Name: org/eclipse/ui/internal/views/markers/MarkerCategory.java
+SHA1-Digest: mC1S1QquOZ+TEFjXyZPrTvq1fEQ=
+
+Name: org/eclipse/ui/internal/ide/model/WorkbenchResource.java
+SHA1-Digest: int6cbq2xKm+IzyhwtJs+G0nKlQ=
+
+Name: org/eclipse/ui/views/properties/IResourcePropertyConstants.java
+SHA1-Digest: rYzMP00jccdOfG4v4NEwbvP+C70=
+
+Name: org/eclipse/ui/internal/views/markers/AllErrorsParameters.java
+SHA1-Digest: JD4jGp99JN3NBNwByslTbFFxXRM=
+
+Name: org/eclipse/ui/wizards/datatransfer/ExternalProjectImportWizard.
+ java
+SHA1-Digest: qWuLHT5AzFuxW8K+nBvvyqEFHpA=
+
+Name: org/eclipse/ui/internal/ide/dialogs/IDEWorkbenchPreferencePage.j
+ ava
+SHA1-Digest: FeHzCTnMYPCBTrFjTcbEQiTnJjI=
+
+Name: org/eclipse/ui/wizards/datatransfer/ZipFileExportWizard.java
+SHA1-Digest: 88dnh6HLOufQ6gtyufyqaVenrNM=
+
+Name: org/eclipse/ui/views/markers/internal/ProblemView.java
+SHA1-Digest: pXIaequIRtT/9E65nGuzOEtQrTA=
+

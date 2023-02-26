@@ -1,0 +1,30 @@
+Manifest-Version: 1.0
+Eclipse-SourceBundle: org.eclipse.jdt;version="3.7.1.v201109091335"
+Bundle-Vendor: %providerName
+Bundle-Localization: plugin
+Bundle-Name: %pluginName
+Bundle-SymbolicName: org.eclipse.jdt.source
+Bundle-Version: 3.7.1.v201109091335
+Bundle-ManifestVersion: 2
+
+Name: eclipse32.png
+SHA1-Digest: eCk/A3/COXL3S6qAVDOSrlsqmLw=
+
+Name: about.ini
+SHA1-Digest: 4+ZuAEXoOzgWrv1HOHHCd5TpkPs=
+
+Name: META-INF/eclipse.inf
+SHA1-Digest: KyT9FF7C7t86NoBoa2kZT3ZJBfw=
+
+Name: about.properties
+SHA1-Digest: Pk+5O3FfBcVU+4o/gsumDz1yCUw=
+
+Name: about.mappings
+SHA1-Digest: wZRkRUuD70448Yaqvo55MmCSQm8=
+
+Name: about.html
+SHA1-Digest: t15ZOHlrGDCeslNIq+PwNJ1tf+4=
+
+Name: plugin.properties
+SHA1-Digest: H1/ogtRhAbXyimi8wg4oiTVx3qs=
+

@@ -1,0 +1,42 @@
+Manifest-Version: 1.0
+Eclipse-SourceBundle: org.eclipse.jdt.junit4.runtime;version="1.1.200.
+ v20110505-0800";roots:="."
+Bundle-Vendor: %providerName
+Bundle-Localization: plugin
+Bundle-Name: %pluginName
+Bundle-SymbolicName: org.eclipse.jdt.junit4.runtime.source
+Bundle-Version: 1.1.200.v20110505-0800
+Bundle-ManifestVersion: 2
+
+Name: org/eclipse/jdt/internal/junit4/runner/JUnit4Identifier.java
+SHA1-Digest: vFrUrMejohpLnZAC2lAFrg4Zx30=
+
+Name: META-INF/eclipse.inf
+SHA1-Digest: KyT9FF7C7t86NoBoa2kZT3ZJBfw=
+
+Name: org/eclipse/jdt/internal/junit4/runner/JUnit4TestListener.java
+SHA1-Digest: 0YnA1+PtDY2qzBy+brACRcvm3BU=
+
+Name: org/eclipse/jdt/internal/junit4/runner/JUnit4TestLoader.java
+SHA1-Digest: Q7z1xL5eshBG1D3QArtsbXi/sKc=
+
+Name: org/eclipse/jdt/internal/junit4/runner/JUnit4TestClassReference.
+ java
+SHA1-Digest: mkupr7vzsAHx4VAon/2Df2JmvTE=
+
+Name: about.html
+SHA1-Digest: ejOZra0kypGLQQ2bJtGTX+LI8tU=
+
+Name: org/eclipse/jdt/internal/junit4/runner/JUnit4TestReference.java
+SHA1-Digest: jf2Lem/wc1Zz8gMQHDyVZaIyiQw=
+
+Name: org/eclipse/jdt/internal/junit4/runner/JUnit4TestMethodReference
+ .java
+SHA1-Digest: AEPLSjHd3hlEjEPxM4+ZOy6E2j0=
+
+Name: org/eclipse/jdt/internal/junit4/runner/FailuresFirstSorter.java
+SHA1-Digest: 7tprPHuu6fOeEbrvRCMSVvC223w=
+
+Name: plugin.properties
+SHA1-Digest: VAGggGYJY7eFdX+g+BtDfZaQk5Q=
+

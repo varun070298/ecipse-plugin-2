@@ -1,0 +1,42 @@
+Manifest-Version: 1.0
+Eclipse-SourceBundle: org.eclipse.platform;version="3.7.1.v20110909133
+ 5";roots:="platformsrc"
+Bundle-Vendor: %providerName
+Bundle-Localization: plugin
+Bundle-Name: %pluginName
+Bundle-SymbolicName: org.eclipse.platform.source
+Bundle-Version: 3.7.1.v201109091335
+Bundle-ManifestVersion: 2
+
+Name: platformsrc/org/eclipse/platform/internal/LaunchUpdateIntroActio
+ n.java
+SHA1-Digest: 8yqTiKHuvo0smVI+RD+5ipCdkWk=
+
+Name: platformsrc/org/eclipse/platform/internal/CheatSheetStandbyConte
+ nt.java
+SHA1-Digest: +pwZgWlolnNnYl/9WlIgShlgroU=
+
+Name: eclipse32.png
+SHA1-Digest: eCk/A3/COXL3S6qAVDOSrlsqmLw=
+
+Name: about.ini
+SHA1-Digest: TUoi4mbbBi/LUC9FQJ/y5uymusQ=
+
+Name: META-INF/eclipse.inf
+SHA1-Digest: KyT9FF7C7t86NoBoa2kZT3ZJBfw=
+
+Name: about.properties
+SHA1-Digest: AtVfwZHf097Ph+9UAOKtbUXxucE=
+
+Name: about.mappings
+SHA1-Digest: xRUVgpnu5CicMak2AqZ1a5kCWPk=
+
+Name: launchersrc.zip
+SHA1-Digest: rz8ZffNDKCvlHftLntDkAdZSS+E=
+
+Name: about.html
+SHA1-Digest: t15ZOHlrGDCeslNIq+PwNJ1tf+4=
+
+Name: plugin.properties
+SHA1-Digest: d+EqYBFc4R5tVBrycLK5UYXIGlM=
+

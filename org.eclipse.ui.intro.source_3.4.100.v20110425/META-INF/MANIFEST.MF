@@ -1,0 +1,337 @@
+Manifest-Version: 1.0
+Eclipse-SourceBundle: org.eclipse.ui.intro;version="3.4.100.v20110425"
+ ;roots:="."
+Bundle-Vendor: %provider_name
+Bundle-Localization: plugin
+Bundle-Name: %plugin_name
+Bundle-SymbolicName: org.eclipse.ui.intro.source
+Bundle-Version: 3.4.100.v20110425
+Bundle-ManifestVersion: 2
+
+Name: org/eclipse/ui/internal/intro/impl/parts/StandbyPart.java
+SHA1-Digest: 5bhjZLtfCzSyVs3KhM4bRtXbFGo=
+
+Name: schema/config.exsd
+SHA1-Digest: Om3OdeSJBlvlmw+TEo3vZ/T03qQ=
+
+Name: org/eclipse/ui/internal/intro/impl/model/History.java
+SHA1-Digest: fjXcbiTqPkcHk/RLaZOMX/F78z0=
+
+Name: org/eclipse/ui/internal/intro/impl/presentations/TextIntroPartIm
+ plementation.java
+SHA1-Digest: 6HfojhgYiGfLMYngE1laqHXfeFw=
+
+Name: org/eclipse/ui/internal/intro/impl/model/ExtensionMap.java
+SHA1-Digest: 199tmy5qinynTgVb9iPi2EhoycA=
+
+Name: org/eclipse/ui/internal/intro/impl/model/IntroLaunchBarShortcut.
+ java
+SHA1-Digest: CxJqMFu/et0QNWj6pnE8qFcp3LA=
+
+Name: org/eclipse/ui/internal/intro/impl/model/IntroLaunchBarElement.j
+ ava
+SHA1-Digest: SiuJWGDwrkY91wiCiYGT5KC7Je8=
+
+Name: org/eclipse/ui/internal/intro/impl/model/IntroExtensionContent.j
+ ava
+SHA1-Digest: jQbY3ocjtdGn56l4PZy0yvBLDPQ=
+
+Name: org/eclipse/ui/internal/intro/impl/IntroPlugin.java
+SHA1-Digest: ZGUYLgffYtN2hSHh2isN/bYlgb8=
+
+Name: org/eclipse/ui/internal/intro/impl/FontSelection.java
+SHA1-Digest: zgtDvU3u+pV4gdfd5YffFDCxn5c=
+
+Name: schema/IntroContent.exsd
+SHA1-Digest: XaZhF0HBUAUDLknS1VfgHQcFjgk=
+
+Name: org/eclipse/ui/internal/intro/impl/presentations/BrowserIntroPar
+ tLocationListener.java
+SHA1-Digest: DlHHzEQZiWmAAIoVYLhZST5UzdA=
+
+Name: org/eclipse/ui/internal/intro/impl/presentations/FormIntroPartIm
+ plementation.java
+SHA1-Digest: +n28kRWXWrV5cjz8mVMLp+qe1/Q=
+
+Name: org/eclipse/ui/internal/intro/impl/swt/PageForm.java
+SHA1-Digest: SdCe6nt3nxnWuefdRzJhW7gk838=
+
+Name: org/eclipse/ui/internal/intro/impl/model/util/FindSupport.java
+SHA1-Digest: nhRAR8Wo5EdMbOym62OTY+rQGeU=
+
+Name: org/eclipse/ui/internal/intro/impl/util/Util.java
+SHA1-Digest: lSWhqIShsukXGFTvI4KWSjURCfk=
+
+Name: schema/configExtension.exsd
+SHA1-Digest: 5PubXFJM9mFQNWGvmAVFccGZdF8=
+
+Name: org/eclipse/ui/internal/intro/impl/presentations/IntroLaunchBar.
+ java
+SHA1-Digest: ni8YCLseIyJ63XjfBOD7bfVP5q4=
+
+Name: org/eclipse/ui/internal/intro/impl/swt/PageStyleManager.java
+SHA1-Digest: FECO6mkWdPGURp1Jt1VUdJ7loAY=
+
+Name: org/eclipse/ui/intro/config/IIntroContentProviderSite.java
+SHA1-Digest: Udj7taYzGkhyq1nEiv3LPV0pHpk=
+
+Name: org/eclipse/ui/internal/intro/impl/model/IntroHead.java
+SHA1-Digest: gXizA1zU190gbc7vQUYPvNMLZ8U=
+
+Name: schema/book.css
+SHA1-Digest: 5xXshcuC52EGuJtQZkr+IGf5Bxs=
+
+Name: org/eclipse/ui/internal/intro/impl/model/url/ShowHelpURLHandler.
+ java
+SHA1-Digest: Z6EnWBm6plJDBe5tlkHngCnoEz4=
+
+Name: org/eclipse/ui/intro/contentproviders/EclipseRSSViewer.java
+SHA1-Digest: /hQqqAKkx1We/TzS3P6gEp0UwNM=
+
+Name: org/eclipse/ui/internal/intro/impl/util/IntroEvaluationContext.j
+ ava
+SHA1-Digest: +lnA88wgw93FpytMDutX7oZwgOs=
+
+Name: org/eclipse/ui/internal/intro/impl/html/HTMLUtil.java
+SHA1-Digest: +AK3xs1IKJAiSj4bVSp7S7b9oEI=
+
+Name: org/eclipse/ui/internal/intro/impl/html/HTMLElement.java
+SHA1-Digest: tR3xAA4x7xekolqJr16Dv7mT0Gw=
+
+Name: org/eclipse/ui/intro/config/IIntroXHTMLContentProvider.java
+SHA1-Digest: LXL659DwvQ2eeqGWvQLQJooGcOY=
+
+Name: org/eclipse/ui/internal/intro/impl/model/loader/ModelLoaderUtil.
+ java
+SHA1-Digest: RPQj7T9y0yanGI/EG0ik0J9Esq4=
+
+Name: org/eclipse/ui/internal/intro/impl/model/IntroModelRoot.java
+SHA1-Digest: OVXhn0fM6DstW1ghSeWZKZlLXEs=
+
+Name: org/eclipse/ui/internal/intro/impl/model/IntroStandbyContentPart
+ .java
+SHA1-Digest: 6zoqlk4dzgLFVZuMZxbIjLF8sd8=
+
+Name: org/eclipse/ui/internal/intro/impl/swt/SharedStyleManager.java
+SHA1-Digest: AY16REeS4CRsD/FoINPHl+WseEU=
+
+Name: org/eclipse/ui/internal/intro/impl/model/IntroSeparator.java
+SHA1-Digest: kctohgD9uSZ6aNdomKUHKfHZ69w=
+
+Name: org/eclipse/ui/internal/intro/impl/model/IntroLink.java
+SHA1-Digest: AafwyXSf8zRfO7uYclo6u61fzUc=
+
+Name: org/eclipse/ui/internal/intro/impl/util/StringUtil.java
+SHA1-Digest: O5aO5IbX/el9QUze5TcPwTRSa5U=
+
+Name: org/eclipse/ui/internal/intro/impl/util/Log.java
+SHA1-Digest: v8fkfyzfcqv5ipvAfap4TARW4oc=
+
+Name: org/eclipse/ui/internal/intro/impl/model/IntroHTML.java
+SHA1-Digest: nVafUfovO0ikFu/AJxgpDM1lc4U=
+
+Name: schema/schema.css
+SHA1-Digest: Mbkk4HyX2R38BaIQbCN7BczTJSU=
+
+Name: org/eclipse/ui/internal/intro/impl/model/url/IntroURL.java
+SHA1-Digest: ih6T+PbNPFJGCLnHyT+zOhAGE8Y=
+
+Name: org/eclipse/ui/intro/config/IIntroURL.java
+SHA1-Digest: 0eVLIzJhVd1R9rJchHuoTzZHZd0=
+
+Name: org/eclipse/ui/internal/intro/impl/model/IntroInclude.java
+SHA1-Digest: ZjXDQfBuxC8o5dbDwgtAysgqJbM=
+
+Name: about.html
+SHA1-Digest: ejOZra0kypGLQQ2bJtGTX+LI8tU=
+
+Name: org/eclipse/ui/internal/intro/impl/model/loader/IntroContentPars
+ er.java
+SHA1-Digest: 6FA/zFE9OLMMrTxCjSZ+Q6IStQc=
+
+Name: org/eclipse/ui/internal/intro/impl/model/IntroAnchor.java
+SHA1-Digest: 7ibH+psEP0Cs4+i0VwlddMRrBy8=
+
+Name: org/eclipse/ui/intro/config/IntroConfigurer.java
+SHA1-Digest: 9/hdRFFG2GGeBzx5gdTW5bYFF+Q=
+
+Name: org/eclipse/ui/internal/intro/impl/model/IntroPartPresentation.j
+ ava
+SHA1-Digest: VaM0QrrpSMvjPh3agYao7MdND1w=
+
+Name: org/eclipse/ui/internal/intro/impl/swt/PageContentForm.java
+SHA1-Digest: /TvyOHrxdKv6/h+p7qjChTXCva8=
+
+Name: schema/introContentFileSpec.html
+SHA1-Digest: YNUTH0Ixvl7pBgvsXglxLz2mtxs=
+
+Name: org/eclipse/ui/internal/intro/impl/model/IntroSearchParticipant.
+ java
+SHA1-Digest: nzoYWTGEOSgsbuS7MHRQvQWZ9oA=
+
+Name: org/eclipse/ui/internal/intro/impl/model/util/ModelUtil.java
+SHA1-Digest: 5O8/QDc4Ugw8JxzhQB8OqA67gGY=
+
+Name: org/eclipse/ui/intro/config/IntroURLFactory.java
+SHA1-Digest: kmDMp5JWBsB5x62hwVatfAB9ffw=
+
+Name: org/eclipse/ui/intro/config/CustomizableIntroPart.java
+SHA1-Digest: kVQmaPMCIuW8I8fBzcyNvsmhjuc=
+
+Name: org/eclipse/ui/intro/config/IIntroAction.java
+SHA1-Digest: y/60JWqRakcN9fTu9O/JmkHkQWk=
+
+Name: org/eclipse/ui/internal/intro/impl/model/AbstractIntroElement.ja
+ va
+SHA1-Digest: hkZlecD5KFgc3xMJN2E3WSZMd2o=
+
+Name: org/eclipse/ui/internal/intro/impl/model/loader/BaseExtensionPoi
+ ntManager.java
+SHA1-Digest: WGyK5NjzUvpuMlPUJsNFHeRnjeE=
+
+Name: org/eclipse/ui/internal/intro/impl/model/IntroImage.java
+SHA1-Digest: s1SrUIZ++wh/qVhmRVEOqWxJj1k=
+
+Name: org/eclipse/ui/intro/config/IntroElement.java
+SHA1-Digest: O57wNWf3JsmW7qlGdEnsdrbdYLI=
+
+Name: org/eclipse/ui/internal/intro/impl/model/AbstractIntroPage.java
+SHA1-Digest: 8CVl+HfTdreZLd5gOTBS3beB/cU=
+
+Name: org/eclipse/ui/internal/intro/impl/Messages.java
+SHA1-Digest: gL2k1QQxofmJjHLi4i2wbwvQ8iI=
+
+Name: META-INF/eclipse.inf
+SHA1-Digest: KyT9FF7C7t86NoBoa2kZT3ZJBfw=
+
+Name: org/eclipse/ui/internal/intro/impl/model/util/BundleUtil.java
+SHA1-Digest: phLQbyfN23E1ANnxsHAP/nvZAe4=
+
+Name: org/eclipse/ui/internal/intro/impl/model/IntroPageTitle.java
+SHA1-Digest: YS12VamGILJyDTTvmjRZPsGmyGI=
+
+Name: org/eclipse/ui/internal/intro/impl/model/AbstractTextElement.jav
+ a
+SHA1-Digest: MYJ7NBZfiVOgiL9aNM4N2GQ6LQU=
+
+Name: org/eclipse/ui/intro/config/IIntroContentProvider.java
+SHA1-Digest: jou1yXRZhbnGZiiLr2oc/2kNOnY=
+
+Name: org/eclipse/ui/internal/intro/impl/model/IntroURLAction.java
+SHA1-Digest: lo/QUBXM1SU4/2IOC776UEWCBR0=
+
+Name: org/eclipse/ui/internal/intro/impl/model/AbstractIntroContainer.
+ java
+SHA1-Digest: J+edhwPdeo7SRjPyFouudRfFLKY=
+
+Name: org/eclipse/ui/intro/contentproviders/AlwaysWelcomeCheckbox.java
+SHA1-Digest: Faibdvbzvjd2lzLENZOXGsYPGHQ=
+
+Name: org/eclipse/ui/internal/intro/impl/util/IntroModelSerializer.jav
+ a
+SHA1-Digest: kH3MHcmYhgMSovzk8qBvDS3EbuI=
+
+Name: org/eclipse/ui/internal/intro/impl/model/viewer/IntroModelLabelP
+ rovider.java
+SHA1-Digest: 35N799cijjjgLwKT88ZA56KZ1ys=
+
+Name: org/eclipse/ui/internal/intro/impl/model/IntroHomePage.java
+SHA1-Digest: NLT1nky8MUZ4vbz7FbYtUpHz+cY=
+
+Name: org/eclipse/ui/internal/intro/impl/swt/PageFormWithNavigation.ja
+ va
+SHA1-Digest: yKUWL+Qwb7Q0ZjMqjo2znCeolyY=
+
+Name: org/eclipse/ui/internal/intro/impl/model/AbstractBaseIntroElemen
+ t.java
+SHA1-Digest: Llu95RpQiBcfIuXffhOkw0NQFm0=
+
+Name: org/eclipse/ui/internal/intro/impl/model/url/IntroURLParser.java
+SHA1-Digest: a4yo9PqXaceUc8fQtIwmC07RbRE=
+
+Name: org/eclipse/ui/internal/intro/impl/model/IntroContentProvider.ja
+ va
+SHA1-Digest: rJyKBfqi0Vf1USckarZahsk0Lgw=
+
+Name: plugin.properties
+SHA1-Digest: oBuTsmFdWRLf9jl4ntxszoaYYdY=
+
+Name: org/eclipse/ui/internal/intro/impl/presentations/BrowserIntroPar
+ tImplementation.java
+SHA1-Digest: UX0uiRdCbMUTwkBEdSHrABeSSyg=
+
+Name: org/eclipse/ui/internal/intro/impl/model/AbstractIntroIdElement.
+ java
+SHA1-Digest: YWPARWCB9v1ZPJ6hVMW05SJSV/8=
+
+Name: org/eclipse/ui/internal/intro/impl/html/IntroHTMLGenerator.java
+SHA1-Digest: XMVlqi7dEGjHN49KTWqLEP4X3dg=
+
+Name: org/eclipse/ui/internal/intro/impl/model/loader/SharedConfigExte
+ nsionsManager.java
+SHA1-Digest: 9BQX72UYDOCv/DTS3koXn3GBSwM=
+
+Name: org/eclipse/ui/internal/intro/impl/model/viewer/IntroModelConten
+ tProvider.java
+SHA1-Digest: Vs1108DKxyZminCQ5Y6bM725apI=
+
+Name: org/eclipse/ui/internal/intro/impl/html/FormattedHTMLElement.jav
+ a
+SHA1-Digest: GWs1kLB8lhguWRhXQFPT2cL64y0=
+
+Name: org/eclipse/ui/internal/intro/impl/swt/PageWidgetFactory.java
+SHA1-Digest: LkE4NGzJi94YRXjECXdEATwN9h0=
+
+Name: org/eclipse/ui/internal/intro/impl/swt/RootPageForm.java
+SHA1-Digest: tRTJEiyYUfcgjneEigbP44lIZyQ=
+
+Name: org/eclipse/ui/internal/intro/impl/model/IntroPage.java
+SHA1-Digest: zOrj83mRHDDDsT3nTobYczY6diU=
+
+Name: org/eclipse/ui/internal/intro/impl/IIntroConstants.java
+SHA1-Digest: G7vEx7yHXud6CqQFPmaexwSthKo=
+
+Name: org/eclipse/ui/internal/intro/impl/util/ReopenUtil.java
+SHA1-Digest: R2uLjNBpSL2OTR9LY+e+zXEhZZo=
+
+Name: org/eclipse/ui/internal/intro/impl/model/loader/ExtensionPointMa
+ nager.java
+SHA1-Digest: BkOWSvqzmq4/EMhFYwTIh1pdpvs=
+
+Name: org/eclipse/ui/internal/intro/impl/model/AbstractIntroPartImplem
+ entation.java
+SHA1-Digest: HZeT780UBzCxaI86ejOD+yK/udo=
+
+Name: org/eclipse/ui/intro/config/IStandbyContentPart.java
+SHA1-Digest: Gg+1jKB2BNEiNyjFSgBsh1bprgw=
+
+Name: org/eclipse/ui/internal/intro/impl/model/IntroTheme.java
+SHA1-Digest: z10TNnlONG2+aBIKYkrfVml6Rjg=
+
+Name: org/eclipse/ui/internal/intro/impl/html/IIntroHTMLConstants.java
+SHA1-Digest: UgEj1x5NgI16rG+fzPQHpB45KPk=
+
+Name: org/eclipse/ui/internal/intro/impl/model/IntroGroup.java
+SHA1-Digest: Z5hbnYD/K9UAzX4AhxtiR/AwuP4=
+
+Name: org/eclipse/ui/internal/intro/impl/parts/EmptyStandbyContentPart
+ .java
+SHA1-Digest: uenrZ5aHsR/iFhPn/YHPX9DKToU=
+
+Name: org/eclipse/ui/internal/intro/impl/model/IntroInjectedIFrame.jav
+ a
+SHA1-Digest: oN+8012knYYI8VELml9Mi0WZ0Lw=
+
+Name: org/eclipse/ui/internal/intro/impl/model/loader/ContentProviderM
+ anager.java
+SHA1-Digest: lriHw7EI3UPPiqzg0rDNUvKidnk=
+
+Name: org/eclipse/ui/internal/intro/impl/util/DialogUtil.java
+SHA1-Digest: /VGCqcb7Esbr8hY2ul5zBL6fSDI=
+
+Name: org/eclipse/ui/internal/intro/impl/util/ImageUtil.java
+SHA1-Digest: REVT9sMUDpy8f/IpTNMRMQP2lWU=
+
+Name: org/eclipse/ui/internal/intro/impl/model/IntroText.java
+SHA1-Digest: nH0V9j5SuX/xZEn4VYQdUk4cxEI=
+

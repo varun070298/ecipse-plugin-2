@@ -1,0 +1,70 @@
+Manifest-Version: 1.0
+Eclipse-SourceBundle: org.eclipse.jsch.ui;version="1.1.300.I20110511-0
+ 800";roots:="."
+Bundle-Vendor: %providerName
+Bundle-Localization: plugin
+Bundle-Name: %pluginName
+Bundle-SymbolicName: org.eclipse.jsch.ui.source
+Bundle-Version: 1.1.300.I20110511-0800
+Bundle-ManifestVersion: 2
+
+Name: org/eclipse/jsch/internal/ui/authenticator/KeyboardInteractiveDi
+ alog.java
+SHA1-Digest: giktz+WUOPOtifXz0De5axDlLRs=
+
+Name: org/eclipse/jsch/internal/ui/preference/PassphraseDialog.java
+SHA1-Digest: r30U/T8vDBD0zo3G/I6uTaM/xWU=
+
+Name: META-INF/eclipse.inf
+SHA1-Digest: KyT9FF7C7t86NoBoa2kZT3ZJBfw=
+
+Name: org/eclipse/jsch/internal/ui/JSchUIPlugin.java
+SHA1-Digest: WAAJCeLNxZwYiru+YvG28wR6z4Y=
+
+Name: org/eclipse/jsch/internal/ui/KeyboardInteractiveDialog.java
+SHA1-Digest: kHMNxYBN+5hyjng8oH3qeHtZPAc=
+
+Name: org/eclipse/jsch/internal/ui/IUIConstants.java
+SHA1-Digest: +kguqt1irXQvqF7YbrPKizvFrNs=
+
+Name: org/eclipse/jsch/internal/ui/preference/PreferencePage.java
+SHA1-Digest: EOE3gyeNuk/jfiSfMUAnCkObs7Q=
+
+Name: about.html
+SHA1-Digest: ejOZra0kypGLQQ2bJtGTX+LI8tU=
+
+Name: org/eclipse/jsch/internal/ui/Messages.java
+SHA1-Digest: 2fKYiP2Hhi1tTl941t+wPKca/GA=
+
+Name: org/eclipse/jsch/internal/ui/UserValidationDialog.java
+SHA1-Digest: dMVpgrH5mAGH9aEAmJotMOEHTeI=
+
+Name: plugin.properties
+SHA1-Digest: 283D8a267ojsXa43fAjjMoilg3o=
+
+Name: org/eclipse/jsch/internal/ui/authenticator/IHelpContextIds.java
+SHA1-Digest: qM+w4enGHnQLfEugvSAzBxJ49bU=
+
+Name: org/eclipse/jsch/internal/ui/authenticator/UserValidationDialog.
+ java
+SHA1-Digest: TvKUlo0ELqQWp5oWp019A24wJes=
+
+Name: org/eclipse/jsch/internal/ui/preference/SWTUtils.java
+SHA1-Digest: ymqvuQKk9F8ME5pjhKfe7beQFME=
+
+Name: org/eclipse/jsch/internal/ui/IHelpContextIds.java
+SHA1-Digest: fwq0J8C7lnExVy7P3SeCW4IGWUs=
+
+Name: org/eclipse/jsch/internal/ui/authenticator/WorkbenchUserAuthenti
+ cator.java
+SHA1-Digest: Jo3t2MvcH9xcGvNdkLDsUYtF1e8=
+
+Name: org/eclipse/jsch/internal/ui/preference/ExportDialog.java
+SHA1-Digest: B4OMOUW3rSesOds0iJ5EcQnMCJc=
+
+Name: org/eclipse/jsch/ui/UserInfoPrompter.java
+SHA1-Digest: hz2bIVqOP+9k8ALtagQE6k6Kr6A=
+
+Name: org/eclipse/jsch/internal/ui/preference/PixelConverter.java
+SHA1-Digest: HnLUTtrq3kDpmjNtU/jppZj4WFA=
+

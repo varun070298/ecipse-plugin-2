@@ -1,0 +1,344 @@
+Manifest-Version: 1.0
+Eclipse-SourceBundle: org.eclipse.update.ui;version="3.2.300.v20100512
+ ";roots:="."
+Bundle-Vendor: %providerName
+Bundle-Localization: plugin
+Bundle-Name: %pluginName
+Bundle-SymbolicName: org.eclipse.update.ui.source
+Bundle-Version: 3.2.300.v20100512
+Bundle-ManifestVersion: 2
+
+Name: org/eclipse/update/internal/ui/views/FindUpdatesAction.java
+SHA1-Digest: 5jvxE6/kHjDk7igMQUBg5T+Cu8k=
+
+Name: org/eclipse/update/internal/ui/preferences/UpdateSettingsPrefere
+ ncePage.java
+SHA1-Digest: ECGzjfVwiO+q8Olg87IL8lxuRSk=
+
+Name: org/eclipse/update/internal/ui/wizards/SitesImportExport.java
+SHA1-Digest: o0NWbdpBHXto/5puNsgy74XtctM=
+
+Name: org/eclipse/update/internal/ui/UpdateLabelProvider.java
+SHA1-Digest: swdb1GGDc3wqD9Op/Mp/LbwNRFQ=
+
+Name: org/eclipse/update/internal/ui/model/IConfiguredFeatureAdapter.j
+ ava
+SHA1-Digest: Y7W0T8M+rLQD/lgp7WQnvOQm9Gc=
+
+Name: org/eclipse/update/internal/ui/model/FeatureAdapter.java
+SHA1-Digest: xRtN6r4ApTYGoe/eQ4cVxkqFz9k=
+
+Name: org/eclipse/update/internal/ui/model/BookmarkUtil.java
+SHA1-Digest: KiBxXm8CNh7SHWIcGw/DpdDNtS0=
+
+Name: org/eclipse/update/internal/ui/parts/ImageOverlayIcon.java
+SHA1-Digest: oUJWByIT0+Q6+FYHbsqB0CgOr9E=
+
+Name: org/eclipse/update/internal/ui/wizards/ContainerCheckedTreeViewe
+ r.java
+SHA1-Digest: 5cvIqkLqwRlQY9NCRRKLlFgqq3A=
+
+Name: org/eclipse/update/internal/ui/model/FeatureReferenceAdapter.jav
+ a
+SHA1-Digest: F8k9W9itnKZFkSX0R5WqAfScTVk=
+
+Name: org/eclipse/update/internal/ui/views/UninstallFeaturesAction.jav
+ a
+SHA1-Digest: OBJf8PryNjZ9pWuxlAVGVOL+tLs=
+
+Name: org/eclipse/update/internal/ui/security/JarVerificationService.j
+ ava
+SHA1-Digest: HKXTpVCtHVlx8z+Q97rlkweEm0U=
+
+Name: org/eclipse/update/internal/ui/views/UnconfigureAndUninstallFeat
+ ureAction.java
+SHA1-Digest: NtGJqlWCLzh0SqIxoCaHyt159yg=
+
+Name: org/eclipse/update/internal/ui/wizards/InstallWizard2.java
+SHA1-Digest: hxJEsrD7kSQkLh3friF3li/DUHE=
+
+Name: org/eclipse/update/internal/ui/wizards/LocalSiteSelector.java
+SHA1-Digest: CC4+XCDKCAZ6dzVJf7+1YMQYTbk=
+
+Name: org/eclipse/update/internal/ui/wizards/RevertConfigurationWizard
+ Page.java
+SHA1-Digest: yAe2Efvg87bi5dIHahD32OouIEo=
+
+Name: org/eclipse/update/internal/ui/model/SiteCategory.java
+SHA1-Digest: dRbOwYvZWJgrPIn6QSgRPDHIKco=
+
+Name: org/eclipse/update/internal/ui/model/BookmarkFolder.java
+SHA1-Digest: Y2n6st4d9rygz1vgcJXqZM29wgo=
+
+Name: org/eclipse/update/internal/ui/wizards/InstallWizardOperation.ja
+ va
+SHA1-Digest: F3MQ46aqo2ft34dnMxJbDYCqe5I=
+
+Name: org/eclipse/update/internal/ui/model/IConfiguredSiteContext.java
+SHA1-Digest: yBu95ZIIhUhYCOC2RMG+Twk5Ei4=
+
+Name: org/eclipse/update/internal/ui/wizards/InstallWizard.java
+SHA1-Digest: nDpXV6hGZn+r4rgFhjrcjzRj8kY=
+
+Name: org/eclipse/update/internal/ui/wizards/DuplicateConflictsDialog.
+ java
+SHA1-Digest: //hhYNXx8SJ9GvWJhp6VzEdBc2k=
+
+Name: org/eclipse/update/internal/ui/views/ConfigurationView.java
+SHA1-Digest: HKobsLkzzo4X4Z/0DG5WLcNueOE=
+
+Name: org/eclipse/update/internal/ui/wizards/BannerPage.java
+SHA1-Digest: Pc3IycelyFRwiXZsKrccDxbvGzU=
+
+Name: org/eclipse/update/internal/ui/wizards/EditSiteDialog.java
+SHA1-Digest: umzZBLZCQBC6rZM1a4n2izRIWI8=
+
+Name: org/eclipse/update/internal/ui/properties/FeatureCopyrightProper
+ tyPage.java
+SHA1-Digest: p82gr2zQLB+IS/mDN19ztjQJ8Q4=
+
+Name: org/eclipse/update/internal/ui/wizards/NewUpdateSiteDialog.java
+SHA1-Digest: clyC8pxs3K36v8A5tTl7gxjLMbo=
+
+Name: org/eclipse/update/internal/ui/views/InstallationHistoryAction.j
+ ava
+SHA1-Digest: /ZkxdGRkvxYdtC/+uPsglo+/AMU=
+
+Name: org/eclipse/update/internal/ui/model/MissingFeature.java
+SHA1-Digest: QnwKb1YvJlv3ppGo0j1VrKkoLos=
+
+Name: org/eclipse/update/internal/ui/views/FeatureAction.java
+SHA1-Digest: QT8fuvqqyRtH2t4d/Z2nF1enlbM=
+
+Name: org/eclipse/update/internal/ui/properties/FeatureStatusPropertyP
+ age.java
+SHA1-Digest: bgmKudTOUJO8e2M6Dli7XK9lVd8=
+
+Name: org/eclipse/update/internal/ui/security/JarVerificationDialog.ja
+ va
+SHA1-Digest: Ye3OhTUg+syLqs/+o6wR2qKQ5bE=
+
+Name: org/eclipse/update/internal/ui/security/Authentication.java
+SHA1-Digest: 91t2rBTlkmhya/CuzuE6yBGewJk=
+
+Name: org/eclipse/update/internal/ui/model/ConfiguredSiteAdapter.java
+SHA1-Digest: 7o+BjUeqEyDPgIISK1aVZpdw/E0=
+
+Name: org/eclipse/update/internal/ui/wizards/ISearchProvider.java
+SHA1-Digest: qUO+34HxqgphFleeUEuN9ZZJc70=
+
+Name: org/eclipse/update/internal/ui/parts/OverlayIcon.java
+SHA1-Digest: KayrY0a6IsjRCLvZqAJbh0ko26g=
+
+Name: org/eclipse/update/internal/ui/views/ManageConfigurationHandler.
+ java
+SHA1-Digest: UxmKk75nLfz+j95uAm6nTONahvw=
+
+Name: org/eclipse/update/internal/ui/views/FeaturesStateAction.java
+SHA1-Digest: ZwN3MAbD7+S3vIG+4TlwaHQyjYM=
+
+Name: org/eclipse/update/ui/UpdateJob.java
+SHA1-Digest: LO/46ICjCxB1Rpmf19+fom3lfkw=
+
+Name: about.html
+SHA1-Digest: ejOZra0kypGLQQ2bJtGTX+LI8tU=
+
+Name: org/eclipse/update/internal/ui/wizards/TargetPage.java
+SHA1-Digest: 2Ujb3Ewgal7WNWb7sD0ZPRX+QG4=
+
+Name: org/eclipse/update/internal/ui/model/IFeatureAdapter.java
+SHA1-Digest: c7p+BW3ui/CiGqlO84BQq3Q5oYE=
+
+Name: org/eclipse/update/internal/ui/security/UserValidationDialog.jav
+ a
+SHA1-Digest: eJ3UCtkqUaDw6ow7F8rpeTaTtjg=
+
+Name: org/eclipse/update/internal/ui/RestartDialog.java
+SHA1-Digest: gDVwiwhCGH53OcmcTfkWRukXx0M=
+
+Name: org/eclipse/update/internal/ui/wizards/RevertConfigurationWizard
+ .java
+SHA1-Digest: NjguOUpa2eSOg0izbsXLHkSuxDk=
+
+Name: org/eclipse/update/internal/ui/model/ConfiguredFeatureAdapter.ja
+ va
+SHA1-Digest: zRsOQEU2dm5JAm2uolj/wXC0EYU=
+
+Name: org/eclipse/update/internal/ui/preferences/MainPreferencePage.ja
+ va
+SHA1-Digest: t3aVHl9OvSQx9Oha+dRdLhEa/xE=
+
+Name: org/eclipse/update/internal/ui/wizards/ModeSelectionPage.java
+SHA1-Digest: AScelbPzmLTns8nmrYXC7MxmJao=
+
+Name: org/eclipse/update/internal/ui/wizards/ShowActivitiesDialog.java
+SHA1-Digest: EIusgDseAViN2HR2GsjX3Smyong=
+
+Name: org/eclipse/update/internal/ui/wizards/TableLayoutComposite.java
+SHA1-Digest: BZPVtlPA7g5GduyRwMcZ9n/2Pgg=
+
+Name: org/eclipse/update/internal/ui/views/FindAndInstallHandler.java
+SHA1-Digest: WxefwzRXqsy37gZv6/zDZjhMyQ0=
+
+Name: org/eclipse/update/internal/ui/properties/FeatureLicenseProperty
+ Page.java
+SHA1-Digest: vnuS7qIrCh2eBkJPVgPIF2e8TSA=
+
+Name: org/eclipse/update/internal/ui/wizards/OptionalFeaturesPage.java
+SHA1-Digest: /yd3m+HWlhIzAcJDcAoLcIrKhTs=
+
+Name: org/eclipse/update/internal/ui/views/FeatureStateAction.java
+SHA1-Digest: LvpJTvWhLYDGtBYZ8r8YozblLxY=
+
+Name: org/eclipse/update/internal/ui/model/SimpleFeatureAdapter.java
+SHA1-Digest: dYkD6l1idp8ZmNh/2HEEYunPujc=
+
+Name: org/eclipse/update/internal/ui/wizards/ReplaceFeatureVersionWiza
+ rdPage.java
+SHA1-Digest: BC0Sk6/DyFxhztmMz1Yel9cfhgA=
+
+Name: org/eclipse/update/internal/ui/wizards/ReviewPage.java
+SHA1-Digest: Ee0rHhnW3+H1LTh/1sRkXHbyLHA=
+
+Name: org/eclipse/update/internal/ui/properties/ConfiguredSiteProperty
+ Page.java
+SHA1-Digest: hlesETxfY9ZBnSEe3R1bBZL/68A=
+
+Name: org/eclipse/update/internal/ui/wizards/TargetSiteDialog.java
+SHA1-Digest: gw/7w0JqWj59oQ3ivceFmafVPL4=
+
+Name: org/eclipse/update/internal/ui/ConfigurationManagerWindow.java
+SHA1-Digest: Zbh5mmUdhOxY2v1LIWLOQaDVh4A=
+
+Name: org/eclipse/update/internal/ui/model/IConfiguredSiteAdapter.java
+SHA1-Digest: TOH8hdjK+0ZH0ZX1W0ZJ/pynLAc=
+
+Name: org/eclipse/update/internal/ui/wizards/UIProblemHandler.java
+SHA1-Digest: BrVFm9yKWvbnfD/Ck1w0yDMiFiU=
+
+Name: org/eclipse/update/internal/ui/model/UpdateModel.java
+SHA1-Digest: xc8a/Ab7olvfmHen1vrBnJFOCpU=
+
+Name: org/eclipse/update/internal/ui/wizards/FeatureSorter.java
+SHA1-Digest: 2l7FaPWRQf4zUAhbNsP0s6nnQFQ=
+
+Name: org/eclipse/update/internal/ui/parts/AbstractOverlayIcon.java
+SHA1-Digest: 5edPMGzJ6MhllP09cYq+A1/NIpU=
+
+Name: org/eclipse/update/internal/ui/security/JarVerificationPage.java
+SHA1-Digest: q0iBWa4yKOOMqCUEgDZlGGz9fLs=
+
+Name: org/eclipse/update/internal/ui/URLCoder.java
+SHA1-Digest: IvJsvJ0Dz+rG03WssGbJMlLsQpY=
+
+Name: org/eclipse/update/internal/ui/views/InstallOptionalFeatureActio
+ n.java
+SHA1-Digest: PAfyNg58d1924zbSlkvjainooUk=
+
+Name: org/eclipse/update/internal/ui/views/UnconfigureAndUninstallFeat
+ uresAction.java
+SHA1-Digest: CLCCG8v1+dHx7Rb/DZEEf1LTw38=
+
+Name: org/eclipse/update/internal/ui/wizards/LicensePage.java
+SHA1-Digest: BKa3CvoAJ6XqO6vPOmFk3NQUAm8=
+
+Name: META-INF/eclipse.inf
+SHA1-Digest: KyT9FF7C7t86NoBoa2kZT3ZJBfw=
+
+Name: org/eclipse/update/internal/ui/parts/SWTUtil.java
+SHA1-Digest: VuENeF9FkoF0nJMF2zqvJl2582Y=
+
+Name: org/eclipse/update/internal/ui/wizards/ResizableInstallWizardDia
+ log.java
+SHA1-Digest: UJ8kpr7bHzBKR7/drbit94Miohw=
+
+Name: org/eclipse/update/internal/ui/parts/PixelConverter.java
+SHA1-Digest: KXCp5wJZIHmGoQqs68sihY4sp6c=
+
+Name: org/eclipse/update/internal/ui/views/IPreviewTask.java
+SHA1-Digest: RdsXA+utjhXWhgDqD6MZ/AaShZo=
+
+Name: org/eclipse/update/internal/ui/wizards/SitePage.java
+SHA1-Digest: bVX3ZcsJK1ApbOa31LTBlUOu/vk=
+
+Name: org/eclipse/update/internal/ui/properties/FeatureGeneralProperty
+ Page.java
+SHA1-Digest: E6uBsko+CyykcVKviqwhYm01RSk=
+
+Name: org/eclipse/update/internal/ui/parts/DefaultContentProvider.java
+SHA1-Digest: 5kBEQxKHf0dCnWNawml5oM0HoVE=
+
+Name: org/eclipse/update/internal/ui/model/UIModelObject.java
+SHA1-Digest: VUTYInQYZAoh8Fk//K1lql2faD0=
+
+Name: org/eclipse/update/internal/ui/views/ConfigurationPreview.java
+SHA1-Digest: UOP161tuDlfM4z39xIhPlh4O/1g=
+
+Name: org/eclipse/update/internal/ui/views/RevertConfigurationAction.j
+ ava
+SHA1-Digest: 3PXlyfJddixhVSUkhJVKUV/kPCc=
+
+Name: org/eclipse/update/internal/ui/wizards/IDynamicPage.java
+SHA1-Digest: 4rb3ZvyfkbPnYupJvhL8Ue/CwGM=
+
+Name: org/eclipse/update/internal/ui/views/NewExtensionLocationAction.
+ java
+SHA1-Digest: YogVC0fHCfR6sx7czzeFSaV5mFc=
+
+Name: plugin.properties
+SHA1-Digest: VW+VNn1ay7PXz5HCrVKOVgg2eyE=
+
+Name: org/eclipse/update/internal/ui/properties/InstallConfigurationPr
+ opertyPage.java
+SHA1-Digest: dygGuo8oTb1WWuyNcMEpQXBqKaA=
+
+Name: org/eclipse/update/internal/ui/wizards/ReplaceFeatureVersionWiza
+ rd.java
+SHA1-Digest: gFJYmfgNwcF3F9Z3G2K+6Rpv5L4=
+
+Name: org/eclipse/update/internal/ui/views/ShowActivitiesAction.java
+SHA1-Digest: CbnenwznmhsQEpH1a3u5OfZVrOw=
+
+Name: org/eclipse/update/internal/ui/UpdateUI.java
+SHA1-Digest: oB4y/BA6bC/5xzuBPd/GJ2SbeRE=
+
+Name: org/eclipse/update/internal/ui/wizards/MirrorsDialog.java
+SHA1-Digest: fnwuX/8RFfIMebu00FxLsrekuLw=
+
+Name: org/eclipse/update/internal/ui/views/ReplaceVersionAction.java
+SHA1-Digest: 9GStrvbZ5FqKLNGYyVubdg/Bg7I=
+
+Name: org/eclipse/update/ui/UpdateManagerUI.java
+SHA1-Digest: 1HXFf7feGE3CzS166z54+jhb5PM=
+
+Name: org/eclipse/update/internal/ui/wizards/ActivitiesTableViewer.jav
+ a
+SHA1-Digest: +7NaiBS4tdr0iJ1U3hNGvZ4zYi8=
+
+Name: org/eclipse/update/internal/ui/views/UninstallFeatureAction.java
+SHA1-Digest: R9ULfdM9Wu2cnxe3ITsNgmRSdaM=
+
+Name: org/eclipse/update/internal/ui/UpdateUIMessages.java
+SHA1-Digest: SR3RNBOaGfThGobARDiAEhd+k2A=
+
+Name: org/eclipse/update/internal/ui/views/SiteStateAction.java
+SHA1-Digest: zowbpYeSkK5zQFE1cih1LwU16xg=
+
+Name: org/eclipse/update/internal/ui/model/ISiteAdapter.java
+SHA1-Digest: 6vdhX0ixF9TzxLfQw10rNxqsggU=
+
+Name: org/eclipse/update/internal/ui/model/SiteBookmark.java
+SHA1-Digest: 3EDR6DPNYSIV64OyI8Xr5xFhT6w=
+
+Name: org/eclipse/update/internal/ui/model/DiscoveryFolder.java
+SHA1-Digest: FD0FpzlGAg8AYgkqsDQwjJOkUV0=
+
+Name: org/eclipse/update/internal/ui/parts/SharedLabelProvider.java
+SHA1-Digest: HgcRb8VGuoQpO635QVvq+zxiyDo=
+
+Name: org/eclipse/update/internal/ui/UpdateUIImages.java
+SHA1-Digest: XKVN8MBLvoIrRlgl9iXmRX4zWYo=
+
+Name: org/eclipse/update/internal/ui/model/NamedModelObject.java
+SHA1-Digest: 5YuOpGr5LtPf+mYUzFX7tAyDRNs=
+

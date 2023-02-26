@@ -1,0 +1,72 @@
+Manifest-Version: 1.0
+Eclipse-SourceBundle: org.eclipse.ui.presentations.r21;version="3.2.20
+ 0.I20100517-1500";roots:="."
+Bundle-Vendor: %providerName
+Bundle-Localization: plugin
+Bundle-Name: %pluginName
+Bundle-SymbolicName: org.eclipse.ui.presentations.r21.source
+Bundle-Version: 3.2.200.I20100517-1500
+Bundle-ManifestVersion: 2
+
+Name: org/eclipse/ui/internal/presentations/r21/widgets/R21PaneFolderB
+ uttonListener.java
+SHA1-Digest: GGsmQ2lvnPg8qLUcCRBaV6nR0yc=
+
+Name: META-INF/eclipse.inf
+SHA1-Digest: KyT9FF7C7t86NoBoa2kZT3ZJBfw=
+
+Name: org/eclipse/ui/internal/presentations/R21ViewStackPresentation.j
+ ava
+SHA1-Digest: At/qUfmusD7RsBbjlF+zBZjVpx0=
+
+Name: org/eclipse/ui/internal/presentations/r21/widgets/R21PaneFolder.
+ java
+SHA1-Digest: 6U2dBiTxxdR4R3Zs1cAuFwaIsp8=
+
+Name: org/eclipse/ui/internal/presentations/r21/widgets/ViewForm.java
+SHA1-Digest: v3f2WHz25+fW8c20vnur/EEa8O8=
+
+Name: org/eclipse/ui/internal/presentations/R21BasicStackPresentation.
+ java
+SHA1-Digest: kcHrT1W3/m2VRFEf2+HT6ewwghY=
+
+Name: about.html
+SHA1-Digest: ejOZra0kypGLQQ2bJtGTX+LI8tU=
+
+Name: org/eclipse/ui/internal/presentations/R21EditorStackPresentation
+ .java
+SHA1-Digest: 42eeWijcKhyp3AaGtcD784BJres=
+
+Name: org/eclipse/ui/internal/presentations/r21/widgets/CTabItem.java
+SHA1-Digest: lawzMAiedinYhAC4bKLntu2lOk0=
+
+Name: org/eclipse/ui/internal/presentations/r21/R21Colors.java
+SHA1-Digest: jPrjvG7bY6o2W9D+QAAU2bI42nU=
+
+Name: plugin.properties
+SHA1-Digest: rlPzM0A801t48Rc3aXcrGOdCJ/c=
+
+Name: org/eclipse/ui/internal/presentations/r21/R21PresentationPlugin.
+ java
+SHA1-Digest: Pxi0gZwApp/bvyDf+zhN04dnoVE=
+
+Name: org/eclipse/ui/internal/presentations/R21PresentationFactory.jav
+ a
+SHA1-Digest: +O14tH3XdXQQJX5Abbs9RltMDYA=
+
+Name: org/eclipse/ui/internal/presentations/r21/widgets/CTabFolder.jav
+ a
+SHA1-Digest: qjfpZ3/C4K+cPOefY54O2IDyzHA=
+
+Name: org/eclipse/ui/internal/presentations/r21/widgets/CTabFolderEven
+ t.java
+SHA1-Digest: IaskCor4dU1aNcsCkxYwUfBpuFw=
+
+Name: org/eclipse/ui/internal/presentations/r21/R21PresentationMessage
+ s.java
+SHA1-Digest: c0Qj44TSfjYlQV3nuH2pFA5s7xY=
+
+Name: org/eclipse/ui/internal/presentations/r21/widgets/CTabFolderList
+ ener.java
+SHA1-Digest: boCYilB6Udwg+P449u+LaRG82WQ=
+

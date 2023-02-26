@@ -1,0 +1,400 @@
+Signature-Version: 1.0
+SHA1-Digest-Manifest: 8QPa15yORpINrYZylvSIdsKOV1c=
+Created-By: 1.6.0 (IBM Corporation)
+SHA1-Digest-Manifest-Main-Attributes: EGkR6dhCVE7o1OZRetMd6aMXH4k=
+
+Name: org/eclipse/text/edits/MoveSourceEdit.java
+SHA1-Digest: dgaQvvtQGfc41rfS6FRt0fnO9sQ=
+
+Name: org/eclipse/text/edits/DeleteEdit.java
+SHA1-Digest: aRakj/ouVMoNOzHkR0RD0b+zsXs=
+
+Name: org/eclipse/jface/text/projection/Fragment.java
+SHA1-Digest: k8i9ZSfiQE8gYhwR9/m+U95fBds=
+
+Name: org/eclipse/jface/text/projection/ProjectionMapping.java
+SHA1-Digest: Vw3yLvn+nikmeOs7G3PlGVU3S90=
+
+Name: org/eclipse/jface/text/ConfigurableLineTracker.java
+SHA1-Digest: JHev3iH8XRn1+3qZQ4G4C+KQBpM=
+
+Name: org/eclipse/text/edits/TextEditVisitor.java
+SHA1-Digest: qv8skx2d7qvQQ/EAYYYp0WuDc9Q=
+
+Name: org/eclipse/jface/text/ILineTrackerExtension.java
+SHA1-Digest: kRso9CETiBQwvVkFnnvJlwVWAhQ=
+
+Name: org/eclipse/jface/text/source/Annotation.java
+SHA1-Digest: eHu86C96Pn2NT7Qkh6I2aAVkjjg=
+
+Name: org/eclipse/jface/text/IDocumentRewriteSessionListener.java
+SHA1-Digest: NdcKAYDzk2LrrxPxdPz4mqPCQv0=
+
+Name: org/eclipse/jface/text/IRepairableDocumentExtension.java
+SHA1-Digest: x6iIt+9AECXBiEhpuUxpISznNFA=
+
+Name: org/eclipse/jface/text/projection/Segment.java
+SHA1-Digest: 3EQlQQaF4JvJ/qFbREYeHE73PKU=
+
+Name: org/eclipse/jface/text/templates/TemplateException.java
+SHA1-Digest: M9JyZ5kVVB77mVRvb2Wvwy/F0+o=
+
+Name: org/eclipse/jface/text/TypedRegion.java
+SHA1-Digest: aoJ20ZQDB1duZzyLiuJIzkbj/nQ=
+
+Name: org/eclipse/text/edits/UndoCollector.java
+SHA1-Digest: +UthfOc1bSSxbf4Z96aN9xiPRY8=
+
+Name: org/eclipse/jface/text/source/IAnnotationMap.java
+SHA1-Digest: gmabukKnYdAuEdRQEhe6E64Hwcs=
+
+Name: org/eclipse/jface/text/source/IAnnotationModelExtension2.java
+SHA1-Digest: 1Tag2v7QV1MS5Flu2uFUUhL+nXM=
+
+Name: org/eclipse/jface/text/IDocumentExtension2.java
+SHA1-Digest: SxC9ra+fVGACSwsXCVjDZj6MA58=
+
+Name: org/eclipse/jface/text/Position.java
+SHA1-Digest: v40o92LQS7g2Q9ReHVvH33RJfps=
+
+Name: org/eclipse/text/undo/DocumentUndoManagerRegistry.java
+SHA1-Digest: Tf5E0vWgLBV2Z7J2VtV7Qvn5xqs=
+
+Name: org/eclipse/jface/text/SequentialRewriteTextStore.java
+SHA1-Digest: nY4cLEChMwsVGfQsr/k55QgjXpo=
+
+Name: org/eclipse/jface/text/templates/TemplateVariableType.java
+SHA1-Digest: 0hrGMLsTDU0cQC8GGF11CSzsM3c=
+
+Name: org/eclipse/text/undo/UndoMessages.java
+SHA1-Digest: dl0oFTW4tZaS/a6Q/LkcvI1Sr2s=
+
+Name: org/eclipse/text/edits/MalformedTreeException.java
+SHA1-Digest: CRjppZhthrq/xknQySaibHOhNSw=
+
+Name: org/eclipse/text/edits/CopyTargetEdit.java
+SHA1-Digest: Y3aNzmxv8nNFEyQaHudUm7W3ykY=
+
+Name: org/eclipse/jface/text/TextMessages.java
+SHA1-Digest: Cdepj1OqW8VgEHdaj6QRM6RHg+8=
+
+Name: org/eclipse/text/edits/CopyingRangeMarker.java
+SHA1-Digest: fJP1BBLuFy/JxXlUkime7o7Kgt8=
+
+Name: org/eclipse/jface/text/templates/DocumentTemplateContext.java
+SHA1-Digest: QTB3Y4omxbw/0ndGa4VAYJY9u3Q=
+
+Name: org/eclipse/jface/text/IDocumentPartitioner.java
+SHA1-Digest: Wt9mH4qEMry5LzVUkkyaPbP/wCk=
+
+Name: org/eclipse/jface/text/projection/ProjectionDocumentEvent.java
+SHA1-Digest: MdknH7PjyOAY65WXLqn69LcWIAo=
+
+Name: org/eclipse/jface/text/IRegion.java
+SHA1-Digest: 1hS3327eC6xgsqm0/0MwLJae8To=
+
+Name: org/eclipse/jface/text/templates/TextTemplateMessages.java
+SHA1-Digest: lZIpFPt+rLlO2Tt508j6IWyaOrM=
+
+Name: org/eclipse/jface/text/projection/ChildDocumentManager.java
+SHA1-Digest: xPFvL05jeEu3oK/oYJ9WpVJMVls=
+
+Name: org/eclipse/jface/text/link/LinkedPositionGroup.java
+SHA1-Digest: nZIujU/sFcHJu0h5WiMKAb2lvSM=
+
+Name: org/eclipse/jface/text/DocumentRewriteSessionEvent.java
+SHA1-Digest: HgJTgw2v+kCtlX+dqybXLVtuhMo=
+
+Name: org/eclipse/jface/text/IDocumentPartitionerExtension3.java
+SHA1-Digest: 6E+Kiy5SFtWm2/edrJ4llBcmQY4=
+
+Name: org/eclipse/jface/text/source/IAnnotationModelListenerExtension.
+ java
+SHA1-Digest: UPGkKpk+nU43II2L2NgLovumfI0=
+
+Name: org/eclipse/jface/text/projection/ProjectionDocumentManager.java
+SHA1-Digest: 9w18P6PPC1v0RXedORO+IhMbNmk=
+
+Name: org/eclipse/jface/text/IDocumentPartitioningListener.java
+SHA1-Digest: GfTTV4MrlPpMokafV4JkA5iV4C8=
+
+Name: org/eclipse/text/edits/ISourceModifier.java
+SHA1-Digest: Vcuj37RxYeWiivr19f/OheUCMfY=
+
+Name: org/eclipse/jface/text/IRepairableDocument.java
+SHA1-Digest: FIC3PnNtC+v4x3rOOuUqdg0TY1s=
+
+Name: org/eclipse/jface/text/projection/ProjectionDocument.java
+SHA1-Digest: t5h5yczsD2aUkv3+dp5q+4qWiqQ=
+
+Name: org/eclipse/jface/text/IDocumentExtension.java
+SHA1-Digest: qhDDTQ9HBeoN4aF1y1FOkSoM6BM=
+
+Name: org/eclipse/text/edits/RangeMarker.java
+SHA1-Digest: AU88280P7DDpq0cxCA0BI2aGYTM=
+
+Name: org/eclipse/text/edits/MoveTargetEdit.java
+SHA1-Digest: wfgpQ+B87g1/h94rTitoWMiMCl4=
+
+Name: org/eclipse/jface/text/source/AnnotationMap.java
+SHA1-Digest: hmc+AsV/zFV/vnkCt+kYNm3B4h4=
+
+Name: org/eclipse/jface/text/link/LinkedModeModel.java
+SHA1-Digest: 9pL9ek64C305empvZQ0nwvbhyck=
+
+Name: org/eclipse/jface/text/IDocumentInformationMapping.java
+SHA1-Digest: xqYgzVx5ioTa6iEsTnOOYy8gBH0=
+
+Name: org/eclipse/text/undo/DocumentUndoEvent.java
+SHA1-Digest: n0ussiJBXhtMMrFz5GN9ksK7xao=
+
+Name: org/eclipse/jface/text/IPositionUpdater.java
+SHA1-Digest: 6pHTfm2evDjo0rNkpRJOzkq4r6w=
+
+Name: org/eclipse/text/edits/MultiTextEdit.java
+SHA1-Digest: 5H92Q9ZtVCdTLlchIYbPU/6zdS4=
+
+Name: org/eclipse/text/edits/EditDocument.java
+SHA1-Digest: +ohtzmEpstep5vc7hidu4VaZ3C8=
+
+Name: org/eclipse/jface/text/templates/TemplateVariableResolver.java
+SHA1-Digest: LWK59yqgjLE20G1EIHG5ANtWycc=
+
+Name: org/eclipse/jface/text/TextUtilities.java
+SHA1-Digest: rU+gM7jClAl56zB+jxS/gzHNLpg=
+
+Name: org/eclipse/text/undo/DocumentUndoManager.java
+SHA1-Digest: yMscZQJElLgXyAqDF7+msfXkDg8=
+
+Name: org/eclipse/jface/text/IDocumentExtension4.java
+SHA1-Digest: cVb5lxZUt53e5DopSdqh5hq9hR4=
+
+Name: org/eclipse/jface/text/source/IAnnotationModelListener.java
+SHA1-Digest: t74G0XVn4nRR3X/nE5po9jYfWD0=
+
+Name: org/eclipse/jface/text/templates/TemplateContextType.java
+SHA1-Digest: 3IHe+DqIkOLBHsdFWiFU9f1Wm00=
+
+Name: org/eclipse/jface/text/link/LinkedPosition.java
+SHA1-Digest: Nnsk1j58EHI4LhQYE3P4/MLh1Vg=
+
+Name: org/eclipse/jface/text/Assert.java
+SHA1-Digest: 1z/kx7qFTiL7gdVBFuqoAbkzKHs=
+
+Name: org/eclipse/text/edits/TextEditProcessor.java
+SHA1-Digest: llBtzcWvDyZbhnL5L7hJ6qtjQ18=
+
+Name: org/eclipse/jface/text/DefaultPositionUpdater.java
+SHA1-Digest: KTvkh/ShRTJqQ6iTlIlhQuPMro4=
+
+Name: org/eclipse/jface/text/IDocumentPartitionerExtension.java
+SHA1-Digest: ajx7o5uoH9Ptqov+5FTaDlxmaYo=
+
+Name: org/eclipse/jface/text/GapTextStore.java
+SHA1-Digest: Tm7dCrt8TOoyxhl4W1/Ls+UY9Vs=
+
+Name: org/eclipse/jface/text/AbstractDocument.java
+SHA1-Digest: lwrTx9W+A0ZCCG4gJBUyMfgxp1U=
+
+Name: about.html
+SHA1-Digest: M+fykt9heyWoEv1LNiIEeBhi/2Q=
+
+Name: org/eclipse/jface/text/ISlaveDocumentManagerExtension.java
+SHA1-Digest: 9rmbqgJn3nkRbwnaHOJoQN57j8U=
+
+Name: org/eclipse/jface/text/Document.java
+SHA1-Digest: m3AoJSQeW31c5sY2WQkuoG8G6wQ=
+
+Name: org/eclipse/jface/text/source/IAnnotationModelExtension.java
+SHA1-Digest: y1Lr/9j0GnKtTVzQEb/ciWycVhQ=
+
+Name: org/eclipse/jface/text/ListLineTracker.java
+SHA1-Digest: QAKpdgZMF3a9YM8WSZQBe2f8Q90=
+
+Name: org/eclipse/jface/text/TreeLineTracker.java
+SHA1-Digest: gxp69Ki5NCWV+ITbhhdgOKAorg0=
+
+Name: org/eclipse/jface/text/projection/IMinimalMapping.java
+SHA1-Digest: AbPToR+JloRz/a+mRtVoFNmNZP4=
+
+Name: org/eclipse/jface/text/ITypedRegion.java
+SHA1-Digest: qCyk2J5WvLniLb9hc9xZkXdE7nA=
+
+Name: org/eclipse/jface/text/IDocumentPartitioningListenerExtension2.j
+ ava
+SHA1-Digest: l5RCUMloV/RX0PYU34OQLUK6qKc=
+
+Name: org/eclipse/jface/text/AbstractLineTracker.java
+SHA1-Digest: QJfEeaNxbGRo4SIM5dFvQ8kqOX8=
+
+Name: org/eclipse/jface/text/Region.java
+SHA1-Digest: UslkM+lRpks4wqgbLfzz5CjPWcQ=
+
+Name: org/eclipse/jface/text/BadPartitioningException.java
+SHA1-Digest: cBlSzJRNVguYM93ikKvdFMp360A=
+
+Name: org/eclipse/jface/text/templates/TemplateContext.java
+SHA1-Digest: PQuNjBp77pdX4wuq+EITFi9CS7U=
+
+Name: org/eclipse/jface/text/IDocumentPartitioningListenerExtension.ja
+ va
+SHA1-Digest: Er0+GUyYPAjO55RDFjO7bej/vAI=
+
+Name: org/eclipse/jface/text/ISynchronizable.java
+SHA1-Digest: M2PTtJDyH+hI9/049EZOIHYVMms=
+
+Name: org/eclipse/text/edits/TextEdit.java
+SHA1-Digest: f76XXRBce5klue9W04zFHqHh+WI=
+
+Name: org/eclipse/jface/text/link/ILinkedModeListener.java
+SHA1-Digest: Y2XhxtHujEQQi8NlnYehtsZCT/k=
+
+Name: org/eclipse/jface/text/templates/SimpleTemplateVariableResolver.
+ java
+SHA1-Digest: qBRTiGPRz5edwTdDzelzXAycx0g=
+
+Name: org/eclipse/jface/text/DocumentRewriteSessionType.java
+SHA1-Digest: 2cDvk3/gTS+dEiTMoF0P4r7aciU=
+
+Name: org/eclipse/jface/text/ILineTracker.java
+SHA1-Digest: yRcts57gHQ+lS1a5cquInKsLHf0=
+
+Name: org/eclipse/jface/text/FindReplaceDocumentAdapter.java
+SHA1-Digest: np+VN2ZuS6zLS52WrffUbWfO3To=
+
+Name: org/eclipse/text/edits/TextEditMessages.java
+SHA1-Digest: rGfm6gaAvkl6Qv8VM0tEBY+XtQU=
+
+Name: org/eclipse/text/edits/TextEditGroup.java
+SHA1-Digest: FuseTYNzbgUNtzVLnBVVyZuNRGk=
+
+Name: org/eclipse/jface/text/templates/TemplateTranslator.java
+SHA1-Digest: iRz/CQmnxPaQuanq7Xkf+cbUNFY=
+
+Name: org/eclipse/jface/text/IDocumentListener.java
+SHA1-Digest: Fojl1/t+fS42kHin82f/YRVvans=
+
+Name: org/eclipse/jface/text/IDocumentPartitionerExtension2.java
+SHA1-Digest: x7HIKEdZ2lC51K51bbvtIHP3aZE=
+
+Name: org/eclipse/jface/text/source/AnnotationModel.java
+SHA1-Digest: oW1k7fkhD1+SJtwUUvzjxGncXgo=
+
+Name: org/eclipse/jface/text/source/AnnotationModelEvent.java
+SHA1-Digest: oqF4UwbvaFgH0otf4W9F58QHbtQ=
+
+Name: META-INF/eclipse.inf
+SHA1-Digest: SAqY+5ITAL0mkdYeijlSRhyIaZk=
+
+Name: org/eclipse/jface/text/DocumentRewriteSession.java
+SHA1-Digest: YDOPn00MOXu2nMnfeBQCvnViAMM=
+
+Name: org/eclipse/jface/text/DefaultLineTracker.java
+SHA1-Digest: WF/TJU6DSq9ETEtxXvgFiIbxsF4=
+
+Name: org/eclipse/text/edits/ReplaceEdit.java
+SHA1-Digest: 7UC10RTT8asb+oF33MYAZlXFyiM=
+
+Name: org/eclipse/text/edits/UndoEdit.java
+SHA1-Digest: qbwVmEpUHitNRxSIIw9c7yK8IRQ=
+
+Name: org/eclipse/jface/text/link/InclusivePositionUpdater.java
+SHA1-Digest: 8Hmde1SqWMWIFzRM+121EldHTAM=
+
+Name: org/eclipse/text/undo/IDocumentUndoManager.java
+SHA1-Digest: HrxTnx21LR9JS8m17+eThuuf4Q8=
+
+Name: org/eclipse/jface/text/projection/FragmentUpdater.java
+SHA1-Digest: sUjvWkwOU2Q66EsvAowmlD+/LZs=
+
+Name: org/eclipse/jface/text/IDocumentInformationMappingExtension.java
+SHA1-Digest: t0fOXbomSmhGUUS4vGSAoyfM6jM=
+
+Name: org/eclipse/text/undo/IDocumentUndoListener.java
+SHA1-Digest: vwnMpP+vpiRPO+Z1z92YrPXIjoY=
+
+Name: org/eclipse/jface/text/source/IAnnotationModel.java
+SHA1-Digest: guRUGeJaD6PZ1d4PPcNOyOHbtfM=
+
+Name: org/eclipse/jface/text/projection/ChildDocument.java
+SHA1-Digest: T/TBdzrF/8lVntrOgz4UiJ5de7o=
+
+Name: org/eclipse/jface/text/templates/GlobalTemplateVariables.java
+SHA1-Digest: lcjmhhMmwW7KumCRu8NXqUDbF9U=
+
+Name: org/eclipse/jface/text/BadLocationException.java
+SHA1-Digest: /6ArmhkPtW766BmxSA5hBQ6JJQY=
+
+Name: org/eclipse/jface/text/Line.java
+SHA1-Digest: xEtzsfunCkJ3/vmLMHFXeMKeTU4=
+
+Name: org/eclipse/jface/text/DocumentEvent.java
+SHA1-Digest: 7ZQfOuATQeSAoX4ce0BBuj9B7oY=
+
+Name: org/eclipse/text/edits/InsertEdit.java
+SHA1-Digest: 7fcnt/STZQ77beSnEhb8pyucvWA=
+
+Name: org/eclipse/jface/text/templates/TemplateBuffer.java
+SHA1-Digest: UBTqK085LJUIkFJ59OIm3/Yqcek=
+
+Name: org/eclipse/jface/text/RewriteSessionEditProcessor.java
+SHA1-Digest: Tm6NoVKYWCVQ8qFRdzBRfJ3W670=
+
+Name: org/eclipse/jface/text/templates/TemplateVariable.java
+SHA1-Digest: f/PJjePyo0PZ74wV60x3KIL96fc=
+
+Name: org/eclipse/jface/text/IDocumentExtension3.java
+SHA1-Digest: 013F8gCX5W5uujpZabs9F2yxlnM=
+
+Name: org/eclipse/jface/text/projection/SegmentUpdater.java
+SHA1-Digest: 0rqE/yfO/XBJ9V0mKAiJxocq4Jg=
+
+Name: org/eclipse/jface/text/SlaveDocumentEvent.java
+SHA1-Digest: I8qbrF7UY0ezYQtc0CQRuyvLDPs=
+
+Name: org/eclipse/jface/text/TypedPosition.java
+SHA1-Digest: IeqB1ji4VdG2JkAtqWiXRAq1pVM=
+
+Name: org/eclipse/jface/text/BadPositionCategoryException.java
+SHA1-Digest: 47X9WpihPKDaPEW6wcISZuqG8bU=
+
+Name: org/eclipse/jface/text/link/LinkedModeManager.java
+SHA1-Digest: JMt9OtW7n4FDJjTjd/ENNpy7Dw8=
+
+Name: plugin.properties
+SHA1-Digest: 338WUDjSj/390L5WFOTk1jNYQCI=
+
+Name: org/eclipse/text/edits/TextEditCopier.java
+SHA1-Digest: JAMGjMJvfmftfsD2TS0HRhKicrw=
+
+Name: org/eclipse/jface/text/ISlaveDocumentManager.java
+SHA1-Digest: l/3SdFxI4kLm37dHscYZ2XB+dPI=
+
+Name: org/eclipse/jface/text/templates/Template.java
+SHA1-Digest: 9JBmIVsBjHIaSlHobnlSzMIUvDw=
+
+Name: org/eclipse/jface/text/CopyOnWriteTextStore.java
+SHA1-Digest: cD2QdHXTlZR4rdfC/ncp1dGF4sg=
+
+Name: org/eclipse/text/edits/CopySourceEdit.java
+SHA1-Digest: AKxcyP6dp1G2956ytVE6N6bXPrA=
+
+Name: org/eclipse/jface/text/projection/ProjectionTextStore.java
+SHA1-Digest: k2L6zX8Ea6KLOsj7v77yVN78KFs=
+
+Name: org/eclipse/jface/text/DocumentPartitioningChangedEvent.java
+SHA1-Digest: ildjbFfqomCZvDk2Sbfoj/cYVi0=
+
+Name: org/eclipse/jface/text/IDocument.java
+SHA1-Digest: Fu4/Qf6udmk+wPjnBKt3gqgbSdo=
+
+Name: org/eclipse/text/edits/TreeIterationInfo.java
+SHA1-Digest: YKEUUe10zJ+9PXUi+q9gfzH1s6E=
+
+Name: org/eclipse/jface/text/IDocumentInformationMappingExtension2.jav
+ a
+SHA1-Digest: t0UgfrJttCQq0nbNx4jeyns62tw=
+
+Name: org/eclipse/jface/text/ITextStore.java
+SHA1-Digest: Kn5OY0Qns+IgIiFawg6LiFWdCm4=
+

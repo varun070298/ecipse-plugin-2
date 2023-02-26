@@ -1,0 +1,37 @@
+Signature-Version: 1.0
+SHA1-Digest-Manifest: nPKo1nho8IKajqNKvioLOYigSe4=
+Created-By: 1.6.0 (IBM Corporation)
+SHA1-Digest-Manifest-Main-Attributes: ZLiOaP5IE1TZOK5fGx4UOeUMrWA=
+
+Name: org/eclipse/jdt/internal/junit4/runner/JUnit4Identifier.java
+SHA1-Digest: gzOINJL35+pjeeW77gaVIYxiZJU=
+
+Name: org/eclipse/jdt/internal/junit4/runner/JUnit4TestListener.java
+SHA1-Digest: ySpCY1xOqDmJT7IfqaAimqbWJ14=
+
+Name: META-INF/eclipse.inf
+SHA1-Digest: SAqY+5ITAL0mkdYeijlSRhyIaZk=
+
+Name: org/eclipse/jdt/internal/junit4/runner/JUnit4TestClassReference.
+ java
+SHA1-Digest: 7Tw6k6KImgdj2aV6xKrF5oRZuvY=
+
+Name: org/eclipse/jdt/internal/junit4/runner/JUnit4TestLoader.java
+SHA1-Digest: ApamlXHcz544gtsr6qM565k7wgs=
+
+Name: about.html
+SHA1-Digest: M+fykt9heyWoEv1LNiIEeBhi/2Q=
+
+Name: org/eclipse/jdt/internal/junit4/runner/JUnit4TestReference.java
+SHA1-Digest: HNA1I+Jr4Mw8OKea6Ck4+9Beq34=
+
+Name: plugin.properties
+SHA1-Digest: YJPKRzkijx7SxQt1KxDcsoYXFOM=
+
+Name: org/eclipse/jdt/internal/junit4/runner/FailuresFirstSorter.java
+SHA1-Digest: +q5nvTbnVeCT+wGR/BQVqPVgOkM=
+
+Name: org/eclipse/jdt/internal/junit4/runner/JUnit4TestMethodReference
+ .java
+SHA1-Digest: TZfPSrXuCHbeihlfvRL8B7txC1c=
+

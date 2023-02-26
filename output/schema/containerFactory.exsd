@@ -1,0 +1,312 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!-- Schema file written by PDE -->
+<schema targetNamespace="org.eclipse.ecf" xmlns="http://www.w3.org/2001/XMLSchema">
+<annotation>
+      <appInfo>
+         <meta.schema plugin="org.eclipse.ecf" id="containerFactory" name="ECF Container Factory"/>
+      </appInfo>
+      <documentation>
+         This extension allows plugins to register themselves as &apos;providers&apos; of ECF containers.  Once registered via this extension point, plugins can then provide there own implementations of  IContainer in response to client request of the ECF container factory (&lt;b&gt;org.eclipse.ecf.core.ContainerFactory&lt;/b&gt;).
+&lt;p&gt;Plugins using this extension point can define a new implementation of any desired communications protocol, and expose that protocol as an instance of an &lt;b&gt;IContainer&lt;/b&gt;.  When client requests are made to ECF ContainerFactory to create &lt;b&gt;IContainer&lt;/b&gt; instances, those requests will be re-directed to the given IContainer implementer.
+      </documentation>
+   </annotation>
+
+   <element name="extension">
+      <annotation>
+         <appInfo>
+            <meta.element />
+         </appInfo>
+      </annotation>
+      <complexType>
+         <sequence>
+            <element ref="containerFactory" minOccurs="1" maxOccurs="unbounded"/>
+         </sequence>
+         <attribute name="point" type="string" use="required">
+            <annotation>
+               <documentation>
+                  
+               </documentation>
+            </annotation>
+         </attribute>
+         <attribute name="id" type="string">
+            <annotation>
+               <documentation>
+                  
+               </documentation>
+            </annotation>
+         </attribute>
+         <attribute name="name" type="string">
+            <annotation>
+               <documentation>
+                  
+               </documentation>
+            </annotation>
+         </attribute>
+      </complexType>
+   </element>
+
+   <element name="containerFactory">
+      <annotation>
+         <documentation>
+            The container factory extension point.  Can optionally contain a list of &apos;defaultargument&apos; elements that describe the arguments to be passed to provider implementation
+         </documentation>
+      </annotation>
+      <complexType>
+         <attribute name="class" type="string" use="required">
+            <annotation>
+               <documentation>
+                  The fully qualified name of the class implementing the &lt;b&gt;org.eclipse.ecf.core.provider.IContainerInstantiator&lt;/b&gt; interface.
+               </documentation>
+               <appInfo>
+                  <meta.attribute kind="java" basedOn="org.eclipse.ecf.core.provider.IContainerInstantiator"/>
+               </appInfo>
+            </annotation>
+         </attribute>
+         <attribute name="name" type="string">
+            <annotation>
+               <documentation>
+                  An optional name for the extension.  If no name is explicitly provided by the extension, the containerFactory class name is used as the name.  Note that this name must &lt;b&gt;not&lt;/b&gt; conflict with any other name in the ECF SharedFactory in order to be successfully registered in the container factory.  Care should therefore be taken in selection of a name such that it does not conflict with other pre-existing names for this factory implementations
+               </documentation>
+            </annotation>
+         </attribute>
+         <attribute name="description" type="string">
+            <annotation>
+               <documentation>
+                  A description of the container factory suitable for presentation in a user interface.
+               </documentation>
+            </annotation>
+         </attribute>
+         <attribute name="server" type="boolean">
+            <annotation>
+               <documentation>
+                  Flag to indicate whether the factory is for creating servers.  Default is false.
+               </documentation>
+            </annotation>
+         </attribute>
+         <attribute name="hidden" type="boolean">
+            <annotation>
+               <documentation>
+                  Flag for whether the given container factory should be hidden in the user interface.  Default is false.
+               </documentation>
+            </annotation>
+         </attribute>
+      </complexType>
+   </element>
+
+   <annotation>
+      <appInfo>
+         <meta.section type="since"/>
+      </appInfo>
+      <documentation>
+         0.0.1
+      </documentation>
+   </annotation>
+
+   <annotation>
+      <appInfo>
+         <meta.section type="examples"/>
+      </appInfo>
+      <documentation>
+         Here&apos;s an extension that associates a class org.eclipse.ecf.test.FooContainerFactory with name &apos;foo&apos; in the ECF &lt;b&gt;ContainerFactory&lt;/b&gt;:
+
+&lt;pre&gt;
+&lt;extension point=&quot;org.eclipse.ecf.containerFactory&quot;&gt;
+    &lt;containerFactory name=&quot;foo&quot; class=&quot;org.eclipse.ecf.test.FooInstantiator&quot; description=&quot;My container factory&quot;/&gt;
+&lt;/extension&gt;
+&lt;/pre&gt;
+
+Here is some example code to implement this class:
+
+&lt;pre&gt;
+package org.eclipse.ecf.test;
+
+import org.eclipse.ecf.core.IContainer;
+import org.eclipse.ecf.core.ContainerInstantiationException;
+import org.eclipse.ecf.core.provider.IContainerInstantiator;
+
+public class FooInstantiator implements IContainerInstantiator {
+
+    public FooInstantiator() {
+        super();
+    }
+    public IContainer createInstance(ContainerTypeDescription description, Class[] argTypes, Object[] args)
+            throws ContainerInstantiationException {
+        // Create/return instance of FooContainer
+        // Note that FooContainer class must
+        // implement IContainer
+        return new FooContainer();
+    }
+}
+&lt;/pre&gt;
+
+In this example, the given class implements the &lt;b&gt;IContainerInstantiator&lt;/b&gt;.createInstance method by creating and returning a new instance of FooInstantiator, a class also defined in the extension plugin.  As noted in the code, this class must implement &lt;b&gt;IContainer&lt;/b&gt;, so that it can successfully be returned from createInstance.
+
+&lt;h3&gt;Example Usage of Container by Clients&lt;/h3&gt;
+
+Clients that wish to use the &apos;foo&apos; container implementation can do so simply by making the following call to create an &lt;b&gt;IContainer&lt;/b&gt;:
+
+&lt;pre&gt;
+IContainer newContainer = ContainerFactory.getDefault().createContainer(&apos;foo&apos;); 
+// Further use of newContainer instance here
+
+&lt;/pre&gt;
+      </documentation>
+   </annotation>
+
+   <annotation>
+      <appInfo>
+         <meta.section type="apiInfo"/>
+      </appInfo>
+      <documentation>
+         The API for this extension point is provided by the &lt;b&gt;org.eclipse.ecf.core.ContainerFactory.getDefault()&lt;/b&gt; methods.  Specifically, the &apos;createContainer&apos; methods are to be used by clients.  The functionality provided by the extension point mechanism can be used at runtime via the &lt;b&gt;ContainerFactory.getDefault().addDescription(ContainerTypeDescription)&lt;/b&gt; method.  Here is the IContainerFactory interface
+contract:
+
+&lt;pre&gt;
+/**
+ * Container factory contract {@link ContainerFactory} for default
+ * implementation.
+ */
+public interface IContainerFactory {
+ /**
+  * Add a ContainerTypeDescription to the set of known ContainerDescriptions.
+  * 
+  * @param description
+  *            the ContainerTypeDescription to add to this factory. Must not
+  *            be null.
+  * @return ContainerTypeDescription the old description of the same name,
+  *         null if none found
+  */
+ public ContainerTypeDescription addDescription(ContainerTypeDescription description);
+
+ /**
+  * Get a collection of the ContainerDescriptions currently known to this
+  * factory. This allows clients to query the factory to determine what if
+  * any other ContainerDescriptions are currently registered with the
+  * factory, and if so, what they are.
+  * 
+  * @return List of ContainerTypeDescription instances
+  */
+ public List /* ContainerTypeDescription */ getDescriptions();
+
+ /**
+  * Check to see if a given named description is already contained by this
+  * factory
+  * 
+  * @param description
+  *            the ContainerTypeDescription to look for
+  * @return true if description is already known to factory, false otherwise
+  */
+ public boolean containsDescription(ContainerTypeDescription description);
+
+ /**
+  * Get the known ContainerTypeDescription given it&apos;s name.
+  * 
+  * @param name
+  *            the name to use as key to find ContainerTypeDescription
+  * @return ContainerTypeDescription found. Null if not found.
+  */
+ public ContainerTypeDescription getDescriptionByName(String name);
+
+ /**
+  * Make IContainer instance. Given a ContainerTypeDescription object, a
+  * String [] of argument types, and an Object [] of parameters, this method
+  * will
+  * &lt;p&gt;
+  * &lt;ul&gt;
+  * &lt;li&gt;lookup the known ContainerDescriptions to find one of matching name&lt;/li&gt;
+  * &lt;li&gt;if found, will retrieve or create an IContainerInstantiator for that
+  * description&lt;/li&gt;
+  * &lt;li&gt;Call the IContainerInstantiator.createInstance method to return an
+  * instance of IContainer&lt;/li&gt;
+  * &lt;/ul&gt;
+  * 
+  * @param description
+  *            the ContainerTypeDescription to use to create the instance
+  * @param parameters
+  *            an Object [] of parameters passed to the createInstance method
+  *            of the IContainerInstantiator
+  * @return a valid instance of IContainer
+  * @throws ContainerCreateException
+  */
+ public IContainer createContainer(ContainerTypeDescription description,
+   Object[] parameters) throws ContainerCreateException;
+
+ /**
+  * Make IContainer instance. Given a ContainerTypeDescription name, this
+  * method will
+  * &lt;p&gt;
+  * &lt;ul&gt;
+  * &lt;li&gt;lookup the known ContainerDescriptions to find one of matching name&lt;/li&gt;
+  * &lt;li&gt;if found, will retrieve or create an IContainerInstantiator for that
+  * description&lt;/li&gt;
+  * &lt;li&gt;Call the IContainerInstantiator.createInstance method to return an
+  * instance of IContainer&lt;/li&gt;
+  * &lt;/ul&gt;
+  * 
+  * @param descriptionName
+  *            the ContainerTypeDescription name to lookup
+  * @return a valid instance of IContainer
+  * @throws ContainerCreateException
+  */
+ public IContainer createContainer(String descriptionName)
+   throws ContainerCreateException;
+
+ /**
+  * Make IContainer instance. Given a ContainerTypeDescription name, this
+  * method will
+  * &lt;p&gt;
+  * &lt;ul&gt;
+  * &lt;li&gt;lookup the known ContainerDescriptions to find one of matching name&lt;/li&gt;
+  * &lt;li&gt;if found, will retrieve or create an IContainerInstantiator for that
+  * description&lt;/li&gt;
+  * &lt;li&gt;Call the IContainerInstantiator.createInstance method to return an
+  * instance of IContainer&lt;/li&gt;
+  * &lt;/ul&gt;
+  * 
+  * @param descriptionName
+  *            the ContainerTypeDescription name to lookup
+  * @param parameters
+  *            the Object [] of parameters passed to the
+  *            IContainerInstantiator.createInstance method
+  * @return a valid instance of IContainer
+  * @throws ContainerCreateException
+  */
+ public IContainer createContainer(String descriptionName, Object[] parameters)
+   throws ContainerCreateException;
+
+ /**
+  * Remove given description from set known to this factory.
+  * 
+  * @param description
+  *            the ContainerTypeDescription to remove
+  * @return the removed ContainerTypeDescription, null if nothing removed
+  */
+ public ContainerTypeDescription removeDescription(
+   ContainerTypeDescription description);
+}
+&lt;/pre&gt;
+      </documentation>
+   </annotation>
+
+   <annotation>
+      <appInfo>
+         <meta.section type="implementation"/>
+      </appInfo>
+      <documentation>
+         The supplied implementations of this extension point are:
+
+org.eclipse.ecf.provider.generic.GenericContainerInstantiator
+      </documentation>
+   </annotation>
+
+   <annotation>
+      <appInfo>
+         <meta.section type="copyright"/>
+      </appInfo>
+      <documentation>
+         Copyright (c) 2004 Composent, Inc. and others.
+All rights reserved. This program and the accompanying materials are made available under the terms of the Eclipse Public License v1.0 which accompanies this distribution, and is available at http://www.eclipse.org/legal/epl-v10.html.  Contributors:  Composent, Inc. - initial API and implementation.
+      </documentation>
+   </annotation>
+
+</schema>

@@ -1,0 +1,77 @@
+Signature-Version: 1.0
+SHA1-Digest-Manifest: I6qy3ncUeuEA14fh5MUrtrvr2bo=
+Created-By: 1.6.0 (IBM Corporation)
+SHA1-Digest-Manifest-Main-Attributes: cXj74LVddacfzCnWV6QHUjpFGLg=
+
+Name: META-INF/eclipse.inf
+SHA1-Digest: SAqY+5ITAL0mkdYeijlSRhyIaZk=
+
+Name: org/eclipse/ui/internal/views/log/OpenLogDialog.java
+SHA1-Digest: 5X1nWvXUvAPa282fzhJg9EMyrfU=
+
+Name: org/eclipse/ui/internal/views/log/OpenIDELogFileAction.java
+SHA1-Digest: YhvC8MSVdyz57u7RtyReFPXj6u8=
+
+Name: org/eclipse/ui/internal/views/log/Group.java
+SHA1-Digest: CNq0mKoL5hHDoRCi58+eIxVQpMg=
+
+Name: org/eclipse/ui/internal/views/log/LogSession.java
+SHA1-Digest: UEvtP9wIEUpvpCKMlCjKf90FBB8=
+
+Name: org/eclipse/ui/internal/views/log/EventDetailsDialog.java
+SHA1-Digest: 53KCX3L6dGd+XpQFyz01oAJyMSg=
+
+Name: org/eclipse/ui/internal/views/log/TailInputStream.java
+SHA1-Digest: Y45yJlPE/12ChxKG3sjus0zpxfw=
+
+Name: org/eclipse/ui/internal/views/log/LogFilesManager.java
+SHA1-Digest: vCV+GVb/JbvdcwLI7CJXGBSUS/4=
+
+Name: about.html
+SHA1-Digest: M+fykt9heyWoEv1LNiIEeBhi/2Q=
+
+Name: org/eclipse/ui/internal/views/log/LogEntry.java
+SHA1-Digest: AEnsY63ky7Me62IUC43Xllzl1MY=
+
+Name: org/eclipse/ui/internal/views/log/Messages.java
+SHA1-Digest: hU9GYFEjNiQuDnMG5EwtwBLIXHQ=
+
+Name: plugin.properties
+SHA1-Digest: IuoZL9c+t4sHcwqJBEiHv120Qks=
+
+Name: org/eclipse/ui/internal/views/log/ImportLogAction.java
+SHA1-Digest: c47FLMbfWwWdlRMwpyux/5+BjBw=
+
+Name: org/eclipse/ui/internal/views/log/Activator.java
+SHA1-Digest: rkLRUw/RgKkfGB3QZV1SpruypmU=
+
+Name: org/eclipse/ui/internal/views/log/ILogFileProvider.java
+SHA1-Digest: I+nE80H8UwZTyxtIryR97yQLPtg=
+
+Name: org/eclipse/ui/internal/views/log/IHelpContextIds.java
+SHA1-Digest: lrrNQ4Mj+qY8BjP1cRKG7Bvqumk=
+
+Name: org/eclipse/ui/internal/views/log/EventDetailsDialogAction.java
+SHA1-Digest: 58Se+eq9ZB4khUv8vtvwj+VYa7I=
+
+Name: org/eclipse/ui/internal/views/log/AbstractEntry.java
+SHA1-Digest: MPlIaPCOi6/RBoAXqIvPpL3BuqE=
+
+Name: org/eclipse/ui/internal/views/log/LogViewContentProvider.java
+SHA1-Digest: 3xlax6SNeiWjfYnoY3V9yMH3i+U=
+
+Name: org/eclipse/ui/internal/views/log/FilterDialog.java
+SHA1-Digest: 4wCNlsOMYhiingKEMRtVysrWGRc=
+
+Name: org/eclipse/ui/internal/views/log/LogView.java
+SHA1-Digest: vvgWEpA8rYnyuysA3t6soWk8Htg=
+
+Name: org/eclipse/ui/internal/views/log/SharedImages.java
+SHA1-Digest: y56Yt92qeHOLihSPAQ1RxPD//rU=
+
+Name: org/eclipse/ui/internal/views/log/LogViewLabelProvider.java
+SHA1-Digest: WaxWsYmxurIxP1HNF8ZHz30oFVY=
+
+Name: org/eclipse/ui/internal/views/log/LogReader.java
+SHA1-Digest: IKhJpdGeOlV4Jvz/T/3vo1waj78=
+

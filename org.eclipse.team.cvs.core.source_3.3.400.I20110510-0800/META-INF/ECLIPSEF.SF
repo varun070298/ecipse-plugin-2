@@ -1,0 +1,672 @@
+Signature-Version: 1.0
+SHA1-Digest-Manifest: zLHSpTwz+qgdvoq4zFpdnNU3ENE=
+Created-By: 1.6.0 (IBM Corporation)
+SHA1-Digest-Manifest-Main-Attributes: 4wSAdKfDBRSYD5YumIrfIQDyVBU=
+
+Name: org/eclipse/team/internal/ccvs/core/CVSProjectSetCapability.java
+SHA1-Digest: z9qMGPDwWAdgsPsl90EEKmt6mYc=
+
+Name: org/eclipse/team/internal/ccvs/core/IUserAuthenticator.java
+SHA1-Digest: of3eUO+X/KOAZ/c4fXHpFAvmCx4=
+
+Name: org/eclipse/team/internal/ccvs/core/client/RemoveEntryHandler.ja
+ va
+SHA1-Digest: A5VaKMhtu9S4QyNnfMr6/ud2YTA=
+
+Name: org/eclipse/team/internal/ccvs/core/client/ValidRequests.java
+SHA1-Digest: LJrC9ue5gUMNEksBGQgGC/uoZzo=
+
+Name: org/eclipse/team/internal/ccvs/core/client/listeners/IStatusList
+ ener.java
+SHA1-Digest: DWH3kuQSDQ5HfRU7xBlbzufuFCY=
+
+Name: org/eclipse/team/internal/ccvs/core/client/listeners/TagListener
+ .java
+SHA1-Digest: kG1mvsyfqK7KNjZNEW2EL7PzP6k=
+
+Name: org/eclipse/team/internal/ccvs/core/client/listeners/StatusListe
+ ner.java
+SHA1-Digest: cOCwX4H0jb0yIvG0AXJDohiZq/E=
+
+Name: org/eclipse/team/internal/ccvs/core/filesystem/RemoteLogger.java
+SHA1-Digest: rB5559TTRUBXDOUJf1q03DhainU=
+
+Name: org/eclipse/team/internal/ccvs/core/client/listeners/IMessagePat
+ terns.java
+SHA1-Digest: TjXPf4RYgCvPDcd4dbaqLw4rSnQ=
+
+Name: org/eclipse/team/internal/ccvs/core/client/Annotate.java
+SHA1-Digest: WZcepz5eGA5oq984MgEwzXdkMCI=
+
+Name: org/eclipse/team/internal/ccvs/core/filesystem/CVSURI.java
+SHA1-Digest: qUdADYLuF8R0Z+VgsBoi7oRSRCc=
+
+Name: org/eclipse/team/internal/ccvs/core/resources/SyncInfoCache.java
+SHA1-Digest: pPKpr+ZJ1sVCLEI7NgMFYwPgIrw=
+
+Name: org/eclipse/team/internal/ccvs/core/connection/Connection.java
+SHA1-Digest: 0SkSmTN1ZmcI8J45gbPx/q/7RV4=
+
+Name: org/eclipse/team/internal/ccvs/core/client/listeners/DiffListene
+ r.java
+SHA1-Digest: VJ9Qnzanr2TJ1D7OPLKrCoS0ct8=
+
+Name: org/eclipse/team/internal/ccvs/core/ICVSRemoteFolder.java
+SHA1-Digest: jwmwrLeKf7CbjLg6cxhkHpXWQEk=
+
+Name: org/eclipse/team/internal/ccvs/core/resources/EclipseFolder.java
+SHA1-Digest: zzNUBJusbXMYabV1OmGPlrcKUas=
+
+Name: org/eclipse/team/internal/ccvs/core/syncinfo/CVSBaseResourceVari
+ antTree.java
+SHA1-Digest: VsVjusI2zkgI15Duo2081Xk6Hxw=
+
+Name: org/eclipse/team/internal/ccvs/core/syncinfo/DeferredResourceCha
+ ngeHandler.java
+SHA1-Digest: UA1RnMV92NDw7Mwt+6HRmR9++VU=
+
+Name: org/eclipse/team/internal/ccvs/core/filesystem/CVSFileSystem.jav
+ a
+SHA1-Digest: fKxVbg3xAqXwTbnDGSiQb2ovHqs=
+
+Name: org/eclipse/team/internal/ccvs/core/CVSSyncInfo.java
+SHA1-Digest: ohzOfFAv/9sxUMOZWgFV4juf3Zk=
+
+Name: org/eclipse/team/internal/ccvs/core/client/Remove.java
+SHA1-Digest: cZSvCSPH/uXKvL6jORFOqhjcC4g=
+
+Name: org/eclipse/team/internal/ccvs/core/ICVSStorage.java
+SHA1-Digest: ho9RGn6j3vlxgObMQZDFultxyA4=
+
+Name: org/eclipse/team/internal/ccvs/core/client/CheckedInHandler.java
+SHA1-Digest: 6sO0LMb2LulGb+1JMUYqrEkQZ2A=
+
+Name: org/eclipse/team/internal/ccvs/core/CVSResourceRuleFactory.java
+SHA1-Digest: cXaI3UF5R3e++LcdIXMspWNYtk8=
+
+Name: org/eclipse/team/internal/ccvs/core/CVSRevisionNumberCompareCrit
+ eria.java
+SHA1-Digest: GqAvlUT2ZXHEIxDkcnIMBQvvrKM=
+
+Name: org/eclipse/team/internal/ccvs/core/syncinfo/NotifyInfo.java
+SHA1-Digest: Dh0j5XKXhxbzZsy3lOYyjFSFwLs=
+
+Name: org/eclipse/team/internal/ccvs/core/resources/SessionPropertySyn
+ cInfoCache.java
+SHA1-Digest: nhJL4H3I/4qIDBR0NJ59XgDb10o=
+
+Name: org/eclipse/team/internal/ccvs/core/ICVSRepositoryLocation.java
+SHA1-Digest: yerscVkiBVQpo8oNgY3rO0r5/Es=
+
+Name: org/eclipse/team/internal/ccvs/core/util/ResponsiveSocketFactory
+ .java
+SHA1-Digest: r1gTlbLGqpFd4G3Ei4vt/fB0Bj8=
+
+Name: org/eclipse/team/internal/ccvs/core/util/BuildCleanupListener.ja
+ va
+SHA1-Digest: KIeDtlWM4Vs8xswIYA1aN3aA0CE=
+
+Name: org/eclipse/team/internal/ccvs/core/client/RLog.java
+SHA1-Digest: 7jnSWPLcwjpSSTgo3g8rv6nih1g=
+
+Name: org/eclipse/team/internal/ccvs/core/client/listeners/ModuleDefin
+ itionsListener.java
+SHA1-Digest: 0Q3IRc2oSvGzK75/SdWfl7xXIQw=
+
+Name: org/eclipse/team/internal/ccvs/core/CVSRepositoryLocationMatcher
+ .java
+SHA1-Digest: MFMkyXaP2fXMLsMshFv4k783Xpk=
+
+Name: org/eclipse/team/internal/ccvs/core/Policy.java
+SHA1-Digest: bfK9obdGVhbKXDhEzZjMe1rSgfw=
+
+Name: org/eclipse/team/internal/ccvs/core/connection/CVSRepositoryLoca
+ tion.java
+SHA1-Digest: enrVnVftmVMdAzq1toqTRgOprPA=
+
+Name: org/eclipse/team/internal/ccvs/core/mapping/CVSActiveChangeSet.j
+ ava
+SHA1-Digest: 66x0IzIzU6npfdOc/ln2t0nyzT4=
+
+Name: org/eclipse/team/internal/ccvs/core/CVSTeamProvider.java
+SHA1-Digest: HyED03q/NfFNXLMTbMqLxuG7BPo=
+
+Name: org/eclipse/team/internal/ccvs/core/client/ConsoleListeners.java
+SHA1-Digest: 8S2v41aJrrK7FVzyECCWd4br8sA=
+
+Name: org/eclipse/team/internal/ccvs/core/mapping/ChangeSetAdapterFact
+ ory.java
+SHA1-Digest: 8I0CNva85axFPHEEuBMZnRL+uWM=
+
+Name: org/eclipse/team/internal/ccvs/core/ICVSResourceVisitor.java
+SHA1-Digest: QfyeeA3apTSKSq9KglCppv0Wq6s=
+
+Name: org/eclipse/team/internal/ccvs/core/resources/FileContentCaching
+ Service.java
+SHA1-Digest: CFg7E5ByugJQEpjKomeD2NqCuKg=
+
+Name: org/eclipse/team/internal/ccvs/core/IConnectionMethod.java
+SHA1-Digest: WaVl1lPgY2cVG//UBfpjya+rh+4=
+
+Name: org/eclipse/team/internal/ccvs/core/ICVSFolder.java
+SHA1-Digest: Tf2dAP4INiqyibtivIJinrlVaa4=
+
+Name: org/eclipse/team/internal/ccvs/core/filehistory/CVSResourceVaria
+ ntFileRevision.java
+SHA1-Digest: bkAdB9VJbh5tEdW0XYg3Liuaosg=
+
+Name: org/eclipse/team/internal/ccvs/core/client/Editors.java
+SHA1-Digest: 7dg6NsQello9ga0MfrEjpVXUj0M=
+
+Name: org/eclipse/team/internal/ccvs/core/CVSMergeSyncInfo.java
+SHA1-Digest: X9AEF9CkxQDFqEqsdiEFUa5yeR4=
+
+Name: org/eclipse/team/internal/ccvs/core/filehistory/CVSFileHistoryPr
+ ovider.java
+SHA1-Digest: nh10FaKoCzhbAUCzBsXgxVlmFt4=
+
+Name: org/eclipse/team/internal/ccvs/core/client/AbstractStructureVisi
+ tor.java
+SHA1-Digest: sUyuu0/BhPUQ7jGt+O1n/C/a/9k=
+
+Name: org/eclipse/team/internal/ccvs/core/IResourceStateChangeListener
+ .java
+SHA1-Digest: qPog6mwBLsLHK6HqYXAd3EGhalM=
+
+Name: org/eclipse/team/internal/ccvs/core/resources/RemoteFolderTreeBu
+ ilder.java
+SHA1-Digest: C9JjuJ6gCOlZcq9e2nA9wJI5X6c=
+
+Name: org/eclipse/team/internal/ccvs/core/CVSTag.java
+SHA1-Digest: 4f0dTkXqhYoTKsacH7KjpVSOnOQ=
+
+Name: org/eclipse/team/internal/ccvs/core/syncinfo/CVSDescendantResour
+ ceVariantByteStore.java
+SHA1-Digest: GjPlEeuFFNnMtDs62e87OAvM63U=
+
+Name: org/eclipse/team/internal/ccvs/core/ICVSRemoteFile.java
+SHA1-Digest: +qSj1EcL6hovNscFAV2L3oXQP3Q=
+
+Name: org/eclipse/team/internal/ccvs/core/client/Commit.java
+SHA1-Digest: vkN0nZPg8JUCb+aFSvIECe0xUsA=
+
+Name: org/eclipse/team/internal/ccvs/core/syncinfo/MutableFolderSyncIn
+ fo.java
+SHA1-Digest: b1X8F4SpGnUGBgOTJNLqY+uGjKo=
+
+Name: org/eclipse/team/internal/ccvs/core/client/Tag.java
+SHA1-Digest: 7tz5H5/7x3spygUcSjUD/T3W9MI=
+
+Name: org/eclipse/team/internal/ccvs/core/util/SyncFileWriter.java
+SHA1-Digest: Fd+Kka7A9gkVZCe9fVsd0ZLNy6Y=
+
+Name: org/eclipse/team/internal/ccvs/core/client/listeners/RDiffSummar
+ yListener.java
+SHA1-Digest: iRniWZQITxu09jfZllbntcO8ufU=
+
+Name: org/eclipse/team/internal/ccvs/core/client/Version.java
+SHA1-Digest: x2rH0J3QPPaftZCDDV0NjrUmaNQ=
+
+Name: org/eclipse/team/internal/ccvs/core/client/Session.java
+SHA1-Digest: 9bpaU+KHTA+H1j7uqq5wxTZBHro=
+
+Name: org/eclipse/team/internal/ccvs/core/util/Util.java
+SHA1-Digest: xuJ39EC+yM5HJba0FfSmKxGYHhU=
+
+Name: org/eclipse/team/internal/ccvs/core/CVSCompareSubscriber.java
+SHA1-Digest: 0bc0WkNdjo2Yi8vnl4t4c5Ol+Ao=
+
+Name: org/eclipse/team/internal/ccvs/core/resources/RemoteFile.java
+SHA1-Digest: ns9pbkzdU63HoIlx7siLRQV2ryE=
+
+Name: org/eclipse/team/internal/ccvs/core/client/listeners/ServerMessa
+ geLineMatcher.java
+SHA1-Digest: 0aBN9/cjFCyV2Tz/jSKb1FhoOBE=
+
+Name: org/eclipse/team/internal/ccvs/core/client/ValidRequestsHandler.
+ java
+SHA1-Digest: lYjKextu6aATkEHli8JspCMi4pM=
+
+Name: org/eclipse/team/internal/ccvs/core/resources/SynchronizerSyncIn
+ foCache.java
+SHA1-Digest: NbYERYWPj6Bq7LCTWCdHn76hKj4=
+
+Name: org/eclipse/team/internal/ccvs/core/util/MoveDeleteHook.java
+SHA1-Digest: cfkQ0rgbQJCFdW9Ai5D3dxXVmqU=
+
+Name: org/eclipse/team/internal/ccvs/core/client/listeners/ICommandOut
+ putListener.java
+SHA1-Digest: k6niUdVLcUv4/drlTS0A6w/op1U=
+
+Name: org/eclipse/team/internal/ccvs/core/IServerConnection.java
+SHA1-Digest: ekgT/Wixd98hHyBoBQP9+hgJTJk=
+
+Name: org/eclipse/team/internal/ccvs/core/client/Checkout.java
+SHA1-Digest: 9TrEWbNZtAxHqRyj2ELxMft4D7o=
+
+Name: org/eclipse/team/internal/ccvs/core/client/NOOPVisitor.java
+SHA1-Digest: W5hIOXgXgtsuu4Q1vTP8X4Dagzs=
+
+Name: org/eclipse/team/internal/ccvs/core/util/CVSDateFormatter.java
+SHA1-Digest: dLTv5EQc6G9Giini9YHUOFDJk1o=
+
+Name: org/eclipse/team/internal/ccvs/core/resources/RemoteFolderSandbo
+ x.java
+SHA1-Digest: eEcnnLANFEBe9aLv91HGhJBo8io=
+
+Name: org/eclipse/team/internal/ccvs/core/filesystem/RLogTreeBuilder.j
+ ava
+SHA1-Digest: nowrg0L5OJ2EFTRaVb0X62KFycM=
+
+Name: org/eclipse/team/internal/ccvs/core/connection/CVSAuthentication
+ Exception.java
+SHA1-Digest: /pwr9ujafQqN/e6KoQwc+fuItbQ=
+
+Name: org/eclipse/team/internal/ccvs/core/client/listeners/AdminKSubst
+ Listener.java
+SHA1-Digest: yASmvgydrX2R2PWtT3QZtgfhM54=
+
+Name: org/eclipse/team/internal/ccvs/core/connection/PServerConnection
+ Method.java
+SHA1-Digest: PETQVvDokx/Zfqb1btefvuwFWb4=
+
+Name: org/eclipse/team/internal/ccvs/core/CVSMergeSubscriber.java
+SHA1-Digest: Tk9ERSRmHphaEygvnlB/Spbii1k=
+
+Name: org/eclipse/team/internal/ccvs/core/mapping/CVSActiveChangeSetCo
+ llector.java
+SHA1-Digest: 2jewFmkTgmE7u5Lmu6bH9/fde/4=
+
+Name: org/eclipse/team/internal/ccvs/core/filehistory/CVSFileRevision.
+ java
+SHA1-Digest: T8CrkZihBbIkYLjzIp1UuyvKhbY=
+
+Name: org/eclipse/team/internal/ccvs/core/client/StickyHandler.java
+SHA1-Digest: xhtGc4sDSVRGZgymghAay4vtE/s=
+
+Name: org/eclipse/team/internal/ccvs/core/resources/RemoteFolderTree.j
+ ava
+SHA1-Digest: DvzDJ/EZPPadpSU3G8ztq28T7r0=
+
+Name: org/eclipse/team/internal/ccvs/core/client/ModifiedFileSender.ja
+ va
+SHA1-Digest: hX0kYJVupQFSDj1h3eBH5pAZIKA=
+
+Name: org/eclipse/team/internal/ccvs/core/syncinfo/ResourceSyncInfo.ja
+ va
+SHA1-Digest: Ja/oQCobamig4KgAC85K38qpIQM=
+
+Name: org/eclipse/team/internal/ccvs/core/client/CRLFDetectInputStream
+ .java
+SHA1-Digest: Az8kLe9Qk+81jM0yTYg87OpvgsQ=
+
+Name: org/eclipse/team/internal/ccvs/core/client/ModuleExpansionHandle
+ r.java
+SHA1-Digest: pxW6xeOzhz0k7AI5wbKmyiS7k80=
+
+Name: org/eclipse/team/internal/ccvs/core/client/StaticHandler.java
+SHA1-Digest: /aD3vMCXs3q4b2RNxb3ODUGaQys=
+
+Name: org/eclipse/team/internal/ccvs/core/client/listeners/ILogEntryLi
+ stener.java
+SHA1-Digest: lVITitbnl+EPteReYJUfYpC7jo4=
+
+Name: org/eclipse/team/internal/ccvs/core/ILogEntry.java
+SHA1-Digest: 5cvMnH/Kzglfci7DJAl2xqCZEfc=
+
+Name: org/eclipse/team/internal/ccvs/core/client/Status.java
+SHA1-Digest: H4+v6EABDsN/FU4VlCXWPiXmyFg=
+
+Name: about.html
+SHA1-Digest: 4M5MFIoZDvUkyzF3inZX8IuESjQ=
+
+Name: org/eclipse/team/internal/ccvs/core/client/UpdatedHandler.java
+SHA1-Digest: HJJbJvvglSeuHWeloz6LcWHCMGU=
+
+Name: org/eclipse/team/internal/ccvs/core/filesystem/LogEntryCache.jav
+ a
+SHA1-Digest: IBGoyfZqFOC8ZtgdEgcXnCqOfKg=
+
+Name: org/eclipse/team/internal/ccvs/core/CVSException.java
+SHA1-Digest: RiA5lw5dh+90gzKuFX23Fb5A9us=
+
+Name: org/eclipse/team/internal/ccvs/core/resources/EclipseResource.ja
+ va
+SHA1-Digest: szZpY4O1hH3n6XAD9rydYPfEQ7E=
+
+Name: org/eclipse/team/internal/ccvs/core/client/ExpandModules.java
+SHA1-Digest: wYc/o0Cud0uuCxhljQJjXMh/bKE=
+
+Name: org/eclipse/team/internal/ccvs/core/connection/CVSCommunicationE
+ xception.java
+SHA1-Digest: h7HTNmjpeMGHQTnurraI9SGoFa8=
+
+Name: org/eclipse/team/internal/ccvs/core/client/Diff.java
+SHA1-Digest: 9nDOdpgUrheB2Ip55GCNMM4lEWI=
+
+Name: org/eclipse/team/internal/ccvs/core/client/ByteCountOutputStream
+ .java
+SHA1-Digest: +5gexaalhFgtbUTPThk62/6HJGU=
+
+Name: org/eclipse/team/internal/ccvs/core/client/MTHandler.java
+SHA1-Digest: 3m+Letk5UCmjsJzLdFWdZC1G2zU=
+
+Name: org/eclipse/team/internal/ccvs/core/resources/RemoteResource.jav
+ a
+SHA1-Digest: jnWUGhtkgfo1R3UAT+721x35wDk=
+
+Name: org/eclipse/team/internal/ccvs/core/client/CheckoutWithOverwrite
+ .java
+SHA1-Digest: 0H46YRXnkcjFgCBf7jjiI7pB7zs=
+
+Name: org/eclipse/team/internal/ccvs/core/resources/UpdateContentCachi
+ ngService.java
+SHA1-Digest: w9uXJsMkUaEVY/1bZNnuSMCoRgE=
+
+Name: org/eclipse/team/internal/ccvs/core/client/listeners/IConsoleLis
+ tener.java
+SHA1-Digest: NR1U4XoIln3tz9W8Ixm+KsjfycU=
+
+Name: org/eclipse/team/internal/ccvs/core/syncinfo/ReentrantLock.java
+SHA1-Digest: k9z1WkWZFCcTaH+bdGLuss0vOcM=
+
+Name: org/eclipse/team/internal/ccvs/core/client/listeners/UpdateListe
+ ner.java
+SHA1-Digest: Y/kmRZWxUllhOIV/LZhdRUqevDg=
+
+Name: org/eclipse/team/internal/ccvs/core/client/RemovedHandler.java
+SHA1-Digest: eYE4Hn0LozXumkaMGpPkRjAG0ZQ=
+
+Name: org/eclipse/team/internal/ccvs/core/client/RTag.java
+SHA1-Digest: a+uS3clWr7pTBSJzsfvxWjYEhUM=
+
+Name: org/eclipse/team/internal/ccvs/core/CVSMessages.java
+SHA1-Digest: QQ/M86L+VTJGOtsumQyZKnuzVqE=
+
+Name: org/eclipse/team/internal/ccvs/core/mapping/ChangeSetModelProvid
+ er.java
+SHA1-Digest: KtuTGTr63VSiSx4eahPd4J+OPKM=
+
+Name: org/eclipse/team/internal/ccvs/core/resources/FileModificationMa
+ nager.java
+SHA1-Digest: fbsrpm8R2NmTQ9h5eJbyzeLggjg=
+
+Name: org/eclipse/team/internal/ccvs/core/resources/CVSEntryLineTag.ja
+ va
+SHA1-Digest: AClCsUdjtwcYZXK2K/xT9HF9Mwo=
+
+Name: org/eclipse/team/internal/ccvs/core/client/Import.java
+SHA1-Digest: TtWEcdAo8JxrT8cdurDX7B+KiMM=
+
+Name: org/eclipse/team/internal/ccvs/core/filesystem/CVSFileStore.java
+SHA1-Digest: /Vl8XnkgpwkjBLjwnknRKWdT5aM=
+
+Name: org/eclipse/team/internal/ccvs/core/util/PrepareForReplaceVisito
+ r.java
+SHA1-Digest: sM3R4WRqVEbs5oriim6ZXrlWKqU=
+
+Name: org/eclipse/team/internal/ccvs/core/CVSTeamProviderType.java
+SHA1-Digest: CU0Y+Odi0UFzL0aOvJ/tF1NM9z4=
+
+Name: org/eclipse/team/internal/ccvs/core/client/NOOPCommand.java
+SHA1-Digest: NnV8yBZ/rs35lcY0DYhHz44hRLI=
+
+Name: org/eclipse/team/internal/ccvs/core/ICVSResource.java
+SHA1-Digest: E6HqERqYXsmzGKs7ovHMfLTNudw=
+
+Name: org/eclipse/team/internal/ccvs/core/client/listeners/LogListener
+ .java
+SHA1-Digest: /RCyIXhXyBqWpaxoh9CUtBdL1DI=
+
+Name: org/eclipse/team/internal/ccvs/core/CVSProviderPlugin.java
+SHA1-Digest: KagK+Q5ht6LGvMcMeeFdBDWyRuU=
+
+Name: org/eclipse/team/internal/ccvs/core/CVSSyncTreeSubscriber.java
+SHA1-Digest: 7KnQVSq4NZOJAkkILtnzNVQwvMg=
+
+Name: org/eclipse/team/internal/ccvs/core/util/KnownRepositories.java
+SHA1-Digest: QJV/6XeSw5uZpMUTuB74e6FeXXE=
+
+Name: org/eclipse/team/internal/ccvs/core/client/ModTimeHandler.java
+SHA1-Digest: cK8gasiAFGNuKT2kNFlK2yWV+2c=
+
+Name: org/eclipse/team/internal/ccvs/core/client/Add.java
+SHA1-Digest: PT15W8TUoI8k07cppxcdUeMIXPQ=
+
+Name: org/eclipse/team/internal/ccvs/core/resources/RemoteModule.java
+SHA1-Digest: lJlK3eMlcys0BIZk7yuLrAPPa7o=
+
+Name: org/eclipse/team/internal/ccvs/core/CVSCoreFileModificationValid
+ ator.java
+SHA1-Digest: 6QKced/mqD8HZ49CAxvKfR+3Cjc=
+
+Name: META-INF/eclipse.inf
+SHA1-Digest: SAqY+5ITAL0mkdYeijlSRhyIaZk=
+
+Name: org/eclipse/team/internal/ccvs/core/syncinfo/BaserevInfo.java
+SHA1-Digest: yx5R2ZBhC0dO2mBDidrWWfRNyT0=
+
+Name: org/eclipse/team/internal/ccvs/core/client/FileStructureVisitor.
+ java
+SHA1-Digest: 1la8wYIxqALBCj1YfbkEaZntJ7E=
+
+Name: org/eclipse/team/internal/ccvs/core/syncinfo/CVSResourceVariantT
+ ree.java
+SHA1-Digest: CIc9X4jqKCxE/ySZmVr5SMJNr3g=
+
+Name: org/eclipse/team/internal/ccvs/core/client/RDiff.java
+SHA1-Digest: YJ4XjC0gTaf4n5G42iuNSoaRkbA=
+
+Name: org/eclipse/team/internal/ccvs/core/client/listeners/AnnotateLis
+ tener.java
+SHA1-Digest: 3C/55n6oZibdRr4qGsnR9tqg9nw=
+
+Name: org/eclipse/team/internal/ccvs/core/client/CopyHandler.java
+SHA1-Digest: K1E3ov+YKXRReTucgdM/7550vwc=
+
+Name: org/eclipse/team/internal/ccvs/core/filehistory/CVSFileHistory.j
+ ava
+SHA1-Digest: TE2bRab+96hZV/klvbVkosbbl+M=
+
+Name: org/eclipse/team/internal/ccvs/core/mapping/ChangeSetResourceMap
+ ping.java
+SHA1-Digest: JXNVItEIbv1E63uRKSl5whuDO1I=
+
+Name: org/eclipse/team/internal/ccvs/core/syncinfo/MultiTagResourceVar
+ iantTree.java
+SHA1-Digest: Dd1015YT35vNNinxcUr0qgnLGHM=
+
+Name: org/eclipse/team/internal/ccvs/core/resources/RemoteFolderMember
+ Fetcher.java
+SHA1-Digest: KNP0+GIZvk3TLO6n2f+8SsLuulI=
+
+Name: org/eclipse/team/internal/ccvs/core/client/TemplateHandler.java
+SHA1-Digest: gl7wwCHWDR3/Jcsxadr2yVF8v6Q=
+
+Name: org/eclipse/team/internal/ccvs/core/ICVSListener.java
+SHA1-Digest: 21cqHuQmvR+ykvONPzAl2YrHYuM=
+
+Name: org/eclipse/team/internal/ccvs/core/connection/UserInfo.java
+SHA1-Digest: osylHQxOnXViVcQ0EHq0tYTTYmA=
+
+Name: org/eclipse/team/internal/ccvs/core/client/TagFileSender.java
+SHA1-Digest: BM0r6fW7gf8x1KqkgZad+otGO0o=
+
+Name: org/eclipse/team/internal/ccvs/core/client/Command.java
+SHA1-Digest: 9H4oWvHTXuZ+rvxbW5WloHZcfGk=
+
+Name: org/eclipse/team/internal/ccvs/core/client/DiffStructureVisitor.
+ java
+SHA1-Digest: KaDAvpJ+7fkfXZTxC7WSKwshR80=
+
+Name: org/eclipse/team/internal/ccvs/core/IUserInfo.java
+SHA1-Digest: Q0NltaJna/HIQiUnovR5BQGUp7o=
+
+Name: org/eclipse/team/internal/ccvs/core/client/UpdateMergableOnly.ja
+ va
+SHA1-Digest: feJz6NSkWmCkiFZLAjJws2FyaAI=
+
+Name: org/eclipse/team/internal/ccvs/core/client/listeners/IUpdateMess
+ ageListener.java
+SHA1-Digest: Ymn/hZ+U5mGk7ngOqcjf6fhgMVs=
+
+Name: org/eclipse/team/internal/ccvs/core/syncinfo/FolderSyncInfo.java
+SHA1-Digest: ZUjEcXTiEn+4guJeRCkIlZKzybA=
+
+Name: org/eclipse/team/internal/ccvs/core/client/PruneFolderVisitor.ja
+ va
+SHA1-Digest: +wftQz85ULXu9d4V7xoYLU1fGDg=
+
+Name: org/eclipse/team/internal/ccvs/core/resources/EclipseFile.java
+SHA1-Digest: +RGfYL9bctvZajbvOZb9dxfn7Ks=
+
+Name: org/eclipse/team/internal/ccvs/core/util/ResourceStateChangeList
+ eners.java
+SHA1-Digest: vSI9p2iN/tVzBLq8OTAmOhkPaVA=
+
+Name: org/eclipse/team/internal/ccvs/core/filesystem/CVSFileTree.java
+SHA1-Digest: ts8GFzDOvFtByBOBmxDKz2S8Cjk=
+
+Name: org/eclipse/team/internal/ccvs/core/util/StringMatcher.java
+SHA1-Digest: qdIhZqRh5RLkKsBRgbL5FELW5l0=
+
+Name: plugin.properties
+SHA1-Digest: tlIjd5C5efBON36ejeVnouvkw3c=
+
+Name: org/eclipse/team/internal/ccvs/core/connection/ExtConnectionMeth
+ od.java
+SHA1-Digest: CA4DHDvmPx+EHDFxAarmHPLsQnU=
+
+Name: org/eclipse/team/internal/ccvs/core/client/NotifiedHandler.java
+SHA1-Digest: yzL7/F/dYd6rSS20C5Mdf/JqfkA=
+
+Name: org/eclipse/team/internal/ccvs/core/client/AbstractMessageComman
+ d.java
+SHA1-Digest: n6tqQqWMxMjDD4/E2e47pXJreKw=
+
+Name: org/eclipse/team/internal/ccvs/core/client/SyncUpdate.java
+SHA1-Digest: czojIMc5x7dATAKw1Ausqjpv3iw=
+
+Name: org/eclipse/team/internal/ccvs/core/util/SyncFileChangeListener.
+ java
+SHA1-Digest: QS4wGqj6nR7ephOWu1BCi6r9DQU=
+
+Name: org/eclipse/team/internal/ccvs/core/mapping/UnassignedDiffChange
+ Set.java
+SHA1-Digest: mp/S7nb4Tlkn3b6s4q0v3Gkaxa0=
+
+Name: org/eclipse/team/internal/ccvs/core/client/ImportStructureVisito
+ r.java
+SHA1-Digest: m3PWUjrjFd8YSQSk4hiBUlouoDY=
+
+Name: org/eclipse/team/internal/ccvs/core/client/RemoteCommand.java
+SHA1-Digest: E3wQ4JQkK3Ee9QCOhG6TNxCZHII=
+
+Name: org/eclipse/team/internal/ccvs/core/CVSAnnotateBlock.java
+SHA1-Digest: 0s4g+g437QaiP8NbZbhKBoh7krQ=
+
+Name: org/eclipse/team/internal/ccvs/core/client/Log.java
+SHA1-Digest: Zv9bYQyMXg2MnwGgg+Ij66znGRw=
+
+Name: org/eclipse/team/internal/ccvs/core/resources/RemoteFolder.java
+SHA1-Digest: zZoydxedj7fRoOfQrV3OkdCYr0o=
+
+Name: org/eclipse/team/internal/ccvs/core/util/FileNameMatcher.java
+SHA1-Digest: Z68bsb2f17ULue8rxsgbI9/iffo=
+
+Name: org/eclipse/team/internal/ccvs/core/CVSWorkspaceSubscriber.java
+SHA1-Digest: mbMYMFSEEVjADqmoiyw2WmLAaq8=
+
+Name: org/eclipse/team/internal/ccvs/core/resources/EclipseSynchronize
+ r.java
+SHA1-Digest: 14F/mCGuQyL0qKror9QL2dkI0ac=
+
+Name: org/eclipse/team/internal/ccvs/core/client/CommandOutputListener
+ .java
+SHA1-Digest: 2YOhDkVvjK0MCacFVXFX/jxuJ0M=
+
+Name: org/eclipse/team/internal/ccvs/core/connection/CVSServerExceptio
+ n.java
+SHA1-Digest: 3w5FQj5gFVlFL8mjQ+Lf+pHI4S0=
+
+Name: org/eclipse/team/internal/ccvs/core/filehistory/CVSLocalFileRevi
+ sion.java
+SHA1-Digest: Gj+Y9NelbW6/oNIHIKIAzrJiJU0=
+
+Name: org/eclipse/team/internal/ccvs/core/client/AddStructureVisitor.j
+ ava
+SHA1-Digest: XjjqNy49fkBKbFL8/OJtmA87n/g=
+
+Name: org/eclipse/team/internal/ccvs/core/ICVSDecoratorEnablementListe
+ ner.java
+SHA1-Digest: 0uyibPG8ZA2UYM0Vs2RyRGf/5Ow=
+
+Name: org/eclipse/team/internal/ccvs/core/CvsBundleImporterDelegate.ja
+ va
+SHA1-Digest: sKN1FtxZzBKhber+YzP9k+orAFY=
+
+Name: org/eclipse/team/internal/ccvs/core/syncinfo/MutableResourceSync
+ Info.java
+SHA1-Digest: arMxXoXORf4iRTbFF9feCOaH+nU=
+
+Name: org/eclipse/team/internal/ccvs/core/client/NewEntryHandler.java
+SHA1-Digest: l/FB1Nq/4CuZjATLkAs2reSALDo=
+
+Name: org/eclipse/team/internal/ccvs/core/ICVSRunnable.java
+SHA1-Digest: 2Vv3Nqn9D2inRE0/WU89MnwxRHE=
+
+Name: org/eclipse/team/internal/ccvs/core/ICVSFile.java
+SHA1-Digest: bVWkoPxpHs1bRMWCUUpYkSdIRXI=
+
+Name: org/eclipse/team/internal/ccvs/core/EditorsInfo.java
+SHA1-Digest: Weysiyt7xfJWKL84m0c5vsN87m8=
+
+Name: org/eclipse/team/internal/ccvs/core/client/Replace.java
+SHA1-Digest: QPXPVAQ5FgtGz66FMcaKFKcS1gU=
+
+Name: org/eclipse/team/internal/ccvs/core/CVSStatus.java
+SHA1-Digest: 5bAZaXQvMsW5q75LEAIOpp2/XPw=
+
+Name: org/eclipse/team/internal/ccvs/core/connection/ExtConnection.jav
+ a
+SHA1-Digest: HsUT+vYxcMtcFPDrHJdlA4JF9ao=
+
+Name: org/eclipse/team/internal/ccvs/core/client/Update.java
+SHA1-Digest: ifER6qjXsXD0x1e7y+3xc7jFSBE=
+
+Name: org/eclipse/team/internal/ccvs/core/client/Request.java
+SHA1-Digest: xUfWtzBWWtJuEud4z92gQfPKvzs=
+
+Name: org/eclipse/team/internal/ccvs/core/ICVSRemoteResource.java
+SHA1-Digest: +4KiMBRwKMfxw2c9qv4mSzDE1SA=
+
+Name: org/eclipse/team/internal/ccvs/core/client/Admin.java
+SHA1-Digest: WiQ0uMu6qom/Xwe6mBvPVvcC0fM=
+
+Name: org/eclipse/team/internal/ccvs/core/client/listeners/EditorsList
+ ener.java
+SHA1-Digest: Godk/TRA8VTar5gb0gntkTyti0s=
+
+Name: org/eclipse/team/internal/ccvs/core/client/ResponseHandler.java
+SHA1-Digest: ClM4qA4yLZGvOj70b8PjRBw/uIM=
+
+Name: org/eclipse/team/internal/ccvs/core/mapping/CVSCheckedInChangeSe
+ t.java
+SHA1-Digest: iLJkYLCI+XCJjb4LL9CFnfwcMBY=
+
+Name: org/eclipse/team/internal/ccvs/core/ICVSFileModificationValidato
+ r.java
+SHA1-Digest: smYuNhBnbMNY0MUqCIDBLGxrhwA=
+
+Name: org/eclipse/team/internal/ccvs/core/resources/CVSWorkspaceRoot.j
+ ava
+SHA1-Digest: pL8Ksb8ZADMz6wXOLywYvlg6jzM=
+
+Name: org/eclipse/team/internal/ccvs/core/client/listeners/LogEntry.ja
+ va
+SHA1-Digest: yZS0ns+chg6fe8shYGMPqiYZMtk=
+
+Name: org/eclipse/team/internal/ccvs/core/connection/PServerConnection
+ .java
+SHA1-Digest: JrUGhonGb6L76/ON8Ixxn8Ojr2E=
+

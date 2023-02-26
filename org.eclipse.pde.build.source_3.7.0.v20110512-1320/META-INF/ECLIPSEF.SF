@@ -1,0 +1,433 @@
+Signature-Version: 1.0
+SHA1-Digest-Manifest: 5JiFGlTy61qAR2TiBYnQJ6RqJsE=
+Created-By: 1.6.0 (IBM Corporation)
+SHA1-Digest-Manifest-Main-Attributes: g2MduyUzd9A7VyTw7Rz4cQUx9/M=
+
+Name: lib/pdebuild-antsrc/org/eclipse/pde/internal/build/tasks/PluginV
+ ersionReplaceTask.java
+SHA1-Digest: PBGd3jo0bRK0tbY8yCPtS9FwkFE=
+
+Name: pdebuildsrc/org/eclipse/pde/internal/build/publisher/compatibili
+ ty/RootFileParentAction.java
+SHA1-Digest: pVvPs2g8UDubWxtH7vUULkytPRk=
+
+Name: pdebuildsrc/org/eclipse/pde/internal/build/P2ConfigScriptGenerat
+ or.java
+SHA1-Digest: Ee88kFQx0iBfo7mMqfNPUMD4yAw=
+
+Name: pdebuildsrc/org/eclipse/pde/internal/build/publisher/compatibili
+ ty/GeneratorApplication.java
+SHA1-Digest: MvpugPuuzrFoP9JkbiG7qEhIRaw=
+
+Name: lib/pdebuild-antsrc/org/eclipse/pde/internal/build/tasks/Package
+ rTask.java
+SHA1-Digest: RVsOzniMeY66Y5ZVYi+DyXGkKeY=
+
+Name: lib/pdebuild-antsrc/org/eclipse/pde/internal/build/publisher/Fea
+ turesAndBundlesTask.java
+SHA1-Digest: Ynv1LVAZAppr8Sg+Fivgge3dz4Q=
+
+Name: pdebuildsrc/org/eclipse/pde/internal/build/IPDEBuildConstants.ja
+ va
+SHA1-Digest: Ypb+Iy8OPlkH2RjEsYVTtfp4h8s=
+
+Name: lib/pdebuild-antsrc/org/eclipse/pde/internal/build/tasks/Manifes
+ tModifier.java
+SHA1-Digest: WfQpLxeLzh0quJb0EpPOIoneWlU=
+
+Name: pdebuildsrc/org/eclipse/pde/internal/build/builder/ClasspathComp
+ uter3_0.java
+SHA1-Digest: pEusw9vhmrb+EpkLFRJ/ILljDVM=
+
+Name: lib/pdebuild-antsrc/org/eclipse/pde/internal/build/tasks/JNLPGen
+ eratorTask.java
+SHA1-Digest: zavtddCVYfy8MT0pAYTja7T/d6g=
+
+Name: pdebuildsrc/org/eclipse/pde/internal/build/site/BuildTimeSiteCon
+ tentProvider.java
+SHA1-Digest: qH7wa9TtCEZaS2LE+BDfmOAoCKM=
+
+Name: lib/pdebuild-antsrc/org/eclipse/pde/internal/build/tasks/BrandTa
+ sk.java
+SHA1-Digest: /bwm0+bb1GFxz3ro1J8XvEJDos0=
+
+Name: pdebuildsrc/org/eclipse/pde/internal/build/builder/ModelBuildScr
+ iptGenerator.java
+SHA1-Digest: R53q8yAFJtoME7oVks94NtJA6eE=
+
+Name: pdebuildsrc/org/eclipse/pde/internal/build/publisher/compatibili
+ ty/RootFileTouchpointAdvice.java
+SHA1-Digest: QlWCYPaqFyuOaeAagwJrBSVI97Q=
+
+Name: pdebuildsrc/org/eclipse/pde/internal/build/builder/BuildDirector
+ .java
+SHA1-Digest: L0o8B9IaHAvV6aZqIMA6mZDxlVg=
+
+Name: lib/pdebuild-antsrc/org/eclipse/pde/internal/build/publisher/Gat
+ herBundleTask.java
+SHA1-Digest: ogzOV3qCfw5wD5WobNK/TlA4mj0=
+
+Name: pdebuildsrc/org/eclipse/pde/internal/build/SourceFeatureInformat
+ ion.java
+SHA1-Digest: H3SmysgIs0B5jVKE5H9oOH47k0k=
+
+Name: pdebuildsrc/org/eclipse/pde/internal/build/builder/AbstractBuild
+ ScriptGenerator.java
+SHA1-Digest: KDUQORx9EInXsCo4+J9EWY7Tl9Y=
+
+Name: pdebuildsrc/org/eclipse/pde/internal/build/packager/FetchFileGen
+ erator.java
+SHA1-Digest: oCSPvSAV6xUjPcdb3otTu8p923o=
+
+Name: pdebuildsrc/org/eclipse/pde/internal/build/ant/FileSet.java
+SHA1-Digest: VBeSJlZr7e/YYOiB/rOYkS7lxhY=
+
+Name: pdebuildsrc/org/eclipse/pde/internal/build/builder/DevClassPathH
+ elper.java
+SHA1-Digest: 5xWsItPrgmAkuJUyOze5ELJIs6o=
+
+Name: lib/pdebuild-antsrc/org/eclipse/pde/internal/build/tasks/Version
+ .java
+SHA1-Digest: komt8chhLs/2UV4valdXqMT3UhM=
+
+Name: pdebuildsrc/org/eclipse/pde/internal/build/packager/DeltaPackScr
+ iptGenerator.java
+SHA1-Digest: xLxYg9K4EdKTOHlHbKyscGwVets=
+
+Name: pdebuildsrc/org/eclipse/pde/build/IFetchFactory.java
+SHA1-Digest: I5ggusNVZSJ77WK2p8tR1veJRIc=
+
+Name: pdebuildsrc/org/eclipse/pde/internal/build/ProductGenerator.java
+SHA1-Digest: PqDu+e6eo5otP3IgP3BtiX3rghc=
+
+Name: pdebuildsrc/org/eclipse/pde/internal/build/AssembleScriptGenerat
+ or.java
+SHA1-Digest: oqe07ULw1xwVvxIeEW+HxBP1zTc=
+
+Name: schema/fetchFactories.exsd
+SHA1-Digest: 6aQ8HobfPr/Nvr8o+VIekcpohLI=
+
+Name: lib/pdebuild-antsrc/org/eclipse/pde/internal/build/tasks/BuildSc
+ riptGeneratorTask.java
+SHA1-Digest: xSB6n+Ab3jDLeuzXn9F5nVzwZnA=
+
+Name: pdebuildsrc/org/eclipse/pde/internal/build/packager/UnzipperGene
+ rator.java
+SHA1-Digest: LEiR1bSq9LkRn5PtXtUfu91Il8A=
+
+Name: lib/pdebuild-antsrc/org/eclipse/pde/internal/build/tasks/SimpleB
+ uildLogger.java
+SHA1-Digest: zGG4FttmJ9Tgv2DW9pWIQVFw2MI=
+
+Name: pdebuildsrc/org/eclipse/pde/internal/build/site/ProfileManager.j
+ ava
+SHA1-Digest: WuzcY6XPKgXPqS5qTgTwBElIqBo=
+
+Name: lib/pdebuild-antsrc/org/eclipse/pde/internal/build/tasks/FetchTa
+ sk.java
+SHA1-Digest: Z9QjecgCTYCqe8RL9Zbm9JADkh4=
+
+Name: lib/pdebuild-antsrc/org/eclipse/pde/internal/build/tasks/IdRepla
+ ceTask.java
+SHA1-Digest: FdCdKxAEj+cguhxRlaBgJ7OQJKI=
+
+Name: pdebuildsrc/org/eclipse/pde/internal/build/ant/JavacTask.java
+SHA1-Digest: SDpa1uh5ol9d2jIULZKN4jUlb1I=
+
+Name: pdebuildsrc/org/eclipse/pde/internal/build/site/compatibility/Fe
+ atureReference.java
+SHA1-Digest: 7jsAao8d2ILyylJRaGZJKqapFyI=
+
+Name: pdebuildsrc/org/eclipse/pde/internal/build/site/BuildTimeFeature
+ Factory.java
+SHA1-Digest: wwZxwdt89GX/dIsUuzLRo2YgRIA=
+
+Name: pdebuildsrc/org/eclipse/pde/internal/build/builder/IClasspathCom
+ puter.java
+SHA1-Digest: GOMfOdk8GwS6hSIPzDL6NZZsHZk=
+
+Name: lib/pdebuild-antsrc/org/eclipse/pde/internal/build/publisher/Abs
+ tractPublisherTask.java
+SHA1-Digest: +vJ8xSGb3r6Q8nrMVYXQU6fKYfg=
+
+Name: pdebuildsrc/org/eclipse/pde/internal/build/ProductFile.java
+SHA1-Digest: E+W4exVeZSZ3VFTbE90P27DYqp4=
+
+Name: pdebuildsrc/org/eclipse/pde/internal/build/ant/ITask.java
+SHA1-Digest: iIa2581RaR3WM26MoEQSgMoDe9k=
+
+Name: pdebuildsrc/org/eclipse/pde/internal/build/packager/PackageConfi
+ gScriptGenerator.java
+SHA1-Digest: ahYJa4Acr2dijR19W8UJTkpgwxQ=
+
+Name: lib/pdebuild-antsrc/org/eclipse/pde/internal/build/generator/Gen
+ eratorTask.java
+SHA1-Digest: Q3Wu5YA5IRruUGzyhUnbz2QGj+w=
+
+Name: about.html
+SHA1-Digest: NsqonTvTIooyUcpddXY8f055MmA=
+
+Name: pdebuildsrc/org/eclipse/pde/internal/build/ant/TarFileSet.java
+SHA1-Digest: lanp8mpfWEH72GywvMiTWKuE1Zg=
+
+Name: pdebuildsrc/org/eclipse/pde/internal/build/properties/PDEPropert
+ ies.java
+SHA1-Digest: IQ7dbfcp6++SrLrdu8uusb6SQtU=
+
+Name: pdebuildsrc/org/eclipse/pde/internal/build/builder/FeatureBuildS
+ criptGenerator.java
+SHA1-Digest: TfUFSncYa0gUXP+7XDA3O2RVQr0=
+
+Name: pdebuildsrc/org/eclipse/pde/internal/build/site/PluginRegistryCo
+ nverter.java
+SHA1-Digest: 4VYk+dhZBJRyAjsMAPyDBLq/Cek=
+
+Name: pdebuildsrc/org/eclipse/pde/internal/build/publisher/compatibili
+ ty/AssembledConfigAdvice.java
+SHA1-Digest: dKIHJTqwBp/7QK+3WxWyfRSym8c=
+
+Name: pdebuildsrc/org/eclipse/pde/internal/build/fetch/CVSFetchTaskFac
+ tory.java
+SHA1-Digest: mCfXBbwATkUW51jCMdVaxRDRfHs=
+
+Name: lib/pdebuild-antsrc/org/eclipse/pde/internal/build/publisher/Gat
+ herFeatureTask.java
+SHA1-Digest: VZZYsmSX0qymO2qXSwndveGLCj8=
+
+Name: pdebuildsrc/org/eclipse/pde/internal/build/builder/CompilationSc
+ riptGenerator.java
+SHA1-Digest: eiHgK/+bphnVYRbHu3bbDanHR0w=
+
+Name: pdebuildsrc/org/eclipse/pde/internal/build/site/ReachablePlugin.
+ java
+SHA1-Digest: m+vzVJPjX7jdx3O3Legk+hI1WQA=
+
+Name: pdebuildsrc/org/eclipse/pde/internal/build/fetch/P2IUFetchFactor
+ y.java
+SHA1-Digest: EjYFLkHCwZSgD4KteH7bq9FztX0=
+
+Name: pdebuildsrc/org/eclipse/pde/internal/build/site/PluginPathFinder
+ .java
+SHA1-Digest: lX3iMgCB/2JgXijegZa/82BIfLQ=
+
+Name: pdebuildsrc/org/eclipse/pde/internal/build/AbstractScriptGenerat
+ or.java
+SHA1-Digest: xR4pj2XTNY01IqRQJ0fqZBZoKCM=
+
+Name: pdebuildsrc/org/eclipse/pde/internal/build/BundleHelper.java
+SHA1-Digest: U3TdBqBZDUqj9V1BCvJwDYhJK/0=
+
+Name: lib/pdebuild-antsrc/org/eclipse/pde/internal/build/tasks/TaskHel
+ per.java
+SHA1-Digest: hobC1CAPmNWcFekqKfHSLsi+x3Y=
+
+Name: pdebuildsrc/org/eclipse/pde/internal/build/builder/SourceGenerat
+ or.java
+SHA1-Digest: jP1S5Up29IUtmoxMb3Dhwx5Pc9Q=
+
+Name: pdebuildsrc/org/eclipse/pde/internal/build/Messages.java
+SHA1-Digest: JODUnKn0Hflui2nmO9SkNoFr11M=
+
+Name: pdebuildsrc/org/eclipse/pde/internal/build/BuildApplication.java
+SHA1-Digest: EKbKAk3idFRi05aJtHnUwGt8k+M=
+
+Name: pdebuildsrc/org/eclipse/pde/internal/build/AssembleConfigScriptG
+ enerator.java
+SHA1-Digest: Hu6KIztLPaEoN5AQsDwnQtpu0I0=
+
+Name: pdebuildsrc/org/eclipse/pde/internal/build/packager/ElementColle
+ ctor.java
+SHA1-Digest: bSVLWG9XGcRHBkEErrO9ngjJIR8=
+
+Name: lib/pdebuild-antsrc/org/eclipse/pde/internal/build/tasks/Feature
+ GeneratorTask.java
+SHA1-Digest: nmVmUQIlEm/AVSjOHvdvw+T5wUw=
+
+Name: pdebuildsrc/org/eclipse/pde/internal/build/AntLogAdapter.java
+SHA1-Digest: 5BCtcrODoaleEvj3Fl2ag4nMO7o=
+
+Name: pdebuildsrc/org/eclipse/pde/internal/build/fetch/GETFetchFactory
+ .java
+SHA1-Digest: ODevo2w7UaC585T/JftRpEm9CK0=
+
+Name: pdebuildsrc/org/eclipse/pde/internal/build/site/BuildTimeSiteFac
+ tory.java
+SHA1-Digest: Ei6hoMvKM2Wl2pJNfmGQGUX39r8=
+
+Name: pdebuildsrc/org/eclipse/pde/internal/build/site/FilteringState.j
+ ava
+SHA1-Digest: r1QNH9l+onstDs+KWsvak6AhSGg=
+
+Name: pdebuildsrc/org/eclipse/pde/build/Constants.java
+SHA1-Digest: 6S9ON8mNHvF+pjY7cNMrMEr5n40=
+
+Name: pdebuildsrc/org/eclipse/pde/internal/build/BuildScriptGenerator.
+ java
+SHA1-Digest: bHq99UfYlmNPWbdbtPZsys2zpCs=
+
+Name: lib/pdebuild-antsrc/org/eclipse/pde/internal/build/tasks/JNLPGen
+ erator.java
+SHA1-Digest: Gim1pNHnGLgqccRZmQrI4/zZGJI=
+
+Name: pdebuildsrc/org/eclipse/pde/internal/build/SourceFeatureWriter.j
+ ava
+SHA1-Digest: qlT6mr5kUhKeOv8qLs6bPS6UwUk=
+
+Name: pdebuildsrc/org/eclipse/pde/internal/build/FeatureWriter.java
+SHA1-Digest: ESTci6r/vzcPeBjVvHF5Cv+LME0=
+
+Name: META-INF/eclipse.inf
+SHA1-Digest: SAqY+5ITAL0mkdYeijlSRhyIaZk=
+
+Name: lib/pdebuild-antsrc/org/eclipse/pde/internal/build/tasks/BuildMa
+ nifestTask.java
+SHA1-Digest: wP1PiEPvL3xjWo/3WZHh0B3lq7c=
+
+Name: pdebuildsrc/org/eclipse/pde/internal/build/site/BuildTimeFeature
+ Parser.java
+SHA1-Digest: xXwrC3mZcJvYZ3+TFcVXchr9fXk=
+
+Name: lib/pdebuild-antsrc/org/eclipse/pde/internal/build/tasks/TaskMes
+ sages.java
+SHA1-Digest: aupAkNCAMPAB12ibiIayPgDa9KM=
+
+Name: pdebuildsrc/org/eclipse/pde/internal/build/IXMLConstants.java
+SHA1-Digest: HqxKns98lUqcAou3LWvBHzZA12A=
+
+Name: pdebuildsrc/org/eclipse/pde/internal/build/site/P2Utils.java
+SHA1-Digest: quX79bAytedxeJ9J+0umg3ffbmY=
+
+Name: pdebuildsrc/org/eclipse/pde/internal/build/FetchTaskFactoriesReg
+ istry.java
+SHA1-Digest: Zhfr5RJyUPxJMGFSzXyHDvJs+Wk=
+
+Name: pdebuildsrc/org/eclipse/pde/internal/build/packager/PackagerGene
+ rator.java
+SHA1-Digest: mE5OfcGyQ62qCa3AahqOXavfUlc=
+
+Name: lib/pdebuild-antsrc/org/eclipse/pde/internal/build/tasks/Config.
+ java
+SHA1-Digest: NDYBWh17sIG0qh7sb7kThAnH2Fw=
+
+Name: lib/pdebuild-antsrc/org/eclipse/pde/internal/build/tasks/FetchFi
+ leGeneratorTask.java
+SHA1-Digest: HFv/JTJtKH6jLPoJAkMc6Kz34/4=
+
+Name: lib/pdebuild-antsrc/org/eclipse/pde/internal/build/tasks/Generic
+ VersionReplacer.java
+SHA1-Digest: /kUPukx8T2mnufb8VkPhxxWuH00=
+
+Name: pdebuildsrc/org/eclipse/pde/internal/build/CatchAllValue.java
+SHA1-Digest: iPNjorOL0vIHVURBSU2ld2A/Nxo=
+
+Name: pdebuildsrc/org/eclipse/pde/internal/build/PDEUIStateWrapper.jav
+ a
+SHA1-Digest: MakqVkAA9e0vEF7rhUEckGkN6iY=
+
+Name: pdebuildsrc/org/eclipse/pde/internal/build/packager/PackageScrip
+ tGenerator.java
+SHA1-Digest: V6512XgaqDUHocEzmgvmUC+2BwI=
+
+Name: pdebuildsrc/org/eclipse/pde/internal/build/site/BuildTimeFeature
+ .java
+SHA1-Digest: bYx1rFBSwQiWT+X1lfvibjeLnZ4=
+
+Name: lib/pdebuild-antsrc/org/eclipse/pde/internal/build/publisher/Bra
+ ndP2Task.java
+SHA1-Digest: J7r33bvcv8CSfIdkwGjjlakWDTc=
+
+Name: pdebuildsrc/org/eclipse/pde/build/IAntScript.java
+SHA1-Digest: +s3oGVQMecBuq+I44eo7DlF0v3Q=
+
+Name: plugin.properties
+SHA1-Digest: 0vvJ2edvoh+rTUte3wVi7zBYrXY=
+
+Name: pdebuildsrc/org/eclipse/pde/internal/build/ant/IScriptRunner.jav
+ a
+SHA1-Digest: FqOcCWc6flQpNHn43rWSf4yCEnM=
+
+Name: pdebuildsrc/org/eclipse/pde/internal/build/BrandingIron.java
+SHA1-Digest: +Lj6EhClh7b6IoEdBY890TguMiw=
+
+Name: pdebuildsrc/org/eclipse/pde/internal/build/IBuildPropertiesConst
+ ants.java
+SHA1-Digest: v+790p49fS3Ae9HVkGW9OR+3ZbE=
+
+Name: pdebuildsrc/org/eclipse/pde/internal/build/Config.java
+SHA1-Digest: PQyO5ljcWDOySaK+6mGVx/qIqCk=
+
+Name: pdebuildsrc/org/eclipse/pde/internal/build/site/QualifierReplace
+ r.java
+SHA1-Digest: D4xDDErlAZtBqmJmSX7eeqe5n0Y=
+
+Name: pdebuildsrc/org/eclipse/pde/internal/build/builder/ClasspathComp
+ uter2_1.java
+SHA1-Digest: n07dcMDQwTR2nPg/RWgJyM9YG5Y=
+
+Name: pdebuildsrc/org/eclipse/pde/internal/build/ShapeAdvisor.java
+SHA1-Digest: XROzgU2ks+sSfESx8l43dzY5Fds=
+
+Name: pdebuildsrc/org/eclipse/pde/internal/build/site/BuildTimeSite.ja
+ va
+SHA1-Digest: RWz4q24+0YfZw8Ktu0HPXydYrXg=
+
+Name: pdebuildsrc/org/eclipse/pde/internal/build/ant/AntScript.java
+SHA1-Digest: Ve8QXDj5Unda3jw+/eugphmY7kg=
+
+Name: pdebuildsrc/org/eclipse/pde/internal/build/XMLWriter.java
+SHA1-Digest: wnf4wNsBjJFElsj9hK7Kwdcs4mo=
+
+Name: lib/pdebuild-antsrc/org/eclipse/pde/internal/build/tasks/License
+ ReplaceTask.java
+SHA1-Digest: nnro04lj6QHzGG2saHG3alZqi+w=
+
+Name: pdebuildsrc/org/eclipse/pde/internal/build/site/PDEState.java
+SHA1-Digest: yo7DkSUpaN7wu9Iw68KLQwyqT5k=
+
+Name: pdebuildsrc/org/eclipse/pde/internal/build/P2InfUtils.java
+SHA1-Digest: 2dCNiYxnICpE7sDNcgW1Jdp3clM=
+
+Name: lib/pdebuild-antsrc/org/eclipse/pde/internal/build/tasks/Unzippe
+ rGeneratorTask.java
+SHA1-Digest: eiOSHMIbONJSU/ZU6OuHLYMxFKE=
+
+Name: pdebuildsrc/org/eclipse/pde/internal/build/AssemblyInformation.j
+ ava
+SHA1-Digest: rgvpXzcKQtYrHjzpzXfGx4dYu1w=
+
+Name: lib/pdebuild-antsrc/org/eclipse/pde/internal/build/tasks/AntScri
+ ptRunner.java
+SHA1-Digest: /FXPsYA0aV5p9w89GPqdjwi/p14=
+
+Name: pdebuildsrc/org/eclipse/pde/internal/build/FetchScriptGenerator.
+ java
+SHA1-Digest: u6cLa2lm00c5ot+G0NMiRuIMZyw=
+
+Name: pdebuildsrc/org/eclipse/pde/internal/build/ant/ZipFileSet.java
+SHA1-Digest: eHIT0czJfJkwBhxu4BOi96LpUyE=
+
+Name: pdebuildsrc/org/eclipse/pde/internal/build/publisher/compatibili
+ ty/IncrementalGenerator.java
+SHA1-Digest: UI6QYxgsF8t5tASJWshv8pRpfAQ=
+
+Name: pdebuildsrc/org/eclipse/pde/internal/build/BuildActivator.java
+SHA1-Digest: xedl+1rqzUiCcEyUSsRPZZJola0=
+
+Name: pdebuildsrc/org/eclipse/pde/internal/build/site/compatibility/Si
+ teManager.java
+SHA1-Digest: dIWDDjQD1hUZhf+/4/0fR85advI=
+
+Name: pdebuildsrc/org/eclipse/pde/internal/build/Utils.java
+SHA1-Digest: fm/qVYL6tgtJn0Z5XEuEbwJRgyc=
+
+Name: pdebuildsrc/org/eclipse/pde/internal/build/FeatureGenerator.java
+SHA1-Digest: vcHhoF6UeHGm/WoqD/cs26HS62s=
+
+Name: pdebuildsrc/org/eclipse/pde/internal/build/fetch/COPYFetchTasksF
+ actory.java
+SHA1-Digest: PEwiDvNlfmrYuMumehuAE+Z2cgQ=
+
+Name: lib/pdebuild-antsrc/org/eclipse/pde/internal/build/tasks/Compile
+ ErrorTask.java
+SHA1-Digest: H4Bk+Hn12y0xmK9SDBfTtEHbPjs=
+

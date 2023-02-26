@@ -1,0 +1,514 @@
+Manifest-Version: 1.0
+Eclipse-SourceBundle: org.eclipse.search;version="3.7.0.v20110505-0800
+ ";roots:="."
+Bundle-Vendor: %providerName
+Bundle-Localization: plugin
+Bundle-Name: %pluginName
+Bundle-SymbolicName: org.eclipse.search.source
+Bundle-Version: 3.7.0.v20110505-0800
+Bundle-ManifestVersion: 2
+
+Name: org/eclipse/search2/internal/ui/text/EditorAnnotationManager.jav
+ a
+SHA1-Digest: gpzVCptQo95KEcLElYcQ/F7VxgI=
+
+Name: org/eclipse/search/ui/text/Match.java
+SHA1-Digest: e4cUPuRJZ+Xku2uXnJKUIrJaCls=
+
+Name: org/eclipse/search/internal/ui/ScopePart.java
+SHA1-Digest: i3RTuUZ7eG5UmbIPb9UaiBIrtFI=
+
+Name: org/eclipse/search/internal/ui/SearchResultView.java
+SHA1-Digest: kKHNG5RYYBrZsNK9nHlF8ya+LkU=
+
+Name: org/eclipse/search/internal/ui/text/FileSearchResult.java
+SHA1-Digest: nAoHZ7hK7TPwwLSpZFoUnjTjzGw=
+
+Name: org/eclipse/search/internal/ui/Search.java
+SHA1-Digest: CY37IS9SSQ5xZJIe2iQEpJoRn7E=
+
+Name: org/eclipse/search/internal/ui/text/FileMatch.java
+SHA1-Digest: GQ1dRK6ux31bhoQiGX6KuZU0NNA=
+
+Name: schema/textSearchEngine.exsd
+SHA1-Digest: tuwm+8DGcJGgzPOFC7f9CpneMLc=
+
+Name: org/eclipse/search/internal/ui/SearchPageDescriptor.java
+SHA1-Digest: vq7rKeuX4v5+SfybCU46IdedA6E=
+
+Name: org/eclipse/search/internal/ui/text/IFileSearchContentProvider.j
+ ava
+SHA1-Digest: Fz9nN967z5UCLVXEvtudrU3pmbY=
+
+Name: org/eclipse/search/ui/IReplacePage.java
+SHA1-Digest: byEmwJtQL7db8Ye8znlWokUSlSg=
+
+Name: org/eclipse/search/ui/text/FilterUpdateEvent.java
+SHA1-Digest: AoTNYJsfI6CR0esmvuXuN0mTPdQ=
+
+Name: org/eclipse/search2/internal/ui/InternalSearchUI.java
+SHA1-Digest: 26ie/OKaVPB6Po0njA8DqzN2qOU=
+
+Name: org/eclipse/search/internal/core/text/FileCharSequenceProvider.j
+ ava
+SHA1-Digest: +uX5T2Z1nXi/lOA1uvwazhRFuAA=
+
+Name: org/eclipse/search/internal/ui/SearchMessages.java
+SHA1-Digest: 5ud2habSuSHB0orbSTrarKygzvo=
+
+Name: org/eclipse/search/ui/text/MatchEvent.java
+SHA1-Digest: 6ycz24lDjvhCaltupeKdcaTCqpw=
+
+Name: org/eclipse/search/core/text/TextSearchMatchAccess.java
+SHA1-Digest: QY0BeSj5M2xU0fwgKvAv1Wcp+Fs=
+
+Name: org/eclipse/search/internal/ui/SearchResultViewEntry.java
+SHA1-Digest: YKOE2WjFMNVDz1Q576IPENjRBug=
+
+Name: schema/searchResultViewPages.exsd
+SHA1-Digest: 7gFY3t9R2jftW2/QXw1h/98V7IU=
+
+Name: org/eclipse/search/internal/ui/Messages.java
+SHA1-Digest: 5Q/YHNnkhcE8jZy51eP7/uVscjc=
+
+Name: org/eclipse/search2/internal/ui/basic/views/TreeViewerNavigator.
+ java
+SHA1-Digest: r+FNTFtOcR/H9B2i5s0EcYMiX1Q=
+
+Name: org/eclipse/search/internal/ui/util/SWTUtil.java
+SHA1-Digest: ubdaQVk7Foy38/od4m9N8Gn9spo=
+
+Name: org/eclipse/search/internal/ui/text/SearchResultUpdater.java
+SHA1-Digest: U24xeHxoU/7tsVs1FuRXlUK3jYk=
+
+Name: org/eclipse/search/ui/ISearchResultViewPart.java
+SHA1-Digest: igyukVlScFJhrZ/oX6fGs5ghKfk=
+
+Name: org/eclipse/search/ui/ISearchResultListener.java
+SHA1-Digest: 7osLcZ+R6ualb9qPIOI5ACStK4Q=
+
+Name: org/eclipse/search/internal/ui/RemoveMatchAction.java
+SHA1-Digest: Z2nGv8/10JHpgHsAS3LkvK+fD6w=
+
+Name: org/eclipse/search2/internal/ui/CancelSearchAction.java
+SHA1-Digest: DcuzkdYfPbPvU/VBm2Jse7srQSY=
+
+Name: org/eclipse/search/internal/ui/text/SortAction.java
+SHA1-Digest: 801OzYqeqgDrpI/9swCBScGLV40=
+
+Name: org/eclipse/search/internal/ui/ShowSearchAction.java
+SHA1-Digest: ebSFt4vpe/kYXmuYN6dxuK2uyTo=
+
+Name: org/eclipse/search2/internal/ui/text2/TextSearchQueryProviderReg
+ istry.java
+SHA1-Digest: 7cnHhHRY94nAqgfskoIiYwroDDE=
+
+Name: org/eclipse/search/internal/ui/text/ReplaceConfigurationPage.jav
+ a
+SHA1-Digest: dAhM1np1piI30b41qpXdB3iZofY=
+
+Name: org/eclipse/search/internal/ui/SearchResultViewer.java
+SHA1-Digest: 2tShENIPQ3W572Jap65f/qykVCo=
+
+Name: org/eclipse/search/internal/ui/RemoveResultAction.java
+SHA1-Digest: D/CL9mvenK4mG5upUzHYYAPmZf0=
+
+Name: org/eclipse/search/internal/ui/text/DecoratingFileSearchLabelPro
+ vider.java
+SHA1-Digest: uEa0kDqNdNkCL/CWZTFGueTOEmQ=
+
+Name: org/eclipse/search2/internal/ui/text/WindowAnnotationManager.jav
+ a
+SHA1-Digest: YD2o337w1IlHpx67DxESeczI7kg=
+
+Name: org/eclipse/search/internal/ui/SearchDropDownAction.java
+SHA1-Digest: CoRMWFvnx9kUYynHCDgZZ9ljcIs=
+
+Name: org/eclipse/search2/internal/ui/basic/views/ShowPreviousResultAc
+ tion.java
+SHA1-Digest: TZIk7fmVyH0dyYUOKYXFuvgHu2U=
+
+Name: org/eclipse/search/internal/core/text/TextSearchVisitor.java
+SHA1-Digest: QnLBp8eiq2tIvUqfAGYKw9lf+Iw=
+
+Name: org/eclipse/search/ui/text/FileTextSearchScope.java
+SHA1-Digest: xHz1M1q6oiVSdu/7UrEzj02b0L8=
+
+Name: org/eclipse/search2/internal/ui/text/MarkerHighlighter.java
+SHA1-Digest: 34EUJWSdyyAdt5FM/1YxXYVf6oQ=
+
+Name: org/eclipse/search/internal/ui/ShowSearchesAction.java
+SHA1-Digest: oX0PfNDAJxRNY4jnXlzqUI3zGf8=
+
+Name: org/eclipse/search/ui/text/IEditorMatchAdapter.java
+SHA1-Digest: 8fbXXk5LObOb8VQ0KYzJpzmSzOs=
+
+Name: org/eclipse/search/internal/ui/SortDropDownAction.java
+SHA1-Digest: Co2ifC+odMlzEDREWixGtOgJSIs=
+
+Name: org/eclipse/search2/internal/ui/OpenSearchPreferencesAction.java
+SHA1-Digest: rwdLRGs40dNFxCsPu0FgYTzk93o=
+
+Name: org/eclipse/search/internal/ui/ResourceToItemsMapper.java
+SHA1-Digest: ovaaGMIYIR0dbBchk4+JBpeFMFo=
+
+Name: org/eclipse/search/internal/ui/util/FileLabelProvider.java
+SHA1-Digest: W+OcTzIsoeoS9ai92F9w1RYqDAc=
+
+Name: org/eclipse/search/ui/text/RemoveAllEvent.java
+SHA1-Digest: 8ZZexAcEVOV/0Ju/FW3pnrYPFbQ=
+
+Name: org/eclipse/search/internal/ui/SearchPlugin.java
+SHA1-Digest: BxIFN2UXNjuj4rtFwFHhmf17A0k=
+
+Name: org/eclipse/search/core/text/TextSearchRequestor.java
+SHA1-Digest: Tv4lFD4Snfvgj/z+WR2eREjba0o=
+
+Name: org/eclipse/search2/internal/ui/text2/FindInWorkingSetActionDele
+ gate.java
+SHA1-Digest: swhzuOv8u70FCn361Owc/6hzTeA=
+
+Name: org/eclipse/search/internal/ui/OpenFileSearchPageAction.java
+SHA1-Digest: EzaLVKINclFqXhY3xe+K1Wl9bK4=
+
+Name: org/eclipse/search2/internal/ui/text2/DefaultTextSearchQueryProv
+ ider.java
+SHA1-Digest: fZfbC0Z1c+AUJ/bdTPdpg+ZJTiU=
+
+Name: org/eclipse/search/internal/ui/SearchDialog.java
+SHA1-Digest: olGlE8CqeiHVJ9pSuK4QV7Co3mY=
+
+Name: org/eclipse/search/internal/ui/OpenSearchDialogAction.java
+SHA1-Digest: S+CWprnRLnNa2VuoZ7YZv3JXrj8=
+
+Name: org/eclipse/search/internal/ui/RemovePotentialMatchesAction.java
+SHA1-Digest: NDRy+K/w/RlIVz3EpzkonvrSom4=
+
+Name: org/eclipse/search/ui/ISearchResultView.java
+SHA1-Digest: /UPen6CjN3yUfhssfzuh1yKBSzw=
+
+Name: org/eclipse/search/internal/ui/text/FileTreeContentProvider.java
+SHA1-Digest: GOjbkl4a8PwRv0lJaNfR5g7yBAE=
+
+Name: org/eclipse/search2/internal/ui/text2/FindInWorkspaceActionDeleg
+ ate.java
+SHA1-Digest: LwfaNl0QN16UAGN7sdfhvLyBW2M=
+
+Name: org/eclipse/search/ui/text/ISearchEditorAccess.java
+SHA1-Digest: aFR8qgaBf2z57d7dJ5SoNSp+FEc=
+
+Name: org/eclipse/search2/internal/ui/QueryManager.java
+SHA1-Digest: r0kp3s7NkR642aUeCaZo2b/F3KU=
+
+Name: org/eclipse/search2/internal/ui/MatchFilterSelectionAction.java
+SHA1-Digest: lMOUh6n8r/CEAMpTukeh79tts4M=
+
+Name: org/eclipse/search/internal/ui/SearchResultViewEntryAdapterFacto
+ ry.java
+SHA1-Digest: WTsmZoedlvE8L67ooTW/cz+uwZ8=
+
+Name: org/eclipse/search/internal/ui/ShowPreviousResultAction.java
+SHA1-Digest: RLsvKR14JQNNxPg4qRHy5Sk7BpM=
+
+Name: about.html
+SHA1-Digest: ejOZra0kypGLQQ2bJtGTX+LI8tU=
+
+Name: org/eclipse/search/internal/ui/text/LineElement.java
+SHA1-Digest: V4HDWEPN3k2eIXcFrCZB9AXMK2k=
+
+Name: org/eclipse/search/internal/ui/util/ExtendedDialogWindow.java
+SHA1-Digest: Vy/w6EnnV9pvfCmerwU2ZyURGMI=
+
+Name: org/eclipse/search2/internal/ui/SearchViewManager.java
+SHA1-Digest: 1O1ve5LRIH6Xh4dTfuiL9yWXs3Y=
+
+Name: org/eclipse/search/internal/ui/text/FileTableContentProvider.jav
+ a
+SHA1-Digest: EezZD0xxkeqLkde1kskOUwFHoYg=
+
+Name: org/eclipse/search/internal/core/text/PatternConstructor.java
+SHA1-Digest: JDHUyam/Td8xCuGHArLCiPEuhxA=
+
+Name: org/eclipse/search/core/text/TextSearchScope.java
+SHA1-Digest: aJ96LOk21r6P4cTQrLkq+w5MppE=
+
+Name: org/eclipse/search2/internal/ui/text/AnnotationManagers.java
+SHA1-Digest: 8AS1RbxrliWdh3jNbLBqZUi8k7Y=
+
+Name: org/eclipse/search2/internal/ui/text/EditorAccessHighlighter.jav
+ a
+SHA1-Digest: Iy/RI6PTTbBLX2UJImRWtSyFS+U=
+
+Name: org/eclipse/search2/internal/ui/text/PositionTracker.java
+SHA1-Digest: Iw3pOWj8tWTwosCA9l4bEZeMbMQ=
+
+Name: org/eclipse/search2/internal/ui/SearchView.java
+SHA1-Digest: /uzDcrW/FX0mlTVta3lOEoMvYaI=
+
+Name: org/eclipse/search2/internal/ui/ShowSearchHistoryDialogAction.ja
+ va
+SHA1-Digest: 0eS1BEI9+2U5Kcl/2zsWdrf4sPk=
+
+Name: org/eclipse/search2/internal/ui/text2/FindInRecentScopeActionDel
+ egate.java
+SHA1-Digest: ylVeRyBilcJidRN6RA/YpYsOpBk=
+
+Name: org/eclipse/search2/internal/ui/SearchHistorySelectionDialog.jav
+ a
+SHA1-Digest: lsQUXEERs1F+oYnDRljQaHgyya4=
+
+Name: org/eclipse/search/ui/ISearchResult.java
+SHA1-Digest: Q7Mmio6xNYt0iwXcAWKhLK3SUew=
+
+Name: org/eclipse/search/ui/IActionGroupFactory.java
+SHA1-Digest: a41m7vJs88eDeP+lRk3/MxsJpDY=
+
+Name: org/eclipse/search2/internal/ui/text2/RetrieverAction.java
+SHA1-Digest: j1NWamdKg1AHUlPxueVBVwddH50=
+
+Name: org/eclipse/search/internal/ui/CopyToClipboardAction.java
+SHA1-Digest: QiOYr+41q1sUxGgvRNt2RadlYHA=
+
+Name: org/eclipse/search/internal/ui/SelectAllAction.java
+SHA1-Digest: /HFYTmYBzAVuvmNasftsTp50Opc=
+
+Name: org/eclipse/search/ui/ISearchQuery.java
+SHA1-Digest: trNnIAJcJkS3okrmHIxcPhv5OXA=
+
+Name: org/eclipse/search2/internal/ui/basic/views/ExpandAllAction.java
+SHA1-Digest: LewSC2pz3CzoT3MyqU/rohVEXUI=
+
+Name: org/eclipse/search2/internal/ui/MatchFilterSelectionDialog.java
+SHA1-Digest: WpYUTlGqj0EOI/wJklLWVnphW+A=
+
+Name: org/eclipse/search/internal/core/text/FilesOfScopeCalculator.jav
+ a
+SHA1-Digest: sRn9yrmcI6jiwRzcT9fxhQLVfos=
+
+Name: org/eclipse/search/internal/ui/text/FileSearchPage.java
+SHA1-Digest: QhPqyg+vn4BPKz7ZQgt6u7cXE2s=
+
+Name: org/eclipse/search/internal/ui/SorterDescriptor.java
+SHA1-Digest: yzGJ8PjyU3q0YJOLIhjZ6lBdmCo=
+
+Name: org/eclipse/search2/internal/ui/SearchPageRegistry.java
+SHA1-Digest: D8Mr4EHgrpR3kA3yoGvrNEc9cQ4=
+
+Name: org/eclipse/search2/internal/ui/basic/views/RemoveMatchAction.ja
+ va
+SHA1-Digest: pau2g92wJGstENaABgoTodKg1lg=
+
+Name: org/eclipse/search/ui/text/IFileMatchAdapter.java
+SHA1-Digest: GIVEX1Wb0q4enBQLpstx1FaK9bs=
+
+Name: org/eclipse/search/ui/ISearchPageScoreComputer.java
+SHA1-Digest: NQUMdeTtwrXo1ke6c3js271ci+c=
+
+Name: schema/searchResultSorters.exsd
+SHA1-Digest: Q/rh8QiIZVjICErBMn6VypsCnxc=
+
+Name: org/eclipse/search2/internal/ui/MatchFilterAction.java
+SHA1-Digest: iji4hLxWVr9weG9x8S9g6/ggKSE=
+
+Name: org/eclipse/search/internal/ui/text/ReplaceRefactoring.java
+SHA1-Digest: 3jtQnWfBascnEf/KxVMM7siYF4k=
+
+Name: org/eclipse/search/ui/IContextMenuContributor.java
+SHA1-Digest: n9tf35Ri5EzuII+7sHMlhuc0nEA=
+
+Name: org/eclipse/search/ui/text/AbstractTextSearchResult.java
+SHA1-Digest: DsdGkftb7HMRDHv+dw2snwkATNE=
+
+Name: org/eclipse/search/ui/SearchResultEvent.java
+SHA1-Digest: ebM7PNdx9otSdJe7NGGPCCggCrE=
+
+Name: META-INF/eclipse.inf
+SHA1-Digest: KyT9FF7C7t86NoBoa2kZT3ZJBfw=
+
+Name: schema/searchPages.exsd
+SHA1-Digest: IDk1yb6lPkePs94TBuUnN3kpj0o=
+
+Name: org/eclipse/search2/internal/ui/text2/FindInProjectActionDelegat
+ e.java
+SHA1-Digest: onY7my3UcBEM2O3ocZOqe4TEPzg=
+
+Name: org/eclipse/search/internal/ui/text/EditorOpener.java
+SHA1-Digest: YPQ9X3TDcJTneFK39IR8+FhoMas=
+
+Name: org/eclipse/search2/internal/ui/basic/views/RemoveSelectedMatche
+ sAction.java
+SHA1-Digest: XFs5hpqFdugdYttNNfULA5Of2gc=
+
+Name: org/eclipse/search2/internal/ui/basic/views/CollapseAllAction.ja
+ va
+SHA1-Digest: 0VRz7fKaUX+2gTFsorzzDCv/X1w=
+
+Name: org/eclipse/search/ui/ISearchResultViewEntry.java
+SHA1-Digest: Xk0SmiXnhHezy4lgqDOdr+V6J/4=
+
+Name: org/eclipse/search/internal/ui/WorkingSetComparator.java
+SHA1-Digest: 81kiW8JKOwjtWT9twky6NP/+GHY=
+
+Name: org/eclipse/search/ui/IContextMenuConstants.java
+SHA1-Digest: +l9drHu6O8C2FsbXZdfjy2DAQv0=
+
+Name: org/eclipse/search2/internal/ui/text2/FindInFileActionDelegate.j
+ ava
+SHA1-Digest: R6GYLOCFFyuoIyumvJxDvmdvLl8=
+
+Name: org/eclipse/search2/internal/ui/text/Highlighter.java
+SHA1-Digest: +OeMU5N4EDDNKdK6QmzBxyAx3zQ=
+
+Name: org/eclipse/search/core/text/TextSearchEngine.java
+SHA1-Digest: BrcC0JKWS2Y8zrGCqHcL5tnGboI=
+
+Name: org/eclipse/search/internal/ui/text/NewTextSearchActionGroup.jav
+ a
+SHA1-Digest: tOzKG5/5qZtW3IpiSmSUDayc2TY=
+
+Name: org/eclipse/search2/internal/ui/basic/views/INavigate.java
+SHA1-Digest: YcBobXlCulOahQ/fnP+yhDm6yUs=
+
+Name: org/eclipse/search/ui/ISearchResultPage.java
+SHA1-Digest: Y5tD8PJd5VG7pP3zIJU49saQwwY=
+
+Name: org/eclipse/search2/internal/ui/SearchMessages.java
+SHA1-Digest: aXUp7zD6aXbGim49HEgUatZ687E=
+
+Name: org/eclipse/search/internal/ui/text/BasicElementLabels.java
+SHA1-Digest: iN6Mh01SUX2HnkUhZyrmrIJoaV0=
+
+Name: org/eclipse/search2/internal/ui/text/AnnotationHighlighter.java
+SHA1-Digest: qbts0zjnu/kiZtv/tj2t0dHwk3A=
+
+Name: org/eclipse/search/ui/actions/TextSearchGroup.java
+SHA1-Digest: zrnQ9yhMDkZSP0RFGLwWtmNWo6o=
+
+Name: org/eclipse/search/internal/ui/SearchPluginImages.java
+SHA1-Digest: 2sCjNKi1MhL5f6ekx0y2zMrWCZU=
+
+Name: org/eclipse/search/internal/ui/GotoMarkerAction.java
+SHA1-Digest: lst3SMNwi9FZydB/SrKNcBCsFAg=
+
+Name: org/eclipse/search2/internal/ui/basic/views/RemoveAllMatchesActi
+ on.java
+SHA1-Digest: JapiGII4TRLn2x1TLHYvr7Lgj1I=
+
+Name: org/eclipse/search2/internal/ui/SearchAgainAction.java
+SHA1-Digest: vIIr0YRv8zNCyle4nZGPkjv2128=
+
+Name: org/eclipse/search2/internal/ui/Messages.java
+SHA1-Digest: brcZiDgIdHHPv33xfd3rmtfn05A=
+
+Name: org/eclipse/search/internal/ui/RemoveAllResultsAction.java
+SHA1-Digest: 0PuAJyEdm2qKwCueE7/Pb7PlBHY=
+
+Name: org/eclipse/search/ui/text/TextSearchQueryProvider.java
+SHA1-Digest: ahXNFn0uEZuIiKKqwOl5O28a3Mk=
+
+Name: org/eclipse/search/internal/ui/text/TextSearchPage.java
+SHA1-Digest: Mg/ZOh+pScwxtIz248W8ihG9nsg=
+
+Name: org/eclipse/search2/internal/ui/RemoveAllSearchesAction.java
+SHA1-Digest: NXubQudt5OCh80Xx1hc7hRmyq4o=
+
+Name: org/eclipse/search/internal/ui/SearchManager.java
+SHA1-Digest: X2hnWQ2QjsEyENIuslHCmil2AuM=
+
+Name: org/eclipse/search2/internal/ui/basic/views/ShowNextResultAction
+ .java
+SHA1-Digest: bpYbROxn0RyX2mI38r9iPiASw/w=
+
+Name: org/eclipse/search/ui/text/AbstractTextSearchViewPage.java
+SHA1-Digest: bav6tXLbcZ4iVjVUBbjAKKRBJ/A=
+
+Name: org/eclipse/search/ui/IGroupByKeyComputer.java
+SHA1-Digest: bRXqaqmqoiSY03i4myMPrbMAM60=
+
+Name: org/eclipse/search/internal/ui/text/ReplaceAction.java
+SHA1-Digest: Y0QxHuMKbdbDqYgFcGaDQ2TUaLk=
+
+Name: org/eclipse/search/internal/core/text/TextSearchEngineRegistry.j
+ ava
+SHA1-Digest: CJt2cYMA9YhrZBaZy8iFhUKq5DA=
+
+Name: org/eclipse/search/internal/ui/text/FileLabelProvider.java
+SHA1-Digest: WqcK2fyov24nCDP5772PeEk+zO4=
+
+Name: org/eclipse/search/ui/SearchUI.java
+SHA1-Digest: JwBsxtEdOgFw+Vdi+SW4r82duMU=
+
+Name: org/eclipse/search/internal/core/text/DocumentCharSequence.java
+SHA1-Digest: WzoJ1O5KCy+g9qU1vmAu8QqYkeY=
+
+Name: plugin.properties
+SHA1-Digest: 9L/8zZIwyC5SPXimCyV7JVPw4qI=
+
+Name: org/eclipse/search/internal/ui/OpenSearchDialogPageAction.java
+SHA1-Digest: FzfKc7uQNs7HAyMuY9DrjZUM2xc=
+
+Name: org/eclipse/search/ui/ISearchPage.java
+SHA1-Digest: 5zed8H2jM66+AKhGyUFoNOdZ9C0=
+
+Name: org/eclipse/search2/internal/ui/SearchHistoryDropDownAction.java
+SHA1-Digest: yQZzZwlsTEeApgGfOusU0O91iok=
+
+Name: org/eclipse/search/internal/ui/SearchAgainAction.java
+SHA1-Digest: 7oqU1Rj+68A2zqwHjzGxFPL2pMw=
+
+Name: org/eclipse/search/internal/ui/SearchPreferencePage.java
+SHA1-Digest: SkyyZ2jDuF2TtZhvwypKdKP7h2U=
+
+Name: org/eclipse/search/internal/ui/RemoveAllSearchesAction.java
+SHA1-Digest: bV5GkPxw7N2bUNtylS9o72ZjZhQ=
+
+Name: org/eclipse/search/internal/ui/util/ExceptionHandler.java
+SHA1-Digest: UdT+DHuj638vaMNcqSWaTvtRbt0=
+
+Name: org/eclipse/search/ui/ISearchPageContainer.java
+SHA1-Digest: WUPEqol2AQ9o+PRSRleZvNmSrXY=
+
+Name: org/eclipse/search/internal/ui/SearchResultLabelProvider.java
+SHA1-Digest: 0Q835WXR83X5fzfnwHH/wrV8CUU=
+
+Name: org/eclipse/search/ui/text/MatchFilter.java
+SHA1-Digest: ZuwVPfVE41+O/26AlOWzdF8efiU=
+
+Name: org/eclipse/search/internal/ui/SearchPreferenceInitializer.java
+SHA1-Digest: gLkvLGWNnn8/98d8cJQxS+MEoA4=
+
+Name: org/eclipse/search/internal/ui/ShowNextResultAction.java
+SHA1-Digest: s+8XqG1z9lOcwp5tF1gBg3U12Lw=
+
+Name: org/eclipse/search2/internal/ui/basic/views/SetLayoutAction.java
+SHA1-Digest: tEQXxyvs33TUO5XGZ1HKUsRLfL0=
+
+Name: org/eclipse/search/internal/ui/text/FileSearchQuery.java
+SHA1-Digest: Y1S5S0r2+/no5EUme0Kw+13Piyw=
+
+Name: org/eclipse/search/internal/ui/ISearchHelpContextIds.java
+SHA1-Digest: 7KHLfrGe1EOeAOTzRBClLqnP6OM=
+
+Name: org/eclipse/search2/internal/ui/basic/views/TableViewerNavigator
+ .java
+SHA1-Digest: wxXZZj2N10PrhKpvO/30fEe/UHo=
+
+Name: org/eclipse/search/ui/IQueryListener.java
+SHA1-Digest: zid90vgyfzd4p6a81jWY8rEF1vY=
+
+Name: org/eclipse/search2/internal/ui/PinSearchViewAction.java
+SHA1-Digest: jR9wAf82OZ1HZ2rdTmrm6jInr4s=
+
+Name: org/eclipse/search/ui/NewSearchUI.java
+SHA1-Digest: d6ClBysFBecaFlbQQ9lbbUIHRSs=
+
+Name: schema/textSearchQueryProvider.exsd
+SHA1-Digest: CftAfolMMvjDc1FxNElcF8QkiTU=
+
+Name: org/eclipse/search/internal/core/text/FileNamePatternSearchScope
+ .java
+SHA1-Digest: nySK1mtVIhPgzvncWdFmNRUaOrw=
+
+Name: org/eclipse/search/internal/ui/util/FileTypeEditor.java
+SHA1-Digest: O95Gj598zIFyfMQsMQm3pzqXioI=
+

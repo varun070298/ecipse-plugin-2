@@ -1,0 +1,36 @@
+Signature-Version: 1.0
+SHA1-Digest-Manifest: 8jn3LYygEBSCgTpNakW/cPON4Ow=
+Created-By: 1.6.0 (IBM Corporation)
+SHA1-Digest-Manifest-Main-Attributes: EcAZcRy5qdfjQQyjHeP83AZq2sY=
+
+Name: org/eclipse/pde/internal/junit/runtime/PlatformUITestHarness.jav
+ a
+SHA1-Digest: biliatsq0UPl6HQvHcG2nJy3hsQ=
+
+Name: org/eclipse/pde/internal/junit/runtime/NonUIThreadTestApplicatio
+ n.java
+SHA1-Digest: GNHyJdXHaO16KtcM2+vvO25Q4PY=
+
+Name: META-INF/eclipse.inf
+SHA1-Digest: SAqY+5ITAL0mkdYeijlSRhyIaZk=
+
+Name: org/eclipse/pde/internal/junit/runtime/LegacyUITestApplication.j
+ ava
+SHA1-Digest: 0BOpPPuBC8dr2y73D64ra0P/woE=
+
+Name: org/eclipse/pde/internal/junit/runtime/CoreTestApplication.java
+SHA1-Digest: HyYn8ja4vlJKchQq76hsMWnkpyk=
+
+Name: about.html
+SHA1-Digest: M+fykt9heyWoEv1LNiIEeBhi/2Q=
+
+Name: org/eclipse/pde/internal/junit/runtime/RemotePluginTestRunner.ja
+ va
+SHA1-Digest: IYM2M664g9YpIa1IL5aj7tdnIak=
+
+Name: plugin.properties
+SHA1-Digest: bdLxKf1/NR1Ie3dJlrNGCvrMzVc=
+
+Name: org/eclipse/pde/internal/junit/runtime/UITestApplication.java
+SHA1-Digest: 8NPBhk6UfWR//4IbBYyvxwNStBk=
+

@@ -1,0 +1,577 @@
+Manifest-Version: 1.0
+Eclipse-SourceBundle: org.eclipse.pde.ua.ui;version="1.0.100.v20110516
+ ";roots:="."
+Bundle-Vendor: %providerName
+Bundle-Localization: plugin
+Bundle-Name: %pluginName
+Bundle-SymbolicName: org.eclipse.pde.ua.ui.source
+Bundle-Version: 1.0.100.v20110516
+Bundle-ManifestVersion: 2
+
+Name: org/eclipse/pde/internal/ua/ui/wizards/cheatsheet/RegisterCSWiza
+ rdPage.java
+SHA1-Digest: n0KIAZExH8j4okbs0SIXspmwVg0=
+
+Name: org/eclipse/pde/internal/ua/ui/editor/cheatsheet/comp/details/Co
+ mpCSDetails.java
+SHA1-Digest: GtZC6RIBxQ6Aeg9IEFVHoEmmTp4=
+
+Name: org/eclipse/pde/internal/ua/ui/editor/toc/TocTreeSection.java
+SHA1-Digest: +8CEd9p6AucPGzu2vBMVnXqht2Q=
+
+Name: org/eclipse/pde/internal/ua/ui/editor/cheatsheet/simple/SimpleCS
+ EditorContributor.java
+SHA1-Digest: QMrlk3GEHe9uzTPygcdr3N+goDI=
+
+Name: org/eclipse/pde/internal/ua/ui/editor/cheatsheet/simple/details/
+ SimpleCSIntroDetails.java
+SHA1-Digest: eL5ZRn15KJCMora8xu5hJigg7Bk=
+
+Name: org/eclipse/pde/internal/ua/ui/editor/cheatsheet/simple/SimpleCS
+ DefinitionPage.java
+SHA1-Digest: /Jp34KCQchhNxlK9jjvRA2B+Gs8=
+
+Name: org/eclipse/pde/internal/ua/ui/editor/cheatsheet/comp/actions/Co
+ mpCSAddTaskAction.java
+SHA1-Digest: G/JdShd983wIhWjTJdTF2faWLNY=
+
+Name: org/eclipse/pde/internal/ua/ui/PDEUserAssistanceUIPlugin.java
+SHA1-Digest: CHRloKcGdl1pyqV8nvZX4lLJzww=
+
+Name: org/eclipse/pde/internal/ua/ui/editor/cheatsheet/simple/details/
+ SimpleCSSubItemDetails.java
+SHA1-Digest: W+iyy3YrfNFvbkFsrKIEtOXIRuI=
+
+Name: org/eclipse/pde/internal/ua/ui/editor/toc/details/TocTopicDetail
+ s.java
+SHA1-Digest: QIQHtzAfAkSCl3O1Pe5rRnvKRrU=
+
+Name: org/eclipse/pde/internal/ua/ui/editor/cheatsheet/simple/details/
+ SimpleCSItemDetails.java
+SHA1-Digest: E/WYtXNXpXsn330EQBhYa3reNtk=
+
+Name: org/eclipse/pde/internal/ua/ui/wizards/toc/TocWizardMessages.jav
+ a
+SHA1-Digest: mUAKEl/HYzBqbuRWkzQhPerpRz8=
+
+Name: org/eclipse/pde/internal/ua/ui/editor/cheatsheet/CSAbstractDetai
+ ls.java
+SHA1-Digest: V3zPjPLk09gh5HKc4mloDFKo9iM=
+
+Name: org/eclipse/pde/internal/ua/ui/editor/toc/actions/TocAddObjectAc
+ tion.java
+SHA1-Digest: 0vpldJlLC0K1GkhV/60OSU9g7/s=
+
+Name: org/eclipse/pde/internal/ua/ui/editor/cheatsheet/comp/details/Co
+ mpCSTaskDetails.java
+SHA1-Digest: 76V8AbCh8yy8Nbu+NMdL/5gftd0=
+
+Name: org/eclipse/pde/internal/ua/ui/wizards/ctxhelp/RegisterCtxHelpWi
+ zard.java
+SHA1-Digest: dFZMjLlvaIwhYUgNMXRq5xvNPqM=
+
+Name: org/eclipse/pde/internal/ua/ui/wizards/ctxhelp/NewCtxHelpWizardP
+ age.java
+SHA1-Digest: 5qS03KoqDqdRp6V33RGvwwuQdIY=
+
+Name: org/eclipse/pde/internal/ua/ui/wizards/toc/TocHTMLWizardPage.jav
+ a
+SHA1-Digest: +PP05ZY2/rsnZOiroAfgjLQMZk0=
+
+Name: org/eclipse/pde/internal/ua/ui/editor/cheatsheet/Messages.java
+SHA1-Digest: MwyvR8pQo5QurJOU7ncwFUKrvNI=
+
+Name: org/eclipse/pde/internal/ua/ui/editor/toc/details/HelpEditorFilt
+ er.java
+SHA1-Digest: 2YI0hPbeusjXA1oP42Q6kAc6RlM=
+
+Name: org/eclipse/pde/internal/ua/ui/editor/cheatsheet/comp/CompCSInpu
+ tContextManager.java
+SHA1-Digest: 1hAGrYFuCpzRkqeTAS2l031g0lw=
+
+Name: org/eclipse/pde/internal/ua/ui/editor/toc/TocInputContext.java
+SHA1-Digest: KN9AOKbexCcNrJjJbEx1AGsIph8=
+
+Name: org/eclipse/pde/internal/ua/ui/editor/toc/TocFoldingStructurePro
+ vider.java
+SHA1-Digest: +TR39L8Po/e1P4HOMEdh+V9YQNA=
+
+Name: org/eclipse/pde/internal/ua/ui/editor/cheatsheet/comp/CompCSGrou
+ pValidator.java
+SHA1-Digest: GffYqPJmKIMIvH4mfudMdNmpcDA=
+
+Name: org/eclipse/pde/internal/ua/ui/editor/cheatsheet/simple/actions/
+ SimpleCSAddSubStepAction.java
+SHA1-Digest: 04s2FhP6YEwxGAnMmksrnPOO7UU=
+
+Name: org/eclipse/pde/internal/ua/ui/wizards/ctxhelp/CtxWizardMessages
+ .java
+SHA1-Digest: mQLE7s23j/WuMO+Hk/kbN3n024A=
+
+Name: org/eclipse/pde/internal/ua/ui/editor/toc/details/TocDetails.jav
+ a
+SHA1-Digest: vbHuSzFHV0BocKHNTFsUgOD51zw=
+
+Name: org/eclipse/pde/internal/ua/ui/editor/toc/TocHTMLTitleUtil.java
+SHA1-Digest: 1rfqAomGvERhSwuEkClmsC2yuV0=
+
+Name: org/eclipse/pde/internal/ua/ui/editor/toc/TocHyperlinkDetector.j
+ ava
+SHA1-Digest: Ibw9sTHTiAtt/ZuAbSixHwb08QI=
+
+Name: org/eclipse/pde/internal/ua/ui/editor/cheatsheet/comp/actions/Ac
+ tionsMessages.java
+SHA1-Digest: SC+oraZ/dKo3UbL/f9rR6gQ6paE=
+
+Name: org/eclipse/pde/internal/ua/ui/editor/ctxhelp/details/CtxHelpDes
+ criptionDetails.java
+SHA1-Digest: xvGOhbfJe9de1tX7iacPESm+c2I=
+
+Name: org/eclipse/pde/internal/ua/ui/editor/cheatsheet/simple/details/
+ SimpleCSHelpDetails.java
+SHA1-Digest: 5g9Cby1r5QNREI4mAPZctHYU4eQ=
+
+Name: org/eclipse/pde/internal/ua/ui/wizards/toc/IRegisterTOCData.java
+SHA1-Digest: 2wULRb9AWUoj5+dZyJ0VyUajcDM=
+
+Name: org/eclipse/pde/internal/ua/ui/editor/cheatsheet/comp/CompCSInpu
+ tContext.java
+SHA1-Digest: YWghKQa9gPd6ABoTHEnPelRG70o=
+
+Name: org/eclipse/pde/internal/ua/ui/wizards/toc/RegisterTocOperation.
+ java
+SHA1-Digest: 5df3m1Ll21vWuFfQPnZeqidrMUc=
+
+Name: org/eclipse/pde/internal/ua/ui/editor/cheatsheet/simple/SimpleCS
+ FormOutlinePage.java
+SHA1-Digest: hZkxyaHh4I67awMhVMsImXvY8jE=
+
+Name: org/eclipse/pde/internal/ua/ui/editor/ctxhelp/details/CtxHelpRem
+ oveAction.java
+SHA1-Digest: lscGO/V0cZ9espTU2LbEYrPkMcw=
+
+Name: org/eclipse/pde/internal/ua/ui/editor/toc/TocEditor.java
+SHA1-Digest: ofLxK7fENrdq1m0V1nEVJyIzHkI=
+
+Name: org/eclipse/pde/internal/ua/ui/editor/toc/details/TocDetailsMess
+ ages.java
+SHA1-Digest: jFHZyL/5ZejQ3UaX9m8go8nINdY=
+
+Name: org/eclipse/pde/internal/ua/ui/editor/toc/details/TocAnchorDetai
+ ls.java
+SHA1-Digest: AdWNWoZ+fC3tHRHWiCn5hDD6URQ=
+
+Name: org/eclipse/pde/internal/ua/ui/editor/cheatsheet/comp/CompCSMast
+ erTreeSection.java
+SHA1-Digest: NR8XnlmmKfk8DuvNeqBbIiyAPvQ=
+
+Name: org/eclipse/pde/internal/ua/ui/editor/ctxhelp/CtxHelpInputContex
+ t.java
+SHA1-Digest: kZ3KNtjtGq7RMRm7pQOiuetKPI0=
+
+Name: org/eclipse/pde/internal/ua/ui/editor/cheatsheet/comp/Messages.j
+ ava
+SHA1-Digest: daeLfZKlyA0Z+zC5rOnoURyVk7I=
+
+Name: org/eclipse/pde/internal/ua/ui/editor/cheatsheet/simple/details/
+ SimpleCSDetails.java
+SHA1-Digest: 0RZYqdG6z4BovSK1xKF8e/2tXQ8=
+
+Name: org/eclipse/pde/internal/ua/ui/editor/cheatsheet/CSAbstractSubDe
+ tails.java
+SHA1-Digest: UNGqWewhJYym6wxVpYXtBhspAQg=
+
+Name: org/eclipse/pde/internal/ua/ui/PDEUserAssistanceLabelProvider.ja
+ va
+SHA1-Digest: 2obNIDFCgLYxrAI3C2V+L6iWV6g=
+
+Name: org/eclipse/pde/internal/ua/ui/editor/cheatsheet/simple/NewComma
+ ndKeyEvent.java
+SHA1-Digest: zn//mkyDYyYsZ3khf6gyzhI9jp4=
+
+Name: org/eclipse/pde/internal/ua/ui/editor/cheatsheet/comp/CompCSEdit
+ orContributor.java
+SHA1-Digest: VOlOVLXuVS2lCkZRFxQkltFUcEA=
+
+Name: org/eclipse/pde/internal/ua/ui/editor/toc/TocPage.java
+SHA1-Digest: qPZ4i4l8GppLjEQ7sPwPCJ3ntrE=
+
+Name: org/eclipse/pde/internal/ua/ui/editor/cheatsheet/simple/actions/
+ SimpleCSRemoveSubStepAction.java
+SHA1-Digest: 0DVwlfCCdBBFZZUIkrMaGI8lBN8=
+
+Name: org/eclipse/pde/internal/ua/ui/editor/cheatsheet/simple/SimpleCS
+ ContentProvider.java
+SHA1-Digest: AsWimq22YB4Dzbu2cTSat5wt1Co=
+
+Name: org/eclipse/pde/internal/ua/ui/editor/cheatsheet/simple/actions/
+ SimpleCSRemoveRunObjectAction.java
+SHA1-Digest: jlxrXMPpAxpUOq9ubqSt55yXzMo=
+
+Name: org/eclipse/pde/internal/ua/ui/editor/ctxhelp/CtxHelpEditor.java
+SHA1-Digest: 44hNgE/auRXevaN6lKCK6I2jTig=
+
+Name: org/eclipse/pde/internal/ua/ui/wizards/cheatsheet/BaseCSCreation
+ Operation.java
+SHA1-Digest: z8rJ9hMJL4Mw4O969TBM7PBXWyM=
+
+Name: about.html
+SHA1-Digest: ejOZra0kypGLQQ2bJtGTX+LI8tU=
+
+Name: org/eclipse/pde/internal/ua/ui/editor/toc/TocDragAdapter.java
+SHA1-Digest: KQFJ2orvcJhksuT1mfIUzJ3xHyE=
+
+Name: org/eclipse/pde/internal/ua/ui/editor/toc/HelpEditorUtil.java
+SHA1-Digest: 3X7OMTula3OGJL9zcJaMfqGgcp8=
+
+Name: org/eclipse/pde/internal/ua/ui/wizards/cheatsheet/SimpleCSFileWi
+ zardPage.java
+SHA1-Digest: wLMhcLXtVj267GN19/9qAvMriPE=
+
+Name: org/eclipse/pde/internal/ua/ui/wizards/ctxhelp/NewCtxHelpWizard.
+ java
+SHA1-Digest: LgmBceh4ZE9gbcV1HIztcnyBlHM=
+
+Name: org/eclipse/pde/internal/ua/ui/wizards/toc/NewTocFileWizard.java
+SHA1-Digest: bXVG/+l6d4LE8jyp+bOTR77TC8w=
+
+Name: org/eclipse/pde/internal/ua/ui/editor/toc/details/TocAbstractDet
+ ails.java
+SHA1-Digest: HgzyqVuHhiXFu84GTg4ycG4VY/o=
+
+Name: org/eclipse/pde/internal/ua/ui/editor/ctxhelp/CtxHelpBlock.java
+SHA1-Digest: jkQaFfJev6SY3TP4za6Ctb9Nnro=
+
+Name: org/eclipse/pde/internal/ua/ui/editor/ctxhelp/CtxHelpFormOutline
+ Page.java
+SHA1-Digest: PaB8ue3Q0NtgGujN1qukqlI9eiU=
+
+Name: org/eclipse/pde/internal/ua/ui/wizards/cheatsheet/NewCSFileWizar
+ d.java
+SHA1-Digest: Tz+4UO9/ycASXtzfPuxK+pky6iU=
+
+Name: org/eclipse/pde/internal/ua/ui/editor/cheatsheet/comp/CompCSPage
+ .java
+SHA1-Digest: Ukoe6/GfUITrWsrTIKhwv0mQVRE=
+
+Name: org/eclipse/pde/internal/ua/ui/editor/ctxhelp/CtxHelpInputContex
+ tManager.java
+SHA1-Digest: gn7qGhIj1Kw+Mn8gE/J7YxgGpzo=
+
+Name: org/eclipse/pde/internal/ua/ui/editor/cheatsheet/comp/details/Co
+ mpCSIntroductionTextListener.java
+SHA1-Digest: sF0RmPbvj653/KOixvgwldTutlg=
+
+Name: org/eclipse/pde/internal/ua/ui/editor/cheatsheet/simple/actions/
+ SimpleCSAddStepAction.java
+SHA1-Digest: yb7aFPj1gGJfvol8cv6ufY4zH0Q=
+
+Name: org/eclipse/pde/internal/ua/ui/editor/cheatsheet/simple/details/
+ SimpleDetailsMessages.java
+SHA1-Digest: +mAF62PYKNNMKUDWDheOG6fX+w4=
+
+Name: org/eclipse/pde/internal/ua/ui/editor/toc/actions/TocAddTopicAct
+ ion.java
+SHA1-Digest: 5bCQBHLqcagP+msJQYhcwzrLy3Y=
+
+Name: org/eclipse/pde/internal/ua/ui/wizards/toc/RegisterTocWizard.jav
+ a
+SHA1-Digest: wqC3BBV8BBp8B+sTUQqdGt8crXE=
+
+Name: org/eclipse/pde/internal/ua/ui/wizards/cheatsheet/CSCategoryTrac
+ kerUtil.java
+SHA1-Digest: j6svwqnJqXoRADu9lvOxbjLLSg8=
+
+Name: org/eclipse/pde/internal/ua/ui/editor/cheatsheet/simple/actions/
+ SimpleActionMessages.java
+SHA1-Digest: fU+l7JG36KBfjTFd0muJMKrZG1s=
+
+Name: org/eclipse/pde/internal/ua/ui/editor/toc/actions/TocActionMessa
+ ges.java
+SHA1-Digest: eOEXbR7jLVu/LrG0DiAcI8kQBkY=
+
+Name: org/eclipse/pde/internal/ua/ui/editor/cheatsheet/simple/SimpleCS
+ Block.java
+SHA1-Digest: DFQ9oB4ZekG7CEPDFtgobFJcuZc=
+
+Name: org/eclipse/pde/internal/ua/ui/editor/ctxhelp/CtxHelpPage.java
+SHA1-Digest: cSX9TgLE11k1mgTPCLoXM+Kx88Q=
+
+Name: org/eclipse/pde/internal/ua/ui/wizards/cheatsheet/SimpleCSCreati
+ onOperation.java
+SHA1-Digest: oZ66/4OLXtTX++7hGlk1NiQ1HLs=
+
+Name: org/eclipse/pde/internal/ua/ui/editor/toc/TocSourcePage.java
+SHA1-Digest: IbGQz4SDfBPMCPxzTLHXM6wwLuY=
+
+Name: org/eclipse/pde/internal/ua/ui/editor/ctxhelp/details/CtxHelpCom
+ mandDetails.java
+SHA1-Digest: 6zfbwtLmjq2NZ4mPI1cEKJTiv9g=
+
+Name: org/eclipse/pde/internal/ua/ui/editor/toc/actions/TocRemoveObjec
+ tAction.java
+SHA1-Digest: N0C0i3nkeelptegT3XRq2nxIolc=
+
+Name: org/eclipse/pde/internal/ua/ui/editor/cheatsheet/comp/actions/Co
+ mpCSAbstractAddAction.java
+SHA1-Digest: 7LnsDKuMLN0wMVZiLs3K3k65gPI=
+
+Name: org/eclipse/pde/internal/ua/ui/editor/toc/TocFileValidator.java
+SHA1-Digest: /9fMmHeKbgAleP2TlLf58uLvNPU=
+
+Name: org/eclipse/pde/internal/ua/ui/wizards/toc/TocHTMLOperation.java
+SHA1-Digest: QXuxLY2+Bb0ayWJTeVWj53Zxr6k=
+
+Name: org/eclipse/pde/internal/ua/ui/editor/toc/TocEditorContributor.j
+ ava
+SHA1-Digest: W4L0ayqlen8yyuusWShKRFGclQU=
+
+Name: org/eclipse/pde/internal/ua/ui/editor/toc/TocBlock.java
+SHA1-Digest: HeCfZM6JNyiNoqf7IZPBiyA6hkU=
+
+Name: org/eclipse/pde/internal/ua/ui/editor/toc/TocFormOutlinePage.jav
+ a
+SHA1-Digest: D900OzjYgACPuQKDJgoa0Twia0w=
+
+Name: org/eclipse/pde/internal/ua/ui/editor/cheatsheet/comp/details/Co
+ mpCSConclusionTextListener.java
+SHA1-Digest: d8puo7/hSp+hr9e+hRoM1pobYJk=
+
+Name: org/eclipse/pde/internal/ua/ui/editor/cheatsheet/comp/CompCSEdit
+ or.java
+SHA1-Digest: XrRcG+CQubReRLh+glazjJSjRyY=
+
+Name: org/eclipse/pde/internal/ua/ui/editor/ctxhelp/CtxHelpContentProv
+ ider.java
+SHA1-Digest: WRm19FYU6WgW+D9R6Ll3Jd8gLdQ=
+
+Name: org/eclipse/pde/internal/ua/ui/editor/toc/TocInputContextManager
+ .java
+SHA1-Digest: b4rdTTUwhdYT9E311B+VQT4DLYo=
+
+Name: org/eclipse/pde/internal/ua/ui/wizards/cheatsheet/NewCategoryNam
+ eDialog.java
+SHA1-Digest: 2TP7DZp4loErbXC+LwsQTIC4QOE=
+
+Name: META-INF/eclipse.inf
+SHA1-Digest: KyT9FF7C7t86NoBoa2kZT3ZJBfw=
+
+Name: org/eclipse/pde/internal/ua/ui/editor/cheatsheet/comp/actions/Co
+ mpCSAddGroupAction.java
+SHA1-Digest: z/10vgcGT2P4cygIPkig4a39Na8=
+
+Name: org/eclipse/pde/internal/ua/ui/editor/cheatsheet/simple/SimpleCS
+ InputContext.java
+SHA1-Digest: +vaatYlO0XjeWF6gd/kRSRCNPf4=
+
+Name: org/eclipse/pde/internal/ua/ui/wizards/ctxhelp/RegisterCtxHelpOp
+ eration.java
+SHA1-Digest: x5Qv0J6w4U3+JESrzUU0Q+pMGx4=
+
+Name: org/eclipse/pde/internal/ua/ui/editor/cheatsheet/comp/CompCSForm
+ OutlinePage.java
+SHA1-Digest: rmfA14+kdGE7/GcBFHtGZLvVUJs=
+
+Name: org/eclipse/pde/internal/ua/ui/editor/cheatsheet/simple/details/
+ SimpleCSCommandComboPart.java
+SHA1-Digest: Jwazb5bh/FUvLMEv3ZJI08/wXSw=
+
+Name: org/eclipse/pde/internal/ua/ui/editor/toc/TocDropAdapter.java
+SHA1-Digest: 8TRKkwL+CEkzgoEIabeggbVncg0=
+
+Name: org/eclipse/pde/internal/ua/ui/editor/cheatsheet/simple/SimpleCS
+ HyperlinkDetector.java
+SHA1-Digest: 7uxoQdG/A/BZxn09Aw4DThzU5/8=
+
+Name: org/eclipse/pde/internal/ua/ui/editor/cheatsheet/simple/SimpleCS
+ CommandManager.java
+SHA1-Digest: GXFMXFSEEVk98tx1KyeSciwzeeo=
+
+Name: org/eclipse/pde/internal/ua/ui/wizards/toc/TocOperation.java
+SHA1-Digest: gD7Dw5OehzpEt+X3e31y2fpKtQU=
+
+Name: org/eclipse/pde/internal/ua/ui/wizards/cheatsheet/NewSimpleCSFil
+ eWizard.java
+SHA1-Digest: mdvPS+LBC4O78sMZamYlzTwvjMQ=
+
+Name: org/eclipse/pde/internal/ua/ui/wizards/cheatsheet/CompCSCreation
+ Operation.java
+SHA1-Digest: vIKegXg2WThoTyuFj2q/DBqos9Y=
+
+Name: org/eclipse/pde/internal/ua/ui/wizards/cheatsheet/IRegisterCSDat
+ a.java
+SHA1-Digest: Cikg2PWSOs7vfF3TXF0zUTWPZfc=
+
+Name: org/eclipse/pde/internal/ua/ui/editor/cheatsheet/ICSDetails.java
+SHA1-Digest: lRhcQAAFDHPgxg/AWfsDgb0SAVE=
+
+Name: org/eclipse/pde/internal/ua/ui/editor/ctxhelp/details/CtxHelpDet
+ ailsMessages.java
+SHA1-Digest: HKtt9aq8uOLbutFvqSzp9emQLsw=
+
+Name: org/eclipse/pde/internal/ua/ui/editor/ctxhelp/CtxHelpSourcePage.
+ java
+SHA1-Digest: YWzeri42YNYKauAe+amYXHkE5EM=
+
+Name: org/eclipse/pde/internal/ua/ui/wizards/cheatsheet/RegisterCompCS
+ WizardPage.java
+SHA1-Digest: wI23yS4VHaxIlV2OkeLW16xC24Q=
+
+Name: org/eclipse/pde/internal/ua/ui/editor/ctxhelp/details/CtxHelpTop
+ icDetails.java
+SHA1-Digest: vPFcFmx7u1PuwU47QaXATmno+2g=
+
+Name: org/eclipse/pde/internal/ua/ui/wizards/toc/TocWizardPage.java
+SHA1-Digest: Xzy0oEnMVG12dd7TXc6FovM2SK0=
+
+Name: org/eclipse/pde/internal/ua/ui/editor/cheatsheet/comp/details/Co
+ mpCSEnclosingTextDetails.java
+SHA1-Digest: JqbeG0MpryW1jGfSD4FDGjiknm0=
+
+Name: org/eclipse/pde/internal/ua/ui/editor/cheatsheet/CSAbstractEdito
+ r.java
+SHA1-Digest: SOE/SI0rSMDO8Lv4izkjSCq9Bvk=
+
+Name: org/eclipse/pde/internal/ua/ui/wizards/toc/RegisterTocWizardPage
+ .java
+SHA1-Digest: RNwTn0cqZpWZHfuiT44bI94BbLY=
+
+Name: org/eclipse/pde/internal/ua/ui/editor/toc/TocContentProvider.jav
+ a
+SHA1-Digest: zlkwdTjJsr+HqzBL+IBAhA9dyOQ=
+
+Name: org/eclipse/pde/internal/ua/ui/editor/cheatsheet/simple/SimpleCS
+ SourcePage.java
+SHA1-Digest: W9fyirNX89dZSDjDPI0NfDwoePY=
+
+Name: org/eclipse/pde/internal/ua/ui/editor/toc/actions/TocAddLinkActi
+ on.java
+SHA1-Digest: 5X/sD8a2iAJQo1uL/r+LiRV2Xi0=
+
+Name: org/eclipse/pde/internal/ua/ui/wizards/cheatsheet/CSWizardMessag
+ es.java
+SHA1-Digest: 5w9v1KsfpUa6IR2qD51S74sWua4=
+
+Name: org/eclipse/pde/internal/ua/ui/editor/ctxhelp/details/CtxHelpAbs
+ tractAddAction.java
+SHA1-Digest: 2MSyWK/UYb0Vog6PzDSsqBEGp1E=
+
+Name: org/eclipse/pde/internal/ua/ui/wizards/cheatsheet/CSFileWizardPa
+ ge.java
+SHA1-Digest: D3TBthbCGK0GcRgRgH/u6NUD460=
+
+Name: org/eclipse/pde/internal/ua/ui/editor/cheatsheet/comp/CompCSCont
+ entProvider.java
+SHA1-Digest: 1uu84SKMkUVV9PQF5RivpXbgjX8=
+
+Name: org/eclipse/pde/internal/ua/ui/editor/toc/TocMessages.java
+SHA1-Digest: 07REJEuoTM9PfZfuyltSkZMbFWA=
+
+Name: org/eclipse/pde/internal/ua/ui/editor/cheatsheet/simple/SimpleCS
+ InputContextManager.java
+SHA1-Digest: GfcjIaHBIl4NDN7zqnSbw4jiOQ4=
+
+Name: plugin.properties
+SHA1-Digest: cgUq1T4kb9dCpzVpNK/opuR2NNE=
+
+Name: org/eclipse/pde/internal/ua/ui/wizards/cheatsheet/RegisterCSWiza
+ rd.java
+SHA1-Digest: J4cREYPSLnev/VdUBW/r1Ul4Ubw=
+
+Name: org/eclipse/pde/internal/ua/ui/IConstants.java
+SHA1-Digest: x+WUlvCY1t5hL+Xuf5rkLhe1mfc=
+
+Name: org/eclipse/pde/internal/ua/ui/editor/toc/details/TocLinkDetails
+ .java
+SHA1-Digest: PoDH34gMX+I7uEZ6xNBeeEYZFvk=
+
+Name: org/eclipse/pde/internal/ua/ui/editor/ctxhelp/details/CtxHelpAbs
+ tractDetails.java
+SHA1-Digest: Xm1KyGL1jXXsXtuKW94kIwZKWxw=
+
+Name: org/eclipse/pde/internal/ua/ui/editor/cheatsheet/comp/CompCSFile
+ Validator.java
+SHA1-Digest: g9A3/2L6sEUh0Mc/4V47F3s1Cp4=
+
+Name: org/eclipse/pde/internal/ua/ui/editor/cheatsheet/simple/ISimpleC
+ SCommandKeyListener.java
+SHA1-Digest: pASjvCJULeIrsBDje2OPrhiLNOs=
+
+Name: org/eclipse/pde/internal/ua/ui/editor/ctxhelp/CtxHelpTreeSection
+ .java
+SHA1-Digest: +7C+ptwdYuIlLm54xun66oOxl6Y=
+
+Name: org/eclipse/pde/internal/ua/ui/editor/cheatsheet/simple/details/
+ SimpleCSCommandDetails.java
+SHA1-Digest: WvBjbnxNqu5hQlBC9OjXxhpfzLM=
+
+Name: org/eclipse/pde/internal/ua/ui/editor/cheatsheet/comp/CompCSBloc
+ k.java
+SHA1-Digest: 4teLHcyQpPfo7+NmaqjCAgwzzP4=
+
+Name: org/eclipse/pde/internal/ua/ui/editor/cheatsheet/simple/actions/
+ SimpleCSPreviewAction.java
+SHA1-Digest: pyopEJffeAbwIRqQwtPyi8p5W8k=
+
+Name: org/eclipse/pde/internal/ua/ui/editor/toc/actions/TocAddAnchorAc
+ tion.java
+SHA1-Digest: 7hvoIM/QK2AY06o5lMl9eDYtquA=
+
+Name: org/eclipse/pde/internal/ua/ui/editor/ctxhelp/CtxHelpMessages.ja
+ va
+SHA1-Digest: Ug2Qx4AtkKxqJ8T0DerOwqTjMrw=
+
+Name: org/eclipse/pde/internal/ua/ui/wizards/cheatsheet/RegisterSimple
+ CSWizardPage.java
+SHA1-Digest: vs4ElxDb3UarR0nYeivhzPChi6k=
+
+Name: org/eclipse/pde/internal/ua/ui/editor/cheatsheet/ICSMaster.java
+SHA1-Digest: jd+2B+NvDpf0/IMdfq8tmeo9ZOA=
+
+Name: org/eclipse/pde/internal/ua/ui/editor/cheatsheet/simple/SimpleMe
+ ssages.java
+SHA1-Digest: T6DSaodHmaa64Gn3mj7G8ZaBUrI=
+
+Name: org/eclipse/pde/internal/ua/ui/editor/cheatsheet/simple/SimpleCS
+ MasterTreeSection.java
+SHA1-Digest: AU2BRXjmxfMC3RQGp+SKO5s6oU0=
+
+Name: org/eclipse/pde/internal/ua/ui/editor/ctxhelp/details/CtxHelpCon
+ textDetails.java
+SHA1-Digest: 9yBDyPb8CASTB9qF6gHvdCxtmQc=
+
+Name: org/eclipse/pde/internal/ua/ui/editor/cheatsheet/simple/actions/
+ SimpleCSRemoveStepAction.java
+SHA1-Digest: bo/GQagtkdUBZYZt9sINmWX1Yx0=
+
+Name: org/eclipse/pde/internal/ua/ui/editor/cheatsheet/comp/details/De
+ tailsMessages.java
+SHA1-Digest: nczEc0X317jS6QXwvrOUSNxHevM=
+
+Name: org/eclipse/pde/internal/ua/ui/editor/cheatsheet/comp/details/Co
+ mpCSTaskGroupDetails.java
+SHA1-Digest: 8YaHaYLhYIKcgs0FbkFgvbjVANE=
+
+Name: org/eclipse/pde/internal/ua/ui/PDEUserAssistanceUIPluginImages.j
+ ava
+SHA1-Digest: E5G+G5EA7J2hh67/QZdnLJc/rlQ=
+
+Name: org/eclipse/pde/internal/ua/ui/wizards/ctxhelp/NewCtxHelpOperati
+ on.java
+SHA1-Digest: uIi8TM9xakPNpF/uqzybL1z88o4=
+
+Name: org/eclipse/pde/internal/ua/ui/wizards/toc/TocHTMLWizard.java
+SHA1-Digest: vHfl0okkjWeKRFjAr/TIPPRNYok=
+
+Name: org/eclipse/pde/internal/ua/ui/editor/cheatsheet/comp/actions/Co
+ mpCSRemoveTaskObjectAction.java
+SHA1-Digest: MlMIICsqAcZ5ka3bHG6gocs4X2Y=
+
+Name: org/eclipse/pde/internal/ua/ui/editor/cheatsheet/simple/SimpleCS
+ Editor.java
+SHA1-Digest: DMKJg3TKuMsFRwDeK2Ly1pCgmec=
+
+Name: org/eclipse/pde/internal/ua/ui/wizards/cheatsheet/RegisterCSOper
+ ation.java
+SHA1-Digest: eusi4/IyXmvv8YCPUZf+XMhrotw=
+

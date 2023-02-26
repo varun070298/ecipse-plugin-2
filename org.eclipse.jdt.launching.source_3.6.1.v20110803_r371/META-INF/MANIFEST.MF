@@ -1,0 +1,402 @@
+Manifest-Version: 1.0
+Eclipse-SourceBundle: org.eclipse.jdt.launching;version="3.6.1.v201108
+ 03_r371";roots:="lib/launchingsupportsrc,."
+Bundle-Vendor: %providerName
+Bundle-Localization: plugin
+Bundle-Name: %pluginName
+Bundle-SymbolicName: org.eclipse.jdt.launching.source
+Bundle-Version: 3.6.1.v20110803_r371
+Bundle-ManifestVersion: 2
+
+Name: org/eclipse/jdt/launching/IRuntimeClasspathEntry.java
+SHA1-Digest: lwppH4TPAXhUBdcoGqpaNpVmA4I=
+
+Name: org/eclipse/jdt/internal/launching/environments/Analyzer.java
+SHA1-Digest: Cj2zZdVENawxxBrDgJ3KikcgDVQ=
+
+Name: org/eclipse/jdt/launching/sourcelookup/IJavaSourceLocation.java
+SHA1-Digest: LLIG8jnWaR//NrVPB2b58Xl09jI=
+
+Name: org/eclipse/jdt/internal/launching/Standard11xVM.java
+SHA1-Digest: p+7yuRR6jU8SaALJ/NND74aaaMM=
+
+Name: org/eclipse/jdt/launching/IVMRunner.java
+SHA1-Digest: pm0FDOrMO6M9PSX8xmELgVBqyJs=
+
+Name: org/eclipse/jdt/launching/VMRunnerConfiguration.java
+SHA1-Digest: QjXceHHFZAQB/3lKRBdJlWC2iqk=
+
+Name: org/eclipse/jdt/internal/launching/SocketListenConnectorProcess.
+ java
+SHA1-Digest: KWfKinnPXapqtYnBw9EsrS1tsBE=
+
+Name: org/eclipse/jdt/launching/ExecutionArguments.java
+SHA1-Digest: k1m95D7L6FOciIB3rhijF6jpEFM=
+
+Name: org/eclipse/jdt/internal/launching/JRERuntimeClasspathEntryResol
+ ver.java
+SHA1-Digest: 1Qi+B1dckG5nWHyel1Sn4PXdvCY=
+
+Name: org/eclipse/jdt/launching/IVMInstallType.java
+SHA1-Digest: 0TzFlojxDZT/hbYiAdPTpK+qJ7U=
+
+Name: org/eclipse/jdt/launching/AbstractJavaLaunchConfigurationDelegat
+ e.java
+SHA1-Digest: PI7IlFFLDoBgeSa9HNcI4tqdvds=
+
+Name: org/eclipse/jdt/internal/launching/EECompilationParticipant.java
+SHA1-Digest: YmeWVp6dSGp5unyMIiHCLBX2ZME=
+
+Name: org/eclipse/jdt/launching/environments/ExecutionEnvironmentDescr
+ iption.java
+SHA1-Digest: oY4tMs0hmapV6Nlw1W+jKJu2X0g=
+
+Name: org/eclipse/jdt/launching/environments/CompatibleEnvironment.jav
+ a
+SHA1-Digest: AfagsFrhxKRHF5JA2OHYaqWV0tA=
+
+Name: org/eclipse/jdt/internal/launching/RuntimeClasspathEntryListComp
+ arator.java
+SHA1-Digest: 2T+Vzoy+th10xu7V1iggAt0vBHk=
+
+Name: lib/launchingsupportsrc/org/eclipse/jdt/internal/launching/suppo
+ rt/SystemProperties.java
+SHA1-Digest: 4cpm3Wkc10b4iTAEEGef+r9EDa8=
+
+Name: org/eclipse/jdt/internal/launching/VMListener.java
+SHA1-Digest: T3kaVzbLo7hVmAh6TBnEKmSNR2o=
+
+Name: org/eclipse/jdt/internal/launching/JREContainerInitializer.java
+SHA1-Digest: ydH2XB9hIpd/h8wpKH17P9Ma4qE=
+
+Name: org/eclipse/jdt/launching/AbstractVMRunner.java
+SHA1-Digest: vOSk8anLi/cDcLP/2+DtZLxxU+E=
+
+Name: org/eclipse/jdt/internal/launching/StandardVMRunner.java
+SHA1-Digest: n9Vt+E3AKOikGI+8KF876D6iprE=
+
+Name: schema/runtimeClasspathEntryResolvers.exsd
+SHA1-Digest: yC3nSWOy360i/y6TN1k5HjnM/zQ=
+
+Name: org/eclipse/jdt/internal/launching/RuntimeClasspathEntryResolver
+ .java
+SHA1-Digest: suRHvbxMfX3fp976CIhFm6C5YV8=
+
+Name: org/eclipse/jdt/launching/sourcelookup/containers/JavaSourcePath
+ Computer.java
+SHA1-Digest: aJg+Qmv+wYMDzvBEra9dutxJW/Q=
+
+Name: org/eclipse/jdt/internal/launching/environments/EnvironmentsMana
+ ger.java
+SHA1-Digest: wN9HBYmO1X4vcoT1zY8kxyPnJjg=
+
+Name: org/eclipse/jdt/launching/IRuntimeClasspathEntry2.java
+SHA1-Digest: /wuQHkcnmmxyjmwR8XKLekNpgaY=
+
+Name: schema/vmInstallTypes.exsd
+SHA1-Digest: RSHElOfPEavoDdw7gMY473/v11k=
+
+Name: org/eclipse/jdt/internal/launching/RuntimeClasspathProvider.java
+SHA1-Digest: KjbL5OkiLhQgXzvowNBQ591ogww=
+
+Name: org/eclipse/jdt/launching/sourcelookup/containers/ClasspathConta
+ inerSourceContainer.java
+SHA1-Digest: Cm963S1SmUZudc0hSPQnBz/OXGY=
+
+Name: org/eclipse/jdt/internal/launching/ClasspathContainerSourceConta
+ inerTypeDelegate.java
+SHA1-Digest: XHvJHHn9CSVylx3t1RKPlcWEcps=
+
+Name: org/eclipse/jdt/launching/IVMConnector.java
+SHA1-Digest: YV5KR2j4xLp53D/iN5MU0YiDLP0=
+
+Name: org/eclipse/jdt/launching/IVMInstall3.java
+SHA1-Digest: oCtRh20Ot+0ShUp+sIc1JZH3dLw=
+
+Name: org/eclipse/jdt/launching/IJavaLaunchConfigurationConstants.java
+SHA1-Digest: oKIUP/5mMWkyDwK9JmzaMSKFUUY=
+
+Name: org/eclipse/jdt/internal/launching/MacInstalledJREs.java
+SHA1-Digest: JMX3IU3Muv3TSqWiKuwL6HVMRbs=
+
+Name: org/eclipse/jdt/launching/sourcelookup/JavaSourceLocator.java
+SHA1-Digest: FsRyzSRXeFU6/V1eDMzVkqQICrk=
+
+Name: org/eclipse/jdt/launching/sourcelookup/LocalFileStorage.java
+SHA1-Digest: +ZkjFps5zsiwBlXq3ayGmK/nY20=
+
+Name: org/eclipse/jdt/internal/launching/AbstractRuntimeClasspathEntry
+ .java
+SHA1-Digest: 6ZstgLSQk0jcV7cs5H5CWG97BXw=
+
+Name: org/eclipse/jdt/internal/launching/StandardVMDebugger.java
+SHA1-Digest: FhsHI+MjyC34jA90MuupYxaJ/Mc=
+
+Name: org/eclipse/jdt/internal/launching/LibraryInfo.java
+SHA1-Digest: iK3bkrcr6BEBc3PPEFiX5BF1Mtc=
+
+Name: schema/vmInstalls.exsd
+SHA1-Digest: H8+va3MN69bBYyl6K82gkwJe8sQ=
+
+Name: org/eclipse/jdt/launching/sourcelookup/containers/PackageFragmen
+ tRootSourceContainer.java
+SHA1-Digest: 1OyZmubdgd6fyLMsMixblquYl6o=
+
+Name: org/eclipse/jdt/launching/IRuntimeClasspathProvider.java
+SHA1-Digest: A+2K73nOSnzr+uq3g1935/TSpnM=
+
+Name: org/eclipse/jdt/launching/AbstractVMInstallType.java
+SHA1-Digest: RnNPru2OcPMXUF+6vSWe0bM65vg=
+
+Name: org/eclipse/jdt/launching/sourcelookup/containers/JavaSourceLook
+ upParticipant.java
+SHA1-Digest: d/nyX4s8/FvlK7FyRNid3MApj9I=
+
+Name: org/eclipse/jdt/internal/launching/LaunchingMessages.java
+SHA1-Digest: s2bT8DfxZTKJgY+Mif5I0wQ8mLA=
+
+Name: org/eclipse/jdt/launching/StandardClasspathProvider.java
+SHA1-Digest: W1WhBco92U+L+Xgi1XtgMUKu6OQ=
+
+Name: org/eclipse/jdt/launching/environments/IExecutionEnvironmentAnal
+ yzerDelegate.java
+SHA1-Digest: 3qdbZlwtEZSK75vBR63TDXQoJiE=
+
+Name: org/eclipse/jdt/internal/launching/JavaMigrationDelegate.java
+SHA1-Digest: CCKiVsRXbAhEZheGbPV1LNzXpNk=
+
+Name: org/eclipse/jdt/internal/launching/environments/ExecutionEnviron
+ mentAnalyzer.java
+SHA1-Digest: WyPCWy1SME0gudwlB0aeDcxICzA=
+
+Name: about.html
+SHA1-Digest: ejOZra0kypGLQQ2bJtGTX+LI8tU=
+
+Name: org/eclipse/jdt/internal/launching/JavaSourceLookupUtil.java
+SHA1-Digest: sogdskBoVzeWBofDgGaUZKLFhkk=
+
+Name: org/eclipse/jdt/internal/launching/environments/ExecutionEnviron
+ ment.java
+SHA1-Digest: oFCKA3BsoJ53ziQXSI6XCz5+//U=
+
+Name: org/eclipse/jdt/launching/SocketUtil.java
+SHA1-Digest: h+VoBoBGn8oGKXp2FGwG5zo0/7Y=
+
+Name: org/eclipse/jdt/launching/AbstractVMInstall.java
+SHA1-Digest: 9lTkJVwuffcQtYQ/8mNV5xAzW+Y=
+
+Name: org/eclipse/jdt/launching/environments/IExecutionEnvironmentsMan
+ ager.java
+SHA1-Digest: cXNQSLBJRSZEkSQxUd1WKjienqI=
+
+Name: org/eclipse/jdt/launching/sourcelookup/DirectorySourceLocation.j
+ ava
+SHA1-Digest: Uy2ecBBLSQ6ibX+zxyacYZqHkRo=
+
+Name: org/eclipse/jdt/internal/launching/RuntimeClasspathEntry.java
+SHA1-Digest: bGHeUFv5GneLLGNH2WKlnYa9XRI=
+
+Name: org/eclipse/jdt/internal/launching/VMDefinitionsContainer.java
+SHA1-Digest: LM7EJLvwfKpKpKtfyjnGiUv2ye0=
+
+Name: org/eclipse/jdt/launching/JavaLaunchDelegate.java
+SHA1-Digest: POhwnRz450BiIoFNq9qwuBbFuWM=
+
+Name: lib/launchingsupportsrc/org/eclipse/jdt/internal/launching/suppo
+ rt/LegacySystemProperties.java
+SHA1-Digest: Z2sogyRr5dkV7xW/B0rJCAGoH6g=
+
+Name: org/eclipse/jdt/launching/sourcelookup/ArchiveSourceLocation.jav
+ a
+SHA1-Digest: dzwD4BqZyGFfQScvQw32iKERVwY=
+
+Name: org/eclipse/jdt/launching/sourcelookup/containers/ClasspathVaria
+ bleSourceContainer.java
+SHA1-Digest: USdGhrGSkKrDevWAbtIcRGmNW5U=
+
+Name: org/eclipse/jdt/internal/launching/LaunchingPlugin.java
+SHA1-Digest: Hp73FMQlquKVc14tvvMcHk+Sqb0=
+
+Name: org/eclipse/jdt/launching/StandardSourcePathProvider.java
+SHA1-Digest: dMx6093Le5Hm7WFgUmgg0LkGC20=
+
+Name: org/eclipse/jdt/launching/sourcelookup/JavaProjectSourceLocation
+ .java
+SHA1-Digest: mWvamt0EDm+A5vK/U4zTr+DGf9Y=
+
+Name: org/eclipse/jdt/launching/IRuntimeClasspathEntryResolver.java
+SHA1-Digest: jgGyk57MnkCAV4W2vAwVloAivqU=
+
+Name: schema/classpathProviders.exsd
+SHA1-Digest: KV9KmUMSkhTMJdUgsUGbbaDTzCc=
+
+Name: org/eclipse/jdt/internal/launching/ProjectClasspathVariableResol
+ ver.java
+SHA1-Digest: qzjonCY7TNa9BmjeNckNVQuWCgQ=
+
+Name: org/eclipse/jdt/launching/IVMInstall2.java
+SHA1-Digest: L6D43T3jhFd513GBSCqvkvHjfXs=
+
+Name: org/eclipse/jdt/launching/JavaRuntime.java
+SHA1-Digest: ipE84Kdzoegi2Bentr3xfycq7ug=
+
+Name: org/eclipse/jdt/internal/launching/JavaSourceLookupDirector.java
+SHA1-Digest: 3JkzeQhEXm1BHoV46XODPwHRj2s=
+
+Name: org/eclipse/jdt/launching/PropertyChangeEvent.java
+SHA1-Digest: L/JOfSMQ7VnTWGi40q/nMUZcwiM=
+
+Name: META-INF/eclipse.inf
+SHA1-Digest: KyT9FF7C7t86NoBoa2kZT3ZJBfw=
+
+Name: lib/launchingsupportsrc/org/eclipse/jdt/internal/launching/suppo
+ rt/LibraryDetector.java
+SHA1-Digest: JZNxyv+uvy/OGY3Ie66xsc7rZm0=
+
+Name: schema/executionEnvironments.exsd
+SHA1-Digest: qkYASwt/D/0Sc0Iyb/QZut+MTIg=
+
+Name: org/eclipse/jdt/launching/LibraryLocation.java
+SHA1-Digest: dc0Apqq+upHAXAFYEFhxBjxINs4=
+
+Name: org/eclipse/jdt/launching/IVMInstall.java
+SHA1-Digest: LgN1oXXd4iXI97g+B8mKXh7BGbQ=
+
+Name: org/eclipse/jdt/internal/launching/LaunchingPreferenceInitialize
+ r.java
+SHA1-Digest: iDJHAABfK0NNlSWYFOgCTU0HmxU=
+
+Name: org/eclipse/jdt/internal/launching/DefaultEntryResolver.java
+SHA1-Digest: HfOzrijy5V/wBQsOW5uxL7sJkSE=
+
+Name: org/eclipse/jdt/launching/IRuntimeContainerComparator.java
+SHA1-Digest: tmEUQaOfEpJCwlY8J2uCbInwsXM=
+
+Name: org/eclipse/jdt/internal/launching/EEVMType.java
+SHA1-Digest: MrWlzyTrhO94RQh7w6rnnaWE/V0=
+
+Name: org/eclipse/jdt/launching/sourcelookup/containers/JavaProjectSou
+ rceContainer.java
+SHA1-Digest: 2vH0yCDsev0vqyBLpoG56Yv7bDE=
+
+Name: org/eclipse/jdt/internal/launching/environments/EnvironmentMessa
+ ges.java
+SHA1-Digest: W6TGf0iSGFyhCcoQT7Md3nO+SYE=
+
+Name: org/eclipse/jdt/internal/launching/Standard11xVMRunner.java
+SHA1-Digest: aBrPhNqxUU8am5TJPWJQdEcy/L0=
+
+Name: org/eclipse/jdt/internal/launching/DefaultProjectClasspathEntry.
+ java
+SHA1-Digest: klghWcGmK9fK97v4vlfInH40BRU=
+
+Name: org/eclipse/jdt/launching/environments/IAccessRuleParticipant.ja
+ va
+SHA1-Digest: awf+4wZ+qWQqPTrehKkczQrmI24=
+
+Name: org/eclipse/jdt/internal/launching/JREContainer.java
+SHA1-Digest: 82sZXn33PFhYQGexkrck+HrRH6k=
+
+Name: org/eclipse/jdt/internal/launching/SocketAttachConnector.java
+SHA1-Digest: 2edQ8oIupecNmuFdzRFbFUArEP4=
+
+Name: org/eclipse/jdt/internal/launching/JavaRemoteApplicationLaunchCo
+ nfigurationDelegate.java
+SHA1-Digest: 15Rr+hxBmpRaM/HbewwG9yunldw=
+
+Name: schema/vmConnectors.exsd
+SHA1-Digest: WxK3I8cYwQCJexR2FunJQZ1MPS4=
+
+Name: org/eclipse/jdt/internal/launching/SocketListenConnector.java
+SHA1-Digest: 1uY2hW0uKAf5xucmzQIPlQYrMHM=
+
+Name: plugin.properties
+SHA1-Digest: 7A44Of7Kx8/fD4y99UkJ/fZYv9I=
+
+Name: org/eclipse/jdt/internal/launching/JavaAppletLaunchConfiguration
+ Delegate.java
+SHA1-Digest: 8x9LKshAJNKh3PPPV6zNLAe6Klw=
+
+Name: org/eclipse/jdt/launching/IRuntimeClasspathEntryResolver2.java
+SHA1-Digest: flHQ2RXQgNYk8YaqRMQ0xerBAVc=
+
+Name: org/eclipse/jdt/internal/launching/JavaClasspathVariablesInitial
+ izer.java
+SHA1-Digest: slF/jj+HCaF4KesigBTntQ8T1Ew=
+
+Name: org/eclipse/jdt/launching/VMStandin.java
+SHA1-Digest: /Dae9MR1leYLjmUyu2ggsNUo59U=
+
+Name: schema/runtimeClasspathEntries.exsd
+SHA1-Digest: j8o/Scb5FwOS+FbxpDKgGF6oSLc=
+
+Name: org/eclipse/jdt/internal/launching/VariableClasspathEntry.java
+SHA1-Digest: Vi3/HsVBg1EAfURIlzS1LMNXx0U=
+
+Name: org/eclipse/jdt/internal/launching/EEVMInstall.java
+SHA1-Digest: JQQwqQDwjdEeMD+CN+FG+XfgYps=
+
+Name: org/eclipse/jdt/internal/launching/StandardVMType.java
+SHA1-Digest: aEEZJOYmzixDGTzlCjkwaWGQ6Xw=
+
+Name: org/eclipse/jdt/internal/launching/JavaProjectSourceContainerTyp
+ eDelegate.java
+SHA1-Digest: euaFBt17aD+gaDOmuUiDPrCOXP4=
+
+Name: org/eclipse/jdt/internal/launching/environments/DefaultAccessRul
+ eParticipant.java
+SHA1-Digest: GYVCb3DYaSclgFLE6MR/t1vqink=
+
+Name: org/eclipse/jdt/launching/sourcelookup/PackageFragmentRootSource
+ Location.java
+SHA1-Digest: zK/jEYiQzYJ24sW9zjDir8Lijbo=
+
+Name: org/eclipse/jdt/internal/launching/environments/AccessRulePartic
+ ipant.java
+SHA1-Digest: 2+vaMFU5pvI28r8fMhu8h/q42vs=
+
+Name: org/eclipse/jdt/launching/IVMInstallChangedListener.java
+SHA1-Digest: HccxeWxJ3EPyjuCPdg2RpZEP/+I=
+
+Name: org/eclipse/jdt/internal/launching/PListParser.java
+SHA1-Digest: SADE5UPI/MovlRfbacLuW/NSeDw=
+
+Name: org/eclipse/jdt/internal/launching/Standard11xVMType.java
+SHA1-Digest: TMRMejJJwDD7kAhKytIqcFOEPbM=
+
+Name: org/eclipse/jdt/internal/launching/environments/ExecutionEnviron
+ mentVariableResolver.java
+SHA1-Digest: pw53JFwQq1PGwSAS+xNY7xTMWHQ=
+
+Name: org/eclipse/jdt/internal/launching/StandardVM.java
+SHA1-Digest: IgthJjcNM5v9+sPEugi67vNGQmw=
+
+Name: org/eclipse/jdt/internal/launching/VariableClasspathResolver.jav
+ a
+SHA1-Digest: ljE8UO/3/aiN7ozw2w1587gxlAI=
+
+Name: org/eclipse/jdt/launching/environments/IExecutionEnvironment.jav
+ a
+SHA1-Digest: Yes3djl0QN9HOO+jcz0hnB9SGgY=
+
+Name: org/eclipse/jdt/internal/launching/JREPreferenceModifyListener.j
+ ava
+SHA1-Digest: S5Xs/LMAR+Sejwt27pGDL9C3JB4=
+
+Name: org/eclipse/jdt/launching/sourcelookup/ZipEntryStorage.java
+SHA1-Digest: LIHqwVAaPG5rglFxMZJKbEIkLTs=
+
+Name: org/eclipse/jdt/internal/launching/CompositeId.java
+SHA1-Digest: eyYcv6MTDlmUmmxnGaLmsnqrDrc=
+
+Name: org/eclipse/jdt/internal/launching/JavaLaunchableTester.java
+SHA1-Digest: h44ARloFHs0noO8iM0CMWD1SaNQ=
+
+Name: org/eclipse/jdt/internal/launching/PackageFragmentRootSourceCont
+ ainerTypeDelegate.java
+SHA1-Digest: MGPCSK0kqMu3F/5wZ6rYGGUSDr0=
+
+Name: org/eclipse/jdt/internal/launching/ClasspathVariableSourceContai
+ nerTypeDelegate.java
+SHA1-Digest: grSsE5Av8YM6BfgH0sxOHJEzoTo=
+

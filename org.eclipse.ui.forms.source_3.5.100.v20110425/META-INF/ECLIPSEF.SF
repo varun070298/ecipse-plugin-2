@@ -1,0 +1,261 @@
+Signature-Version: 1.0
+SHA1-Digest-Manifest: 6S1mv1wc+u48FTyLJkmbdRWoyx4=
+Created-By: 1.6.0 (IBM Corporation)
+SHA1-Digest-Manifest-Main-Attributes: dTS9uhUSSDVSZlUb2qJFACZZhvs=
+
+Name: org/eclipse/ui/forms/SectionPart.java
+SHA1-Digest: bhOfbzNLuYvUqMzwkUm5tD1ZJQA=
+
+Name: org/eclipse/ui/internal/forms/widgets/ParagraphSegment.java
+SHA1-Digest: g4qL4rjj9RLQatptyEyBFWYWpwI=
+
+Name: org/eclipse/ui/internal/forms/widgets/FormTextModel.java
+SHA1-Digest: 0Q6JT80DZbThoyXbFeWS24deWog=
+
+Name: org/eclipse/ui/forms/editor/FormPage.java
+SHA1-Digest: QxBJIcEVqmT00z3MLRHSGP7m1N4=
+
+Name: org/eclipse/ui/internal/forms/widgets/SelectionData.java
+SHA1-Digest: ROokDxXhhwH9J5tLi48Pe+mlAVI=
+
+Name: org/eclipse/ui/forms/widgets/Form.java
+SHA1-Digest: E1+Be2qfUyWzhJo0nfLPWI6omiY=
+
+Name: org/eclipse/ui/forms/events/ExpansionEvent.java
+SHA1-Digest: x+VI2XXAyIRVFnPWs3+XwXkw6oM=
+
+Name: org/eclipse/ui/forms/widgets/TreeNode.java
+SHA1-Digest: ZB6HT4miScT5JfymhM+7qBV4r/M=
+
+Name: org/eclipse/ui/forms/IMessage.java
+SHA1-Digest: ZGLokHJBGAlUylI3oEL523A1gkg=
+
+Name: org/eclipse/ui/forms/widgets/ScrolledFormText.java
+SHA1-Digest: jeYLYj+vQ8knHu2Owko4W6DgFls=
+
+Name: org/eclipse/ui/internal/forms/widgets/BulletParagraph.java
+SHA1-Digest: SinqEnnPbxCA5jjBbU45zkbGo1I=
+
+Name: org/eclipse/ui/forms/IManagedForm.java
+SHA1-Digest: t60jlyMH6FyGPwtTNvdAfLtq+z8=
+
+Name: org/eclipse/ui/forms/HyperlinkGroup.java
+SHA1-Digest: rsqeKTjC9Bz0emcPXhGAvDqH7Ow=
+
+Name: org/eclipse/ui/forms/events/IHyperlinkListener.java
+SHA1-Digest: 6QnfUYY2uxdyR+eYtY2s0TQ1jmU=
+
+Name: org/eclipse/ui/internal/forms/widgets/BreakSegment.java
+SHA1-Digest: bAdaQdP0QYlZpMCqrH3DT9hb88U=
+
+Name: org/eclipse/ui/forms/widgets/Section.java
+SHA1-Digest: KU7Nh/sWytGqmr9nwGvWtSpL59M=
+
+Name: org/eclipse/ui/internal/forms/widgets/TextSegment.java
+SHA1-Digest: IKmCDHyJqGDHoWM0kXfwV6S+rlA=
+
+Name: org/eclipse/ui/forms/widgets/TableWrapData.java
+SHA1-Digest: OgRLzfn9/Fk1EKcDbmfAGYC/Oqo=
+
+Name: org/eclipse/ui/forms/widgets/TableWrapLayout.java
+SHA1-Digest: MGocNhpSD6/515Qd1HDYRADt/P8=
+
+Name: org/eclipse/ui/forms/IFormPart.java
+SHA1-Digest: XptoWG12jbO0UdS85WigNYsoIFo=
+
+Name: org/eclipse/ui/forms/widgets/ColumnLayoutData.java
+SHA1-Digest: hVBz8mL4NSy4SGcwfuy971cfnZk=
+
+Name: org/eclipse/ui/internal/forms/widgets/FormUtil.java
+SHA1-Digest: AjgA8BqdGuXW+EKABO4R8owNOYM=
+
+Name: META-INF/eclipse.inf
+SHA1-Digest: SAqY+5ITAL0mkdYeijlSRhyIaZk=
+
+Name: org/eclipse/ui/internal/forms/widgets/ObjectSegment.java
+SHA1-Digest: 4wc59nD8gGGJ/bJwSO/F66GxXms=
+
+Name: org/eclipse/ui/forms/widgets/ToggleHyperlink.java
+SHA1-Digest: Oi0fQxyrXpiqVjNUoTwoBVgNsG0=
+
+Name: org/eclipse/ui/forms/IMessagePrefixProvider.java
+SHA1-Digest: QaXwizUM3S108FnNDn54uBZ5H1A=
+
+Name: org/eclipse/ui/internal/forms/widgets/SWTUtil.java
+SHA1-Digest: F3GXA0WB0Lx9nMY/OA74hDuD+bE=
+
+Name: org/eclipse/ui/forms/widgets/ColumnLayout.java
+SHA1-Digest: i4Q63AEVSZVjHPdG9ckNTVeod7g=
+
+Name: org/eclipse/ui/internal/forms/widgets/TitleRegion.java
+SHA1-Digest: T+y9GQHhvbgrq1x3zY1NYUfDE88=
+
+Name: org/eclipse/ui/forms/AbstractFormPart.java
+SHA1-Digest: t7l2C7s/5aLVL5+MGFJcZKo6iAg=
+
+Name: org/eclipse/ui/internal/forms/widgets/ImageHyperlinkSegment.java
+SHA1-Digest: YMtTtdqI7bk5mF2avsHAMkXKcOE=
+
+Name: org/eclipse/ui/forms/events/ExpansionAdapter.java
+SHA1-Digest: zRrAbLAz0iD7TDPr8YOPBMSyOpA=
+
+Name: org/eclipse/ui/forms/widgets/Hyperlink.java
+SHA1-Digest: M7tZNQ0GlNthXTVFydgdeCla4O8=
+
+Name: org/eclipse/ui/forms/editor/SharedHeaderFormEditor.java
+SHA1-Digest: qBuNX1UqAvhwHl3iMlrFdHqP9os=
+
+Name: org/eclipse/ui/forms/widgets/Twistie.java
+SHA1-Digest: 2Ug1Xnk244rU/dnpQldgIx1NXXU=
+
+Name: org/eclipse/ui/internal/forms/FormsPlugin.java
+SHA1-Digest: kI9LprKre6h6853O/g8YbOJVZ9k=
+
+Name: org/eclipse/ui/forms/widgets/ScrolledForm.java
+SHA1-Digest: VrTitdikZqLfF6uoC4V22Hof958=
+
+Name: org/eclipse/ui/internal/forms/widgets/FormHeading.java
+SHA1-Digest: i8hF3sfbC6gYvUmsyPBCL5g85kE=
+
+Name: org/eclipse/ui/forms/widgets/ILayoutExtension.java
+SHA1-Digest: 3iIaK1gIhuaFu4vzTJg8lxWa8+A=
+
+Name: org/eclipse/ui/forms/widgets/FormToolkit.java
+SHA1-Digest: AMhyS28Be/VecNcuNLt1CHl68RQ=
+
+Name: org/eclipse/ui/internal/forms/MessageManager.java
+SHA1-Digest: gjLmVUsz+AfbeMVT1bF17rfXV9A=
+
+Name: org/eclipse/ui/internal/forms/widgets/IFocusSelectable.java
+SHA1-Digest: mSCtvZupz5vJL+bJGU5H/SLx70E=
+
+Name: org/eclipse/ui/forms/widgets/SharedScrolledComposite.java
+SHA1-Digest: 7iaFpJ9F/eO9+iNeyeyR8q5rJ+U=
+
+Name: org/eclipse/ui/forms/DetailsPart.java
+SHA1-Digest: QiaYc2ehI3K3GNrIgpIlLQ4YEjo=
+
+Name: org/eclipse/ui/internal/forms/widgets/Locator.java
+SHA1-Digest: ZjXH2HiO1t0fsTvwUC9pz3ATgpY=
+
+Name: org/eclipse/ui/internal/forms/widgets/BusyIndicator.java
+SHA1-Digest: nya76EtWL4HnlkzlBDMGD04NAV4=
+
+Name: org/eclipse/ui/forms/widgets/ExpandableComposite.java
+SHA1-Digest: jcQq+PXPB10X/jvnVA5MKMMpbSo=
+
+Name: org/eclipse/ui/internal/forms/widgets/ColumnLayoutUtils.java
+SHA1-Digest: hMJpMjBIKTDQiFOf/GkX5Jn5VlU=
+
+Name: org/eclipse/ui/internal/forms/widgets/TextHyperlinkSegment.java
+SHA1-Digest: pVVEiB6iKGZcQTksnv/w0bbpV6w=
+
+Name: plugin.properties
+SHA1-Digest: zy/n9C6qSHeEiRnLHsKIRQ7zddE=
+
+Name: org/eclipse/ui/forms/editor/IFormPage.java
+SHA1-Digest: UghQ/ve3oV5hDAEnypQ7ZT4Jv6M=
+
+Name: org/eclipse/ui/internal/forms/widgets/AggregateHyperlinkSegment.
+ java
+SHA1-Digest: iYax8Oa4yhm6AoXow7hI0z2mcgw=
+
+Name: org/eclipse/ui/internal/forms/widgets/FormsResources.java
+SHA1-Digest: 9EC5qBxkAdGnJldLatxTvPh3Lbk=
+
+Name: org/eclipse/ui/forms/FormColors.java
+SHA1-Digest: NB6aKqRYbB6kTJJHbN+IlM9cZVI=
+
+Name: org/eclipse/ui/forms/ManagedForm.java
+SHA1-Digest: onXgs65LryHgQu95gK2Acx8joko=
+
+Name: org/eclipse/ui/forms/widgets/FormText.java
+SHA1-Digest: XXGxjlM09GEH0u9DyWhHArOSB2w=
+
+Name: org/eclipse/ui/forms/events/IExpansionListener.java
+SHA1-Digest: Dbi+uqUfN+qqiBw1OlpNHD+b7zs=
+
+Name: org/eclipse/ui/forms/events/HyperlinkAdapter.java
+SHA1-Digest: tzWODSLoeR/OvGvFhsAPp6US3pI=
+
+Name: org/eclipse/ui/internal/forms/Messages.java
+SHA1-Digest: otIaUvqPhApNbrYQ75i8bAeg8n0=
+
+Name: org/eclipse/ui/forms/MasterDetailsBlock.java
+SHA1-Digest: egO4MNepMemIsSmqQVIVQqePnUU=
+
+Name: org/eclipse/ui/forms/widgets/ImageHyperlink.java
+SHA1-Digest: JGRMvlLaS4gliFqrRx0CR33p5Gc=
+
+Name: org/eclipse/ui/internal/forms/IMessageToolTipManager.java
+SHA1-Digest: m/QpOyctCL2faIsrervE97UwZIA=
+
+Name: org/eclipse/ui/forms/widgets/LayoutCache.java
+SHA1-Digest: s24JgUcDRxHS0q1B/2RBOdmUuKU=
+
+Name: org/eclipse/ui/forms/IDetailsPage.java
+SHA1-Digest: 4kTTdgSPoIj8jg3++hnAboh89hk=
+
+Name: org/eclipse/ui/internal/forms/widgets/ResourceManagerManger.java
+SHA1-Digest: 2K8wxkcQ7JH0e6YEnXm3fNVANAU=
+
+Name: org/eclipse/ui/forms/widgets/ScrolledPageBook.java
+SHA1-Digest: t7vZRWXXopYINSZz0d8jUvP0+NY=
+
+Name: org/eclipse/ui/forms/IPartSelectionListener.java
+SHA1-Digest: 4pJSKOwMEYYU/JuO85YdzLmeS7A=
+
+Name: org/eclipse/ui/internal/forms/widgets/IHyperlinkSegment.java
+SHA1-Digest: OxNwrR1TFPj+Fg8oM0yWSxMp40E=
+
+Name: org/eclipse/ui/forms/editor/FormEditor.java
+SHA1-Digest: IJiRKeZLDGGrbVaQJ3cLuhoTmVs=
+
+Name: org/eclipse/ui/forms/IMessageManager.java
+SHA1-Digest: v5c1cuqqLkRA9HFiyuMrIGWpoBM=
+
+Name: org/eclipse/ui/internal/forms/widgets/FormImages.java
+SHA1-Digest: 7UulwpWA+/NQXZgrd3+xKDZAtUo=
+
+Name: about.html
+SHA1-Digest: M+fykt9heyWoEv1LNiIEeBhi/2Q=
+
+Name: org/eclipse/ui/internal/forms/widgets/Paragraph.java
+SHA1-Digest: +V79aOmBhkO/jl32nKGCbSYSRzU=
+
+Name: org/eclipse/ui/forms/events/HyperlinkEvent.java
+SHA1-Digest: CASNF/M0uwbbYP6kxeSfIkXCqfg=
+
+Name: org/eclipse/ui/internal/forms/widgets/ImageSegment.java
+SHA1-Digest: elpH7E2/B00dsw0N7cin1yc85oM=
+
+Name: org/eclipse/ui/forms/IDetailsPageProvider.java
+SHA1-Digest: gXjuIC19Oj23qQw+dKuIQ6Icr78=
+
+Name: org/eclipse/ui/forms/HyperlinkSettings.java
+SHA1-Digest: aj4sr/mA0U2HgqfEEikXdQMNdtE=
+
+Name: org/eclipse/ui/internal/forms/widgets/ControlSegment.java
+SHA1-Digest: RCwCC/9jUW73KxMbO3CeMUJY+2Y=
+
+Name: org/eclipse/ui/forms/widgets/AbstractHyperlink.java
+SHA1-Digest: A5pAvIfzh34RIB/us/f58iDfvCY=
+
+Name: org/eclipse/ui/forms/widgets/SizeCache.java
+SHA1-Digest: JGAJlSo9Oi2Qg0ZCM0xnKsiypNE=
+
+Name: org/eclipse/ui/internal/forms/widgets/FormFonts.java
+SHA1-Digest: SzT7jonEw0gkd/xawtmxkO4Mj18=
+
+Name: org/eclipse/ui/forms/widgets/LayoutComposite.java
+SHA1-Digest: 8iRmS/dntIbzGnsHR1u2XNrzd6M=
+
+Name: org/eclipse/ui/forms/IFormColors.java
+SHA1-Digest: mILvfBVXxEfj03c+GD2sRF4sAv0=
+
+Name: org/eclipse/ui/forms/FormDialog.java
+SHA1-Digest: OQpEamkBZUz54cD4MBjwILAApDU=
+
+Name: org/eclipse/ui/internal/forms/widgets/WrappedPageBook.java
+SHA1-Digest: lKVqln+0qrIbD1kEnltNLmAP54k=
+

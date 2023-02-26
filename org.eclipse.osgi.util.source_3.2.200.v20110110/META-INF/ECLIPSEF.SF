@@ -1,0 +1,50 @@
+Signature-Version: 1.0
+SHA1-Digest-Manifest: hqaO1fFdtcgAUn+4gAjb/VCj7R4=
+Created-By: 1.6.0 (IBM Corporation)
+SHA1-Digest-Manifest-Main-Attributes: qOzh007SaZrYSnVsqAw1n79gLbo=
+
+Name: about_files/LICENSE-2.0.txt
+SHA1-Digest: DMnZPrY7w/ZEOj0YI/l8KoozuvM=
+
+Name: org/osgi/util/measurement/State.java
+SHA1-Digest: hN4+A6Yxy9P1ASo3jpUSMN3L+pk=
+
+Name: META-INF/eclipse.inf
+SHA1-Digest: SAqY+5ITAL0mkdYeijlSRhyIaZk=
+
+Name: org/osgi/util/position/package-info.java
+SHA1-Digest: p29H1/wjFcmTeJKVObfdiuj8vMw=
+
+Name: org/osgi/util/measurement/Unit.java
+SHA1-Digest: d89csrV9nj8i9qMTFmCogWhSaYg=
+
+Name: org/osgi/util/xml/XMLParserActivator.java
+SHA1-Digest: JWF7JqDlYIzRK/NiUqWkaoqnIIw=
+
+Name: about.html
+SHA1-Digest: zme6L6cWZuyo3BIWnA+u/nC9kco=
+
+Name: org/osgi/util/xml/packageinfo
+SHA1-Digest: UODLb0Cu37JQ6RjUF+NlNq5ipkQ=
+
+Name: plugin.properties
+SHA1-Digest: cZi5JgZkRU8jbNzBbHbm0xRoF/E=
+
+Name: org/osgi/util/position/Position.java
+SHA1-Digest: 502bbb2P63jRcwjuEghJH/z7VL0=
+
+Name: org/osgi/util/measurement/packageinfo
+SHA1-Digest: uhO4ARY3xgobSWpBBrw6qPiGwZA=
+
+Name: org/osgi/util/xml/package-info.java
+SHA1-Digest: uq9GCcEGr1Eoki8RQAzx1MGmzkg=
+
+Name: org/osgi/util/measurement/Measurement.java
+SHA1-Digest: DFjvV91Ap1ijBuCh1JXYSY7r2Ao=
+
+Name: org/osgi/util/measurement/package-info.java
+SHA1-Digest: FIEpVbDhG5n9AtTTxpeckHddAzA=
+
+Name: org/osgi/util/position/packageinfo
+SHA1-Digest: TQIGMdUmlUP3fIIfyQcbp1r/Thc=
+

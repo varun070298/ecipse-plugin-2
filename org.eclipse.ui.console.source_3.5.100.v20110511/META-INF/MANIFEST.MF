@@ -1,0 +1,199 @@
+Manifest-Version: 1.0
+Eclipse-SourceBundle: org.eclipse.ui.console;version="3.5.100.v2011051
+ 1";roots:="."
+Bundle-Vendor: %providerName
+Bundle-Localization: plugin
+Bundle-Name: %pluginName
+Bundle-SymbolicName: org.eclipse.ui.console.source
+Bundle-Version: 3.5.100.v20110511
+Bundle-ManifestVersion: 2
+
+Name: org/eclipse/ui/console/MessageConsole.java
+SHA1-Digest: zXVQmabiabqurvOJbG8Q5WUQ76k=
+
+Name: org/eclipse/ui/internal/console/ConsoleViewConsoleFactory.java
+SHA1-Digest: FxvAHGAoKgT7ks4LPpNIYZ9ViHo=
+
+Name: org/eclipse/ui/internal/console/PatternMatchListener.java
+SHA1-Digest: xiWW8VqCL/13IoD5eQyEqSyCud8=
+
+Name: org/eclipse/ui/console/actions/CloseConsoleAction.java
+SHA1-Digest: rWTn6HG/I0061ukU/7Un8WAwjWI=
+
+Name: org/eclipse/ui/console/IConsoleListener.java
+SHA1-Digest: /s/MbE2DrQbAUrQbHaVhYj5Cf0Q=
+
+Name: org/eclipse/ui/internal/console/IOConsoleViewer.java
+SHA1-Digest: hdY+O0PQpitkKumQQfltcO+f7JI=
+
+Name: org/eclipse/ui/console/IConsoleManager.java
+SHA1-Digest: h4ViGBOXPU77dZ1pGcNE6MdXiO4=
+
+Name: org/eclipse/ui/internal/console/ConsoleDocumentAdapter.java
+SHA1-Digest: 1UTGfwsxD0JFewBIH20T3morXbo=
+
+Name: schema/consoleFactories.exsd
+SHA1-Digest: Q+MBMJA9rITwUVeUWQc/TZUMuGI=
+
+Name: org/eclipse/ui/console/IPatternMatchListenerDelegate.java
+SHA1-Digest: 2pIwDfir/194Bcbc/cSq1iPicrU=
+
+Name: schema/consolePageParticipants.exsd
+SHA1-Digest: AT5HQJcVlyKvIRz1WjQbvn3YXMw=
+
+Name: org/eclipse/ui/console/IHyperlink2.java
+SHA1-Digest: +ptRB2n6TyqqiE+lWCjKkQ/AZLY=
+
+Name: org/eclipse/ui/console/AbstractConsole.java
+SHA1-Digest: mRjYW8qTiwkwCoFgQJOJmQzqduY=
+
+Name: org/eclipse/ui/console/IPatternMatchListener.java
+SHA1-Digest: 9FLzrIpy+8kMsal50AbjKqFvPn0=
+
+Name: org/eclipse/ui/console/IOConsoleOutputStream.java
+SHA1-Digest: refcckDz0T7HCEc61RRWQBRZpEQ=
+
+Name: org/eclipse/ui/console/actions/ClearOutputAction.java
+SHA1-Digest: wHRqhePG2lHvxFr5+d0C0UoR8cg=
+
+Name: org/eclipse/ui/internal/console/ConsoleResourceBundleMessages.ja
+ va
+SHA1-Digest: 8erbrsxmLvX0+BtI+WwLMZSEuW8=
+
+Name: org/eclipse/ui/internal/console/ScrollLockAction.java
+SHA1-Digest: aV16k2tdXgo1pxy/EvLJAH/YHbs=
+
+Name: org/eclipse/ui/internal/console/ShowConsoleAction.java
+SHA1-Digest: /v2LNaE/t0eaQS60gbjF/rS+T0Q=
+
+Name: org/eclipse/ui/console/IConsoleDocumentPartitioner.java
+SHA1-Digest: IJIeY1NtUvyoYV2CoGowfe+hBPA=
+
+Name: META-INF/eclipse.inf
+SHA1-Digest: KyT9FF7C7t86NoBoa2kZT3ZJBfw=
+
+Name: org/eclipse/ui/console/TextConsole.java
+SHA1-Digest: QnjW4L3RfwE0IZEqkqMQcnZIhrE=
+
+Name: org/eclipse/ui/console/ConsolePlugin.java
+SHA1-Digest: Z57Qr4CG7SGtGJYxizLgzXm76tk=
+
+Name: org/eclipse/ui/internal/console/FollowHyperlinkAction.java
+SHA1-Digest: Vrp+XuQ0SoiySUNtmc3TXxXW7iM=
+
+Name: org/eclipse/ui/internal/console/IOConsolePartitioner.java
+SHA1-Digest: gMHWefokRLILFpBwDnUltKFaV5w=
+
+Name: org/eclipse/ui/console/actions/TextViewerAction.java
+SHA1-Digest: ZRFQ9ngxGOoC+l57JCJ9T0OFLU0=
+
+Name: org/eclipse/ui/internal/console/HyperlinkUpdater.java
+SHA1-Digest: 6uZyOSjoF7WNQ4HGCwdkUPaeFow=
+
+Name: org/eclipse/ui/internal/console/ConsoleTypePropertyTester.java
+SHA1-Digest: 30iIZ2GQgqnJHS7ypAN41aKh9JA=
+
+Name: org/eclipse/ui/internal/console/OpenConsoleAction.java
+SHA1-Digest: TZGbsO39zj9/PfnGOl7V/4RuXa0=
+
+Name: org/eclipse/ui/console/IConsoleConstants.java
+SHA1-Digest: 8OnYn4WJ375CW9QF7xhB2u1NvgU=
+
+Name: org/eclipse/ui/internal/console/ConsoleMessages.java
+SHA1-Digest: EOp7quuHpJRB+bVMFBhsuLD2vG8=
+
+Name: org/eclipse/ui/console/actions/TextViewerGotoLineAction.java
+SHA1-Digest: 2/YIWpUaHF5gHjGQyoecC1vBXY4=
+
+Name: org/eclipse/ui/console/TextConsoleViewer.java
+SHA1-Digest: BYPyrj4xQs81750CtgUJSghgtFQ=
+
+Name: org/eclipse/ui/internal/console/IInternalConsoleConstants.java
+SHA1-Digest: tpA6gybxsRQQNtN4xP0mGVZLYeo=
+
+Name: org/eclipse/ui/internal/console/ConsoleHyperlinkPosition.java
+SHA1-Digest: AhOwmsPAo/DVxj7frOoZq+pyme8=
+
+Name: org/eclipse/ui/console/IOConsoleInputStream.java
+SHA1-Digest: W4ed/CDYir9MZuZ1trRh0yMLI9g=
+
+Name: org/eclipse/ui/internal/console/ConsoleManager.java
+SHA1-Digest: lk07t/aicp2VKX8rgl4c06GzWZ0=
+
+Name: org/eclipse/ui/console/IConsoleView.java
+SHA1-Digest: 1GkStP2Ndnt9JINKJrp7Nid1OHc=
+
+Name: org/eclipse/ui/internal/console/ConsoleDocument.java
+SHA1-Digest: Q8P6s7aOrOD5L6pPqFp/AnLoPmc=
+
+Name: org/eclipse/ui/internal/console/ConsoleFactoryExtension.java
+SHA1-Digest: rOemAMkz8k0fjDTxTZMakCdo6s0=
+
+Name: plugin.properties
+SHA1-Digest: 4W/iP7zLeyziovDegZAtiG3CC44=
+
+Name: org/eclipse/ui/internal/console/ConsolePluginImages.java
+SHA1-Digest: CNyNl4XctA+xsKMMwvLRgfQjF3w=
+
+Name: schema/consolePatternMatchListeners.exsd
+SHA1-Digest: hzYvnlVyW6QJxUfN6y9gTWTX3+o=
+
+Name: org/eclipse/ui/console/IConsoleFactory.java
+SHA1-Digest: Gm4DGTbksQnMCRwPcOM6lFEcYAU=
+
+Name: org/eclipse/ui/internal/console/ConsoleDropDownAction.java
+SHA1-Digest: O9ANvFyV0IDluQya2YRsosRptyg=
+
+Name: org/eclipse/ui/internal/console/IConsoleHelpContextIds.java
+SHA1-Digest: ggAuygPvbxc61aJABsxS5JojB2g=
+
+Name: org/eclipse/ui/console/TextConsolePage.java
+SHA1-Digest: d+oG/K1EMyFsiYACX9SICJtQSI4=
+
+Name: org/eclipse/ui/console/MessageConsoleStream.java
+SHA1-Digest: d+fBo06cdllsWLzCOEh0ohnSdVM=
+
+Name: org/eclipse/ui/internal/console/ConsolePageParticipantExtension.
+ java
+SHA1-Digest: XG21EVYBMuY9Hjsb1EbOPpNgMNA=
+
+Name: org/eclipse/ui/console/IConsole.java
+SHA1-Digest: UNfq7/6sLzhk/9HsF3zg7b2/GYg=
+
+Name: org/eclipse/ui/console/PatternMatchEvent.java
+SHA1-Digest: GxwHg3mCr63qQdmX4DlZM9aqHXg=
+
+Name: about.html
+SHA1-Digest: ejOZra0kypGLQQ2bJtGTX+LI8tU=
+
+Name: org/eclipse/ui/internal/console/IOConsolePage.java
+SHA1-Digest: HqEeHRd+FgnsocAazH6u7Wak5/s=
+
+Name: org/eclipse/ui/console/IHyperlink.java
+SHA1-Digest: DCVgnBgxrCEiSjJDkPoN/114/N8=
+
+Name: org/eclipse/ui/internal/console/ConsoleWorkbenchPart.java
+SHA1-Digest: IyIrHL8I9cWYzwOQnphULep5Wys=
+
+Name: org/eclipse/ui/internal/console/IOConsolePartition.java
+SHA1-Digest: WHoKhzX5c5x/d4upt1ThfP/3G0k=
+
+Name: org/eclipse/ui/internal/console/PinConsoleAction.java
+SHA1-Digest: Av11dV/HOP08JL+g6ZoJPsWQERs=
+
+Name: org/eclipse/ui/internal/console/ConsoleView.java
+SHA1-Digest: k10lKmtqik8qRk2CgnoIY31h5hc=
+
+Name: org/eclipse/ui/internal/console/ConsolePatternMatcher.java
+SHA1-Digest: iEHzo2Le5q/QcwpvBLtaNLOoL3U=
+
+Name: org/eclipse/ui/console/IConsolePageParticipant.java
+SHA1-Digest: gUfnVGOiY9NST2owN/F1IvXZuAo=
+
+Name: org/eclipse/ui/internal/console/PatternMatchListenerExtension.ja
+ va
+SHA1-Digest: CMuIDCUWi0tJhUOHFJislWUr1Iw=
+
+Name: org/eclipse/ui/console/IOConsole.java
+SHA1-Digest: IHHl3KCOyMomg6OYxTH/tsem7ec=
+

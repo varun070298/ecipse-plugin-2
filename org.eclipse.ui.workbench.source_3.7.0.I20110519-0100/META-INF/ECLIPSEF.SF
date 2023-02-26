@@ -1,0 +1,4168 @@
+Signature-Version: 1.0
+SHA1-Digest-Manifest: OOXTMclmENF8qhx4PCdChUn0iJk=
+Created-By: 1.6.0 (IBM Corporation)
+SHA1-Digest-Manifest-Main-Attributes: ToRZeEpJG79e4R7XYipDAMpHm3w=
+
+Name: org/eclipse/ui/internal/presentations/SystemMenuSizeFastView.jav
+ a
+SHA1-Digest: 9o1+haJwKWdgfruGEFi7H9i+/pU=
+
+Name: org/eclipse/ui/internal/preferences/AbstractIntegerListener.java
+SHA1-Digest: pJIXHBvRHJezlGly8dimnX3Lal8=
+
+Name: org/eclipse/ui/internal/ViewSashContainer.java
+SHA1-Digest: H3fIE5S5AAgxNh9tiVTEK2ME1M4=
+
+Name: org/eclipse/ui/internal/registry/WorkingSetDescriptor.java
+SHA1-Digest: uIjOTBfFGXp8q8ficCSYrHnVDd8=
+
+Name: org/eclipse/ui/actions/WorkingSetFilterActionGroup.java
+SHA1-Digest: falLcAyA4Bg2AU41wC8HE5lU19E=
+
+Name: org/eclipse/ui/views/IViewCategory.java
+SHA1-Digest: YECSRtd+b2SGOiclzG+fskyi+8o=
+
+Name: org/eclipse/ui/internal/CycleEditorHandler.java
+SHA1-Digest: yjCNu+631R52HRCImet2rpV5eMI=
+
+Name: org/eclipse/ui/internal/keys/LegacySchemeListenerWrapper.java
+SHA1-Digest: +XAhl5yTyhr3vDzQ00jeXYqugJo=
+
+Name: org/eclipse/ui/part/MultiPageEditorActionBarContributor.java
+SHA1-Digest: nzFSNcogopKEi7oc5ws6hxVEriE=
+
+Name: org/eclipse/ui/internal/quickaccess/ViewProvider.java
+SHA1-Digest: atT053GzCDFhvNM3J7ZMInnw0NM=
+
+Name: org/eclipse/ui/internal/FaderAnimationFeedback.java
+SHA1-Digest: eoxiaC+kbXR+aFvUsHpAHyi+UvQ=
+
+Name: org/eclipse/ui/contexts/IContextListener.java
+SHA1-Digest: r04KAovi9w9mK7JasdXEME9LbK4=
+
+Name: org/eclipse/ui/internal/ConfigurationInfo.java
+SHA1-Digest: TPe2B3AlTXeq846IPCRMWz1d7R4=
+
+Name: org/eclipse/ui/internal/quickaccess/QuickAccessProvider.java
+SHA1-Digest: yEzRQRzUEURqCDVt0ZpvqgPfYK8=
+
+Name: org/eclipse/ui/internal/wizards/preferences/PreferencesContentPr
+ ovider.java
+SHA1-Digest: eue8tT0Fsb0adkN+GsbBeUlvyiA=
+
+Name: org/eclipse/ui/internal/PageEventAction.java
+SHA1-Digest: GofAQSu9FYhtcBnuvr4V+hcWXSs=
+
+Name: org/eclipse/ui/internal/StickyViewManager.java
+SHA1-Digest: 9T1hoxQSY168X1o0gR3pQjqrk1A=
+
+Name: org/eclipse/ui/internal/wizards/preferences/WizardPreferencesPag
+ e.java
+SHA1-Digest: SJtJrnYtYLdxZPXU3OYrGe84GP8=
+
+Name: org/eclipse/ui/internal/progress/ProgressAnimationProcessor.java
+SHA1-Digest: 5jmkAbVz04R/4z+otxGBy5QarKc=
+
+Name: org/eclipse/ui/internal/MessageLine.java
+SHA1-Digest: cApvr6LEx7dtacGgySCu4FgLXDg=
+
+Name: org/eclipse/ui/statushandlers/StatusAdapter.java
+SHA1-Digest: 6y24KtdaNqUes31sntMhk0rzUcM=
+
+Name: org/eclipse/ui/internal/WorkbenchImages.java
+SHA1-Digest: SW5OUOQ65dk2U88vlXOcrME4TKI=
+
+Name: org/eclipse/ui/commands/ICommandManager.java
+SHA1-Digest: HOjDtIUoqdk3oOBcAafZ6f2uoyA=
+
+Name: org/eclipse/ui/internal/presentations/SystemMenuMinimize.java
+SHA1-Digest: z9OlMRd+jTE8W+YuDQ8We76auvs=
+
+Name: org/eclipse/ui/internal/commands/Parameter.java
+SHA1-Digest: 95H2T7ee+nO7DoQEzNk1qZkDtaY=
+
+Name: org/eclipse/ui/internal/commands/CommandStateProxy.java
+SHA1-Digest: VBXJnWrdx8z/+aS5IQgjbxT9vR4=
+
+Name: org/eclipse/ui/IPlaceholderFolderLayout.java
+SHA1-Digest: 6NBVUk0dccYD3PsElZSJmTo3bWU=
+
+Name: org/eclipse/ui/internal/presentations/util/TabbedStackPresentati
+ on.java
+SHA1-Digest: VK9zcKGSSjYmMvhlUEyldaJCXnc=
+
+Name: org/eclipse/ui/internal/layout/CellLayoutUtil.java
+SHA1-Digest: MJjABhXByrl+inuPPLtTxzoDRAU=
+
+Name: org/eclipse/ui/internal/dialogs/ViewComparator.java
+SHA1-Digest: 5DX5GWgYe0GTWFA/C0Kkwvq4bG8=
+
+Name: org/eclipse/ui/internal/util/PrefUtil.java
+SHA1-Digest: SrQy879N9ofZ4vkcOpo6buWOdZI=
+
+Name: org/eclipse/ui/internal/dialogs/FilteredPreferenceDialog.java
+SHA1-Digest: qdAfR0ldLbDxVOYg7qeDsoEob6o=
+
+Name: org/eclipse/ui/internal/quickaccess/EditorElement.java
+SHA1-Digest: j4AtdiqsXKPUQoFp6tB0OqwEdfc=
+
+Name: org/eclipse/ui/internal/presentations/util/StandardEditorSystemM
+ enu.java
+SHA1-Digest: XsCLHHpZUyyAFkkgNUXwwIkZy/4=
+
+Name: org/eclipse/ui/internal/WorkbenchColors.java
+SHA1-Digest: HwjTuONEIZ5PC3LRcLXEjxXeN4M=
+
+Name: org/eclipse/ui/internal/services/ExpressionAuthority.java
+SHA1-Digest: Ow/DRSSyR5lCRBmCvRkgCkUJYCE=
+
+Name: org/eclipse/ui/internal/handlers/HandlerActivation.java
+SHA1-Digest: 5D7nzuSHhBbRaFJEasNqCj+ngKk=
+
+Name: org/eclipse/ui/internal/handlers/ResetPerspectiveHandler.java
+SHA1-Digest: GwRqqTrInk3/whkioYVqApT64Oo=
+
+Name: org/eclipse/ui/internal/actions/SelectWorkingSetAction.java
+SHA1-Digest: kicVI88ytqL0EG8zrJzHe1OS/18=
+
+Name: org/eclipse/ui/internal/tweaklets/WorkbenchImplementation.java
+SHA1-Digest: 9VDiJCt3lyiHfYs5kKKpe/s0sX0=
+
+Name: org/eclipse/ui/actions/CommandNotMappedException.java
+SHA1-Digest: ys2OuBcdn/1dXeJ3I9L6jHlFu7U=
+
+Name: org/eclipse/ui/internal/dialogs/StartupPreferencePage.java
+SHA1-Digest: G+RXuKuPBH86nEzpSEc+8EMEvwA=
+
+Name: org/eclipse/ui/internal/themes/IThemeRegistry.java
+SHA1-Digest: gekA7rbRKYqyAvgcTDHyrvnqNQo=
+
+Name: org/eclipse/ui/internal/presentations/defaultpresentation/Native
+ TabFolder.java
+SHA1-Digest: T8fKFbQvwYd5GCyfYA86I27XgaI=
+
+Name: org/eclipse/ui/internal/ActivityPersistanceHelper.java
+SHA1-Digest: hz6LyW0VfGDl/Yycc9LL6B29SXg=
+
+Name: org/eclipse/ui/internal/keys/WorkbenchKeyboard.java
+SHA1-Digest: qlA0s5C5luKeK8JOLcKW4LrcCEY=
+
+Name: org/eclipse/ui/internal/menus/CommandMessages.java
+SHA1-Digest: 8BDvk1XAIWAYcUOmN8A2x+WvU88=
+
+Name: org/eclipse/ui/IElementFactory.java
+SHA1-Digest: EsBElObWZwwYp4F0S9CmhtID5+c=
+
+Name: org/eclipse/ui/progress/IJobRunnable.java
+SHA1-Digest: gUqFHxBJmWpHpNabW1U565m/bwI=
+
+Name: org/eclipse/ui/internal/WorkbenchPlugin.java
+SHA1-Digest: PPiXQE05T/gsVQw0Ccq+f8BeIBk=
+
+Name: org/eclipse/ui/IPartListener.java
+SHA1-Digest: fhRnkkbP36c5yzNxAJ8i073/sTg=
+
+Name: org/eclipse/ui/internal/quickaccess/EditorProvider.java
+SHA1-Digest: qWYsBDCouURmYUx48LR6pbVO80o=
+
+Name: org/eclipse/ui/internal/themes/CascadingMap.java
+SHA1-Digest: AgdHHn/vv+PPkjO5tsfLV9SY3rs=
+
+Name: org/eclipse/ui/preferences/WorkingCopyManager.java
+SHA1-Digest: G77GX6RkeDUyhO/CLSWg7gmOios=
+
+Name: org/eclipse/ui/internal/part/IWorkbenchScopeConstants.java
+SHA1-Digest: 6DG6mFr1WxNdkJnYNriSdCF8S00=
+
+Name: org/eclipse/ui/internal/testing/WorkbenchTestable.java
+SHA1-Digest: jJO44Vs/6gnfNirATmqpj8CldMo=
+
+Name: org/eclipse/ui/internal/expressions/LegacyActionExpressionWrappe
+ r.java
+SHA1-Digest: 08RAwjDtzonWeHJc9bgLhEBuvQU=
+
+Name: org/eclipse/ui/internal/registry/KeywordRegistry.java
+SHA1-Digest: dZlMH8+4fzfu/CXlC/TZdJ5eyc8=
+
+Name: org/eclipse/ui/internal/registry/ViewDescriptor.java
+SHA1-Digest: tJbZDSIMx/IZqG1gxnv+q5p/BEY=
+
+Name: org/eclipse/ui/internal/activities/ws/TriggerPointManager.java
+SHA1-Digest: 2gkIeknnib/WQ55Jl4FDceKBKX0=
+
+Name: org/eclipse/ui/internal/contexts/NestableContextService.java
+SHA1-Digest: ymhmcxAUxrWVXK4nV2Y3uyvnfs4=
+
+Name: org/eclipse/ui/contexts/IWorkbenchContextSupport.java
+SHA1-Digest: RMNExp6y/oX7NhM2PoqRUDrkqzw=
+
+Name: org/eclipse/ui/internal/ActionExpression.java
+SHA1-Digest: fGTTLPWp2cg1tHEKTL2naImRhIs=
+
+Name: org/eclipse/ui/internal/about/AboutAction.java
+SHA1-Digest: CcWoLlU8ExpTb0UrrPAQGfydzvQ=
+
+Name: org/eclipse/ui/internal/dnd/CompatibilityDragTarget.java
+SHA1-Digest: qJ76mnodAJlweUZ18m08ttxMa+4=
+
+Name: org/eclipse/ui/internal/WorkbenchIntroManager.java
+SHA1-Digest: GGbtyaY3kJycTjrDwmjJlF4yLHI=
+
+Name: org/eclipse/ui/internal/ObjectPluginAction.java
+SHA1-Digest: jIpOWdW4YvcF+rAqV/6hzIUvSRU=
+
+Name: org/eclipse/ui/SubActionBars.java
+SHA1-Digest: 2N7TWRx6qbhAP3lXNAc4ltnVbG0=
+
+Name: org/eclipse/ui/actions/BaseSelectionListenerAction.java
+SHA1-Digest: uCBJUoB9wFwc19N7UCgWqUvLLLQ=
+
+Name: org/eclipse/ui/internal/CyclePerspectiveHandler.java
+SHA1-Digest: YzMj/1+gBk8SajFMIwDOWiex9P0=
+
+Name: org/eclipse/ui/internal/keys/model/ModelElement.java
+SHA1-Digest: Yryy5Eiucz94l0hUdeoTMTFsyXQ=
+
+Name: org/eclipse/ui/internal/dialogs/WorkingSetTypePage.java
+SHA1-Digest: 3QE0/r7uRGL13XU8c5dAjO6jJ70=
+
+Name: org/eclipse/ui/internal/registry/RegistryReader.java
+SHA1-Digest: ltYhnxSPBIMRw9ncjKNJOIL+5SA=
+
+Name: org/eclipse/ui/internal/keys/KdeKeyFormatter.java
+SHA1-Digest: OoKHIaitCPHgIDsE/bQv9vY5fL4=
+
+Name: org/eclipse/ui/internal/progress/ProgressContentProvider.java
+SHA1-Digest: R1E9lmNGMFulQK+RxqSPwWovYCk=
+
+Name: org/eclipse/ui/dialogs/ISelectionValidator.java
+SHA1-Digest: 31BfhaAvm5vJtLibP6FW02+BtbY=
+
+Name: org/eclipse/ui/dialogs/IWorkingSetEditWizard.java
+SHA1-Digest: 7d4TgFGn7unbur8HIvf0ItorjVs=
+
+Name: org/eclipse/ui/internal/expressions/CompositeExpression.java
+SHA1-Digest: 3n9PQCq9a8T1fqd+V3KNYiQYxpA=
+
+Name: org/eclipse/ui/dialogs/FilteredTree.java
+SHA1-Digest: hOzYYBGNLxKzxTtM4sd8YSm7WCg=
+
+Name: org/eclipse/ui/internal/keys/model/SchemeElement.java
+SHA1-Digest: ars8Wcq6mjemFMneYEQ2z3H3qSU=
+
+Name: org/eclipse/ui/help/ViewContextComputer.java
+SHA1-Digest: 67AScWy67xcFsKZATEKr8nhhrUw=
+
+Name: org/eclipse/ui/internal/keys/KeyAssistDialog.java
+SHA1-Digest: 5Gt3rk3ytdhnyZtqPplZ05OSmO8=
+
+Name: org/eclipse/ui/internal/presentations/UpdatingActionContribution
+ Item.java
+SHA1-Digest: 6MVRA/4LiKmzB7PASfFI6+RkmjU=
+
+Name: org/eclipse/ui/internal/IBackgroundSaveListener.java
+SHA1-Digest: AlfpdFWg6c5m+8zEzSx8qD2YAS8=
+
+Name: org/eclipse/ui/internal/registry/FileEditorMapping.java
+SHA1-Digest: hWHFE/a8tvEIm8pRKX+sGLhaJtY=
+
+Name: org/eclipse/ui/presentations/IPresentablePart.java
+SHA1-Digest: c4yeTz2P30qk5bdJivuGRCkMiAQ=
+
+Name: org/eclipse/ui/internal/statushandlers/SupportTray.java
+SHA1-Digest: kPPt21NgWLap58J5ZioqWvbIaag=
+
+Name: org/eclipse/ui/internal/activities/ActivityDefinition.java
+SHA1-Digest: EVXeOwqKs24ItjOEkfhGHycf3CU=
+
+Name: org/eclipse/ui/internal/NavigationHistory.java
+SHA1-Digest: i6t8OfK1L4GGICRU1VkkH/PbeZI=
+
+Name: org/eclipse/ui/internal/WorkbenchPagePartList.java
+SHA1-Digest: JP/DHtJfNKIdRkWwXHSScedx7Jg=
+
+Name: org/eclipse/ui/internal/dialogs/WorkingSetEditWizard.java
+SHA1-Digest: ya9Ev48N5O8NHag+14OUtKpzywk=
+
+Name: org/eclipse/ui/dialogs/TwoPaneElementSelector.java
+SHA1-Digest: 98Lg7VBHCAvsrASAsWSwn6W/Sw4=
+
+Name: org/eclipse/ui/internal/themes/ThemeRegistryReader.java
+SHA1-Digest: qoyPMVS79OWqoudAQH86A6fcr5o=
+
+Name: org/eclipse/ui/help/IWorkbenchHelpSystem.java
+SHA1-Digest: hx2PMpBOJDmpPGB/4ji5qG3sWzU=
+
+Name: org/eclipse/ui/part/ViewPart.java
+SHA1-Digest: ZBii6oPye/8/vLP00gXyudSocWM=
+
+Name: org/eclipse/ui/internal/progress/ProgressView.java
+SHA1-Digest: d72RnAQD4jKYvW+eqYF6jF3mPkA=
+
+Name: org/eclipse/ui/internal/IObjectActionContributor.java
+SHA1-Digest: I3GBgasyOq+nly18fM7Cm/DwDEU=
+
+Name: org/eclipse/ui/Saveable.java
+SHA1-Digest: IY7NA7Ndv3roHTRiNSz1FCvuajc=
+
+Name: org/eclipse/ui/ISharedImages.java
+SHA1-Digest: fS32PKSISnajjaN1aCp7+UECyZs=
+
+Name: org/eclipse/ui/internal/layout/LayoutCache.java
+SHA1-Digest: yxnfn4tV9xI78CTzgKt+qNxk/0Q=
+
+Name: org/eclipse/ui/commands/ExecutionException.java
+SHA1-Digest: VkPnAYmRWP92ERnc04uab40H8og=
+
+Name: org/eclipse/ui/internal/browser/DefaultWorkbenchBrowserSupport.j
+ ava
+SHA1-Digest: bwuZFxnGB3wOkMdmD1HhVNug1H0=
+
+Name: org/eclipse/ui/operations/UndoActionHandler.java
+SHA1-Digest: /FlnbmTTAwrjLDteqgzkmi8kkqk=
+
+Name: org/eclipse/ui/internal/registry/PerspectiveRegistryReader.java
+SHA1-Digest: im3Q/z0w11j6EW5EfQhmdOv9mLg=
+
+Name: org/eclipse/ui/IWorkbenchListener.java
+SHA1-Digest: FiahEqFIC4FrzK3f8uO/t1yHrms=
+
+Name: org/eclipse/ui/IWorkingSet.java
+SHA1-Digest: XP0QP/lVS7HToqjO20wVbcxPP/8=
+
+Name: org/eclipse/ui/internal/LayoutTree.java
+SHA1-Digest: 1wjRiDUlVA0i/tevtpx1kk+D/rU=
+
+Name: org/eclipse/ui/themes/IThemeManager.java
+SHA1-Digest: GKedyRE0hIIkwA+NAuTy5dl5XMw=
+
+Name: org/eclipse/ui/IPersistable.java
+SHA1-Digest: hodGZE9QIDOP1fMy8mL2zgX2wE0=
+
+Name: org/eclipse/ui/internal/about/AboutFeaturesPage.java
+SHA1-Digest: LCgPwCaj/qm8UeoJuYE2ymIK4Uo=
+
+Name: org/eclipse/ui/internal/about/AboutHandler.java
+SHA1-Digest: EKOY6c9XJoKopDGNf4qdPeNl93w=
+
+Name: org/eclipse/ui/internal/handlers/SlaveHandlerService.java
+SHA1-Digest: JipJDbJu2FehYNsZ1F4oP7GY8qc=
+
+Name: org/eclipse/ui/internal/handlers/CommandLegacyActionWrapper.java
+SHA1-Digest: f0FsXa6gl0AuKkgtgJYFkErIEu0=
+
+Name: org/eclipse/ui/internal/keys/KeyAssistMessages.java
+SHA1-Digest: kNd4wt0mIdQTBhMGWNLJu98T87c=
+
+Name: org/eclipse/ui/internal/dialogs/WorkbenchWizardListSelectionPage
+ .java
+SHA1-Digest: V8jmAEbYeSEcc/glJmRCcA9MmhM=
+
+Name: org/eclipse/ui/internal/decorators/DecoratorManager.java
+SHA1-Digest: WO+ckq53mCGFw8llWGR+fl44CJ0=
+
+Name: org/eclipse/ui/internal/misc/UIListenerLogging.java
+SHA1-Digest: FF8FvzYXenhtOtL072+l9604U0U=
+
+Name: org/eclipse/ui/services/IServiceWithSources.java
+SHA1-Digest: aO1ofvlkogqbFl7ykL9UOlNGUEE=
+
+Name: org/eclipse/ui/internal/IObjectContributor.java
+SHA1-Digest: Sez3UuJAeqtohW3KC7+36V0EFMg=
+
+Name: org/eclipse/ui/dialogs/IWorkingSetNewWizard.java
+SHA1-Digest: AyylAFq+evLJx/Uepi+bw+bgrqw=
+
+Name: org/eclipse/ui/internal/commands/CommandLegacyWrapper.java
+SHA1-Digest: ZFRAzRl0aR8dp2CMVkRH/+KZEKY=
+
+Name: org/eclipse/ui/dialogs/CheckedTreeSelectionDialog.java
+SHA1-Digest: jifwM5MAcQLCkqqpAxuy5/1kS5c=
+
+Name: org/eclipse/ui/MultiPartInitException.java
+SHA1-Digest: Dvx4GXFTuoaWZWo7R5oS3HEbSt8=
+
+Name: org/eclipse/ui/internal/presentations/SystemMenuMaximize.java
+SHA1-Digest: laQNiNQd3XvjTaTrljmWGoEvuic=
+
+Name: org/eclipse/ui/model/WorkbenchViewerComparator.java
+SHA1-Digest: b+fqecu9lS9bRbiqzDvn6FLsz54=
+
+Name: org/eclipse/ui/internal/ViewLayout.java
+SHA1-Digest: 7Rl5JffOkT/b9KXjQCOGlDLcYpE=
+
+Name: org/eclipse/ui/ISaveablesSource.java
+SHA1-Digest: 2i8pQFDGM2rZIzhETxB16Uh60Vo=
+
+Name: org/eclipse/ui/internal/activities/Category.java
+SHA1-Digest: TETqyWLcjr+eH/RDcO0jlGF312I=
+
+Name: org/eclipse/ui/internal/quickaccess/CommandProvider.java
+SHA1-Digest: wNLQXsxT46wG3tpq5ddS2XAhMQM=
+
+Name: org/eclipse/ui/internal/activities/ExtensionActivityRegistry.jav
+ a
+SHA1-Digest: 1LdIc7yZ44C+MhrAF0lICMfIOsU=
+
+Name: org/eclipse/ui/preferences/WizardPropertyPage.java
+SHA1-Digest: DMLxqrdFjzhAv0+vDJdpbBassn4=
+
+Name: org/eclipse/ui/dialogs/TypeFilteringDialog.java
+SHA1-Digest: Yfoou72zUNE0RAVDPKpEF+02/UQ=
+
+Name: org/eclipse/ui/internal/PluginActionSetBuilder.java
+SHA1-Digest: e/a05UzcGgJ7syWekRAhcdxOHYc=
+
+Name: org/eclipse/ui/themes/ColorUtil.java
+SHA1-Digest: VkJkZUpkLYkrC/Gp6VW0KUAorPs=
+
+Name: org/eclipse/ui/internal/services/IEvaluationResultCache.java
+SHA1-Digest: obCpQbPsqW4oom9Vhu71adHAXQk=
+
+Name: org/eclipse/ui/internal/presentations/SystemMenuMovePane.java
+SHA1-Digest: kikNMayX1GXIyrXwp+g1VE5Bflo=
+
+Name: org/eclipse/ui/internal/layout/TrimLayout.java
+SHA1-Digest: RkkZuvJGKsgXQevZYKLwcRb5uG0=
+
+Name: org/eclipse/ui/internal/ViewActionBars.java
+SHA1-Digest: +I5E/ZdKHgSMFuy93Vjy2cRmCWE=
+
+Name: org/eclipse/ui/IPerspectiveListener2.java
+SHA1-Digest: /NTX7s7MQGrSDgo1Cxj7ecMEejI=
+
+Name: org/eclipse/ui/commands/IKeyConfiguration.java
+SHA1-Digest: nYm/0I4fUg8BbCn7GtHmeCQNFfo=
+
+Name: org/eclipse/ui/views/IStickyViewDescriptor.java
+SHA1-Digest: SMKT5Zg7vriNGorVndrQA9D9AjA=
+
+Name: org/eclipse/ui/internal/SelectionConversionService.java
+SHA1-Digest: 1aUjOekNhuWVHdlRfUckpOUFZMc=
+
+Name: org/eclipse/ui/IEditorInput.java
+SHA1-Digest: q+ICuH6znqyiLiOdXa6ffzgkE68=
+
+Name: org/eclipse/ui/internal/dialogs/PreferencePageHistory.java
+SHA1-Digest: W0CRZiLnkSHkd69pshd034ZF8OU=
+
+Name: org/eclipse/ui/internal/progress/JobTreeElement.java
+SHA1-Digest: pXo3chFWxZcsvgjGVy0cjUGdRc0=
+
+Name: org/eclipse/ui/part/MultiEditorInput.java
+SHA1-Digest: Cc70F5/ei8u/UO3P6Ca+F6/tKiI=
+
+Name: org/eclipse/ui/ISources.java
+SHA1-Digest: fP7a/BH4Yi8m9Vw5hJJISE5QYBo=
+
+Name: org/eclipse/ui/internal/misc/UIStats.java
+SHA1-Digest: poumQeoTnJyeTnnmizpioRmPRs4=
+
+Name: org/eclipse/ui/internal/quickaccess/QuickAccessDialog.java
+SHA1-Digest: 98OjXDO4aOsBe3VBgH+P4+w1og0=
+
+Name: org/eclipse/ui/internal/operations/WorkbenchOperationSupport.jav
+ a
+SHA1-Digest: QuS48PDN9cR92gkOMBGcKnHzN1I=
+
+Name: org/eclipse/ui/internal/misc/StatusUtil.java
+SHA1-Digest: jNEr9frdi3rJ7ieR3ic0H2VLMrk=
+
+Name: org/eclipse/ui/internal/expressions/WorkbenchWindowExpression.ja
+ va
+SHA1-Digest: OQAQs+tZYcuAweHKdl8BUXIBgg4=
+
+Name: org/eclipse/ui/internal/IWorkbenchGraphicConstants.java
+SHA1-Digest: KEmXitYiCV7QzVLhLLqvbHpRh2U=
+
+Name: org/eclipse/ui/internal/actions/CommandAction.java
+SHA1-Digest: kFmDU0IwqhWWFYZI+8ssFdusdio=
+
+Name: org/eclipse/ui/IFileEditorMapping.java
+SHA1-Digest: 2T/i8ye1k+GkDL/9Co+Mgh0vmyg=
+
+Name: org/eclipse/ui/internal/about/InstallationHandler.java
+SHA1-Digest: 99xohUDTylTNIDpVQM3KC1OG/Fk=
+
+Name: org/eclipse/ui/internal/dialogs/PreferenceNodeFilter.java
+SHA1-Digest: ExTC8+4tRYlLnMuwokVHp3FaYEY=
+
+Name: org/eclipse/ui/progress/IProgressConstants2.java
+SHA1-Digest: IsDYSyS33nSv1JK6piqULIPe6Y4=
+
+Name: org/eclipse/ui/menus/ExtensionContributionFactory.java
+SHA1-Digest: 4/C8rU+FR5CQT1M5PqTc6cR9mSk=
+
+Name: org/eclipse/ui/commands/CategoryEvent.java
+SHA1-Digest: LVuqVcTNIIBZkV0bS/GH/uDz9+s=
+
+Name: org/eclipse/ui/IActionDelegate.java
+SHA1-Digest: mGUKZraYCXeu7o49JsrriX1Nbpw=
+
+Name: org/eclipse/ui/IPersistableEditor.java
+SHA1-Digest: Q9vnd94qQhSMNPdQZckduoCivX8=
+
+Name: org/eclipse/ui/internal/CloseAllHandler.java
+SHA1-Digest: H72/zMoTxvvrz9zrPf7eKkcBNow=
+
+Name: org/eclipse/ui/internal/browser/WorkbenchBrowserSupport.java
+SHA1-Digest: YqxH0mrHGfHU3UPYVAmVHjx5y0g=
+
+Name: org/eclipse/ui/internal/commands/ParameterValueConverterProxy.ja
+ va
+SHA1-Digest: X+PiUVYABpMrKiJk7E5drQeOTro=
+
+Name: org/eclipse/ui/internal/WorkbenchPreferenceInitializer.java
+SHA1-Digest: 9shxyLJ/zKDecIgSB7aPvMc1+eE=
+
+Name: org/eclipse/ui/internal/WorkbenchWindowConfigurer.java
+SHA1-Digest: s8M8qUd3nDu8Htz1D2izbov98e0=
+
+Name: org/eclipse/ui/internal/presentations/defaultpresentation/Defaul
+ tThemeListener.java
+SHA1-Digest: F2eKU17FBmZ5z993Xhac5LLkXvk=
+
+Name: org/eclipse/ui/internal/progress/ProgressViewerLabelProvider.jav
+ a
+SHA1-Digest: pLVn7DwBXf75cFgrB4ISrST2FFI=
+
+Name: org/eclipse/ui/internal/intro/IntroDescriptor.java
+SHA1-Digest: vmoXpdzGSQ4DGQR4gIMr42DG414=
+
+Name: org/eclipse/ui/IKeyBindingService.java
+SHA1-Digest: U7dp7u7PCGo2q9ox26s7+O4PNm0=
+
+Name: org/eclipse/ui/internal/intro/IIntroRegistry.java
+SHA1-Digest: P1UyPpIuFgXvPTSh9Wx1oPsRANI=
+
+Name: org/eclipse/ui/part/PageSite.java
+SHA1-Digest: +agLIaHU+oqk/yX8Zhz8wz24sck=
+
+Name: org/eclipse/ui/internal/keys/NewKeysPreferenceMessages.java
+SHA1-Digest: esyeKdhi7ayO9hxunl7J0rrckEk=
+
+Name: org/eclipse/ui/internal/handlers/WidgetMethodHandler.java
+SHA1-Digest: ewj02TMPHYYDXtBQ4UTABSR/P1E=
+
+Name: org/eclipse/ui/internal/PopupMenuExtender.java
+SHA1-Digest: ACZBbhEInMeEmbUgDhBdrWSq0Sw=
+
+Name: org/eclipse/ui/model/IWorkbenchAdapter2.java
+SHA1-Digest: qdTSTl6/9oerMUDmmlKvHeGty2Y=
+
+Name: org/eclipse/ui/dialogs/ElementTreeSelectionDialog.java
+SHA1-Digest: wMsTWSzwOQ+w2DEbmc6FPHgph/Y=
+
+Name: org/eclipse/ui/internal/quickaccess/WizardProvider.java
+SHA1-Digest: krc8CD6kQgY0eUNpimhpKy8Ilng=
+
+Name: org/eclipse/ui/internal/handlers/ActionCommandMappingService.jav
+ a
+SHA1-Digest: NmHkluk6tx8cJtB2jiXeEP8R2Rw=
+
+Name: org/eclipse/ui/internal/intro/IIntroDescriptor.java
+SHA1-Digest: JuYgGddYOzzjCH5tCGs7Vz+9EiQ=
+
+Name: org/eclipse/ui/internal/dnd/DragBorder.java
+SHA1-Digest: bYwVKNnMYCafZrvimk3Z3rQ7FCc=
+
+Name: org/eclipse/ui/internal/handlers/EditActionSetsHandler.java
+SHA1-Digest: xZWRg0Ilz8gxWpPkZXyHZihTtao=
+
+Name: org/eclipse/ui/internal/activities/ws/WorkbenchActivitySupport.j
+ ava
+SHA1-Digest: qDgaRBFshee9OrEsbQBxBt6BdeQ=
+
+Name: org/eclipse/ui/contexts/ContextManagerEvent.java
+SHA1-Digest: 67kkRKHpXwSFu2u72q23boJzR9U=
+
+Name: org/eclipse/ui/internal/presentations/SystemMenuCloseAll.java
+SHA1-Digest: Jm6DbPe/Jy2nNuzBrjYWcR3OkEY=
+
+Name: org/eclipse/ui/IActionBars.java
+SHA1-Digest: 0/QQ1c7DZLn9gCgP8eTUxNpZGow=
+
+Name: org/eclipse/ui/internal/model/ContributionService.java
+SHA1-Digest: s494rCd74kVk94WLwaheyG7Mp0M=
+
+Name: org/eclipse/ui/internal/contexts/ContextAuthority.java
+SHA1-Digest: jq8jJGdEtDq6cnw/pBQlK25wgHQ=
+
+Name: org/eclipse/ui/part/MultiEditor.java
+SHA1-Digest: S40xeCJrME2WXqsSV0LWjCzhT/Q=
+
+Name: org/eclipse/ui/internal/commands/CommandImagePersistence.java
+SHA1-Digest: N+ItKTgOsmStn0gb/IGhy07j0D0=
+
+Name: org/eclipse/ui/IActionFilter.java
+SHA1-Digest: iRdMZvprKrGguS67iVP6ErwzMuc=
+
+Name: org/eclipse/ui/IViewSite.java
+SHA1-Digest: HzH2rejzYy5Jur2El1jxnZFvbYI=
+
+Name: org/eclipse/ui/internal/PartStack.java
+SHA1-Digest: I3+GQuvxkJiC5KjYKU1CB+Hoyds=
+
+Name: org/eclipse/ui/commands/ExtensionParameterValues.java
+SHA1-Digest: Agsx/2kmIG8defNZhLMyAkBM454=
+
+Name: org/eclipse/ui/internal/presentations/util/ISystemMenu.java
+SHA1-Digest: 3/quiQIz2HnjRUGJhTdDL0/ccDY=
+
+Name: org/eclipse/ui/internal/progress/ProgressManager.java
+SHA1-Digest: ZEV0CEge7dK1lbt3PLeE9aDh3YE=
+
+Name: org/eclipse/ui/internal/dialogs/AboutDialog.java
+SHA1-Digest: yry60wvjjvjMOmW9QKS3aQAbyZI=
+
+Name: org/eclipse/ui/internal/handlers/DynamicHelpHandler.java
+SHA1-Digest: w7RbEzPXdQaQg7vLyIVnOIpY/bc=
+
+Name: org/eclipse/ui/internal/BundleGroupProperties.java
+SHA1-Digest: +SlUCFMGPf2rxbq+lcJkoCF3Elw=
+
+Name: org/eclipse/ui/internal/services/ServiceLocatorCreator.java
+SHA1-Digest: 08lV8MMYuxxNK6ZBYqtzhVPVwTc=
+
+Name: org/eclipse/ui/services/IServiceLocator.java
+SHA1-Digest: f8w8Bflm3NfJWcnhc7A17g4lKfo=
+
+Name: org/eclipse/ui/internal/registry/ShowViewHandler.java
+SHA1-Digest: nPELdNZVXUeZcM5WfbjB6z2FceA=
+
+Name: org/eclipse/ui/application/DisplayAccess.java
+SHA1-Digest: drmfZCT0OI1TdBehZi4OcB8hO8I=
+
+Name: org/eclipse/ui/intro/IIntroManager.java
+SHA1-Digest: W7yDqSF0v5tTiBwT9yKKreHWB8s=
+
+Name: org/eclipse/ui/internal/tweaklets/TabBehaviour.java
+SHA1-Digest: A8LFjP6kUe8xcpQ0VHv8ohuH0AM=
+
+Name: org/eclipse/ui/themes/ITheme.java
+SHA1-Digest: MEM/GMCvkN6BQn3O6ViCiTHk54M=
+
+Name: org/eclipse/ui/internal/contexts/ContextLegacyWrapper.java
+SHA1-Digest: k6jzGf2AOkr5z3VMM2XTceFjE0o=
+
+Name: org/eclipse/ui/internal/intro/IntroRegistry.java
+SHA1-Digest: 3f52/l/p7RLd4gJ09tIeN7O9y8E=
+
+Name: org/eclipse/ui/internal/FastViewDnDHandler.java
+SHA1-Digest: ru3KaZ2YvfLRztvYgnfUzRa8Gaw=
+
+Name: org/eclipse/ui/application/IWorkbenchWindowConfigurer.java
+SHA1-Digest: e4aJh4dXV+xB48qjbaEezV/Oi1I=
+
+Name: org/eclipse/ui/internal/part/IPageSiteHolder.java
+SHA1-Digest: Qol1GgPj4P2awSUzfDQ4H53383Y=
+
+Name: org/eclipse/ui/IActionDelegate2.java
+SHA1-Digest: anNrxrUYpassKFEC3P4FLWS099g=
+
+Name: org/eclipse/ui/commands/IHandlerListener.java
+SHA1-Digest: H7hxZpCku9vv98VdKcqcDBo+2/A=
+
+Name: org/eclipse/ui/about/InstallationPage.java
+SHA1-Digest: FuOfHOg0D90EvUudqAdv6nyyAtc=
+
+Name: org/eclipse/ui/internal/handlers/HelpContentsHandler.java
+SHA1-Digest: 4IcPq/sePQtlbVgqkGxTG6rIaq4=
+
+Name: org/eclipse/ui/activities/ActivitiesPreferencePage.java
+SHA1-Digest: Nfhjrwf5i8xnimVTh9VD42ysu8M=
+
+Name: org/eclipse/ui/internal/ImageCycleFeedbackBase.java
+SHA1-Digest: oe45oJT/ZVNegv67LUHFSusMjLk=
+
+Name: org/eclipse/ui/contexts/EnabledSubmission.java
+SHA1-Digest: b9y/yYjd7Aq03wvj6R2+ZGvujTc=
+
+Name: org/eclipse/ui/internal/commands/CommandImageService.java
+SHA1-Digest: OFGKco9rSeh5xA4beRWYvx93foc=
+
+Name: org/eclipse/ui/ISaveablePart2.java
+SHA1-Digest: xVM8yCUfb67m161VVcJ3novr1jQ=
+
+Name: org/eclipse/ui/internal/AggregateWorkingSet.java
+SHA1-Digest: p4jSx1qvw0FXRKjV3UJZPGRcl7M=
+
+Name: org/eclipse/ui/internal/handlers/SaveAsHandler.java
+SHA1-Digest: dU1PiOrW5BjRkHRLTDWWJr9vXDM=
+
+Name: org/eclipse/ui/part/WorkbenchPart.java
+SHA1-Digest: uru6nQ6leH4y75UK9+kYPSvzPKc=
+
+Name: org/eclipse/ui/internal/dialogs/EventLoopProgressMonitor.java
+SHA1-Digest: RWFuKO4aSsU5Iyjy2Dqv69GK3Fo=
+
+Name: org/eclipse/ui/dialogs/PatternFilter.java
+SHA1-Digest: vTKvPySL0tWTKLXXLWZtHx6qIsM=
+
+Name: org/eclipse/ui/internal/contexts/LegacyContextListenerWrapper.ja
+ va
+SHA1-Digest: v2ZHOKLeohL150Xwkd1tjNjQXWc=
+
+Name: org/eclipse/ui/actions/QuickMenuCreator.java
+SHA1-Digest: 2z9kcveqas5d0PlngQOPSY7lHsc=
+
+Name: org/eclipse/ui/internal/ViewStack.java
+SHA1-Digest: E8R2v/FDhPnzwe/wy1JmZxZ5QN8=
+
+Name: org/eclipse/ui/internal/preferences/AbstractBooleanListener.java
+SHA1-Digest: 9FoLEiCZ2MfccdXGJZmbe8zWL8o=
+
+Name: org/eclipse/ui/internal/presentations/PaneFolder.java
+SHA1-Digest: fi1uurIy/NgXBUln5GyNNioe+Zw=
+
+Name: org/eclipse/ui/internal/IPreferenceConstants.java
+SHA1-Digest: 8gj/y3e3A5PIaRrkdJeA805++tI=
+
+Name: org/eclipse/ui/internal/about/AboutItem.java
+SHA1-Digest: gTlQCk7MpzCytJxJE4vw2dGjiQ4=
+
+Name: org/eclipse/ui/internal/util/ConfigurationElementMemento.java
+SHA1-Digest: HK72+EE1Ba7EDunNUjVhgWmSQ7I=
+
+Name: org/eclipse/ui/internal/handlers/IActionCommandMappingService.ja
+ va
+SHA1-Digest: ZifmuKACHabDbS7d3ZVUpv0z7M0=
+
+Name: org/eclipse/ui/internal/handlers/ClosePerspectiveHandler.java
+SHA1-Digest: SHxqTNlmwnA/AEVxgabUFPh0+J4=
+
+Name: org/eclipse/ui/internal/activities/ActivityRequirementBinding.ja
+ va
+SHA1-Digest: GT9+7z6d5TG4aWi9sLaoMi4ucjE=
+
+Name: org/eclipse/ui/internal/preferences/PropertyMapUnion.java
+SHA1-Digest: tHES7IyUCMPl0jA1dFPn+FpUuw0=
+
+Name: org/eclipse/ui/browser/AbstractWebBrowser.java
+SHA1-Digest: eVLFJQ9cAqVBmYovO1pjqS7QIfk=
+
+Name: org/eclipse/ui/internal/quickaccess/PerspectiveProvider.java
+SHA1-Digest: M8nv1w/qrWzFOvh/WiNLkgq3qks=
+
+Name: org/eclipse/ui/IPerspectiveListener3.java
+SHA1-Digest: T9hEadyImddT/QBwp1Nnn2mdv0E=
+
+Name: org/eclipse/ui/internal/PlaceholderFolderLayout.java
+SHA1-Digest: Rgj6BLx5L5/VwKTaTNhFboM4PeA=
+
+Name: org/eclipse/ui/internal/JFaceUtil.java
+SHA1-Digest: mP+sMFg4cuznPOExWf8N6yyT4sA=
+
+Name: org/eclipse/ui/internal/presentations/defaultpresentation/Defaul
+ tPartList.java
+SHA1-Digest: f56doOMmYQY/6ow8UNNA7wP4JfU=
+
+Name: org/eclipse/ui/internal/activities/ws/ActivityCategoryLabelProvi
+ der.java
+SHA1-Digest: tUPrOk+MRmkxyklXJOrhpQj3Jm8=
+
+Name: org/eclipse/ui/internal/quickaccess/CommandElement.java
+SHA1-Digest: dIhY45cATAeXQ+Nt5wAgRfrxLnk=
+
+Name: org/eclipse/ui/internal/menus/TrimContributionManager.java
+SHA1-Digest: 7eyTRV9yP3ILilGTb1NhHJ7z8TE=
+
+Name: org/eclipse/ui/internal/FastViewPane.java
+SHA1-Digest: MyBpHpcBfNHr07cdHJGNpdAzZ9Y=
+
+Name: org/eclipse/ui/internal/activities/InternalActivityHelper.java
+SHA1-Digest: eax+XYM20fflkZ18So4TpO0qmcU=
+
+Name: org/eclipse/ui/presentations/AbstractPresentationFactory.java
+SHA1-Digest: jCUo7rPc00HOWnXlYBs47dxudNk=
+
+Name: org/eclipse/ui/internal/layout/TrimToolBarBase.java
+SHA1-Digest: CNambI2nJN7RIHGpRvZ1IfCr9pk=
+
+Name: org/eclipse/ui/internal/LegacyResourceSupport.java
+SHA1-Digest: PuXhlphRs+c2MJXxKzwdT3V8y6A=
+
+Name: org/eclipse/ui/internal/about/AboutBundleData.java
+SHA1-Digest: 94Y15HckgyUM4r/plt+fShSA2Ew=
+
+Name: org/eclipse/ui/keys/Key.java
+SHA1-Digest: 28Fr4Rjh/faqK0DM0ODC4D5Hvt0=
+
+Name: org/eclipse/ui/internal/intro/IntroMessages.java
+SHA1-Digest: +u48F2u+SrZIOdxUW2UfBEwy4mk=
+
+Name: org/eclipse/ui/internal/presentations/NativeStackPresentation.ja
+ va
+SHA1-Digest: kCXhvzuG/90+YTLk6MF8gR5dljw=
+
+Name: org/eclipse/ui/BasicWorkingSetElementAdapter.java
+SHA1-Digest: n8h+5hmggBw0jmaGuSKP+AFyF1E=
+
+Name: org/eclipse/ui/internal/presentations/defaultpresentation/EmptyT
+ abFolder.java
+SHA1-Digest: DTeVurQtNK+xi4+xKIwvA+9ikzE=
+
+Name: org/eclipse/ui/application/IWorkbenchConfigurer.java
+SHA1-Digest: SOSv9wvRErCuJqKpM74jhyxn7rA=
+
+Name: org/eclipse/ui/internal/preferences/WorkbenchPreferenceExtension
+ Node.java
+SHA1-Digest: JjpIrA5kV689J5t5cG3M26jNnQE=
+
+Name: org/eclipse/ui/internal/dialogs/PreferenceHistoryEntry.java
+SHA1-Digest: D88EKJDfQ8o5224rtyUAPKBgauQ=
+
+Name: org/eclipse/ui/application/IActionBarConfigurer.java
+SHA1-Digest: HqMZeUfndVYCOFfPvKK4l1u3yy8=
+
+Name: org/eclipse/ui/internal/util/Util.java
+SHA1-Digest: wPZv6ZTo65gLcnLkcjvX0gRlfYY=
+
+Name: org/eclipse/ui/internal/themes/ColorsAndFontsPreferencePage.java
+SHA1-Digest: pS7GU7XR/t9J7hEKMVI7pazsRbA=
+
+Name: org/eclipse/ui/internal/handlers/SelectAllHandler.java
+SHA1-Digest: ZuUk2/ou+Mph/eWho+XNR/P8dig=
+
+Name: org/eclipse/ui/part/MultiPageEditor.java
+SHA1-Digest: eqKYlES84DrPvYq2q4RzLJzUe3o=
+
+Name: org/eclipse/ui/internal/progress/AnimationItem.java
+SHA1-Digest: IJLTWCz3EdENyS66gH4Ql9p3GG4=
+
+Name: org/eclipse/ui/activities/IActivity.java
+SHA1-Digest: BIt6hWFR5/UyZLcdk6rx+I1zEu4=
+
+Name: org/eclipse/ui/part/DrillDownComposite.java
+SHA1-Digest: EfCXENAz6kPt7rTTi0Yv8NHBUBc=
+
+Name: org/eclipse/ui/internal/decorators/DecorationImageBuilder.java
+SHA1-Digest: 0m4zk+wkRfv/n2/dZrOGLIYz/U8=
+
+Name: org/eclipse/ui/commands/CommandManagerEvent.java
+SHA1-Digest: myrd3Hi4d9xHgvF4PkEEeAqwIWw=
+
+Name: org/eclipse/ui/internal/application/CompatibilityWorkbenchWindow
+ Advisor.java
+SHA1-Digest: BEHyu66p8WIwsT8KuxDg1Ro5IPo=
+
+Name: org/eclipse/ui/internal/ActionSetActionBars.java
+SHA1-Digest: 5hf2tkBdHeOZUwNCx7r2Q4YLXuM=
+
+Name: org/eclipse/ui/handlers/RadioState.java
+SHA1-Digest: 1xz5npqPhHIBmpfStbCOqNIIdwc=
+
+Name: org/eclipse/ui/ExtensionFactory.java
+SHA1-Digest: srspALy9mhEBWnoh71NMYTGv5pE=
+
+Name: org/eclipse/ui/internal/keys/model/ContextModel.java
+SHA1-Digest: Qhbj5Cbn8+xtYdSz1mGArut6gqs=
+
+Name: org/eclipse/ui/internal/dialogs/CustomizePerspectiveDialog.java
+SHA1-Digest: d5kvbqp3CVo3xPV05KaW7B02V2E=
+
+Name: org/eclipse/ui/keys/SWTKeySupport.java
+SHA1-Digest: bmz6ejSWTxc9JuV5Wif+L0Jzv8Q=
+
+Name: org/eclipse/ui/internal/PerspectiveBarManager.java
+SHA1-Digest: L2Tp6rO/vSq10lgkS/veP4QERoA=
+
+Name: org/eclipse/ui/services/ISourceProviderService.java
+SHA1-Digest: vBVYj4vmM3qxyepT0ArxUd2jtyU=
+
+Name: org/eclipse/ui/model/IWorkbenchAdapter3.java
+SHA1-Digest: h2JkgeAP3nrfY1Ul3C998ZD5bvQ=
+
+Name: org/eclipse/ui/internal/dialogs/WorkingSetLabelProvider.java
+SHA1-Digest: jiTH7sAmEKJ+rrL9jfBPBuAeEik=
+
+Name: org/eclipse/ui/internal/WorkbenchWindow.java
+SHA1-Digest: 4TYrhAhNzafESrywLK0rARDFo3M=
+
+Name: org/eclipse/ui/internal/registry/StickyViewDescriptor.java
+SHA1-Digest: QaNdSFPgKcp1zBQ8CZGZIQTkgMw=
+
+Name: org/eclipse/ui/internal/splash/SplashHandlerFactory.java
+SHA1-Digest: IhwlCbnTX/esHus71IMoYvT9wH0=
+
+Name: org/eclipse/ui/testing/ContributionInfo.java
+SHA1-Digest: Nae6hMabDugINYevGy4SgLeqtZA=
+
+Name: org/eclipse/ui/internal/presentations/util/TabFolderEvent.java
+SHA1-Digest: NBx6Ysa5dbpKa7ggT3ahdTWQrOE=
+
+Name: org/eclipse/ui/internal/about/ProductInfoPage.java
+SHA1-Digest: BI0yaN1G0bAq1RuX5J58xELVJo8=
+
+Name: org/eclipse/ui/internal/contexts/SlaveContextService.java
+SHA1-Digest: i9dJ7Qb99W8xsFuVLgJgGPuzLjE=
+
+Name: org/eclipse/ui/internal/activities/ActivityPatternBinding.java
+SHA1-Digest: VFMtIWrWhaKhUF2EbvcZwMy86Jg=
+
+Name: org/eclipse/ui/testing/IWorkbenchPartTestable.java
+SHA1-Digest: uRsLPJb4zQ69vTc7Lj3MtO5Jvpk=
+
+Name: org/eclipse/ui/internal/handlers/NestableHandlerService.java
+SHA1-Digest: iBZhiRFkfKzbMr22OUiY6a/Ymcc=
+
+Name: org/eclipse/ui/internal/handlers/NewEditorHandler.java
+SHA1-Digest: ymqcYHoevpFSsbIPt3+cE5P76DQ=
+
+Name: org/eclipse/ui/internal/menus/IMenuActivation.java
+SHA1-Digest: C4BWDRPYi5/EL7TTgA8FaR5M/4U=
+
+Name: org/eclipse/ui/internal/presentations/NativePresentationFactory.
+ java
+SHA1-Digest: f7AXggWl9RENyEE7PYC0ENZAEF8=
+
+Name: org/eclipse/ui/internal/registry/PreferencePageParameterValues.j
+ ava
+SHA1-Digest: 0I0bbZ2pHXeA2WgJpFAW8dsB8AY=
+
+Name: org/eclipse/ui/services/IEvaluationService.java
+SHA1-Digest: Zg07VSU13VpGrF9CjPzmTO9+IjU=
+
+Name: org/eclipse/ui/internal/BrandingProperties.java
+SHA1-Digest: Mzhz5evJAEv7Pm993qn/RyuR0Sc=
+
+Name: org/eclipse/ui/dialogs/FilteredItemsSelectionDialog.java
+SHA1-Digest: bYBn/n6Pqci8ymrc10jVaZWMpW0=
+
+Name: org/eclipse/ui/internal/registry/WorkingSetRegistry.java
+SHA1-Digest: KOkDUaQCEEUxHayZ6tuXbAM4Ih4=
+
+Name: org/eclipse/ui/internal/dialogs/PropertyPageNode.java
+SHA1-Digest: X15syf8wqGsZADs6YWo7iJp05zA=
+
+Name: org/eclipse/ui/actions/LabelRetargetAction.java
+SHA1-Digest: +g42l8vzHNXLEneO8e/V0u6M7y8=
+
+Name: org/eclipse/ui/IWorkbenchPart.java
+SHA1-Digest: XPzZM39KsqgWHlRARJO/wUnmi48=
+
+Name: org/eclipse/ui/commands/IKeySequenceBinding.java
+SHA1-Digest: x6t9DzILckm5nDSV/rB4zOkPPLo=
+
+Name: org/eclipse/ui/internal/decorators/DecorationReference.java
+SHA1-Digest: IUsGS7+iNwa9rOyX3jCsNryLTg0=
+
+Name: org/eclipse/ui/operations/NonLocalUndoUserApprover.java
+SHA1-Digest: pI/NId5/ljXFRwauAfhzy8J/jm4=
+
+Name: org/eclipse/ui/internal/registry/IActionSet.java
+SHA1-Digest: uArRId8X3E3m8bJqRsgFLk84LM8=
+
+Name: org/eclipse/ui/handlers/ShowPerspectiveHandler.java
+SHA1-Digest: 7wkqkmNM5bu+E0lUgFNljnCgFKA=
+
+Name: org/eclipse/ui/internal/FolderLayout.java
+SHA1-Digest: BeVUKgn5abZ0aiQARRTkr6GOz0U=
+
+Name: org/eclipse/ui/internal/PartSashContainer.java
+SHA1-Digest: ydh8t2g8RPqIJSmNHjFq1qDOrAA=
+
+Name: org/eclipse/ui/IWorkbenchPart2.java
+SHA1-Digest: AC7eXaA3i+nTFFFPZUNJH4OZR0o=
+
+Name: org/eclipse/ui/internal/ViewStackTrimToolBar.java
+SHA1-Digest: iWtJ+IDUwC1P69kzNLXCpQPfGHg=
+
+Name: org/eclipse/ui/internal/wizards/preferences/PreferencesImportWiz
+ ard.java
+SHA1-Digest: xiOowa/zdX9ZycPyIAO4Gky/dFQ=
+
+Name: org/eclipse/ui/internal/RectangleAnimation.java
+SHA1-Digest: t6U/2KBUooZV66Oy0bfSrGudZk8=
+
+Name: org/eclipse/ui/internal/menus/IActionSetsListener.java
+SHA1-Digest: nLbtAoypcxl/PZQyQHR2jfaZiuM=
+
+Name: org/eclipse/ui/IContainmentAdapter.java
+SHA1-Digest: sP1ppIk+1Lqj4QWC0iij/+PixSo=
+
+Name: org/eclipse/ui/internal/SelectionAdapterFactory.java
+SHA1-Digest: 4O7qYS8Tz66cDgHLRu2Fcgl25FM=
+
+Name: org/eclipse/ui/internal/statushandlers/StatusHandlerDescriptor.j
+ ava
+SHA1-Digest: YSyurN1fbPb5thvnWx75XcD7To8=
+
+Name: org/eclipse/ui/internal/progress/IJobBusyListener.java
+SHA1-Digest: Tb8ZGlK8h8fq6+tfTNFKnQFusQQ=
+
+Name: org/eclipse/ui/internal/services/EvaluationServiceFactory.java
+SHA1-Digest: 00Ys5R60R93X7l9H54YCdhh7E40=
+
+Name: org/eclipse/ui/internal/menus/ContributionRoot.java
+SHA1-Digest: +5rLJbDak19ipGDxeq+Y946PYt8=
+
+Name: org/eclipse/ui/internal/util/ImageSupport.java
+SHA1-Digest: ftGxt1NgHdKFBEhdxjN7kvCDb8U=
+
+Name: org/eclipse/ui/internal/AbstractEnabledHandler.java
+SHA1-Digest: IYucWq1oxPTARw0A1GTNpQ5FztI=
+
+Name: org/eclipse/ui/internal/themes/IThemeElementDefinition.java
+SHA1-Digest: 7rdn8sZG6U4uyn4iTlWC2xyqD0Y=
+
+Name: org/eclipse/ui/internal/progress/ProgressViewerContentProvider.j
+ ava
+SHA1-Digest: kmwFH0yMzBlzYmpSGvpgoP1GOzQ=
+
+Name: org/eclipse/ui/contexts/IContextService.java
+SHA1-Digest: YjC5PcEfH7o5cA8VWTciGZY43Fk=
+
+Name: org/eclipse/ui/internal/layout/CacheWrapper.java
+SHA1-Digest: FczckkE9bIisUOHqej0CWynl7r0=
+
+Name: org/eclipse/ui/internal/services/ServiceLocator.java
+SHA1-Digest: XVUjpJY2XYZt8+ufF/nfoOpM938=
+
+Name: org/eclipse/ui/internal/presentations/util/LeftToRightTabOrder.j
+ ava
+SHA1-Digest: 3QuxUlR8V0f+zn7pd0lqaBNxVuM=
+
+Name: org/eclipse/ui/internal/ExceptionHandler.java
+SHA1-Digest: H4zZFJQkQUW4f7PKu2Q+agoiXFU=
+
+Name: org/eclipse/ui/activities/WorkbenchActivityHelper.java
+SHA1-Digest: P3VbGjP1X8kwK6spZNiMHmJVKjU=
+
+Name: org/eclipse/ui/internal/expressions/LegacyEditorActionBarExpress
+ ion.java
+SHA1-Digest: 4Yeb8RZ9VZWPxjHgRM529HTdd8M=
+
+Name: org/eclipse/ui/internal/activities/Identifier.java
+SHA1-Digest: Z4s+BSWh2I7kcm7QUw/fVeCAbS0=
+
+Name: org/eclipse/ui/internal/keys/AlphabeticModifierKeyComparator.jav
+ a
+SHA1-Digest: e7oqpA7XMtLG5Fn5CzXKLTMr1so=
+
+Name: org/eclipse/ui/ISelectionListener.java
+SHA1-Digest: hbuLA4V+zil0RdCNnKgVi8MafLA=
+
+Name: org/eclipse/ui/part/EditorActionBarContributor.java
+SHA1-Digest: CneeYZFfXdvcmzUvl+BObSPjG7A=
+
+Name: org/eclipse/ui/internal/statushandlers/WorkbenchStatusDialogMana
+ gerImpl.java
+SHA1-Digest: WnPrW6Gi18lMFSYxlJ3ThaksNus=
+
+Name: org/eclipse/ui/internal/preferences/WorkingSetPropertyPage.java
+SHA1-Digest: U/vUvEdC89Okc0bbfIfIj+HUcic=
+
+Name: org/eclipse/ui/internal/preferences/IPropertyMapListener.java
+SHA1-Digest: 4YQEmwst3MX3Tf79McSFtLYQ5XA=
+
+Name: org/eclipse/ui/internal/registry/CategorizedPageRegistryReader.j
+ ava
+SHA1-Digest: yZOBK9NHLwdez6CRvxHHOSyRgGE=
+
+Name: org/eclipse/ui/internal/PageListenerList.java
+SHA1-Digest: 4mY/tqpiOBt+kdgvbAvYW9vDG1w=
+
+Name: org/eclipse/ui/internal/menus/InternalControlContribution.java
+SHA1-Digest: xZKOOQbExCXzdFZLIB0uAPd2zAo=
+
+Name: org/eclipse/ui/internal/dialogs/AboutPluginsDialog.java
+SHA1-Digest: WZcxxrjuiNqMq87kPrTqYOzwsHY=
+
+Name: org/eclipse/ui/activities/ITriggerPointManager.java
+SHA1-Digest: Ft6ucQL7AJea3mbRsbtkXawL2qo=
+
+Name: org/eclipse/ui/IPerspectiveListener4.java
+SHA1-Digest: 9W2f5oYat573NylYK1pgdriLZos=
+
+Name: org/eclipse/ui/internal/ActionSetContributionItem.java
+SHA1-Digest: bw4oPNbJbGOHKsRhoFZ1Vo0iVvg=
+
+Name: org/eclipse/ui/internal/handlers/HelpSearchHandler.java
+SHA1-Digest: VEidyLiFgVFtePdhW14oit130Mk=
+
+Name: org/eclipse/ui/activities/IActivityManagerListener.java
+SHA1-Digest: X3N9FmW8sQlT7H58HdhroZJOFQg=
+
+Name: org/eclipse/ui/internal/activities/ws/ActivityCategoryContentPro
+ vider.java
+SHA1-Digest: Y/wlbMp96ozi7T7zlaAoaDpNvYo=
+
+Name: org/eclipse/ui/internal/preferences/WorkingSetSettingsTransfer.j
+ ava
+SHA1-Digest: zBcVjiZpIVygxtRRIzjMeIBvAuU=
+
+Name: org/eclipse/ui/internal/decorators/FullDecoratorRunnable.java
+SHA1-Digest: bG3MO+adJD/x/DmIGlD2hlPOPGQ=
+
+Name: org/eclipse/ui/internal/ProductProperties.java
+SHA1-Digest: Iu+ylaVD0qSeaKDTceoXCwF1hOg=
+
+Name: org/eclipse/ui/internal/presentations/util/WidgetTabItem.java
+SHA1-Digest: mwsIH9lXmxMpXJjCo41Ktqd/07Y=
+
+Name: org/eclipse/ui/internal/testing/WorkbenchPartTestable.java
+SHA1-Digest: At7ZzIblxy3/1awehliIMDVC/r0=
+
+Name: org/eclipse/ui/internal/dialogs/WorkbenchPreferenceDialog.java
+SHA1-Digest: 1Cs0r2goS//aBij3DSvFxm+wWOQ=
+
+Name: org/eclipse/ui/internal/handlers/HandlerPersistence.java
+SHA1-Digest: 7lqFwL2RwjKYLi3j65CvGZMV5+A=
+
+Name: org/eclipse/ui/dialogs/PropertyPage.java
+SHA1-Digest: Tzxu6fx5e2vDhu1OYIzloMyrJEc=
+
+Name: org/eclipse/ui/menus/IMenuService.java
+SHA1-Digest: 3M/UMSqhUEsdiPqi+FmJem8ESI4=
+
+Name: org/eclipse/ui/part/ISetSelectionTarget.java
+SHA1-Digest: Sfyx9BDVNXbqZovsBakLCqs+hFU=
+
+Name: org/eclipse/ui/internal/quickaccess/ActionProvider.java
+SHA1-Digest: sGLKEfBfwmmWQt7l6JpBpfBHc90=
+
+Name: org/eclipse/ui/internal/handlers/LegacyHandlerWrapper.java
+SHA1-Digest: Ighi/8Ig4Ab1FYuGOrXoqAvYHfM=
+
+Name: org/eclipse/ui/internal/layout/TrimDescriptor.java
+SHA1-Digest: KvaUQkvGwaaEKhBXdh3s67wkTVU=
+
+Name: org/eclipse/ui/WorkbenchEncoding.java
+SHA1-Digest: F2V5JAsYsR0eFRo2YATLTNsvXVE=
+
+Name: org/eclipse/ui/INavigationLocation.java
+SHA1-Digest: ZZ0pU9OMzgKUBLOdq8NtBDoLfHk=
+
+Name: org/eclipse/ui/internal/decorators/DecoratorDefinition.java
+SHA1-Digest: cuJrQWBwKF+GilUbJxqupXSbUnc=
+
+Name: org/eclipse/ui/internal/activities/ws/CategorizedActivity.java
+SHA1-Digest: v7QUAv+ARGwxqnn1bc/KItiNLyc=
+
+Name: org/eclipse/ui/internal/activities/ws/TriggerPointAdvisorDescrip
+ tor.java
+SHA1-Digest: WK4ak6/uq18/e5gPEuEC1N5lfEM=
+
+Name: org/eclipse/ui/internal/keys/CategoryPatternFilter.java
+SHA1-Digest: 4Wh3rZGXeol0ApIDGepLsw2gsV4=
+
+Name: org/eclipse/ui/internal/statushandlers/DefaultDetailsArea.java
+SHA1-Digest: BVkzZPHrln2r5cZ+wKcbCiICDts=
+
+Name: org/eclipse/ui/internal/WorkbenchErrorHandlerProxy.java
+SHA1-Digest: 1Dl56hddSxqltpdClkl4ldmcpkk=
+
+Name: org/eclipse/ui/internal/progress/JobsViewPreferenceDialog.java
+SHA1-Digest: gA4jyT1sabd3qe2VaOxwxJC7HGw=
+
+Name: org/eclipse/ui/internal/dnd/DragUtil.java
+SHA1-Digest: WJ85cxNcSNIGqP6LopEduEYPBKI=
+
+Name: org/eclipse/ui/internal/decorators/LightweightDecoratorManager.j
+ ava
+SHA1-Digest: yXlPPxAoLS+2b2OOMSYmYHwnYyc=
+
+Name: org/eclipse/ui/activities/IActivityPatternBinding.java
+SHA1-Digest: XOEmWP5dkAm5CvKoCgl6zG+php0=
+
+Name: org/eclipse/ui/internal/menus/TrimAdditionCacheEntry.java
+SHA1-Digest: eJRuhgNog84PSsnbrkxBFqGGboY=
+
+Name: org/eclipse/ui/activities/ActivityEvent.java
+SHA1-Digest: Nb7fwNPjITWbknJVKkR/C+VDFNE=
+
+Name: org/eclipse/ui/dialogs/PreferenceLinkArea.java
+SHA1-Digest: JdYXBn7U5ubPP2SzlSzc6/SvP3A=
+
+Name: org/eclipse/ui/internal/quickaccess/PropertiesProvider.java
+SHA1-Digest: +03skB99IrBMcoj6VdWX0x9hXjs=
+
+Name: org/eclipse/ui/internal/statushandlers/StatusHandlerRegistry.jav
+ a
+SHA1-Digest: OSCPFdRLwcV8inmMFYA70iPMLMQ=
+
+Name: org/eclipse/ui/internal/dnd/IDropTarget2.java
+SHA1-Digest: T1inXmh8xr9CX+qalwPEUmAIlPA=
+
+Name: org/eclipse/ui/internal/EditorSashContainer.java
+SHA1-Digest: 3tTu1RXN87b/nY+Fz7Q83iK+iQM=
+
+Name: org/eclipse/ui/internal/dialogs/ErrorPreferencePage.java
+SHA1-Digest: 62ntbGTAA6Jj6U1w+wxDhg6iVLk=
+
+Name: org/eclipse/ui/part/IDropActionDelegate.java
+SHA1-Digest: gve4bLHBtmnhf4xaXVwiSp7/vOg=
+
+Name: org/eclipse/ui/internal/presentations/util/ProxyControl.java
+SHA1-Digest: Luo8rj2u1PGhwoB6awVHWpsyrJ8=
+
+Name: org/eclipse/ui/part/PluginDropAdapter.java
+SHA1-Digest: F31lQ2QtmfDTI7FyZkYfR/nfQ2U=
+
+Name: org/eclipse/ui/IWorkbenchPreferenceConstants.java
+SHA1-Digest: pKm0oMbEyKyI3+gpB8ndcaArWb4=
+
+Name: org/eclipse/ui/internal/services/EvaluationService.java
+SHA1-Digest: Vy09pT7vqVQTkZcNVNqZV5UD9hQ=
+
+Name: org/eclipse/ui/internal/misc/TestPartListener.java
+SHA1-Digest: KxV346i+x9fFKsqH+XfimLd4ems=
+
+Name: org/eclipse/ui/internal/dialogs/ViewLabelProvider.java
+SHA1-Digest: BGBs9wZbrgP5g/0ISKdXvfO35w0=
+
+Name: org/eclipse/ui/internal/activities/MutableActivityManager.java
+SHA1-Digest: dUcvcdO7M24HfZOV28mTMMro4y0=
+
+Name: org/eclipse/ui/internal/wizards/preferences/PreferencesExportWiz
+ ard.java
+SHA1-Digest: lvpO8xguKcCyGdrT18cXVlzclWk=
+
+Name: org/eclipse/ui/model/WorkbenchViewerSorter.java
+SHA1-Digest: tbSpVe5ccBAwxXGQxKI+bHml+dE=
+
+Name: org/eclipse/ui/internal/contexts/ContextManagerFactory.java
+SHA1-Digest: gwtzgkoWbdMNIC+qEoMz/h78c5c=
+
+Name: org/eclipse/ui/internal/handlers/LegacyHandlerProxy.java
+SHA1-Digest: pV8y1LaMR/ljYCtu3N7okFrwiA0=
+
+Name: org/eclipse/ui/internal/statushandlers/DetailsAreaManager.java
+SHA1-Digest: dd2hSgaySk3yluqeDBgB9BGfuCY=
+
+Name: org/eclipse/ui/keys/IBindingService.java
+SHA1-Digest: 5IAWQ06n5KrxA8t9nOuDtEkregA=
+
+Name: org/eclipse/ui/dialogs/FileSystemElement.java
+SHA1-Digest: 4X0ksRgSjeJtscPdlC8Igrh6xYE=
+
+Name: org/eclipse/ui/IWorkbenchPart3.java
+SHA1-Digest: daq39/2b1BDjoKL4B0/VHao4X5A=
+
+Name: org/eclipse/ui/part/IContributedContentsView.java
+SHA1-Digest: lj2HL53dQJ5J0pg/aaUGqb9KuOg=
+
+Name: org/eclipse/ui/statushandlers/WorkbenchStatusDialogManager.java
+SHA1-Digest: 2R2ZoLBPx8bEi4uFevxdBB4geOk=
+
+Name: org/eclipse/ui/internal/tweaklets/DummyTitlePathUpdater.java
+SHA1-Digest: UFqmsJ3rxMVAncyMyHspap+EXu0=
+
+Name: org/eclipse/ui/internal/handlers/MinimizePartHandler.java
+SHA1-Digest: Y4ME5pJzPWw8TNAnVBtj3pHzhNc=
+
+Name: org/eclipse/ui/internal/dialogs/NewWizard.java
+SHA1-Digest: 4NkbnxmHcfFA2Vw1y/fKsdjcOV8=
+
+Name: org/eclipse/ui/internal/PartList.java
+SHA1-Digest: xiWgMEcn/oCutJ1Fa287WSDWXRs=
+
+Name: org/eclipse/ui/internal/PluginActionCoolBarContributionItem.java
+SHA1-Digest: 1+8p83e+Iw+cc0MlH6Gdt1/+1rY=
+
+Name: org/eclipse/ui/actions/OpenPerspectiveMenu.java
+SHA1-Digest: Umc/pbhQemvHe90Wb75qMwMFyvM=
+
+Name: org/eclipse/ui/internal/ViewActionBuilder.java
+SHA1-Digest: kNqBAaKekq2lofDridSgM4K7ftw=
+
+Name: org/eclipse/ui/menus/AbstractContributionFactory.java
+SHA1-Digest: QrvT6jkYKRd/hoITfdPmbiYwtrU=
+
+Name: org/eclipse/ui/internal/registry/IWorkbenchRegistryConstants.jav
+ a
+SHA1-Digest: Ouo9/uKmyRJ8VXvf1VIA6vDOrFY=
+
+Name: org/eclipse/ui/internal/preferences/SettingsTransferRegistryRead
+ er.java
+SHA1-Digest: CowuLnGRiS71RPNx7dG9NpHlmjw=
+
+Name: org/eclipse/ui/internal/handlers/AbstractSaveHandler.java
+SHA1-Digest: W3w8CeTS+tkOdgy7mN8+2rcnxo8=
+
+Name: org/eclipse/ui/internal/themes/WorkbenchThemeManager.java
+SHA1-Digest: n8sjPMD3H20v/wy6wsa51+fe0vQ=
+
+Name: org/eclipse/ui/internal/misc/StringMatcher.java
+SHA1-Digest: HugoUckmf1TOWbNROPYXU+twxUo=
+
+Name: org/eclipse/ui/internal/handlers/CloseAllSavedHandler.java
+SHA1-Digest: XhuJg8mWfkV1w+ALa1BbK9DaH/I=
+
+Name: org/eclipse/ui/internal/DragHandle.java
+SHA1-Digest: uAW6rVZLp64lqlzl3PpSSimPSMo=
+
+Name: org/eclipse/ui/internal/registry/EditorDescriptor.java
+SHA1-Digest: n1mNHD5z7sSwrsz5RMrr/JkENcA=
+
+Name: org/eclipse/ui/commands/KeyConfigurationEvent.java
+SHA1-Digest: v2u5icbUiReVt7pL/23A1DQUWEs=
+
+Name: org/eclipse/ui/internal/contexts/ContextActivation.java
+SHA1-Digest: XZQxFEnEiqPgGkPMXFuKIzerItc=
+
+Name: org/eclipse/ui/part/Page.java
+SHA1-Digest: bWqfsNJAJw+gQM1hGHxk1GIt//8=
+
+Name: org/eclipse/ui/internal/PageLayout.java
+SHA1-Digest: YdVFiGo65J3IXEeWVfZJRAVQAt8=
+
+Name: org/eclipse/ui/internal/menus/IMenuLabelProvider.java
+SHA1-Digest: wLVbn6emsEav9MQaZRgVC6FhE9U=
+
+Name: org/eclipse/ui/handlers/RegistryToggleState.java
+SHA1-Digest: 6K8WHRqIMZrr8NKTd4F8bivMwto=
+
+Name: org/eclipse/ui/IViewActionDelegate.java
+SHA1-Digest: y9/X0ThXXPi55TQ31NncxeEHzSI=
+
+Name: org/eclipse/ui/internal/presentations/SystemMenuRestore.java
+SHA1-Digest: Bfkw1X8HjRNEMgx6MfOCsuBaP5E=
+
+Name: org/eclipse/ui/internal/UISynchronizer.java
+SHA1-Digest: g1p1LgeNSKbtPTMOaeGI+9nUAto=
+
+Name: org/eclipse/ui/internal/WorkingSetMenuContributionItem.java
+SHA1-Digest: NcvL0HMZE557vAwLA54nroelBr0=
+
+Name: org/eclipse/ui/internal/quickaccess/PreferenceElement.java
+SHA1-Digest: uhCvG2L4Dy2xpmUxwcbM08FDpoU=
+
+Name: org/eclipse/ui/internal/CompatibleWorkbenchPage.java
+SHA1-Digest: Bq6o22WvBFF6EE5M8Steq+3i8Ok=
+
+Name: org/eclipse/ui/internal/handlers/MaximizePartHandler.java
+SHA1-Digest: Zyb21Ii5Q5a4Yb8YMwNtJ9m1Gk8=
+
+Name: org/eclipse/ui/internal/dialogs/WorkbenchPreferenceNode.java
+SHA1-Digest: 8lXc89Waqzr1Ar+GUcGFeJH5QlU=
+
+Name: org/eclipse/ui/internal/keys/NewKeysPreferencePage.java
+SHA1-Digest: lxhUNFR7hhCOVgfLqkrARtPPkWY=
+
+Name: org/eclipse/ui/part/PageBook.java
+SHA1-Digest: AiAZ1H0rwFevXrOi7rMkjybSlxM=
+
+Name: org/eclipse/ui/IEditorActionBarContributor.java
+SHA1-Digest: n7vzybfIEyC+E7LDVlaSd4KZclc=
+
+Name: org/eclipse/ui/internal/presentations/util/TabFolderListener.jav
+ a
+SHA1-Digest: nmxYAxYshc+I3R+CdRQvQujZH2w=
+
+Name: org/eclipse/ui/internal/activities/CategoryDefinition.java
+SHA1-Digest: 0tMQQgqDM77lJOSHm8LQACHgm9U=
+
+Name: org/eclipse/ui/internal/dialogs/AbstractWorkingSetDialog.java
+SHA1-Digest: OaRIXBcDx+IzAkNhRUOt6ba98i8=
+
+Name: org/eclipse/ui/actions/CompoundContributionItem.java
+SHA1-Digest: +OXqcds4XdIocRmY+c77BAD9tCA=
+
+Name: org/eclipse/ui/internal/SwitchToWindowMenu.java
+SHA1-Digest: jWYFju7RZpJw16D/5AX5x7maqKU=
+
+Name: org/eclipse/ui/PartInitException.java
+SHA1-Digest: BwpaxeuCNmCkiSP+xXbUtr9P0Yo=
+
+Name: org/eclipse/ui/internal/PartListenerList2.java
+SHA1-Digest: 7oEUMuT1eJhYOif6L/z3Wco6YD0=
+
+Name: org/eclipse/ui/presentations/IPartMenu.java
+SHA1-Digest: 384C38eWAdpYhLM9p3Xjp5f68qU=
+
+Name: org/eclipse/ui/IReusableEditor.java
+SHA1-Digest: 1D/T54yf4bpXdcQTqqsYRhj3wfg=
+
+Name: org/eclipse/ui/IWorkbenchWindowPulldownDelegate2.java
+SHA1-Digest: z79T6tsxg53tje0q/75UXVdc5H8=
+
+Name: org/eclipse/ui/presentations/StackDropResult.java
+SHA1-Digest: P/3H8hoNTwxN2yIMcJAucNm7jjk=
+
+Name: org/eclipse/ui/internal/statushandlers/StackTraceSupportArea.jav
+ a
+SHA1-Digest: RqL3NIueggpSf5i7o3Dz4Vzpj+Q=
+
+Name: org/eclipse/ui/services/IServiceScopes.java
+SHA1-Digest: GgeKVfnyo+QikkREjTRwG+Y4P+o=
+
+Name: org/eclipse/ui/internal/presentations/SystemMenuPinEditor.java
+SHA1-Digest: XRRGRMrnYmuIKFivwRJRbHc8JOg=
+
+Name: org/eclipse/ui/internal/progress/JobInfo.java
+SHA1-Digest: BFNK2RoarvGg+hpxIvdZRT4meno=
+
+Name: org/eclipse/ui/internal/PerspectiveSwitcher.java
+SHA1-Digest: CSRFJLRip5rwcvo1X++BFF+zUqE=
+
+Name: org/eclipse/ui/ILocalWorkingSetManager.java
+SHA1-Digest: 2zcwuPRDx1Q7nSJHXV0GmEJmYyw=
+
+Name: org/eclipse/ui/internal/SaveableHelper.java
+SHA1-Digest: frvXwyM3aUyMXbs7l2D/Wk3ESKE=
+
+Name: org/eclipse/ui/internal/PlaceholderContributionItem.java
+SHA1-Digest: pGmSxpVJ333/wh5QrRfCmBJmuo4=
+
+Name: org/eclipse/ui/internal/dialogs/WorkingSetNewWizard.java
+SHA1-Digest: zsT62TTykGKb2wRPVMfDLVr3+uk=
+
+Name: org/eclipse/ui/internal/application/CompatibilityActionBarAdviso
+ r.java
+SHA1-Digest: S1U07HoA5YGUZt0KFcQY19gg38Y=
+
+Name: org/eclipse/ui/part/MultiPageSelectionProvider.java
+SHA1-Digest: o6wm1S4741zXr4iBfTbCc+2ITJo=
+
+Name: org/eclipse/ui/IWorkbenchWizard.java
+SHA1-Digest: oPFL6uk8dOrkXdpYNs45n0VXcoI=
+
+Name: org/eclipse/ui/internal/services/EvaluationReference.java
+SHA1-Digest: hx6MfSW3Zq6PWLI0V5eei3r7DgI=
+
+Name: org/eclipse/ui/internal/handlers/HandlerService.java
+SHA1-Digest: SmeFvPWxfNFZDXsLrAa222FycrQ=
+
+Name: org/eclipse/ui/internal/preferences/PreferenceTransferManager.ja
+ va
+SHA1-Digest: uL6d7rjWnZACRCqtupkAbhQZryM=
+
+Name: org/eclipse/ui/internal/decorators/LightweightActionDescriptor.j
+ ava
+SHA1-Digest: SZQF2NwZWjLYnWRruqZcRv1G9LI=
+
+Name: org/eclipse/ui/internal/about/BundleSigningInfo.java
+SHA1-Digest: dxFAD0Qvsf9zB5MQhWpBjWGQK84=
+
+Name: org/eclipse/ui/internal/presentations/util/StandardSystemToolbar
+ .java
+SHA1-Digest: EmNaFUGdz+bWQLVHKt5uUxy294c=
+
+Name: org/eclipse/ui/internal/registry/ActionSetRegistry.java
+SHA1-Digest: 5Mx0fHoSQaeoxWNZSJVd1HN+t8I=
+
+Name: org/eclipse/ui/internal/TrimFrame.java
+SHA1-Digest: X7b/I8m9sSbIpCiUqPF8OQd+S8w=
+
+Name: org/eclipse/ui/internal/progress/ErrorInfo.java
+SHA1-Digest: sk/1OsAO1MxfpbUm6O+hs/zQy44=
+
+Name: org/eclipse/ui/internal/themes/ThemeDescriptor.java
+SHA1-Digest: 0RHLzs1HacDV8YXomRRxAWDr4N0=
+
+Name: org/eclipse/ui/actions/OpenInNewWindowAction.java
+SHA1-Digest: 1hqxn1WMXkPtODEPbDTwN4QdSUA=
+
+Name: org/eclipse/ui/internal/activities/IActivityRegistry.java
+SHA1-Digest: 1pgMAlb8guiBDHotmEtEz1iiycE=
+
+Name: org/eclipse/ui/internal/dialogs/FileExtensionDialog.java
+SHA1-Digest: tCRn3G0dBK+thQxBnxpsBjLft1w=
+
+Name: org/eclipse/ui/actions/ImportResourcesAction.java
+SHA1-Digest: BjG/SKe/Oex9za0jnlaKTqrFM6M=
+
+Name: org/eclipse/ui/IWorkingSetManager.java
+SHA1-Digest: qLh7O0XVjh6G4W6QeOMbgzvyTqQ=
+
+Name: org/eclipse/ui/commands/NotDefinedException.java
+SHA1-Digest: YsQuukcRnPgLOiOYZJfY/jKfmNQ=
+
+Name: org/eclipse/ui/internal/progress/ProgressRegion.java
+SHA1-Digest: p1QxgpDxm5tBe20+sF9lt8nlt0E=
+
+Name: org/eclipse/ui/commands/IWorkbenchCommandSupport.java
+SHA1-Digest: BMERDOLhiG8XzczeuZKW8K6v/yY=
+
+Name: org/eclipse/ui/internal/about/ProductInfoDialog.java
+SHA1-Digest: oiayZcqizIKVPnh7Ct4uSL6G+Ok=
+
+Name: org/eclipse/ui/internal/PluginActionContributionItem.java
+SHA1-Digest: yiXoCwZaRq4bBWLOsITm88CVh18=
+
+Name: org/eclipse/ui/internal/activities/ws/ActivityMessages.java
+SHA1-Digest: O7b9kjxdkvVL/zrmgMBdjaUzILg=
+
+Name: org/eclipse/ui/commands/ICommandListener.java
+SHA1-Digest: aVXYfem2Sz20OcQ7KioMIzXByIY=
+
+Name: org/eclipse/ui/model/WorkbenchLabelProvider.java
+SHA1-Digest: eQPM3xu6mMCqOCEazKSu+BDpQBs=
+
+Name: org/eclipse/ui/internal/wizards/AbstractExtensionWizardRegistry.
+ java
+SHA1-Digest: dsiB0Utd3Mnk9SE8ofVdOHHZqFs=
+
+Name: org/eclipse/ui/internal/preferences/IDynamicPropertyMap.java
+SHA1-Digest: /X/vKyHfA00xzI0wiFwm/zn4mTY=
+
+Name: org/eclipse/ui/internal/ToggleEditorsVisibilityAction.java
+SHA1-Digest: L3RHSoUwJlQrwh/K4sUWbG0W2x8=
+
+Name: org/eclipse/ui/presentations/WorkbenchPresentationFactory.java
+SHA1-Digest: KEK8u6/aOfm9rP5vtPIStQpCfEM=
+
+Name: org/eclipse/ui/internal/presentations/util/ReplaceDragHandler.ja
+ va
+SHA1-Digest: IbAyaEE1ZI9VyXGbOBra76Syias=
+
+Name: org/eclipse/ui/dnd/IDragAndDropService.java
+SHA1-Digest: NJv4q6KpcJ4ptMk6BH+1zg686KA=
+
+Name: org/eclipse/ui/internal/presentations/util/PartInfo.java
+SHA1-Digest: mRsaX712ZhtRvsSXm2hvOn6uJDU=
+
+Name: org/eclipse/ui/internal/keys/BindingPersistence.java
+SHA1-Digest: 7fYCB7qUITdy8zLwilrEIDPiBBg=
+
+Name: org/eclipse/ui/internal/commands/CommandManagerFactory.java
+SHA1-Digest: ZhbBEMXR5rt1ClMefriz6CkG0P0=
+
+Name: org/eclipse/ui/model/BaseWorkbenchContentProvider.java
+SHA1-Digest: IKWnUyK/dvbuYq1CHCYhdnZl44Y=
+
+Name: org/eclipse/ui/internal/misc/ExternalProgramImageDescriptor.java
+SHA1-Digest: LniGZ/+c7uODq2484D2z5kC7qoE=
+
+Name: org/eclipse/ui/internal/services/SlaveEvaluationService.java
+SHA1-Digest: CIypsqzQLAI2bA0oYnJgYaoaMt0=
+
+Name: org/eclipse/ui/internal/WWinPluginPulldown.java
+SHA1-Digest: ss+2dphiPqnV2NiAlvKD4kMYX2Q=
+
+Name: org/eclipse/ui/activities/IMutableActivityManager.java
+SHA1-Digest: W0kzfxEBjIf8dVvCCcZwJTwaDgw=
+
+Name: org/eclipse/ui/internal/SharedImages.java
+SHA1-Digest: oeIKgBaIQPOeMJSuoUkQ/oKx+f8=
+
+Name: org/eclipse/ui/internal/ChangeToPerspectiveMenu.java
+SHA1-Digest: DQWrolDXX0tRiIh7fVwFZMWGYxg=
+
+Name: org/eclipse/ui/IWorkbenchSite.java
+SHA1-Digest: aJNFCPRqB5I9hs0F7uZDc9aRwQo=
+
+Name: org/eclipse/ui/internal/progress/ProgressMonitorFocusJobDialog.j
+ ava
+SHA1-Digest: NM148C03i8/zUml9wkrUou9WB50=
+
+Name: org/eclipse/ui/internal/keys/ImageFactory.java
+SHA1-Digest: uUJg9PJewGuMsRLwBwF6dXMzr4M=
+
+Name: org/eclipse/ui/swt/IFocusService.java
+SHA1-Digest: A4wBWg+Dexvm2PSfvIb7585ljn8=
+
+Name: org/eclipse/ui/IEditorMatchingStrategy.java
+SHA1-Digest: t4UNqYlQsje11VVe/y/i5LbDeeo=
+
+Name: org/eclipse/ui/IEditorReference.java
+SHA1-Digest: V1JHSikA+RnBrtEB6GuzD/4t85s=
+
+Name: org/eclipse/ui/internal/presentations/defaultpresentation/Defaul
+ tTabItem.java
+SHA1-Digest: tu6Lgu2Jfzk/TEwJVj9dUMCh2go=
+
+Name: org/eclipse/ui/internal/activities/ActivityPropertyTester.java
+SHA1-Digest: asvTFxeLE79jpbhAMxUYPwPLYPE=
+
+Name: org/eclipse/ui/internal/progress/AbstractProgressViewer.java
+SHA1-Digest: vW5vgMRf8lCspiGcQBkuCMngv2A=
+
+Name: org/eclipse/ui/internal/menus/PulldownDelegateWidgetProxy.java
+SHA1-Digest: SnafQ3dK2UHp/gkvFEpqt7QoujA=
+
+Name: org/eclipse/ui/internal/ErrorViewPart.java
+SHA1-Digest: 70OiJ45Ojg0ey/yYvXuXvh+9lgs=
+
+Name: org/eclipse/ui/splash/BasicSplashHandler.java
+SHA1-Digest: sC6EP4xx2aljCPtNXtZ9VCG6fW4=
+
+Name: org/eclipse/ui/internal/SlavePartService.java
+SHA1-Digest: X76Asd1Y5u+ivVj+JQpIdU2bExk=
+
+Name: org/eclipse/ui/internal/preferences/Base64.java
+SHA1-Digest: Ja8FaHzX6hEI0+PLX7e4H6nQqtA=
+
+Name: org/eclipse/ui/internal/presentations/defaultpresentation/EmptyT
+ abItem.java
+SHA1-Digest: eUEHjsnsbcw8Fqlx4NQVGWWzB4M=
+
+Name: org/eclipse/ui/IPerspectiveListener.java
+SHA1-Digest: wPbfTkgeIvD4wtNjzTMPFseH3Fo=
+
+Name: org/eclipse/ui/internal/wizards/ExportWizardRegistry.java
+SHA1-Digest: UXTpwHbhv+coOFBU0uFcr1Tls40=
+
+Name: org/eclipse/ui/internal/keys/FormalKeyFormatter.java
+SHA1-Digest: HHLmPitgiYnOu1TKhNhMXkyWQG4=
+
+Name: org/eclipse/ui/ISaveablePart.java
+SHA1-Digest: vknhMOmMS0N+aH4QQ9uY7V52HmE=
+
+Name: org/eclipse/ui/preferences/ViewPreferencesAction.java
+SHA1-Digest: ZVUr6uYRqGWACgfWDP84Mn/VpSI=
+
+Name: org/eclipse/ui/internal/CloseAllSavedAction.java
+SHA1-Digest: KffjXWiS3AGvAeOtnCgchldcSPI=
+
+Name: org/eclipse/ui/keys/NaturalKey.java
+SHA1-Digest: U0C0H5ZrjbTKUO6zPGUQ6oEeSog=
+
+Name: org/eclipse/ui/IEditorActionDelegate.java
+SHA1-Digest: kBqzH7fU1mJ3izWYuJM4NkcGpn8=
+
+Name: org/eclipse/ui/internal/ShowPartPaneMenuHandler.java
+SHA1-Digest: xZ0a0pLzvI2UFwXbeR3aTQKQJqg=
+
+Name: org/eclipse/ui/dialogs/SelectionDialog.java
+SHA1-Digest: 6j5RxqcqY1iO3+f/TNHLnJMN8Bg=
+
+Name: org/eclipse/ui/commands/ICategory.java
+SHA1-Digest: HXSJ+jMkd4vJeXUm82+2fgPqUCY=
+
+Name: org/eclipse/ui/activities/ITriggerPoint.java
+SHA1-Digest: rykWyQd7FWiFBUaBJKTm/3yPbKk=
+
+Name: org/eclipse/ui/internal/activities/AbstractActivityRegistry.java
+SHA1-Digest: oZAdMpVLbaPejcAVd0oZ3nhdTqQ=
+
+Name: org/eclipse/ui/internal/dialogs/FileEditorsPreferencePage.java
+SHA1-Digest: q0Iml1S3ojXaid4ujPZb4U+H0sg=
+
+Name: org/eclipse/ui/internal/handlers/ReuseEditorTester.java
+SHA1-Digest: 2CGpVELv475EeHi+z83c43Xtsko=
+
+Name: org/eclipse/ui/internal/handlers/HandlerServiceFactory.java
+SHA1-Digest: GA/FJ/9XztVJScsO8C4XjAVu0rQ=
+
+Name: org/eclipse/ui/internal/FastViewManager.java
+SHA1-Digest: aa0Ck5Biwc7VPaP8oIPCe5EeqSo=
+
+Name: org/eclipse/ui/internal/progress/ProgressLabelProvider.java
+SHA1-Digest: okBb7m5xVufqdY1U2wg8Nkler30=
+
+Name: org/eclipse/ui/help/AbstractHelpUI.java
+SHA1-Digest: mg8mN7BmvK0qJajvbsFIXPQ+LBI=
+
+Name: org/eclipse/ui/internal/ContainerPlaceholder.java
+SHA1-Digest: GyDrNNEuthbz2DRmLRuHk2SG95o=
+
+Name: org/eclipse/ui/activities/ActivityManagerEvent.java
+SHA1-Digest: L0RXjVfYdXduj0etpggm/wHceR4=
+
+Name: org/eclipse/ui/internal/dnd/TestDropLocation.java
+SHA1-Digest: +dYk9uTUI/xbJCR4XE8w+BDqWSM=
+
+Name: org/eclipse/ui/internal/part/IPartHost.java
+SHA1-Digest: g6rgi/RmXHEZ951xwIzj+uP3fqY=
+
+Name: org/eclipse/ui/fieldassist/ContentAssistCommandAdapter.java
+SHA1-Digest: 36Tb+h6t9sTKbfLU9WFtHDeU3KE=
+
+Name: org/eclipse/ui/internal/Perspective.java
+SHA1-Digest: 6X+GlogR51F4YNAUJMimg7z+WOA=
+
+Name: org/eclipse/ui/internal/handlers/CyclePageHandler.java
+SHA1-Digest: pMH1Yv4iXXo8cjGty/QyxBpaHN4=
+
+Name: org/eclipse/ui/preferences/ViewSettingsDialog.java
+SHA1-Digest: flLYTR5wTamlpmv+f2PZtTIby6s=
+
+Name: org/eclipse/ui/internal/activities/ActivityPatternBindingDefinit
+ ion.java
+SHA1-Digest: kqgbRLA3nKzQcqhdQ+azE1Mdk3s=
+
+Name: org/eclipse/ui/internal/DirtyPerspectiveMarker.java
+SHA1-Digest: +/OiKnrZvYcYjAI9PUlxfPFcB+A=
+
+Name: org/eclipse/ui/internal/about/AboutData.java
+SHA1-Digest: nnug0AR9U4vk1knmx3y8Ix4jdzs=
+
+Name: org/eclipse/ui/menus/IWorkbenchContribution.java
+SHA1-Digest: V90KHE9CYUs1ZOADjsbVWvsyYu4=
+
+Name: org/eclipse/ui/internal/preferences/PropertyListenerList.java
+SHA1-Digest: kABqv3TWEQkYO93H/1Wt9uQ8eow=
+
+Name: org/eclipse/ui/internal/handlers/ShowPreferencePageHandler.java
+SHA1-Digest: xl7VLt3+J84sYvvEk2nGaO/sdbw=
+
+Name: org/eclipse/ui/part/PageSwitcher.java
+SHA1-Digest: buQ3FBf13I38FSqmwDMPjcFu9WE=
+
+Name: org/eclipse/ui/activities/WorkbenchTriggerPointAdvisor.java
+SHA1-Digest: A4gLIzgCmjJIr9SZ+UGw49HxI2g=
+
+Name: org/eclipse/ui/internal/dialogs/WorkbenchPreferenceManager.java
+SHA1-Digest: xaHol7Y6CqAFfYcoFzREIeo+zu8=
+
+Name: org/eclipse/ui/internal/ShowViewMenuHandler.java
+SHA1-Digest: ryE6aQ90eICa0AZ6ukmwSglr4jE=
+
+Name: org/eclipse/ui/internal/dialogs/PerspContentProvider.java
+SHA1-Digest: zqqrx2K4A0v+G5lWplJ7v1+D2H8=
+
+Name: org/eclipse/ui/internal/registry/WorkingSetRegistryReader.java
+SHA1-Digest: k6JtD77COCc1k+fkL3kGzzXjicU=
+
+Name: org/eclipse/ui/internal/tweaklets/GrabFocus.java
+SHA1-Digest: A4iCXgbi0ki6kOzkKKNS915kV1I=
+
+Name: org/eclipse/ui/IWorkingSetUpdater.java
+SHA1-Digest: ZorZkvHrctaaEUojX2MIDRsl4CY=
+
+Name: org/eclipse/ui/internal/services/INestable.java
+SHA1-Digest: /W7iVq/FNBuyhKeyMMjGn9R4wNg=
+
+Name: org/eclipse/ui/internal/testing/ContributionInfoMessages.java
+SHA1-Digest: npXcuhnqLVlPQ2TadmtVLz5O0mI=
+
+Name: org/eclipse/ui/internal/dnd/SwtUtil.java
+SHA1-Digest: QZvfyhPP3Aaoiald+LTJtIfaCjo=
+
+Name: org/eclipse/ui/part/PluginTransfer.java
+SHA1-Digest: USmuCR4Uzx5XZDc0fhfCLQIjdgE=
+
+Name: org/eclipse/ui/activities/IActivityListener.java
+SHA1-Digest: KBVSZgS3ttKFXqCUKGoLZTDUVA0=
+
+Name: org/eclipse/ui/internal/WorkingSetComparator.java
+SHA1-Digest: MmB5WTKz2klIUBtBkIV03uk7gUE=
+
+Name: org/eclipse/ui/internal/commands/CommandPersistence.java
+SHA1-Digest: NnpjvIW3JAs29oyR7f/2kN4SPeY=
+
+Name: org/eclipse/ui/IInPlaceEditor.java
+SHA1-Digest: O0F9nJdNQfd4wPZWft1LnS86EvU=
+
+Name: org/eclipse/ui/internal/decorators/DecoratorRegistryReader.java
+SHA1-Digest: YJYDORoNkcqhnqxaNxYwcYbjcTU=
+
+Name: org/eclipse/ui/model/IWorkbenchAdapter.java
+SHA1-Digest: rz0F3ktgDXmzSPFbgIBYu+u1ZLs=
+
+Name: org/eclipse/ui/internal/themes/ThemeRegistry.java
+SHA1-Digest: 241yilX09B/id5x4+RpirRz4S3k=
+
+Name: org/eclipse/ui/internal/dialogs/PropertyDialog.java
+SHA1-Digest: mLQ2WY26bFTtTkt6Xg5a0jpsT6s=
+
+Name: org/eclipse/ui/internal/HeapStatus.java
+SHA1-Digest: y7yJ8dpKFWQU2E86g0zC5SrLsX8=
+
+Name: org/eclipse/ui/internal/dialogs/AdaptableForwarder.java
+SHA1-Digest: 2hsP/o4Z8wXVUhn5lyBW51U2Fqg=
+
+Name: org/eclipse/ui/internal/util/Descriptors.java
+SHA1-Digest: COdPk3vlVRpayJbQwzuAf2/oIMA=
+
+Name: org/eclipse/ui/services/IDisposable.java
+SHA1-Digest: FvZvYP1RR5V1z8u2Hc8vI7sdCHI=
+
+Name: org/eclipse/ui/internal/commands/CommandImageManager.java
+SHA1-Digest: 6xtqmkm1DpQSpJVY0bACHtI0ibw=
+
+Name: org/eclipse/ui/internal/ObjectActionContributorReader.java
+SHA1-Digest: lfga26T0DDujWo5Gg/v6fZskOvg=
+
+Name: org/eclipse/ui/internal/NavigationHistoryEntry.java
+SHA1-Digest: WfL+S5SLNX2PzHfmFxR7P7+xeJA=
+
+Name: org/eclipse/ui/ActiveShellExpression.java
+SHA1-Digest: cECecmC+aGKIoWw243Ip2G9Zt48=
+
+Name: org/eclipse/ui/internal/WorkbenchEditorsHandler.java
+SHA1-Digest: WawqcSYXDcpldcJ1EvYyd3r/uos=
+
+Name: org/eclipse/ui/internal/EditorMenuManager.java
+SHA1-Digest: LKKdTckMDpLbCiZIRW+fEJitXDw=
+
+Name: org/eclipse/ui/internal/registry/UIExtensionTracker.java
+SHA1-Digest: HaWFkDC1djJHnqrdbuVo6ThaY+g=
+
+Name: org/eclipse/ui/internal/menus/InternalMenuService.java
+SHA1-Digest: k/wLOGLL8g8Eiq5mwhakXIRjkVM=
+
+Name: org/eclipse/ui/internal/preferences/WorkingCopyPreferences.java
+SHA1-Digest: DApc9ej6qsX15K2E+xbbS6SbktI=
+
+Name: org/eclipse/ui/internal/presentations/util/IPresentablePartList.
+ java
+SHA1-Digest: 6/g7L89Wvc9Ft715v3rkEqxylfM=
+
+Name: org/eclipse/ui/internal/preferences/PropertyMapAdapter.java
+SHA1-Digest: orD+Q/G88cvSDi08Cw8RzHMq7kk=
+
+Name: org/eclipse/ui/contexts/IContext.java
+SHA1-Digest: HSh29zmtYpBbHgL+rKtu6d6bJrg=
+
+Name: org/eclipse/ui/internal/WorkbookEditorsHandler.java
+SHA1-Digest: 1evub6g8SlIonzsatjh1Uie0lCQ=
+
+Name: org/eclipse/ui/internal/dialogs/EmptyPropertyPage.java
+SHA1-Digest: 3dazCxTRGSg3YR1VtEMJz+Kz9mU=
+
+Name: org/eclipse/ui/wizards/IWizardRegistry.java
+SHA1-Digest: YAr2dSXNHRHBMEQLXIRw0t7VCs4=
+
+Name: org/eclipse/ui/internal/ShellPool.java
+SHA1-Digest: hx0z+0swjnnFw49Rt9HVzlyVcMI=
+
+Name: org/eclipse/ui/internal/dialogs/EditorsPreferencePage.java
+SHA1-Digest: Bnn+A6khCGdO9qa9vLIHHJnCwfI=
+
+Name: org/eclipse/ui/dialogs/FilteredList.java
+SHA1-Digest: +EXrL6+EFLpduZxabLMkVle/fxc=
+
+Name: org/eclipse/ui/internal/about/AboutTextManager.java
+SHA1-Digest: vplxuhFbRFpOvudt4/pN+VaqfJc=
+
+Name: org/eclipse/ui/internal/wizards/ImportWizardRegistry.java
+SHA1-Digest: esgTDhITtQpORo+FMhiNRD48zqw=
+
+Name: org/eclipse/ui/internal/contexts/WorkbenchContextSupport.java
+SHA1-Digest: 0FTORFXUnMzNWxtKBfjygGLV1qg=
+
+Name: org/eclipse/ui/internal/menus/WorkbenchMenuService.java
+SHA1-Digest: ZWWhKgtppHxB9jXSlsAg/YxmQjg=
+
+Name: org/eclipse/ui/internal/dialogs/PreferenceBoldLabelProvider.java
+SHA1-Digest: kbbMw9i+g3X0QRXoUy0uLaUWRhA=
+
+Name: org/eclipse/ui/internal/dialogs/WorkingSetFilter.java
+SHA1-Digest: I5U6q81c59/KYAkhmnL9pMkBgjc=
+
+Name: org/eclipse/ui/actions/ActionDelegate.java
+SHA1-Digest: /ZGXiNHbMR/H59MYXWh/mtlSeCU=
+
+Name: org/eclipse/ui/activities/ActivityCategoryPreferencePage.java
+SHA1-Digest: JTpJyZzovxFjgnfuqShYUlepDj4=
+
+Name: org/eclipse/ui/internal/activities/IActivityRegistryListener.jav
+ a
+SHA1-Digest: aO/vztG0ZQrWc+yIHFtYP1+MR0Y=
+
+Name: org/eclipse/ui/IAggregateWorkingSet.java
+SHA1-Digest: 3rkOpfmXgRtEzQX4qrVVPTHw4J0=
+
+Name: org/eclipse/ui/internal/registry/PerspectiveExtensionReader.java
+SHA1-Digest: HoPBZh8DevKhLq4JTYl1LFroaNs=
+
+Name: org/eclipse/ui/internal/keys/model/BindingElement.java
+SHA1-Digest: RAYM1LmOoJEPJwM7KH/MdQ3FvrI=
+
+Name: org/eclipse/ui/internal/EditorActionBars.java
+SHA1-Digest: djoFaCnktQGyvUA/ENNnf6vEf28=
+
+Name: org/eclipse/ui/fieldassist/ContentAssistField.java
+SHA1-Digest: RS7mNKum6KBdQaEhv+U7ncu99GY=
+
+Name: org/eclipse/ui/internal/commands/ElementReference.java
+SHA1-Digest: L2PZiSIlN8Rg7Y5jLkeZk8vkkJw=
+
+Name: org/eclipse/ui/internal/expressions/LegacySelectionEnablerWrappe
+ r.java
+SHA1-Digest: MdU11yfwALwWk6hKAObCYXLY08Q=
+
+Name: org/eclipse/ui/IWorkbenchPreferencePage.java
+SHA1-Digest: H+pY7wROyBtnwgt479zsa//knts=
+
+Name: org/eclipse/ui/internal/layout/CellLayout.java
+SHA1-Digest: ocl9jkINKhIAv6Yztp0vrBAgQ48=
+
+Name: org/eclipse/ui/internal/registry/Category.java
+SHA1-Digest: ujDKICMVy8TlLmCpTCmfFZkYaoA=
+
+Name: org/eclipse/ui/internal/ExtensionEventHandler.java
+SHA1-Digest: AfVdPIZLGzGHuSqmrdCiRtQh4JM=
+
+Name: org/eclipse/ui/internal/presentations/classic/WorkbenchPresentat
+ ionFactoryClassic.java
+SHA1-Digest: weaDOXMPDCEnX8sq5hGD1dUXH+k=
+
+Name: org/eclipse/ui/internal/LayoutHelper.java
+SHA1-Digest: 33aEr+EQxhIiuaci/8iMbHFBRz0=
+
+Name: org/eclipse/ui/model/WorkbenchAdapter.java
+SHA1-Digest: Vxvg8nEa+7uyudxh2mOIqg4CSqg=
+
+Name: org/eclipse/ui/internal/dialogs/WorkbenchWizardNode.java
+SHA1-Digest: 6CqqDaLfdTEbkofblpFNhy+GrtQ=
+
+Name: org/eclipse/ui/plugin/AbstractUIPlugin.java
+SHA1-Digest: Ns8nB5R6S3Ka7g1aYcnzNznx7OU=
+
+Name: org/eclipse/ui/internal/handlers/WorkbenchWindowHandlerDelegate.
+ java
+SHA1-Digest: wAcLOWbXDZpp0V+sH2IMCBjCgpo=
+
+Name: org/eclipse/ui/internal/splash/EclipseSplashHandler.java
+SHA1-Digest: krHsNb2RvOROkbyvZnKvOKy1nOI=
+
+Name: org/eclipse/ui/internal/decorators/DecorationResult.java
+SHA1-Digest: CeZlpEPSw6wDWESjRZE0y69qSPs=
+
+Name: org/eclipse/ui/operations/IWorkbenchOperationSupport.java
+SHA1-Digest: vq1VYuTO8Gal7WLByVguiYgkbw0=
+
+Name: org/eclipse/ui/keys/SpecialKey.java
+SHA1-Digest: iDugRMwCQbDYfARBTlXVbtffX6g=
+
+Name: org/eclipse/ui/contexts/IContextManagerListener.java
+SHA1-Digest: ZrK3hTHT/ABDojpaGh13v88A6E4=
+
+Name: org/eclipse/ui/IWorkbenchPropertyPageMulti.java
+SHA1-Digest: iyqwIn4dkYiZ4m3a/asG8R1lAwo=
+
+Name: org/eclipse/ui/internal/quickaccess/PreferenceProvider.java
+SHA1-Digest: UhmIOGwM5GbsqLbWns1ZKCPQH/0=
+
+Name: org/eclipse/ui/internal/presentations/PresentationFactoryUtil.ja
+ va
+SHA1-Digest: ef7QwvPBT6MyGl05iVikCGIWj0E=
+
+Name: org/eclipse/ui/internal/dialogs/ImportExportWizard.java
+SHA1-Digest: usjlVXlUki0L4WA2YLz7MbYid1Y=
+
+Name: org/eclipse/ui/internal/EditorStack.java
+SHA1-Digest: w7VP5ToJjA4faWcRhss/VMF3EeY=
+
+Name: org/eclipse/ui/internal/part/IPartPropertyProvider.java
+SHA1-Digest: 10JW26hSudtDstyfWGNQlmFKVa8=
+
+Name: org/eclipse/ui/internal/AbstractWorkingSetManager.java
+SHA1-Digest: b73szyJhvcqLz7p//A6sBkiXDhc=
+
+Name: org/eclipse/ui/internal/dialogs/DecoratorsPreferencePage.java
+SHA1-Digest: mG2bz5+JJpx7dWtTdShJmQDxc9Q=
+
+Name: org/eclipse/ui/commands/HandlerEvent.java
+SHA1-Digest: nTL34DdSCfxMBXvXC6+u5e1HG9E=
+
+Name: org/eclipse/ui/actions/ActionGroup.java
+SHA1-Digest: CC0mcA9vYsiofFb5PcuhWsdKsJs=
+
+Name: org/eclipse/ui/activities/IIdentifierListener.java
+SHA1-Digest: 87LXXphMKhq9RiZ8IBY8R7jXaVA=
+
+Name: org/eclipse/ui/internal/contexts/ContextManagerLegacyWrapper.jav
+ a
+SHA1-Digest: uOSlrOsAe2sxz59BW0cRo+4R/Uc=
+
+Name: org/eclipse/ui/internal/keys/MacKeyFormatter.java
+SHA1-Digest: W0K3HBNyFOwj/fAAzpIHQkdWfzI=
+
+Name: org/eclipse/ui/internal/activities/ProxyActivityManager.java
+SHA1-Digest: iXMve6TxtYAIpjXHA0sNOQvjZgM=
+
+Name: org/eclipse/ui/part/IShowInTargetList.java
+SHA1-Digest: ycuCn6bZI3DMRlTyfjFloxWpBks=
+
+Name: org/eclipse/ui/internal/PartPluginAction.java
+SHA1-Digest: 2eVXSfRICCd16aK8jUrpFzJGoCE=
+
+Name: org/eclipse/ui/internal/commands/WorkbenchCommandSupport.java
+SHA1-Digest: j4n14epdZRfwxxPjiKQEpX931pc=
+
+Name: org/eclipse/ui/IPageService.java
+SHA1-Digest: rX2vM3l5xID2J0WA7iZ0ZcAa4aw=
+
+Name: org/eclipse/ui/internal/keys/model/ContextElement.java
+SHA1-Digest: VhQYNvGLG1/YEh3vJUkstB0WiHM=
+
+Name: org/eclipse/ui/internal/dialogs/AboutFeaturesDialog.java
+SHA1-Digest: 5EwVq7TBX9n5DXYsWmyAhIkhiko=
+
+Name: org/eclipse/ui/internal/handlers/DisplayHelpHandler.java
+SHA1-Digest: QUufWdKnDdqhD8nQHTkLv6IC+AI=
+
+Name: org/eclipse/ui/model/WorkbenchPartLabelProvider.java
+SHA1-Digest: 1iznw8pTC3W8pjSW+Tu2JaRlBrU=
+
+Name: org/eclipse/ui/services/AbstractServiceFactory.java
+SHA1-Digest: aLMhyNuAub7x12AJyWksyT3Eivo=
+
+Name: org/eclipse/ui/internal/EditorSite.java
+SHA1-Digest: ZnN0fVj4MDqwmO+Vdj1PUCI041o=
+
+Name: org/eclipse/ui/internal/AnimationEngine.java
+SHA1-Digest: ow/cr5lE8oEWMv4ScMkOG2f1lMk=
+
+Name: org/eclipse/ui/dialogs/SearchPattern.java
+SHA1-Digest: 7IqMujOlth6SjXJJ9pXqhhrH7AM=
+
+Name: org/eclipse/ui/internal/services/WorkbenchServiceRegistry.java
+SHA1-Digest: Doebw9+pKSQb76NHInLG5nhsc48=
+
+Name: org/eclipse/ui/internal/presentations/util/AbstractTabItem.java
+SHA1-Digest: p1wpAGGax0/GYHisCDDDBvB3Dpc=
+
+Name: org/eclipse/ui/internal/DetachedPlaceHolder.java
+SHA1-Digest: d9hhPGN1g79uWyKUjiR81CfQOA8=
+
+Name: org/eclipse/ui/internal/FastViewBarContextMenuContribution.java
+SHA1-Digest: N4DOXok38GnJW+Uyx4dqjsHnA0U=
+
+Name: org/eclipse/ui/internal/registry/EditorRegistryReader.java
+SHA1-Digest: ZcL6m93HtrgNHsJys+wUcNVnz+k=
+
+Name: org/eclipse/ui/internal/progress/StatusAdapterHelper.java
+SHA1-Digest: 2Fa0+S6pDyPUmBbuJMjdqfcQg1M=
+
+Name: org/eclipse/ui/internal/services/ActionSetSourceProvider.java
+SHA1-Digest: pQiz17r3gFfgsIB2eRYJJb9FA7A=
+
+Name: org/eclipse/ui/internal/contexts/ContextPersistence.java
+SHA1-Digest: bX1PN0eyYYlwZNlLebyL9nkM+Ps=
+
+Name: org/eclipse/ui/part/IPageSite.java
+SHA1-Digest: xrDid20hvIXSt97AIOjE+pKaQwU=
+
+Name: org/eclipse/ui/actions/OpenNewPageMenu.java
+SHA1-Digest: fOd6wQgm2RBhYc6fMhiwe8VcJ6k=
+
+Name: org/eclipse/ui/internal/dialogs/PreferencesPageContainer.java
+SHA1-Digest: Xnq347m98SyiQkQZj2x4aV3m4ys=
+
+Name: org/eclipse/ui/internal/layout/CellData.java
+SHA1-Digest: saD1IOQgp/668HczzbrigiccbGQ=
+
+Name: org/eclipse/ui/internal/InternalHandlerUtil.java
+SHA1-Digest: vGhx6CLrGgFeu2ze9gnU+/MsZNE=
+
+Name: org/eclipse/ui/commands/CommandException.java
+SHA1-Digest: mARN3/kMpN+qcZZbF7TIzc3Ype4=
+
+Name: org/eclipse/ui/internal/presentations/SystemMenuMove.java
+SHA1-Digest: v8NCexGXF9XOnrhHNHNfoRoIIcM=
+
+Name: org/eclipse/ui/progress/IDeferredWorkbenchAdapter.java
+SHA1-Digest: Np62PEfD/7o3Roi8LRUCnhuV4c0=
+
+Name: org/eclipse/ui/internal/dialogs/NewWizardSelectionPage.java
+SHA1-Digest: O29I7fHYAkhXhVVVQbLqJRnwm/0=
+
+Name: org/eclipse/ui/internal/about/AboutFeaturesButtonManager.java
+SHA1-Digest: ZOkXtcWNijCtfY4WWvb615BqCT8=
+
+Name: org/eclipse/ui/internal/menus/MenuPersistence.java
+SHA1-Digest: SrjvQoUj8OtNAMtEYTABFyVOtIU=
+
+Name: org/eclipse/ui/internal/WorkbenchWindowPropertyTester.java
+SHA1-Digest: qU2G9BV5srTSqNACbRILHCGydUI=
+
+Name: org/eclipse/ui/menus/IContributionRoot.java
+SHA1-Digest: pcgB39sY8xKmUSVZmBZQBBFsmaA=
+
+Name: org/eclipse/ui/INullSelectionListener.java
+SHA1-Digest: Ct4GANMu9ML/wdhcACjIVpJg3PY=
+
+Name: org/eclipse/ui/internal/EditorManager.java
+SHA1-Digest: p6xyhpuqRubFQxlPxbtcEBuUu1Y=
+
+Name: org/eclipse/ui/internal/SlaveSelectionService.java
+SHA1-Digest: 30tJR0gWFgEnGdw4Y+UN2zOQHPY=
+
+Name: org/eclipse/ui/internal/activities/ActivityRegistryEvent.java
+SHA1-Digest: O/epvzHN6Q8PBuW2ekYjMKgnGTQ=
+
+Name: org/eclipse/ui/internal/menus/AbstractMenuAdditionCacheEntry.jav
+ a
+SHA1-Digest: cshQirtDmM24vEwh4L8W1DqqY9g=
+
+Name: org/eclipse/ui/internal/presentations/ISelfUpdatingAction.java
+SHA1-Digest: HSoxwd0ABhx2isIwGbTVJXWZ5MU=
+
+Name: org/eclipse/ui/internal/about/AboutUtils.java
+SHA1-Digest: oDv/BMi+hfRM5yacuY3Ldcwl4Gs=
+
+Name: org/eclipse/ui/internal/expressions/ActivePartExpression.java
+SHA1-Digest: qYCBAyfkn7PgwYxfMTYOTNtCJm0=
+
+Name: org/eclipse/ui/internal/preferences/ThemeManagerAdapter.java
+SHA1-Digest: vjRPqzrTp2lFH5aWFeJTGPpEPFo=
+
+Name: org/eclipse/ui/IPerspectiveDescriptor.java
+SHA1-Digest: dkFEuE7V09bcwwFSBNbb1sCnGfw=
+
+Name: org/eclipse/ui/themes/RGBBlendColorFactory.java
+SHA1-Digest: 83kBKVr8s9K4zxDshFfMvKYMovw=
+
+Name: org/eclipse/ui/internal/presentations/PresentablePart.java
+SHA1-Digest: uaUg3by7DB/wXCr3W3xh91z4gkE=
+
+Name: org/eclipse/ui/internal/FastViewBar.java
+SHA1-Digest: 3iKSbfPo4axFgOeY8ckXcgIPX8s=
+
+Name: org/eclipse/ui/internal/commands/CommandService.java
+SHA1-Digest: dEyNVKJ3J8h+q4Ky096vcbvtGro=
+
+Name: org/eclipse/ui/contexts/IContextManager.java
+SHA1-Digest: DML2aJOR1fVr4aepk3K5mR+cae8=
+
+Name: org/eclipse/ui/internal/themes/IHierarchalThemeElementDefinition
+ .java
+SHA1-Digest: pqtZDJF5XI1uOErXDUDzHDWtwGo=
+
+Name: org/eclipse/ui/internal/handlers/SaveAllHandler.java
+SHA1-Digest: Jed4oKWsD+En/0VXHx7YAxTQ4RU=
+
+Name: org/eclipse/ui/part/DrillStack.java
+SHA1-Digest: 7YN2dJD94EmB9Qr3/yB+P4vM1OQ=
+
+Name: org/eclipse/ui/internal/EditorPluginAction.java
+SHA1-Digest: 9VK2xK6+Z/70T0CNFcwq+Oee3MU=
+
+Name: org/eclipse/ui/menus/CommandContributionItemParameter.java
+SHA1-Digest: 35tGtL0MwZ5StRiFpnBXBUsDM+8=
+
+Name: org/eclipse/ui/internal/services/RegistryPersistence.java
+SHA1-Digest: qnWoAlutdMiy2PgrMDdzTluIwu0=
+
+Name: org/eclipse/ui/IObjectActionDelegate.java
+SHA1-Digest: gDPluIpZwRCx1jSHlfBupNp7lGE=
+
+Name: org/eclipse/ui/actions/ActionFactory.java
+SHA1-Digest: 1khKN9O3Z96756NDzUBtjp102VQ=
+
+Name: org/eclipse/ui/internal/Workbench.java
+SHA1-Digest: Z7m/nsMW5rFwilfOlyFvUQkgsh8=
+
+Name: org/eclipse/ui/themes/IColorFactory.java
+SHA1-Digest: LBjqI67yKhc6Gk6ww2VngpJD09g=
+
+Name: org/eclipse/ui/internal/menus/MenuLocationURI.java
+SHA1-Digest: xRaX1H/tO6s7a2HDE6aUnDrI7U4=
+
+Name: org/eclipse/ui/internal/dialogs/NewWizardNewPage.java
+SHA1-Digest: 0PL2x7lsw+d02wEyGjrTiz8BfUE=
+
+Name: org/eclipse/ui/internal/IActionSetContributionItem.java
+SHA1-Digest: cMsC7z0+zoHF6SZA84Y39R1XL+o=
+
+Name: org/eclipse/ui/IPerspectiveFactory.java
+SHA1-Digest: dYwJT6CuIX1zkYrkLhfJWcykRfY=
+
+Name: org/eclipse/ui/internal/PerspectiveAction.java
+SHA1-Digest: 30E10rzJrVWOFNZ4+Uke6uCKhK0=
+
+Name: org/eclipse/ui/part/DrillDownAdapter.java
+SHA1-Digest: 2k7+46iDkhdPYZf8ClCQFs5GKdM=
+
+Name: org/eclipse/ui/menus/AbstractWorkbenchTrimWidget.java
+SHA1-Digest: GxqB0zH5j6+MlKhgP9SUfiKMQig=
+
+Name: org/eclipse/ui/internal/handlers/QuitHandler.java
+SHA1-Digest: 1MvvKw3/+GpSctPLen5JCMO5DGU=
+
+Name: org/eclipse/ui/internal/wizards/AbstractWizardRegistry.java
+SHA1-Digest: txZOlMJBWW74N9BKuvL+hCiu47U=
+
+Name: org/eclipse/ui/dialogs/WorkingSetConfigurationBlock.java
+SHA1-Digest: BMg6/Ny3P+HhXwDvqaPWezpOK+Y=
+
+Name: org/eclipse/ui/internal/contexts/ActiveContextSourceProvider.jav
+ a
+SHA1-Digest: iXmxT5p95zHzw11k6eDBp8yB6d8=
+
+Name: org/eclipse/ui/internal/DefaultSaveable.java
+SHA1-Digest: Xrk7o+QLhWPs6xqT7XVpkJ/aDUs=
+
+Name: org/eclipse/ui/internal/WorkbenchLayoutSettingsTransfer.java
+SHA1-Digest: rxxjqZcYRlbjIg14ejDSmQLcQBw=
+
+Name: org/eclipse/ui/operations/OperationHistoryActionHandler.java
+SHA1-Digest: ZRxWNwp7zhPatBgEdfd+z7+eWhU=
+
+Name: org/eclipse/ui/internal/commands/CommandManagerLegacyWrapper.jav
+ a
+SHA1-Digest: epDwJ8BBT4f4rOLDv3xnpk9ReS4=
+
+Name: org/eclipse/ui/internal/dialogs/ViewsPreferencePage.java
+SHA1-Digest: dPMGGbfF8Vg+FtM2kbZzhYlGlRw=
+
+Name: org/eclipse/ui/commands/AbstractHandler.java
+SHA1-Digest: 1SQiFnI0ndob05YORka7Oc2uurI=
+
+Name: org/eclipse/ui/internal/keys/model/CommonModel.java
+SHA1-Digest: +DbEOCLLItRPT7UngRtG3DuoeuE=
+
+Name: org/eclipse/ui/part/DrillFrame.java
+SHA1-Digest: RFLKj2XgSHHQ5djN+HzxtW2udnc=
+
+Name: org/eclipse/ui/views/IViewRegistry.java
+SHA1-Digest: +a6PcL1ec6zaObYMusSquKTImq0=
+
+Name: org/eclipse/ui/internal/services/EvaluationResultCache.java
+SHA1-Digest: P59TMgIzSV1DIcsCJw3+vr8aRUk=
+
+Name: org/eclipse/ui/internal/EditorPane.java
+SHA1-Digest: VDOS3AFBSAoSXgVI/09ii+3Z7AA=
+
+Name: org/eclipse/ui/actions/BaseNewWizardMenu.java
+SHA1-Digest: AKp5SIPD3crtc3DhJ35GdOrAiZ8=
+
+Name: org/eclipse/ui/internal/wizards/preferences/WizardPreferencesImp
+ ortPage1.java
+SHA1-Digest: uGBv35KKqWKJ/qhqsywILO3y7ZY=
+
+Name: org/eclipse/ui/preferences/ScopedPreferenceStore.java
+SHA1-Digest: uBAtk2W/10+pHX/3vsk3Vz1MeuM=
+
+Name: org/eclipse/ui/internal/dialogs/ViewContentProvider.java
+SHA1-Digest: lga/SBflxShPtjwTOX1PGUethew=
+
+Name: org/eclipse/ui/contexts/NotDefinedException.java
+SHA1-Digest: NGhVtTvQJWMEQ1XAW+z7XGECmP4=
+
+Name: org/eclipse/ui/internal/progress/GroupInfo.java
+SHA1-Digest: V2gQMQeIPi4BcyO82oT2qj3H4s0=
+
+Name: org/eclipse/ui/internal/IHeapStatusConstants.java
+SHA1-Digest: 29RfTtG7LpcJ8hBP0A8umO+HeCE=
+
+Name: org/eclipse/ui/NavigationLocation.java
+SHA1-Digest: LNL4kDtoNlLExXg6hXAW3pMcQLM=
+
+Name: org/eclipse/ui/statushandlers/IStatusAdapterConstants.java
+SHA1-Digest: 5De70QtY5kjwwyO3lipsUQqoSeA=
+
+Name: org/eclipse/ui/internal/about/AboutPluginsPage.java
+SHA1-Digest: Ovrfwb7HWdgd2T5Soc+H6Ibgqk0=
+
+Name: org/eclipse/ui/internal/tweaklets/LegacyAnimations.java
+SHA1-Digest: 1JqoBIN+TKhYHhXvUw1uF9z2Ip4=
+
+Name: org/eclipse/ui/help/DialogPageContextComputer.java
+SHA1-Digest: FMHOynUdz/eREkqeDUU/M+xJF4c=
+
+Name: org/eclipse/ui/SelectionEnabler.java
+SHA1-Digest: +5pvm0LugIbMo76F/5VmAEowCSY=
+
+Name: org/eclipse/ui/ISelectionService.java
+SHA1-Digest: Jh858oNaHy53p+8eT6zImgV7wTc=
+
+Name: org/eclipse/ui/internal/CycleViewHandler.java
+SHA1-Digest: xJaTljAaIX/b8n38bCRBLBK5aBg=
+
+Name: org/eclipse/ui/internal/actions/HelpSearchContributionItem.java
+SHA1-Digest: 1hJYdWSrVBpHVZ5prcZcqkXT1W4=
+
+Name: org/eclipse/ui/internal/ViewIntroAdapterPart.java
+SHA1-Digest: SDmEl5oLrtNrsq6KgnRZoYfDLDA=
+
+Name: org/eclipse/ui/contexts/ContextException.java
+SHA1-Digest: cSQDrGPN8OkcyD27D8//spQ8aJM=
+
+Name: org/eclipse/ui/IWorkbenchPropertyPage.java
+SHA1-Digest: GeJWvAfzKerIMNQ3g6jaRXBxA3E=
+
+Name: org/eclipse/ui/internal/dialogs/PreferencePatternFilter.java
+SHA1-Digest: 51OwLnPC8/ThlcKl5JXWMfyV9Qc=
+
+Name: org/eclipse/ui/internal/about/ConfigurationLogDefaultSection.jav
+ a
+SHA1-Digest: gBQr1EoNh7yHpADj4ythjBnLW8g=
+
+Name: org/eclipse/ui/branding/IProductConstants.java
+SHA1-Digest: O/SNwj9SQhHXHnMuu8vdIrCmq0I=
+
+Name: org/eclipse/ui/internal/LocalWorkingSetManager.java
+SHA1-Digest: fkvTRMfLYWy1PZO9JCa6Wgwbnds=
+
+Name: org/eclipse/ui/internal/ViewFactory.java
+SHA1-Digest: 0jqzhl5PBNg8pmEjA36sMkqy5Hk=
+
+Name: org/eclipse/ui/internal/wizards/NewWizardRegistry.java
+SHA1-Digest: aj+pAi6pjRg5BBIFWML0Q5Sg45U=
+
+Name: org/eclipse/ui/internal/themes/IEditable.java
+SHA1-Digest: e4R0jXSPCOWEvLLw3m7QgiEM7UA=
+
+Name: org/eclipse/ui/internal/ITrimAreaChangeListener.java
+SHA1-Digest: fQfOhktKs7DmCJZ9N1rnJS770sQ=
+
+Name: org/eclipse/ui/internal/menus/MenuAdditionCacheEntry.java
+SHA1-Digest: VGfN72KK+PMYpMJFPu4lNhTKuAg=
+
+Name: org/eclipse/ui/internal/preferences/WorkbenchSettingsTransfer.ja
+ va
+SHA1-Digest: DqKToKjQllN+rYn5lyZaNnaqOVw=
+
+Name: org/eclipse/ui/internal/NavigationHistoryAction.java
+SHA1-Digest: Vr7XjbYbP+LnuD4rRhs/tyzw/dc=
+
+Name: org/eclipse/ui/menus/CommandContributionItem.java
+SHA1-Digest: NvJfU4GUyA7XEZlufG7bIb6zuWA=
+
+Name: org/eclipse/ui/IPartListener2.java
+SHA1-Digest: B6aJdbfdS40bwGvCCgg3yWnuBSo=
+
+Name: org/eclipse/ui/internal/layout/LayoutUtil.java
+SHA1-Digest: VErt7cs9Ml6y8qP1djxHa9Ge7sA=
+
+Name: org/eclipse/ui/internal/contexts/ContextService.java
+SHA1-Digest: GxUFGp5pUoRmBvDP2vTQBI6a1yU=
+
+Name: org/eclipse/ui/internal/presentations/util/TabOrder.java
+SHA1-Digest: D/MqHJ5HeC1EIlT2u6BoH56cn7k=
+
+Name: org/eclipse/ui/commands/Priority.java
+SHA1-Digest: ND1CAvSbtzwB8Iit2x5WwvNFweE=
+
+Name: org/eclipse/ui/internal/PlatformUIPreferenceListener.java
+SHA1-Digest: 11olfm3eOefleeiGOmTgIi4AHf0=
+
+Name: org/eclipse/ui/INavigationHistory.java
+SHA1-Digest: 0qeAauUSgJv/N0CaRjkCM7ZAKmA=
+
+Name: org/eclipse/ui/internal/decorators/DeclarativeDecorator.java
+SHA1-Digest: jB+PFTZRs7NB1C65Pz5pn7L0vuQ=
+
+Name: org/eclipse/ui/internal/expressions/LegacyActionSetExpression.ja
+ va
+SHA1-Digest: RcS+qwNbbblGD5yD2KwtimKfSII=
+
+Name: org/eclipse/ui/internal/handlers/IntroHandler.java
+SHA1-Digest: T0vdCzCl7+ailNxqvSywo+OXDx4=
+
+Name: org/eclipse/ui/internal/keys/CancelOnModifyListener.java
+SHA1-Digest: dWt9BpCCHcB91uztcsX1wTvbEnY=
+
+Name: org/eclipse/ui/internal/PagePartSelectionTracker.java
+SHA1-Digest: ydkuhLQSavvK9P650hZ66u+BZrk=
+
+Name: org/eclipse/ui/internal/presentations/defaultpresentation/Defaul
+ tTabFolder.java
+SHA1-Digest: k91lFdy8toFwBbt3cuBje3JKP7U=
+
+Name: org/eclipse/ui/internal/activities/CategoryActivityBindingDefini
+ tion.java
+SHA1-Digest: d0YbsLg23L6PF4bG2byKJIr+ZSM=
+
+Name: org/eclipse/ui/progress/IWorkbenchSiteProgressService.java
+SHA1-Digest: nrrJ+WZLlUwCYcf10Ut3tRJmGqI=
+
+Name: org/eclipse/ui/internal/dialogs/WizardContentProvider.java
+SHA1-Digest: oDUCjAHV17phJrLv8dQYuZwLRYY=
+
+Name: org/eclipse/ui/branding/IBundleGroupConstants.java
+SHA1-Digest: VLNx6yZnv9W9DbgS7GX/3t3EKlQ=
+
+Name: org/eclipse/ui/keys/KeyFormatterFactory.java
+SHA1-Digest: gz0B41SutnVbpL6iXfmg+VEI2xU=
+
+Name: org/eclipse/ui/internal/testing/PluginContributionAdapterFactory
+ .java
+SHA1-Digest: ylpaHdtQFt8YzZ+cmS7A67pH4s0=
+
+Name: org/eclipse/ui/internal/WindowSelectionService.java
+SHA1-Digest: D7iCpP9We+zpZLZF6MFnIr6MQvA=
+
+Name: org/eclipse/ui/dialogs/ContainerCheckedTreeViewer.java
+SHA1-Digest: 4GVu7KXXKJWrBPVAL04Iv6KnZqY=
+
+Name: org/eclipse/ui/internal/PerspectiveBarNewContributionItem.java
+SHA1-Digest: aLFFwaVt9Zn88PY2eJiBvEhzUiI=
+
+Name: org/eclipse/ui/intro/IIntroPart.java
+SHA1-Digest: 5ozyTXbLIryI1uIq4Ye5XqSytKQ=
+
+Name: org/eclipse/ui/internal/RectangleAnimationImageFeedback.java
+SHA1-Digest: AGmaCsiFj6d3+LmcRac54wb0NsA=
+
+Name: org/eclipse/ui/internal/TrimLayoutData.java
+SHA1-Digest: VIUrxuKrHCY3f/J0N92ab2Jz2jk=
+
+Name: org/eclipse/ui/internal/OverlayIcon.java
+SHA1-Digest: BKGI7dDiJ9prh6crODstIPSV7Nw=
+
+Name: org/eclipse/ui/internal/presentations/defaultpresentation/Defaul
+ tMultiTabListener.java
+SHA1-Digest: drHadPGwjnunX9HOKXctFVzeeOk=
+
+Name: org/eclipse/ui/internal/TrimArea.java
+SHA1-Digest: 0c8Kkfn9393uxA4r4tzYEwnYYxI=
+
+Name: org/eclipse/ui/actions/SelectionProviderAction.java
+SHA1-Digest: wOVlFwWTHPADyzK51Py2TP4aUaU=
+
+Name: org/eclipse/ui/internal/part/StatusPart.java
+SHA1-Digest: 0iZfHKSCpVQPMwLRh5k1KFz6ioQ=
+
+Name: org/eclipse/ui/internal/menus/FocusControlSourceProvider.java
+SHA1-Digest: /PyMPXCLnL6QSpKbQMEvEECa+5Y=
+
+Name: org/eclipse/ui/internal/themes/RGBContrastFactory.java
+SHA1-Digest: /qOYmWerZFZHPwsuiZHIim+EgBE=
+
+Name: org/eclipse/ui/internal/DefaultStackPresentationSite.java
+SHA1-Digest: NxMxYfA0VIrC46MFlLpUwiWgEs4=
+
+Name: org/eclipse/ui/internal/handlers/ExecutableExtensionHandler.java
+SHA1-Digest: nA2p0Og2e2UaSUVKKJVU/9oMrww=
+
+Name: org/eclipse/ui/ISaveableFilter.java
+SHA1-Digest: AYfK2P6KTa5G8CAu1HUMngj+tB0=
+
+Name: org/eclipse/ui/IViewLayout.java
+SHA1-Digest: eN8fJpd4wHF2YKbK9COVPV8f7qY=
+
+Name: org/eclipse/ui/internal/CloseEditorHandler.java
+SHA1-Digest: XKDJQWY45S0RbLgq5DkFyE+UHMs=
+
+Name: org/eclipse/ui/IWorkbenchPage.java
+SHA1-Digest: GW18c0jzvMDDGCnSX63PXtGCT6g=
+
+Name: org/eclipse/ui/internal/TrimDropTarget.java
+SHA1-Digest: ZdxbRiVbwK4XLwxwoBFTmoknuFM=
+
+Name: org/eclipse/ui/internal/ShowInMenu.java
+SHA1-Digest: bXuAn2UrwGhI+ms6k2uZl3+PrP4=
+
+Name: org/eclipse/ui/internal/about/AboutBundleGroupData.java
+SHA1-Digest: wwXo9CLzGeHEKWDxQE9XkKn4xSM=
+
+Name: org/eclipse/ui/menus/UIElement.java
+SHA1-Digest: oH1tD7NmX6pjgovBSMowapsXgwo=
+
+Name: org/eclipse/ui/internal/operations/TimeTriggeredProgressMonitorD
+ ialog.java
+SHA1-Digest: LBUXJdA+b8MwcWPAEukYb2G6gOc=
+
+Name: org/eclipse/ui/internal/themes/WorkbenchPreview.java
+SHA1-Digest: +m48M8Ka3gbVYXtNMDPoQcrD6KA=
+
+Name: org/eclipse/ui/internal/dnd/AbstractDropTarget.java
+SHA1-Digest: 2a7sRUZ4uxjVIJBF6lK8ymG5FEI=
+
+Name: org/eclipse/ui/internal/dialogs/WizardActivityFilter.java
+SHA1-Digest: N6k2HnbYbxHH38hsqQrr/xFCKQg=
+
+Name: org/eclipse/ui/internal/misc/ProgramImageDescriptor.java
+SHA1-Digest: 6IDEqze1/kRx7KFC1C0Vc2Wt1rU=
+
+Name: org/eclipse/ui/internal/ErrorEditorPart.java
+SHA1-Digest: MrY96DWCxzksPmlLXbzm2pifAx4=
+
+Name: org/eclipse/ui/internal/WorkingSet.java
+SHA1-Digest: +oPsrmqxU2IpV9dvwvvWIlmFw20=
+
+Name: org/eclipse/ui/INavigationLocationProvider.java
+SHA1-Digest: WI+k0hN8cw/GRFwOV5I9qC/L7ZQ=
+
+Name: org/eclipse/ui/help/WorkbenchHelp.java
+SHA1-Digest: E99SaP84b3E7wxcMFS467Y4XQb0=
+
+Name: org/eclipse/ui/internal/WindowPartSelectionTracker.java
+SHA1-Digest: SdAmvBdoXMGKK1Gy2DnPylkM+Q8=
+
+Name: org/eclipse/ui/internal/actions/ClearWorkingSetAction.java
+SHA1-Digest: PaWVYALBi4hP77a7AQ2wo+tmYFc=
+
+Name: org/eclipse/ui/application/WorkbenchWindowAdvisor.java
+SHA1-Digest: YbDanGlov+CpvUUjJpxUM+qw0Ww=
+
+Name: org/eclipse/ui/progress/WorkbenchJob.java
+SHA1-Digest: iXwSoBJ2+sUkxfPdwmvrt1dWUbc=
+
+Name: org/eclipse/ui/internal/handlers/LockToolBarHandler.java
+SHA1-Digest: SSb0vm7WJyoHI0fVZUTrNkGdYpk=
+
+Name: org/eclipse/ui/internal/LayoutTreeNode.java
+SHA1-Digest: 7/K9BfP/ArJCEtSk3RMTg6821Mw=
+
+Name: org/eclipse/ui/internal/presentations/util/AbstractTabFolder.jav
+ a
+SHA1-Digest: yLJibK914ymywCKYMTiWMiwEbQE=
+
+Name: org/eclipse/ui/wizards/IWizardDescriptor.java
+SHA1-Digest: M00xOGLuwJsiwSEsZsX/JvUb+2w=
+
+Name: org/eclipse/ui/internal/progress/ProgressMessages.java
+SHA1-Digest: dMGq7MI4o54jkHYpws37JCM+WXo=
+
+Name: org/eclipse/ui/internal/quickaccess/CamelUtil.java
+SHA1-Digest: 0/oZWeRT2rgTc+9ylh8ivgtVdcU=
+
+Name: org/eclipse/ui/browser/IWebBrowser.java
+SHA1-Digest: 2QHLcpFOCJID5fszXxYPtlT94Tk=
+
+Name: org/eclipse/ui/internal/EditorActionBuilder.java
+SHA1-Digest: Zn752iqyFVEn6nUtTSfgrVugFGA=
+
+Name: org/eclipse/ui/about/ISystemSummarySection.java
+SHA1-Digest: hpe3bvyNrvOURTA6cmKhfA+Yfv8=
+
+Name: org/eclipse/ui/internal/presentations/PresentationSerializer.jav
+ a
+SHA1-Digest: rRYiqPWbyslQpt4q8/YjxAxArOo=
+
+Name: org/eclipse/ui/internal/handlers/SpyHandler.java
+SHA1-Digest: Z91jA0nfcxspQ+vlycVrtHYMGUI=
+
+Name: org/eclipse/ui/statushandlers/AbstractStatusHandler.java
+SHA1-Digest: C558X/p8SC8whIwZDHsYx1RvwYw=
+
+Name: org/eclipse/ui/part/IPage.java
+SHA1-Digest: APgryZDq8nTLuUlaBWhngel3NQ8=
+
+Name: org/eclipse/ui/internal/PageSelectionService.java
+SHA1-Digest: v01yW1wEfRA+szOPzUBCZSMgSV8=
+
+Name: org/eclipse/ui/internal/presentations/SystemMenuDetach.java
+SHA1-Digest: 0s/JdUaMHfcp5CzPHiUSdASnrb0=
+
+Name: org/eclipse/ui/IWorkbenchPartDescriptor.java
+SHA1-Digest: 6eiAAzyqFxDUEjhnITDrwfTcH8E=
+
+Name: org/eclipse/ui/internal/progress/FinishedJobs.java
+SHA1-Digest: fTdnWSNnnUrf6H+GjC0WAMZMc4g=
+
+Name: org/eclipse/ui/internal/registry/ViewParameterValues.java
+SHA1-Digest: qeSoFiMP2p3l/QoArkKVf8VooS0=
+
+Name: org/eclipse/ui/internal/menus/LegacyActionPersistence.java
+SHA1-Digest: o7k521ZcB78puqKevxFUGjW6Wt4=
+
+Name: org/eclipse/ui/activities/IdentifierEvent.java
+SHA1-Digest: XGzNQliLy22S2aItdXjU3TzkPrs=
+
+Name: org/eclipse/ui/internal/registry/PerspectiveParameterValues.java
+SHA1-Digest: fICehTTsK7V5ME7aoNr/1tlRD/0=
+
+Name: org/eclipse/ui/internal/preferences/PreferenceTransferElement.ja
+ va
+SHA1-Digest: gNjiJonh3raWu7OLdGxbE4NoGXE=
+
+Name: org/eclipse/ui/internal/statushandlers/StatusHandlerProductBindi
+ ngDescriptor.java
+SHA1-Digest: sMhMGnR75mR/zyxY2bC267sRKSY=
+
+Name: org/eclipse/ui/preferences/IWorkbenchPreferenceContainer.java
+SHA1-Digest: o1t0l1v5dho1DxatGb+TNwwW11M=
+
+Name: org/eclipse/ui/internal/actions/EditWorkingSetAction.java
+SHA1-Digest: SzwbVl0955bWXrU0rUqZSaMWicY=
+
+Name: org/eclipse/ui/internal/actions/NewWizardShortcutAction.java
+SHA1-Digest: tyt0vFim8JFc2U2TbmCmHm8+Edw=
+
+Name: org/eclipse/ui/internal/ShowViewMenu.java
+SHA1-Digest: GTDqaqZ92rL7exfUeUQ5VEHmQ54=
+
+Name: org/eclipse/ui/internal/presentations/SystemMenuClose.java
+SHA1-Digest: 5ezZSJWvVcL1PKz9PMSA0VH9uvQ=
+
+Name: org/eclipse/ui/progress/PendingUpdateAdapter.java
+SHA1-Digest: 5KDFg2mE9AruGxTZ0AuaHwuNJH4=
+
+Name: org/eclipse/ui/help/IContextComputer.java
+SHA1-Digest: GRPKLiA3UIU0wtQMpRCctM+Cxxo=
+
+Name: org/eclipse/ui/internal/themes/LightColorFactory.java
+SHA1-Digest: HBD+pJVPYHnIJEPTjx0H3jckihg=
+
+Name: org/eclipse/ui/handlers/ExpandAllHandler.java
+SHA1-Digest: VLqbGpDHyqNQY0vy+jgTB8fzmrI=
+
+Name: org/eclipse/ui/internal/themes/ThemeElementHelper.java
+SHA1-Digest: QZuRvGENhT7GZgI3SPWYYhfSVvo=
+
+Name: org/eclipse/ui/internal/handlers/QuickMenuHandler.java
+SHA1-Digest: TME8XSX5DmQcvcZxkInvmuJDnFQ=
+
+Name: org/eclipse/ui/commands/IElementReference.java
+SHA1-Digest: vmL/0AqLzpUz9IXWwubNA7BLHyA=
+
+Name: org/eclipse/ui/IMemento.java
+SHA1-Digest: P8jnxK7bikkHQpjH/myJEsVon8s=
+
+Name: org/eclipse/ui/internal/ILayoutContainer.java
+SHA1-Digest: wC2zRqPTWpyDbA7dgmfZYYepUWE=
+
+Name: org/eclipse/ui/part/EditorInputTransfer.java
+SHA1-Digest: ITtls5SdktdtB1XjFkGtV44ZhAg=
+
+Name: org/eclipse/ui/internal/NavigationHistoryEditorInfo.java
+SHA1-Digest: ZhAOTYYSPBF4APHM6AtYP/ZHRDw=
+
+Name: org/eclipse/ui/part/PageBookView.java
+SHA1-Digest: r7w4yemHypUiZaDgJxZEFSyWVgo=
+
+Name: org/eclipse/ui/internal/presentations/util/EnhancedFillLayout.ja
+ va
+SHA1-Digest: BrmkwJCBEbfvQSPj2EbAh/mbCWU=
+
+Name: org/eclipse/ui/activities/ICategory.java
+SHA1-Digest: yU/I4JIQqr34HH62EH94SAa5J8c=
+
+Name: org/eclipse/ui/actions/ContributionItemFactory.java
+SHA1-Digest: O2z4R9yDRJe2dOZNPnwMQkV53KM=
+
+Name: org/eclipse/ui/internal/misc/Policy.java
+SHA1-Digest: 9ILv2fVUVsigi2IYlFNkSGopoTY=
+
+Name: org/eclipse/ui/INewWizard.java
+SHA1-Digest: TZzau9S2G4dfeOymi3cHZAwgFfs=
+
+Name: org/eclipse/ui/internal/registry/ViewRegistry.java
+SHA1-Digest: tF33SZx8D45x+OnN6phMi8KDd/4=
+
+Name: org/eclipse/ui/internal/presentations/util/PresentablePartFolder
+ .java
+SHA1-Digest: z9eftndWJjoHpN17iOGUUiwizKo=
+
+Name: org/eclipse/ui/internal/PluginActionBuilder.java
+SHA1-Digest: 9hrpI/th1Ms5/Y2TdIzeulSnc5o=
+
+Name: org/eclipse/ui/internal/handlers/SavePerspectiveHandler.java
+SHA1-Digest: /V93lsD6oNf/Of1GwVWRQrQ98kg=
+
+Name: org/eclipse/ui/dialogs/IWorkingSetSelectionDialog.java
+SHA1-Digest: aHj1Mx909LwasqsOAG7prv1BXkU=
+
+Name: org/eclipse/ui/internal/KeyBindingService.java
+SHA1-Digest: NqrRLw1EGJysrxJyjew3+VWZl90=
+
+Name: org/eclipse/ui/internal/menus/SlaveMenuService.java
+SHA1-Digest: iw1ZcOW/bjRI8IwSQ4FaQBmlQjQ=
+
+Name: org/eclipse/ui/internal/keys/EmacsKeyFormatter.java
+SHA1-Digest: Eo+jPeDFH+WgAaGEPwbmv2nQJ0c=
+
+Name: org/eclipse/ui/internal/themes/CascadingFontRegistry.java
+SHA1-Digest: wkrvinHyq6Phe28Dragjxa2NNxU=
+
+Name: org/eclipse/ui/keys/IKeyFormatter.java
+SHA1-Digest: KCcGUOgJQ2du98JPCNerPbcY0JU=
+
+Name: org/eclipse/ui/internal/commands/CommandImageManagerEvent.java
+SHA1-Digest: sVMQBNuuLDi/JRwgOrla6FJUXd8=
+
+Name: org/eclipse/ui/internal/ActionPresentation.java
+SHA1-Digest: 79ODneHuwuaxg7/e46G/JtVmxGE=
+
+Name: org/eclipse/ui/IPerspectiveRegistry.java
+SHA1-Digest: 7lUV2/qCou5gTXI6tgANLKu7JIw=
+
+Name: org/eclipse/ui/internal/expressions/LegacyViewContributionExpres
+ sion.java
+SHA1-Digest: NsCosYcokQzWRspT1bt8n34Lq5Y=
+
+Name: org/eclipse/ui/part/IWorkbenchPartOrientation.java
+SHA1-Digest: +TsHpaBbDHl52Z7XueSglJcMORo=
+
+Name: org/eclipse/ui/internal/DefaultAnimationFeedback.java
+SHA1-Digest: ilD5Wu+QzqKtsH6ya7fcw1oSG9U=
+
+Name: org/eclipse/ui/internal/PartListenerList.java
+SHA1-Digest: A6Kko4+CR5iPLTg9H8kr38lLiaA=
+
+Name: org/eclipse/ui/internal/handlers/CloseAllPerspectivesHandler.jav
+ a
+SHA1-Digest: 5NQDDaYRECJGkCjZMDsK2K0NtyU=
+
+Name: org/eclipse/ui/internal/decorators/LightweightDecoratorDefinitio
+ n.java
+SHA1-Digest: BjyC1G8ruPnejeBfsPJYYhDVo00=
+
+Name: org/eclipse/ui/internal/themes/ThemeElementCategory.java
+SHA1-Digest: nMlrG4nWMr6PMu1bJeiA1xZucRk=
+
+Name: org/eclipse/ui/internal/dnd/InsertCaret.java
+SHA1-Digest: yVMnFzkuKLFBhF/+iKKimEVOpL4=
+
+Name: org/eclipse/ui/progress/DeferredTreeContentManager.java
+SHA1-Digest: y3OOJBJTDJbYxXxb3JyC7UEDyA0=
+
+Name: org/eclipse/ui/internal/editorsupport/ComponentSupport.java
+SHA1-Digest: Mu2CNiq49B+05efz/e27ykx2AkM=
+
+Name: org/eclipse/ui/internal/WorkbenchPage.java
+SHA1-Digest: VsjAa9+OlIqHyNwvuaJzo2MeQQ4=
+
+Name: org/eclipse/ui/internal/PerspectiveBarContributionItem.java
+SHA1-Digest: P0114AxUODZgNzcBSsMblMUR/mw=
+
+Name: org/eclipse/ui/SaveablesLifecycleEvent.java
+SHA1-Digest: tXa3TBoGdUjaFgJe9yNxNnaxXio=
+
+Name: org/eclipse/ui/internal/keys/model/KeyController.java
+SHA1-Digest: AxqeKFXe0e2GrH4AoO2Hi6qnn84=
+
+Name: org/eclipse/ui/internal/ActionSetSeparator.java
+SHA1-Digest: Ao+D2X4spcEspeJgl8QEz92DYws=
+
+Name: org/eclipse/ui/internal/commands/ILegacyAttributeNames.java
+SHA1-Digest: iSwvK0Gfwpx1skmQaTdMhCJ4qN8=
+
+Name: org/eclipse/ui/IInPlaceEditorInput.java
+SHA1-Digest: 0J1JhJ6CN9FhACOc6cfsa0pu9hY=
+
+Name: org/eclipse/ui/IStartup.java
+SHA1-Digest: bZ0UM7Nt1Cq6o5SqrIarqBFQRYM=
+
+Name: org/eclipse/ui/WorkbenchException.java
+SHA1-Digest: +FW7+cPTH/BG8OJ8ShXD4MGalLA=
+
+Name: org/eclipse/ui/internal/statushandlers/IStatusDialogConstants.ja
+ va
+SHA1-Digest: xOw6om8zkRXbXqPd1fx9tbc9tPs=
+
+Name: org/eclipse/ui/internal/activities/ws/AbstractTriggerPoint.java
+SHA1-Digest: SVCpgzF/Rw3DuGdtQ/oKZ7U74X0=
+
+Name: org/eclipse/ui/internal/EditorReference.java
+SHA1-Digest: LsCGSly9zUnAEKrFRAlz7c4eEGQ=
+
+Name: org/eclipse/ui/internal/tweaklets/TabBehaviourMRU.java
+SHA1-Digest: CLQMtnSl2jHewFK4tQ49X3fTSBQ=
+
+Name: org/eclipse/ui/internal/registry/EditorRegistry.java
+SHA1-Digest: KAbUKCNQaAAYUisfDhknOwHOUbY=
+
+Name: org/eclipse/ui/internal/dialogs/NewWizardCollectionComparator.ja
+ va
+SHA1-Digest: vXg3dKISPMOwCzZ0hAv43mKYhUQ=
+
+Name: org/eclipse/ui/internal/handlers/PropertyDialogHandler.java
+SHA1-Digest: RAQ46l/zsoCugfigvNSe1f9b+yU=
+
+Name: org/eclipse/ui/operations/LinearUndoViolationUserApprover.java
+SHA1-Digest: FD65HNIK82efzRLWOs0NPaBIE3I=
+
+Name: org/eclipse/ui/internal/handlers/ToggleCoolbarHandler.java
+SHA1-Digest: ii4liHL/t2Sn+VpI0YdwRSDb5jw=
+
+Name: org/eclipse/ui/IPersistableElement.java
+SHA1-Digest: PCa/KnbEMIzud96xgmZ112U/cH0=
+
+Name: org/eclipse/ui/part/IntroPart.java
+SHA1-Digest: 7n6Dtiz/RDpyr6h7ACVTF97IFpI=
+
+Name: org/eclipse/ui/model/IContributionService.java
+SHA1-Digest: 5UCbMRYEEGLTGMRRj66wtA9dEz0=
+
+Name: org/eclipse/ui/internal/services/WorkbenchLocationService.java
+SHA1-Digest: 0SceMHihPsaafJKSEpQXKsqiSPg=
+
+Name: org/eclipse/ui/internal/activities/Activity.java
+SHA1-Digest: 3ZXa2+ewAnq4clRk1SgvJDHAJ84=
+
+Name: org/eclipse/ui/internal/activities/ws/ActivityEnabler.java
+SHA1-Digest: MgWmI/wgXjRjKSTZVf0AV/Lxg1Y=
+
+Name: org/eclipse/ui/actions/SimpleWildcardTester.java
+SHA1-Digest: AzWC6V2BIKi5HTy/ZVBGGGAzlME=
+
+Name: org/eclipse/ui/internal/dialogs/IPropertyPageContributor.java
+SHA1-Digest: H4ulGOE1yqwPvrK+wD+kfS0kB8w=
+
+Name: org/eclipse/ui/internal/ObjectActionContributor.java
+SHA1-Digest: 40OnQ31im4mG45SE+Ic834rRaNA=
+
+Name: org/eclipse/ui/internal/keys/KeyBindingState.java
+SHA1-Digest: QkhSqgoHSDriR8F/wJ2esNFbd7I=
+
+Name: org/eclipse/ui/internal/registry/IActionSetDescriptor.java
+SHA1-Digest: o5R6MHa30z59Jtee/JuLtHYLZt4=
+
+Name: org/eclipse/ui/internal/ShowFastViewContribution.java
+SHA1-Digest: S4RTJU7C2znXrAyWDD1MXPXpHCA=
+
+Name: org/eclipse/ui/IActionDelegateWithEvent.java
+SHA1-Digest: Ir5lt5TKPmtDaDzPauoNAT0/mRQ=
+
+Name: org/eclipse/ui/AbstractSourceProvider.java
+SHA1-Digest: eZCn/ckI2fH9ds5iHPgzluGlZCg=
+
+Name: org/eclipse/ui/internal/decorators/FullDecoratorDefinition.java
+SHA1-Digest: xYejlByiQExf60NWWP91qdOpQSg=
+
+Name: org/eclipse/ui/internal/services/MenuSourceProvider.java
+SHA1-Digest: 8bSO/NffHPua9gR9FcS/GeepX5E=
+
+Name: org/eclipse/ui/part/IShowInSource.java
+SHA1-Digest: RIvCJZl3Ew/PmU9zgHcQnjEA6eU=
+
+Name: org/eclipse/ui/internal/ObjectActionContributorManager.java
+SHA1-Digest: Q9+7aQk5VqZug3CBZKtpzjJxg7s=
+
+Name: org/eclipse/ui/part/AbstractMultiEditor.java
+SHA1-Digest: XasrhVlh3xgOsv8oIVolPn2nsdY=
+
+Name: org/eclipse/ui/actions/ExportResourcesAction.java
+SHA1-Digest: c2sHUYhMRLf+jvRxzHaYqi88WO4=
+
+Name: org/eclipse/ui/themes/IThemePreview.java
+SHA1-Digest: +AFsqdLI1GfMRMNmW5kNhvT2LLo=
+
+Name: org/eclipse/ui/internal/IWorkbenchHelpContextIds.java
+SHA1-Digest: xqFu9k+MidC59LSpstJgYEZpkJ0=
+
+Name: org/eclipse/ui/internal/quickaccess/QuickAccessEntry.java
+SHA1-Digest: lqNCnGbrnm7Qlkt+IpuIeaR/0ro=
+
+Name: org/eclipse/ui/internal/ApplicationMenuManager.java
+SHA1-Digest: ui4uB8j2mAaYmyq+Ycjeu46VK60=
+
+Name: org/eclipse/ui/internal/LayoutPart.java
+SHA1-Digest: 5zAIKgURgDYd43ufnh1d1ojcff0=
+
+Name: org/eclipse/ui/internal/presentations/defaultpresentation/Defaul
+ tTabFolderColors.java
+SHA1-Digest: 1y5rDYVBkKhPplG13TxDHYsX6Hs=
+
+Name: org/eclipse/ui/internal/PartSite.java
+SHA1-Digest: Um0aHRUivQU+r6vEAYaXwHHEmP4=
+
+Name: about.html
+SHA1-Digest: M+fykt9heyWoEv1LNiIEeBhi/2Q=
+
+Name: org/eclipse/ui/IPluginContribution.java
+SHA1-Digest: fpQWDnNNyQUTs1ae1mFwduq41sQ=
+
+Name: org/eclipse/ui/internal/services/WorkbenchSourceProvider.java
+SHA1-Digest: BEx/Ew3uUoGqGWLdkfu5b7GsZIQ=
+
+Name: org/eclipse/ui/internal/contexts/ContextServiceFactory.java
+SHA1-Digest: Vz2yGw6286Hew3HTYrWTi76nNR8=
+
+Name: org/eclipse/ui/internal/dialogs/DataTransferWizardCollectionComp
+ arator.java
+SHA1-Digest: n5L22+D10fQPqsGV9zQmXEazIyY=
+
+Name: org/eclipse/ui/internal/ShowViewAction.java
+SHA1-Digest: 7YVsHS18kTKvPi8fpwXo5xo6//U=
+
+Name: org/eclipse/ui/activities/CategoryEvent.java
+SHA1-Digest: wfXvUuOqNONWKbyJrr3Lowui1G4=
+
+Name: org/eclipse/ui/internal/AbstractEvaluationHandler.java
+SHA1-Digest: B8eCXwYOrwt5fU1uRkJHucEDCLk=
+
+Name: org/eclipse/ui/activities/IActivityRequirementBinding.java
+SHA1-Digest: bORt9ehAtUJhr+7VN/C5t0RxX/E=
+
+Name: org/eclipse/ui/internal/dialogs/WorkbenchWizardSelectionPage.jav
+ a
+SHA1-Digest: kLsrnGyoQOpyRfiiC8FTEjlOzzk=
+
+Name: org/eclipse/ui/IShowEditorInput.java
+SHA1-Digest: r3mcwIF2oLui9pe6Th6jrV9XhDE=
+
+Name: org/eclipse/ui/dialogs/PropertyDialogAction.java
+SHA1-Digest: 87rmndMflItc+jSLMLSAuvnQI4s=
+
+Name: org/eclipse/ui/internal/DragCursors.java
+SHA1-Digest: idBMkmIMF9/RLjkngl79cmIvbC8=
+
+Name: org/eclipse/ui/internal/layout/Row.java
+SHA1-Digest: JETVEPd5TX2d1FzecxMgjo5mot8=
+
+Name: org/eclipse/ui/internal/handlers/DirtyStateTracker.java
+SHA1-Digest: WYTPp+u0P1DQl6JkB4KUoSlFxVw=
+
+Name: org/eclipse/ui/internal/presentations/util/StandardViewSystemMen
+ u.java
+SHA1-Digest: +rE3uqZaQG6ZN4Uu4JgKFf/xzjw=
+
+Name: org/eclipse/ui/internal/presentations/PaneFolderButtonListener.j
+ ava
+SHA1-Digest: H/V7J1WlFqtLKHPudPhXdT5s3KQ=
+
+Name: org/eclipse/ui/IWorkbenchPartReference.java
+SHA1-Digest: GBiFON1w14BEYXbQQjPdvmYFk/0=
+
+Name: org/eclipse/ui/internal/ViewIntroAdapterSite.java
+SHA1-Digest: JT3Ch6fE/KjKWTSiwE+H34vEsPo=
+
+Name: org/eclipse/ui/internal/keys/KeySequenceBinding.java
+SHA1-Digest: V1Ww3AM4kjAH4uhUC6q/a7l6X+4=
+
+Name: org/eclipse/ui/browser/AbstractWorkbenchBrowserSupport.java
+SHA1-Digest: eBTTGcgcWE241EmfwnFVH8dFK1s=
+
+Name: org/eclipse/ui/commands/IKeyConfigurationListener.java
+SHA1-Digest: wJzvUI7APzMUXw7/C74/qARHQKg=
+
+Name: org/eclipse/ui/views/IViewDescriptor.java
+SHA1-Digest: VX7YJG6itudFGfiMWvPIXv3ZOdg=
+
+Name: org/eclipse/ui/internal/preferences/WorkbenchPreferenceExpressio
+ nNode.java
+SHA1-Digest: 4TzuA9VkX4swgJf0YyDVri9/Cz8=
+
+Name: org/eclipse/ui/internal/ISelectionConversionService.java
+SHA1-Digest: ccby11pNSupVkGOv5oqqGhNJaog=
+
+Name: org/eclipse/ui/internal/registry/ViewRegistryReader.java
+SHA1-Digest: Za3RPDkTSYbiT4ghhSCUPIGl0Us=
+
+Name: org/eclipse/ui/internal/LayoutPartSash.java
+SHA1-Digest: ItsgmUueuAtYBE2UNXR6UVyn3jA=
+
+Name: org/eclipse/ui/internal/wizards/preferences/WizardPreferencesExp
+ ortPage1.java
+SHA1-Digest: tvqxMHr+0yMOTzXaLilF6kSE4EY=
+
+Name: org/eclipse/ui/dialogs/AbstractElementListSelectionDialog.java
+SHA1-Digest: 1DsPGjV06OSV5nJJWyZjQazvIOc=
+
+Name: org/eclipse/ui/internal/progress/IJobProgressManagerListener.jav
+ a
+SHA1-Digest: +yU23Xi76KS13rm2oPlPWPWpq5A=
+
+Name: org/eclipse/ui/actions/PartEventAction.java
+SHA1-Digest: VS/iiV80Zc1CT5W03qqBEh5NGjw=
+
+Name: org/eclipse/ui/internal/EarlyStartupRunnable.java
+SHA1-Digest: 1UIc5rucc0tQV256EBYdI2xpOA0=
+
+Name: org/eclipse/ui/internal/PerspectiveHelper.java
+SHA1-Digest: qd5Dk99bi9riDjY95UPqmWySY0I=
+
+Name: org/eclipse/ui/commands/IHandler.java
+SHA1-Digest: D7xOTQx8Uozx5/dIaJteoo016yw=
+
+Name: org/eclipse/ui/internal/intro/IIntroConstants.java
+SHA1-Digest: /biNrOFj2h2UBmmrFvkFbcQoA/I=
+
+Name: org/eclipse/ui/internal/CloseOthersHandler.java
+SHA1-Digest: 9qkqC1XO4gPSslLGFJ0FqqOhTBw=
+
+Name: org/eclipse/ui/internal/menus/MenuServiceFactory.java
+SHA1-Digest: ivAohDawEkEh0N7u0RMbWylEOwk=
+
+Name: org/eclipse/ui/internal/preferences/PreferencesAdapter.java
+SHA1-Digest: vHhdlryENtEhtcALQDVbTiKRk2o=
+
+Name: org/eclipse/ui/model/PerspectiveLabelProvider.java
+SHA1-Digest: rbLf1NkxKDpH/9rwwjNvI2n4HL8=
+
+Name: org/eclipse/ui/internal/quickaccess/QuickAccessMessages.java
+SHA1-Digest: VgoLXtiSdfAQKOzosavk+Hj8C0I=
+
+Name: org/eclipse/ui/testing/TestableObject.java
+SHA1-Digest: 3/gTJcC1G3Vb4Z/T7E7ZFV6m9sY=
+
+Name: org/eclipse/ui/internal/expressions/AndExpression.java
+SHA1-Digest: 2la2IR86rN3OpBZHE9ARjtaCJmE=
+
+Name: org/eclipse/ui/handlers/RegistryRadioState.java
+SHA1-Digest: i94P818szg58fqoFFBfNfu9HP7U=
+
+Name: org/eclipse/ui/internal/IReorderListener.java
+SHA1-Digest: 5J0BB6LGHsftZ1UNENfdl/9fR7s=
+
+Name: org/eclipse/ui/internal/decorators/FullTextDecoratorRunnable.jav
+ a
+SHA1-Digest: hRBvowFbWdXGqu2teDpCfuwJFBQ=
+
+Name: org/eclipse/ui/internal/presentations/SystemMenuSize.java
+SHA1-Digest: spTXFdPaoXjYy2vVyl6VgKHMrTQ=
+
+Name: org/eclipse/ui/dialogs/PreferencesUtil.java
+SHA1-Digest: nFlG+lvFrAnlWDAekiI1ZQHoaCU=
+
+Name: org/eclipse/ui/internal/handlers/IWorkbenchWindowHandlerDelegate
+ .java
+SHA1-Digest: eHXZJmXbiCkTba+rdhGPD7f5FDI=
+
+Name: org/eclipse/ui/internal/provisional/presentations/IActionBarPres
+ entationFactory.java
+SHA1-Digest: YRzDIayny2NzxF7yyYs9aPflw5A=
+
+Name: org/eclipse/ui/XMLMemento.java
+SHA1-Digest: r6vfuAW6cpDwtVLcU49/zvlIZEE=
+
+Name: org/eclipse/ui/part/IShowInTarget.java
+SHA1-Digest: M3OOyN6x+1WxePxhhsLCVo3jc+U=
+
+Name: org/eclipse/ui/internal/IChangeListener.java
+SHA1-Digest: P8oTMrTmexPU5u15GSOpaTlMPrU=
+
+Name: org/eclipse/ui/activities/ICategoryListener.java
+SHA1-Digest: NSgkm+H0JKqAhT+PqZJa28KLJgI=
+
+Name: org/eclipse/ui/internal/dialogs/ImportWizard.java
+SHA1-Digest: v6GSz+3ysNMfuCiEICHwLs4VjPQ=
+
+Name: org/eclipse/ui/internal/ObjectContributorManager.java
+SHA1-Digest: nBz0Upm5uY4/e2GJDamOBYHsH2c=
+
+Name: org/eclipse/ui/IActionBars2.java
+SHA1-Digest: 0IEwTPzvWCeoxgSyNfNdlXyD3j8=
+
+Name: org/eclipse/ui/intro/IIntroSite.java
+SHA1-Digest: ySFHxipYPPtpjNawiMhMitvlaxE=
+
+Name: org/eclipse/ui/internal/menus/ProxyMenuAdditionCacheEntry.java
+SHA1-Digest: 1c1yk+s7+aOo2c3bIWqz0VnbIPU=
+
+Name: org/eclipse/ui/dialogs/ISelectionStatusValidator.java
+SHA1-Digest: TeoVz2G3dXaQKk6VVB5eB8FV3xI=
+
+Name: org/eclipse/ui/internal/progress/ProgressCanvasViewer.java
+SHA1-Digest: JWHxA7kin/ks0EM1JRWYBVMsREc=
+
+Name: org/eclipse/ui/internal/DetachedWindow.java
+SHA1-Digest: 7x9zy0xKdL7K234k2BjicwHT1qM=
+
+Name: org/eclipse/ui/internal/services/IServiceLocatorCreator.java
+SHA1-Digest: lYRblGdIWeae4UQrLYnmRBgjBhI=
+
+Name: org/eclipse/ui/internal/dialogs/WizardCollectionElement.java
+SHA1-Digest: 44ZjvwBMi7aDBI2EriCRM921C8o=
+
+Name: org/eclipse/ui/internal/menus/WidgetProxy.java
+SHA1-Digest: ausMMyfa1sgABTUpJyVXeUFlIvw=
+
+Name: org/eclipse/ui/internal/PerspectiveListenerList.java
+SHA1-Digest: qsejSChLF5JjNsa3b4jFEKqRW4g=
+
+Name: org/eclipse/ui/internal/themes/ICategorizedThemeElementDefinitio
+ n.java
+SHA1-Digest: QDGFbXCQWSwsBLLMIDxWV0ABNUY=
+
+Name: org/eclipse/ui/internal/progress/AnimationManager.java
+SHA1-Digest: FJfbz1oRSPjBEtzB07whoThrmW4=
+
+Name: org/eclipse/ui/internal/actions/SelectWorkingSetsAction.java
+SHA1-Digest: YTtrloqoWU9pc26DqQaAi8Rxbek=
+
+Name: org/eclipse/ui/internal/services/EvaluationAuthority.java
+SHA1-Digest: fYUpS/0z44gmiVdeGQfXSGYibUQ=
+
+Name: org/eclipse/ui/internal/Model.java
+SHA1-Digest: EMcaIkUqASfShofSslw8Zvz3jXI=
+
+Name: org/eclipse/ui/internal/dialogs/PropertyPageManager.java
+SHA1-Digest: JviSM624Bpvn+Npaeui49CJRing=
+
+Name: org/eclipse/ui/internal/activities/ws/ActivityLabelProvider.java
+SHA1-Digest: AzB3bJIjwAY4HI5JB++N/YFL1F4=
+
+Name: org/eclipse/ui/internal/ICompatibleWorkbenchPage.java
+SHA1-Digest: 9GV5aJv17XPrzfvDf4AqeSaa1dg=
+
+Name: org/eclipse/ui/internal/commands/LegacyCommandListenerWrapper.ja
+ va
+SHA1-Digest: jD4/95Htn5iGPezit4qGEsu/Xr8=
+
+Name: org/eclipse/ui/activities/ITriggerPointAdvisor.java
+SHA1-Digest: UIAAt9b4MGmiLgEjd/dkw4Ep+sY=
+
+Name: org/eclipse/ui/internal/PartService.java
+SHA1-Digest: vUZKQgvkdaX3olloMYCp8/OXeR8=
+
+Name: org/eclipse/ui/internal/statushandlers/LabelProviderWrapper.java
+SHA1-Digest: H0LNFyxLLo8IolE+x6zEdqDZTdk=
+
+Name: org/eclipse/ui/presentations/IPresentationSerializer.java
+SHA1-Digest: sWQFa2kPDI99HBdflPpgEnlg0Vk=
+
+Name: org/eclipse/ui/internal/EditorAreaTrimToolBar.java
+SHA1-Digest: sAen8WrPe+dyE0fkpglP9yvBzlE=
+
+Name: org/eclipse/ui/part/MultiPageEditorPart.java
+SHA1-Digest: WToSqhoyQ9iUd+ZxRlW3Ln6EyNc=
+
+Name: org/eclipse/ui/internal/ObjectFilterTest.java
+SHA1-Digest: /9hgBpgrmsaR/su3OoZacfnIpeE=
+
+Name: org/eclipse/ui/internal/progress/BlockedJobsDialog.java
+SHA1-Digest: cLvmO74DjPK95YWnKefS8sWbeU8=
+
+Name: org/eclipse/ui/internal/misc/ExternalEditor.java
+SHA1-Digest: bxsHDQ2ElqdONc4Eb6bmaB4SRY0=
+
+Name: org/eclipse/ui/internal/ActionDescriptor.java
+SHA1-Digest: UJzLr1jqWMXqEF3vnJsBj1BRU8s=
+
+Name: org/eclipse/ui/IEditorLauncher.java
+SHA1-Digest: E2vDUvPf+pXfJd3efzHVgCBJ4cM=
+
+Name: org/eclipse/ui/internal/handlers/TraversePageHandler.java
+SHA1-Digest: N/rT1ntChJpehRMIV6cS+zjbOKQ=
+
+Name: org/eclipse/ui/internal/ActionSetManager.java
+SHA1-Digest: OMDxhiEpcf0oMOphbIWW/38p7Ak=
+
+Name: org/eclipse/ui/application/ActionBarAdvisor.java
+SHA1-Digest: LoY1m4/yANBSAn02YhBUq74BUlM=
+
+Name: org/eclipse/ui/internal/PartPane.java
+SHA1-Digest: T26s1WwWgQjBB58051ylJlxLljo=
+
+Name: org/eclipse/ui/internal/commands/CommandServiceFactory.java
+SHA1-Digest: z+4qYu8UcBwQJ1n4Mxj1ddQAjx8=
+
+Name: org/eclipse/ui/internal/activities/ws/ActivityContentProvider.ja
+ va
+SHA1-Digest: 2IGCsf10YQS71GWwyrwm32tNDZc=
+
+Name: org/eclipse/ui/IWorkbenchPartConstants.java
+SHA1-Digest: D0toplPsbV5wvY9734SEMSvl1Yg=
+
+Name: org/eclipse/ui/statushandlers/AbstractStatusAreaProvider.java
+SHA1-Digest: vwSfK3CPzal2600lvL6tfeeUaeE=
+
+Name: org/eclipse/ui/internal/dialogs/WorkbenchEditorsDialog.java
+SHA1-Digest: od0T2Ruja59ncmtP0tyTk8WGB3w=
+
+Name: org/eclipse/ui/internal/WWinPluginAction.java
+SHA1-Digest: T6WXgoSFckMrdFbUqzuPj8z1pHs=
+
+Name: org/eclipse/ui/internal/RectangleAnimationFeedbackBase.java
+SHA1-Digest: woeXgzCDiZejhMSrl97pI+5uOd4=
+
+Name: org/eclipse/ui/internal/AnimationFeedbackBase.java
+SHA1-Digest: P8/Ti49SXILEF49axSKB7Il5/0w=
+
+Name: org/eclipse/ui/actions/OpenPerspectiveAction.java
+SHA1-Digest: 3aLooGfbRTVjYZAzIHEdoiOy65M=
+
+Name: org/eclipse/ui/handlers/ShowViewHandler.java
+SHA1-Digest: kr5YMroeLbBPQFvFgM8DXq8SVlY=
+
+Name: org/eclipse/ui/internal/layout/TrimArea.java
+SHA1-Digest: xnks780fdqSCHP0VM7U0egYWGa4=
+
+Name: org/eclipse/ui/internal/presentations/defaultpresentation/Defaul
+ tSimpleTabListener.java
+SHA1-Digest: 5yTAJSNFWPdnxalx6icUBDEewBk=
+
+Name: org/eclipse/ui/dialogs/ElementListSelectionDialog.java
+SHA1-Digest: Nocr0JxE9maRx9zMs2SKR66kMVU=
+
+Name: org/eclipse/ui/internal/IWorkbenchThemeConstants.java
+SHA1-Digest: BwCL0lD1MQ3MCN1gndrNAxR6SuY=
+
+Name: org/eclipse/ui/internal/statushandlers/StatusHandlerDescriptorsM
+ ap.java
+SHA1-Digest: 5jJMMFcJc7d8Se+n0iPn1QuV2j4=
+
+Name: org/eclipse/ui/ISaveablesLifecycleListener.java
+SHA1-Digest: RBpDSbpOAkSi4SBCen+A/xIbH1o=
+
+Name: org/eclipse/ui/actions/PerspectiveMenu.java
+SHA1-Digest: idSTygvkpJKMHR7mVCru+ggYnU8=
+
+Name: org/eclipse/ui/internal/activities/CategoryActivityBinding.java
+SHA1-Digest: 7SDskoqB5r228n3Yo/dXeKqyaco=
+
+Name: org/eclipse/ui/testing/ITestHarness.java
+SHA1-Digest: TmKI31tkda2sqpKHkIB4zPthczo=
+
+Name: org/eclipse/ui/internal/dialogs/WizardTagFilter.java
+SHA1-Digest: FfLSxuXpjF6NL4hidhIpSu1dR6Q=
+
+Name: org/eclipse/ui/internal/ViewLayoutRec.java
+SHA1-Digest: EcNwI+Oye/vhvEzWZ8yhxTB4JKY=
+
+Name: org/eclipse/ui/internal/dialogs/ViewPatternFilter.java
+SHA1-Digest: ID958eHMW7SI4EFH7UFLO9PHQ7s=
+
+Name: org/eclipse/ui/internal/AbstractSelectionService.java
+SHA1-Digest: M58yXYM4e3y2+UoU0ElBFi2EVFQ=
+
+Name: org/eclipse/ui/internal/part/NullPersistable.java
+SHA1-Digest: inBplpWvhOiCLOz8ATSGAkEVaaM=
+
+Name: org/eclipse/ui/statushandlers/WorkbenchErrorHandler.java
+SHA1-Digest: vpRi+V5fKZowr2vAVYD+kkIJ3Kw=
+
+Name: org/eclipse/ui/commands/ICommandService.java
+SHA1-Digest: 00lidXSz+g+Fia1Y6+T7etH4e/0=
+
+Name: org/eclipse/ui/internal/EditorAreaHelper.java
+SHA1-Digest: zKtovhBhFQjC0IFCIFgDFQht+N0=
+
+Name: org/eclipse/ui/internal/PluginActionSet.java
+SHA1-Digest: iYCpn4HjsnVbEexaDcbMQEg+cNg=
+
+Name: org/eclipse/ui/internal/statushandlers/InternalDialog.java
+SHA1-Digest: jUru+yUC6wbVrWMhMHi+92Ps6zg=
+
+Name: org/eclipse/ui/dialogs/FileEditorMappingLabelProvider.java
+SHA1-Digest: I3MmM8swEj8ZRjfVJ6FMTEqzs3s=
+
+Name: org/eclipse/ui/internal/preferences/AbstractPropertyListener.jav
+ a
+SHA1-Digest: 7rgGJNWzUzZJ6609/4U7J6pYU6I=
+
+Name: org/eclipse/ui/internal/dnd/IDropTarget.java
+SHA1-Digest: j65C/MiReeMi3l9nqe7g/ER+QnI=
+
+Name: org/eclipse/ui/IPropertyListener.java
+SHA1-Digest: w8Q7zAlo4l3fDnVHWoxDY1HkNk4=
+
+Name: org/eclipse/ui/internal/ViewerActionBuilder.java
+SHA1-Digest: TTyhJ5b5p8tqdBtZYjVBIWO6hLg=
+
+Name: org/eclipse/ui/internal/preferences/ThemeAdapter.java
+SHA1-Digest: oKfhBODcnzDHeOvmcA21MHwrves=
+
+Name: org/eclipse/ui/internal/dialogs/SimpleWorkingSetSelectionDialog.
+ java
+SHA1-Digest: 8IHMeMUdpCx3pR4UUZy0XA5btlY=
+
+Name: org/eclipse/ui/internal/handlers/WizardHandler.java
+SHA1-Digest: ZBnvD3j/faM9c9HdBbIm5UF8qCU=
+
+Name: org/eclipse/ui/commands/ICommand.java
+SHA1-Digest: LludUMieKjWHLwlOIPayOLJpFFs=
+
+Name: org/eclipse/ui/menus/WorkbenchWindowControlContribution.java
+SHA1-Digest: ueUXPVPD6EAkPca/PbJxidyCJQ0=
+
+Name: org/eclipse/ui/splash/AbstractSplashHandler.java
+SHA1-Digest: Zg3zTMWVU5d5dkARsJaBl6LF1H4=
+
+Name: org/eclipse/ui/internal/handlers/HandlerProxy.java
+SHA1-Digest: a1/TJLiAw7J1mNbokUywMt7P2MI=
+
+Name: org/eclipse/ui/internal/AbstractWorkingSet.java
+SHA1-Digest: w9lT7C/sfcb5sbC8By9W0RlPee0=
+
+Name: org/eclipse/ui/internal/layout/ITrimManager.java
+SHA1-Digest: hegaQe96rBdJxDbsASYjyJ95vd8=
+
+Name: org/eclipse/ui/internal/presentations/defaultpresentation/Native
+ TabItem.java
+SHA1-Digest: IzN5Bn2NoFQq+Du1tpaYzes55sM=
+
+Name: org/eclipse/ui/internal/PartTester.java
+SHA1-Digest: qIdGlck445jM0GFeDAd21/PvdMI=
+
+Name: org/eclipse/ui/internal/dialogs/WorkbenchPreferencePage.java
+SHA1-Digest: 6vTyZ8ozk8L95QXXevSm5F2gZs4=
+
+Name: org/eclipse/ui/internal/dialogs/SelectPerspectiveDialog.java
+SHA1-Digest: wxsWF7ln1TPx+Nvcpc7hcUq3W/A=
+
+Name: org/eclipse/ui/internal/activities/PatternUtil.java
+SHA1-Digest: Ic/2sLmr2NgG6eXqOr/JkX6SSq4=
+
+Name: org/eclipse/ui/part/ShowInContext.java
+SHA1-Digest: To0Gvf+X0nliwkRjv/Asrt2/pm8=
+
+Name: org/eclipse/ui/internal/dialogs/ContentTypesPreferencePage.java
+SHA1-Digest: UlQ2QcWVHckZSmJOlJCx8hFIi1Y=
+
+Name: org/eclipse/ui/internal/dialogs/ActionSetComparator.java
+SHA1-Digest: S9OpzvGLne9fx10u3MaoTQGArFw=
+
+Name: org/eclipse/ui/IImportWizard.java
+SHA1-Digest: ndcLgeA16SZ7yUSmCmWc3+uAQss=
+
+Name: org/eclipse/ui/internal/handlers/SaveHandler.java
+SHA1-Digest: ELDToNDACJknU+NBM1mLCzppqS8=
+
+Name: org/eclipse/ui/internal/TrimUtil.java
+SHA1-Digest: mbqj/1Vk0Q3HXvlEUePl8q79RAA=
+
+Name: org/eclipse/ui/internal/tweaklets/ImageAnimationTweak.java
+SHA1-Digest: AMEJNAQKU8OoEcB9beE7lo5vn1U=
+
+Name: org/eclipse/ui/internal/dialogs/ExportWizard.java
+SHA1-Digest: 9nnFa5Nvi6JtOM5PMko2L4EoXJI=
+
+Name: org/eclipse/ui/ISourceProvider.java
+SHA1-Digest: It2AcmHsMKgd9t6KN8qZSRR1Ndw=
+
+Name: org/eclipse/ui/keys/KeySequence.java
+SHA1-Digest: bMkG86t60azKv9KV/q1BgTnoJac=
+
+Name: org/eclipse/ui/preferences/SettingsTransfer.java
+SHA1-Digest: GRITE6i8t52V4xXwu2bDJ+JwZII=
+
+Name: org/eclipse/ui/internal/progress/ProgressManagerUtil.java
+SHA1-Digest: 1kJ4GLUOxIuNVqeiEEVuecbXWH4=
+
+Name: org/eclipse/ui/actions/NewWizardAction.java
+SHA1-Digest: hvr2ZSc7nwY+6LCrbPkMPaBfs+Y=
+
+Name: org/eclipse/ui/internal/progress/ProgressInfoItem.java
+SHA1-Digest: 5gCWQ0f6oNMlUwz46tTYNmi/KfE=
+
+Name: org/eclipse/ui/internal/StartupThreading.java
+SHA1-Digest: Vr9CanIFiF93rJJ7UHo/XMl6wCo=
+
+Name: org/eclipse/ui/model/IComparableContribution.java
+SHA1-Digest: BThj888eAdMGksFNWbI7QsU0EGM=
+
+Name: org/eclipse/ui/internal/layout/TrimCommonUIHandle.java
+SHA1-Digest: dExKGZpKvVzejYjczx77U82IdNY=
+
+Name: org/eclipse/ui/internal/menus/DynamicToolBarContributionItem.jav
+ a
+SHA1-Digest: xdIdonIRL3WuhTUD9+1SfYM2Yxk=
+
+Name: org/eclipse/ui/internal/part/NullEditorInput.java
+SHA1-Digest: qXvkbCBDUPZlxgocw3zlk8UiuhE=
+
+Name: org/eclipse/ui/internal/part/SelectionProviderAdapter.java
+SHA1-Digest: yMrTp24R27JLWhR6aCd9s+rmWg4=
+
+Name: org/eclipse/ui/internal/dialogs/ImportPage.java
+SHA1-Digest: iCPqSlB2xlsuUTaM+czEezsu5Mw=
+
+Name: org/eclipse/ui/internal/activities/ws/ImageBindingRegistry.java
+SHA1-Digest: KTPY3mga3r+3mRzfTVVRPfUBsTM=
+
+Name: org/eclipse/ui/internal/dialogs/WorkbenchWizardElement.java
+SHA1-Digest: KeFBWKXQFUdVf00/o3PnvOvRPtI=
+
+Name: org/eclipse/ui/internal/progress/ProgressViewUpdater.java
+SHA1-Digest: d2uEEiZeUCLy16xpbvumHkUa22s=
+
+Name: org/eclipse/ui/internal/decorators/DecorationScheduler.java
+SHA1-Digest: 7hD4u6I8IrW7MwMW5OOdgQx5pBY=
+
+Name: org/eclipse/ui/LegacyHandlerSubmissionExpression.java
+SHA1-Digest: qh7f9tJT+TOdhoV6orDI5mQqcqw=
+
+Name: org/eclipse/ui/INestableKeyBindingService.java
+SHA1-Digest: Mq+Dn0Azvez5a9GR1/5p0QCDGls=
+
+Name: org/eclipse/ui/internal/decorators/FullImageDecoratorRunnable.ja
+ va
+SHA1-Digest: fQNumf6ej061EOL6ksYsMreSYzM=
+
+Name: org/eclipse/ui/actions/NewWizardDropDownAction.java
+SHA1-Digest: pr2mvGM6KdHOOZ2DrMB5MhAmkzA=
+
+Name: org/eclipse/ui/handlers/IHandlerService.java
+SHA1-Digest: SoIsPE6TroWhVfZUE8XOX4JsUYA=
+
+Name: org/eclipse/ui/internal/dialogs/WorkingSetSelectionDialog.java
+SHA1-Digest: VBH0D0pQ8Q91fxjBwoPGJQPGgNg=
+
+Name: org/eclipse/ui/internal/StickyViewManager32.java
+SHA1-Digest: DP0uXRyzKrbBn8bJKrAZOxgVoqU=
+
+Name: org/eclipse/ui/internal/PluginAction.java
+SHA1-Digest: BlUDpkVRLWVafFnJdbJzbArLqVc=
+
+Name: org/eclipse/ui/internal/presentations/SystemMenuStateChange.java
+SHA1-Digest: XH0/2qHM6K/fhtKyBGOyD6WedfU=
+
+Name: org/eclipse/ui/progress/IProgressConstants.java
+SHA1-Digest: Qz92opbGBxwsqis/pz2F8ytOiL0=
+
+Name: org/eclipse/ui/internal/PluginActionSetReader.java
+SHA1-Digest: J+MBCtlxRKy8MOwLqBFA0jbG9hI=
+
+Name: org/eclipse/ui/commands/CommandEvent.java
+SHA1-Digest: cE3mW6Am+4vA+a6n1gn3BXbdRyQ=
+
+Name: org/eclipse/ui/internal/expressions/AlwaysEnabledExpression.java
+SHA1-Digest: 6r+8XyeGjfu3Qc74oTRFExsszpw=
+
+Name: org/eclipse/ui/operations/UndoRedoActionGroup.java
+SHA1-Digest: dfTixpisPDJIV8niXmq4IujjGKg=
+
+Name: org/eclipse/ui/internal/progress/TaskBarProgressManager.java
+SHA1-Digest: n83SPyk0Mjko1auhx5rRq4Yxlpg=
+
+Name: org/eclipse/ui/IViewReference.java
+SHA1-Digest: WK7k0/Skrfqd0Wnht71+Be9lPwI=
+
+Name: org/eclipse/ui/internal/presentations/defaultpresentation/Native
+ PresentationFactory.java
+SHA1-Digest: k0rutFolj1ZLi8sogUu/PnEoKz0=
+
+Name: org/eclipse/ui/internal/handlers/PinEditorHandler.java
+SHA1-Digest: vRUb4aJc2NbO53ve6uDwNREmqM8=
+
+Name: org/eclipse/ui/internal/dialogs/TreeManager.java
+SHA1-Digest: Z1LJoCyHZ46nu05/GYUYbyvNFx0=
+
+Name: org/eclipse/ui/IEditorPart.java
+SHA1-Digest: kO6xZsGDHSAVYoNesQTLSFNdyCQ=
+
+Name: org/eclipse/ui/internal/EditorSiteDragAndDropServiceImpl.java
+SHA1-Digest: GtKKqWlXjlaXzHnkreXs3+Ip310=
+
+Name: org/eclipse/ui/actions/ActionContext.java
+SHA1-Digest: qj1xCuv9nk/CLQdBcWtI/UjMjhs=
+
+Name: org/eclipse/ui/internal/ShowInHandler.java
+SHA1-Digest: s0LiWA5LM6pxNMWTob0WlCKCXh8=
+
+Name: org/eclipse/ui/internal/CycleBaseHandler.java
+SHA1-Digest: apaZr9H30NY38B2ewYmZbwANWlM=
+
+Name: org/eclipse/ui/IPageLayout.java
+SHA1-Digest: T+x0Rd5jFWiGDmh5ZtqyLeqPbEY=
+
+Name: org/eclipse/ui/internal/dialogs/DialogUtil.java
+SHA1-Digest: baUtlujgfMgHepcEp1nu42/tAT8=
+
+Name: org/eclipse/ui/internal/TrimDragPreferences.java
+SHA1-Digest: sRdE4hz0IqwrxtYMPnK4T88FYWI=
+
+Name: org/eclipse/ui/internal/LegacyAnimationFeedback.java
+SHA1-Digest: rjemvdMazrQc+1RGMGL5LDQV7fI=
+
+Name: org/eclipse/ui/keys/ModifierKey.java
+SHA1-Digest: KcywdOUAUgsnXDM8xm9cN7Yj3Kg=
+
+Name: org/eclipse/ui/IDecoratorManager.java
+SHA1-Digest: meekfebCwXXM8zapg/2MNa97+6g=
+
+Name: org/eclipse/ui/internal/themes/CascadingTheme.java
+SHA1-Digest: Xvxnn46f8i7efPwnc0LmT51HsUk=
+
+Name: org/eclipse/ui/dialogs/FileEditorMappingContentProvider.java
+SHA1-Digest: HpdpnSdcxghUb2Fiq9bvuaF6sE4=
+
+Name: org/eclipse/ui/internal/activities/ws/RegistryTriggerPoint.java
+SHA1-Digest: znVGTz46NEzigiXNH9dc8WNN7DI=
+
+Name: org/eclipse/ui/internal/EditorHistoryItem.java
+SHA1-Digest: tgZ4sPayYSJVPx2qLJGTM/mKGvg=
+
+Name: org/eclipse/ui/internal/tweaklets/Tweaklets.java
+SHA1-Digest: MDdK2Y1Jzp/4nJw7usHlNAocafY=
+
+Name: org/eclipse/ui/statushandlers/StatusManager.java
+SHA1-Digest: eb6glgCV0puirSTuC5EmVx7eB2w=
+
+Name: org/eclipse/ui/actions/OpenNewWindowMenu.java
+SHA1-Digest: o8REemlLSWZ/7AnFeivEFEFvDIM=
+
+Name: org/eclipse/ui/internal/keys/BindingService.java
+SHA1-Digest: RxCAlxC7lezZRznnpeQB1+IxGEw=
+
+Name: org/eclipse/ui/internal/progress/IAnimationProcessor.java
+SHA1-Digest: r5KctaKfsOznHXkpblYBl0irx/A=
+
+Name: org/eclipse/ui/internal/handlers/ActionDelegateHandlerProxy.java
+SHA1-Digest: zwp0PYygJQpfluQvqbYYq6JVinA=
+
+Name: org/eclipse/ui/internal/themes/ColorDefinition.java
+SHA1-Digest: kplROfVHU2sLOFK0F8owLeI1Ikk=
+
+Name: org/eclipse/ui/internal/Semaphore.java
+SHA1-Digest: pNPzwMUjVTuIBAq0tOXaQ+cWZy8=
+
+Name: org/eclipse/ui/internal/preferences/PropertyUtil.java
+SHA1-Digest: qtT4BWPyFoW/1MvTY7GD31EnNCQ=
+
+Name: org/eclipse/ui/internal/registry/WizardParameterValues.java
+SHA1-Digest: wlH5S4/AHy8/Q+AxBAxqlh8zgTU=
+
+Name: org/eclipse/ui/IPathEditorInput.java
+SHA1-Digest: wCoO5d+L3y2mqIxsa20BNanTSqE=
+
+Name: org/eclipse/ui/internal/progress/ProgressAnimationItem.java
+SHA1-Digest: UGrP4YWj5wKk7xvzkgRVQvJvbM8=
+
+Name: org/eclipse/ui/internal/ExtensionEventHandlerMessages.java
+SHA1-Digest: 5VL7B3JG4ydUASsO5eh0GP2Q3wg=
+
+Name: org/eclipse/ui/internal/RadioMenu.java
+SHA1-Digest: gi6WmQuRdazurbIy+QVLX1iH+ng=
+
+Name: org/eclipse/ui/internal/dialogs/PerspectivesPreferencePage.java
+SHA1-Digest: 9EraqNnyifsXpCm0SEPRiv25qp8=
+
+Name: org/eclipse/ui/PlatformUI.java
+SHA1-Digest: RAZuTgA4+V6mgkgvLuz0GI2lgic=
+
+Name: org/eclipse/ui/internal/registry/PreferenceTransferRegistryReade
+ r.java
+SHA1-Digest: J8wR2qS/jC+C3rjVbXg1qH+8Zk4=
+
+Name: META-INF/eclipse.inf
+SHA1-Digest: SAqY+5ITAL0mkdYeijlSRhyIaZk=
+
+Name: org/eclipse/ui/activities/ICategoryActivityBinding.java
+SHA1-Digest: KOaWd6k8J6r2x34G4kNQU1fWLxs=
+
+Name: org/eclipse/ui/application/WorkbenchAdvisor.java
+SHA1-Digest: qzfvnwNoqJM4uVU1v6rXZSlnlr8=
+
+Name: org/eclipse/ui/internal/util/BundleUtility.java
+SHA1-Digest: 05iAGoLt5m3VN9nq9vNmcmsqQcU=
+
+Name: org/eclipse/ui/dialogs/YesNoCancelListSelectionDialog.java
+SHA1-Digest: Y/+4mWyQMkHBkibYsp2Ap/D1GOA=
+
+Name: org/eclipse/ui/internal/ActivateEditorHandler.java
+SHA1-Digest: 6/S6iRAZ3opHBxPxm8bfsOqbcXI=
+
+Name: org/eclipse/ui/internal/about/AboutSystemPage.java
+SHA1-Digest: unwtrvRwSFjkklCM16gFiotLNsM=
+
+Name: org/eclipse/ui/internal/WorkbenchLayout.java
+SHA1-Digest: Em2D+j7hqqP0aScWr+jthiYD+Ek=
+
+Name: org/eclipse/ui/internal/decorators/DecorationBuilder.java
+SHA1-Digest: xDVQvq7/osLoQv6uILgdw0NwMGs=
+
+Name: org/eclipse/ui/internal/handlers/RestartWorkbenchHandler.java
+SHA1-Digest: iOYL7psQr4kGKoYUgwP3xSBS7NA=
+
+Name: org/eclipse/ui/internal/presentations/AbstractTableInformationCo
+ ntrol.java
+SHA1-Digest: kJu2ZJ6evyI7FjplVpJKM/d6sG8=
+
+Name: org/eclipse/ui/internal/services/SourcePriorityNameMapping.java
+SHA1-Digest: pnxAZCfPHsKmXJNR2Y1e9wEZ2+E=
+
+Name: org/eclipse/ui/menus/IWorkbenchWidget.java
+SHA1-Digest: vgbalPN56BC1OEXnY4tWKQ1+hX0=
+
+Name: org/eclipse/ui/commands/ICategoryListener.java
+SHA1-Digest: YTfrIxGZ8Kjrz1A7plfNlcCZx+8=
+
+Name: org/eclipse/ui/part/PluginTransferData.java
+SHA1-Digest: AuxnOVCO/oYYW592m4GS2sZ02zM=
+
+Name: org/eclipse/ui/internal/handlers/ShowKeyAssistHandler.java
+SHA1-Digest: jC016aA3B1yDqgKvHTqQAupDnMQ=
+
+Name: org/eclipse/ui/internal/provisional/application/IActionBarConfig
+ urer2.java
+SHA1-Digest: dV9KESHosBUScp0ifs5+PdO8LNs=
+
+Name: org/eclipse/ui/commands/IElementUpdater.java
+SHA1-Digest: /zsaPx3fjvEbMmL5PVgD6SRua0o=
+
+Name: org/eclipse/ui/handlers/HandlerUtil.java
+SHA1-Digest: Glby9in8oz0hYrRGUCVOdceIuWo=
+
+Name: org/eclipse/ui/internal/presentations/SystemMenuCloseOthers.java
+SHA1-Digest: LbKKzfvOV9KAYp36o2VLZ6OnBcI=
+
+Name: org/eclipse/ui/dialogs/ListSelectionDialog.java
+SHA1-Digest: x7EOn3t65qDcX7fUVOennnrl+nE=
+
+Name: org/eclipse/ui/IWorkbenchWindowActionDelegate.java
+SHA1-Digest: 7oavAojoudgnqGuDghEKkucyavc=
+
+Name: org/eclipse/ui/keys/CharacterKey.java
+SHA1-Digest: rGABwh75DME+Hsn4gJfmFUuVYuY=
+
+Name: org/eclipse/ui/commands/NotHandledException.java
+SHA1-Digest: XZIvlWMSlQn+JEiVRmm55QKzazk=
+
+Name: org/eclipse/ui/internal/keys/OutOfOrderVerifyListener.java
+SHA1-Digest: MruCJuKELhRLpYC4kVyJ3A6UMyw=
+
+Name: org/eclipse/ui/internal/IntModel.java
+SHA1-Digest: Hhi2Y1FGJmIBKe0fFzXlnNZyAxs=
+
+Name: org/eclipse/ui/internal/operations/AdvancedValidationUserApprove
+ r.java
+SHA1-Digest: R+Rn0OBnszGL7PHTnSgQtbkII6A=
+
+Name: org/eclipse/ui/presentations/StackPresentation.java
+SHA1-Digest: fw+ExHZxjSrXH0+XxV6C9Yn7ggc=
+
+Name: org/eclipse/ui/internal/services/IWorkbenchLocationService.java
+SHA1-Digest: 473T/HU/IUYbYh+6EbfKwaR+72I=
+
+Name: plugin.properties
+SHA1-Digest: 0KF/LaEQIxR98YhFAsa3I8kShl8=
+
+Name: org/eclipse/ui/internal/services/SourceProviderService.java
+SHA1-Digest: s56ZeezYxREeai4eaYKCdSg6TYw=
+
+Name: org/eclipse/ui/internal/dialogs/RegistryPageContributor.java
+SHA1-Digest: GvoYT32zl9WdRqcFLcPqaro9kUs=
+
+Name: org/eclipse/ui/internal/presentations/SystemMenuFastViewOrientat
+ ion.java
+SHA1-Digest: L3+7bwNL2nM0QfFWEW9VLrHNk20=
+
+Name: org/eclipse/ui/IExportWizard.java
+SHA1-Digest: rdmxQIebGgPtg8/Hu6lpj3cw1OI=
+
+Name: org/eclipse/ui/presentations/IStackPresentationSite.java
+SHA1-Digest: /0R96zbM1QzQHDMkLDD7OlowjWA=
+
+Name: org/eclipse/ui/internal/UILockListener.java
+SHA1-Digest: 6y4olgBaekYdaD1HkD5cx25+byg=
+
+Name: org/eclipse/ui/internal/services/PreferencePersistence.java
+SHA1-Digest: iIMCP4np6Ga7T7TyD5ruAptwKLU=
+
+Name: org/eclipse/ui/internal/menus/AbstractWorkbenchWidget.java
+SHA1-Digest: dt1lf/HBRDYorpKRRf5Yys/kPJc=
+
+Name: org/eclipse/ui/internal/layout/ICachingLayout.java
+SHA1-Digest: 95RCQAAcnJwm4CyHmWKLB8B5tK8=
+
+Name: org/eclipse/ui/presentations/PresentationUtil.java
+SHA1-Digest: kD2j1CuSf8bSEBLlYk9QiB6hSSU=
+
+Name: org/eclipse/ui/internal/WWinPartService.java
+SHA1-Digest: uztOXzOvaR3BcnYOUAHOJ7kp1mI=
+
+Name: org/eclipse/ui/internal/quickaccess/QuickAccessElement.java
+SHA1-Digest: rEhzPjwSomZaj4XKN1JroGvDzxE=
+
+Name: org/eclipse/ui/internal/WorkingSetManager.java
+SHA1-Digest: IcOZ5MhFxvojfBtxBpTRRzDdaTQ=
+
+Name: org/eclipse/ui/dialogs/ListDialog.java
+SHA1-Digest: DQUApa0WJvrp1gCJqgSE9Ich3bs=
+
+Name: org/eclipse/ui/internal/registry/PerspectiveRegistry.java
+SHA1-Digest: q0dmBr+DYBqDVzgJbMpYr+9VYfg=
+
+Name: org/eclipse/ui/internal/IWorkbenchConstants.java
+SHA1-Digest: 8lqOBGeVZGEshnzE3RhK8ZcvgzU=
+
+Name: org/eclipse/ui/keys/ParseException.java
+SHA1-Digest: cSSd1RVNf/y6g9VimGY3PIqZekQ=
+
+Name: org/eclipse/ui/progress/UIJob.java
+SHA1-Digest: zXQ1BAVtsUquAubB0gbtRroS+kQ=
+
+Name: org/eclipse/ui/contexts/ContextEvent.java
+SHA1-Digest: Il7lcTi4oZFbKdCbalO5fzJJDBM=
+
+Name: org/eclipse/ui/internal/activities/ws/TriggerPointAdvisorRegistr
+ y.java
+SHA1-Digest: y6qe2Ca7PEz+LdmI7KlKRTSroMc=
+
+Name: org/eclipse/ui/internal/preferences/PreferenceStoreAdapter.java
+SHA1-Digest: kfiCg+U3n1vQO9Mf5Tx7txWhC3E=
+
+Name: org/eclipse/ui/internal/dialogs/EmptyPreferencePage.java
+SHA1-Digest: bFhUZWKXLltlXfENYGLJGuTJpUI=
+
+Name: org/eclipse/ui/internal/quickaccess/PerspectiveElement.java
+SHA1-Digest: DNlf4ZTes7GgnhWeT3+/tPaGhuA=
+
+Name: org/eclipse/ui/internal/handlers/OpenInNewWindowHandler.java
+SHA1-Digest: uK8FdOBd46Auw0ebjvSlyhguguI=
+
+Name: org/eclipse/ui/internal/part/Part.java
+SHA1-Digest: lYQ3yj1dHOaCpjn7J6UhjBTqYv0=
+
+Name: org/eclipse/ui/internal/dialogs/PropertyPageContributorManager.j
+ ava
+SHA1-Digest: IrOnXmTtzSfr78DD2G2PdIeFHJ4=
+
+Name: org/eclipse/ui/ISourceProviderListener.java
+SHA1-Digest: qCzPziaret1h2grJjfG0vBnoDsU=
+
+Name: org/eclipse/ui/internal/quickaccess/PropertiesElement.java
+SHA1-Digest: KrmlYIKLtJYBI41wuTH52+aRNiQ=
+
+Name: org/eclipse/ui/internal/registry/WizardsRegistryReader.java
+SHA1-Digest: EKtSZxmirTQCI6o8Hn0oCqVEJ1k=
+
+Name: org/eclipse/ui/internal/presentations/BasicPartList.java
+SHA1-Digest: g5p43pjWVVQsg1SeAhDwgapB8DM=
+
+Name: org/eclipse/ui/IWorkbench.java
+SHA1-Digest: vnabNdT3aPs23PXARmnengxTCnU=
+
+Name: org/eclipse/ui/IEditorDescriptor.java
+SHA1-Digest: RWMYn2SBVSgauNHe76RsPcWIhJY=
+
+Name: org/eclipse/ui/internal/ViewReference.java
+SHA1-Digest: 2YNWDWrDEM9L4eXbVd3WwWuRNus=
+
+Name: org/eclipse/ui/PerspectiveAdapter.java
+SHA1-Digest: kWbSR/vF/+i+MXjp1T7i1QBy/HI=
+
+Name: org/eclipse/ui/commands/ICommandImageService.java
+SHA1-Digest: NdiDj91mYRRaPX1NBdfq8jTVLE0=
+
+Name: org/eclipse/ui/internal/keys/model/BindingModel.java
+SHA1-Digest: no+2KDWMo99jTmp6vWVguj0oGh0=
+
+Name: org/eclipse/ui/internal/ViewSite.java
+SHA1-Digest: SIhgRnycCzkMGZkV01w7Yd3Alco=
+
+Name: org/eclipse/ui/internal/tweaklets/InterceptContributions.java
+SHA1-Digest: 3h4gFZz3brgW2V6WzJ/32blQB5M=
+
+Name: org/eclipse/ui/handlers/IHandlerActivation.java
+SHA1-Digest: L8V8p1yg+lzRebaGMTCJeC99H+Q=
+
+Name: org/eclipse/ui/handlers/CollapseAllHandler.java
+SHA1-Digest: CfDaPNht8r5+9XK6MW9WTR6IaDI=
+
+Name: org/eclipse/ui/internal/WindowTrimProxy.java
+SHA1-Digest: cuKhQo4kvYO0+J6wEG1MAQO/Dag=
+
+Name: org/eclipse/ui/internal/actions/ModifyWorkingSetDelegate.java
+SHA1-Digest: o1RZiI+n1KE0OHsNq5vaSH6lEok=
+
+Name: org/eclipse/ui/internal/themes/IThemeDescriptor.java
+SHA1-Digest: 3Je5dP8EAAYDskR9nSKEEZM+Jx8=
+
+Name: org/eclipse/ui/part/MultiPageEditorSite.java
+SHA1-Digest: ezYZVnYOhc8w/9oxR2ov1rXFoz0=
+
+Name: org/eclipse/ui/internal/registry/PropertyPagesRegistryReader.jav
+ a
+SHA1-Digest: F+6j+pECVNQsy//Nyg3TZEiBJH0=
+
+Name: org/eclipse/ui/internal/activities/ws/EnablementDialog.java
+SHA1-Digest: Fz32o+JVFowL8W1ZHGC30PyyUAE=
+
+Name: org/eclipse/ui/internal/activities/AbstractActivityManager.java
+SHA1-Digest: ij6s2+YTzvHi6Cl9GArLocwZqdw=
+
+Name: org/eclipse/ui/internal/WorkbenchPartReference.java
+SHA1-Digest: QCTAXbELpZ7L12E31nA0DS/DxI4=
+
+Name: org/eclipse/ui/internal/keys/KeysPreferenceFiltersDialog.java
+SHA1-Digest: +hebDQKmwrk4d2uTZqtrDFQNkKI=
+
+Name: org/eclipse/ui/IWorkbenchCommandConstants.java
+SHA1-Digest: jnD0bcCUGJZUDgqH55bT11/L6Mc=
+
+Name: org/eclipse/ui/internal/WorkbenchMessages.java
+SHA1-Digest: VbRsSuHazvD86lxGDbLp3dki5uU=
+
+Name: org/eclipse/ui/IPartService.java
+SHA1-Digest: mOYgHDiN/KkhWjFz3t8ngVESv40=
+
+Name: org/eclipse/ui/internal/IStickyViewManager.java
+SHA1-Digest: jtGLSeDWD9+FInChWQgp0l5QXa8=
+
+Name: org/eclipse/ui/activities/NotDefinedException.java
+SHA1-Digest: gIUsfXRd/K7woqTMrrbqWbtYjpY=
+
+Name: org/eclipse/ui/internal/expressions/LegacyEditorContributionExpr
+ ession.java
+SHA1-Digest: qXJZZUqIhoV4HhXBozeBHFcAR98=
+
+Name: org/eclipse/ui/internal/activities/ActivityRequirementBindingDef
+ inition.java
+SHA1-Digest: RvAT6zTCZ8i/fTFnACmJHTxp018=
+
+Name: org/eclipse/ui/internal/menus/DynamicMenuContributionItem.java
+SHA1-Digest: Ow88+hFbC3QS1d6l4PW1GhUDOEo=
+
+Name: org/eclipse/ui/dialogs/EditorSelectionDialog.java
+SHA1-Digest: yJk3PIG6tleQFBphS6Ufd89gVKc=
+
+Name: org/eclipse/ui/internal/dialogs/ExportPage.java
+SHA1-Digest: UWq/2nBHMRTKE86eTybgLGG0LVE=
+
+Name: org/eclipse/ui/internal/keys/KeysPreferencePage.java
+SHA1-Digest: K3ZC68ikQZPV+QKCLC5TnzpeNvU=
+
+Name: org/eclipse/ui/internal/quickaccess/WizardElement.java
+SHA1-Digest: ImkvLqssHwqh4dvfgH9CKc2rsCE=
+
+Name: org/eclipse/ui/IWorkingSetElementAdapter.java
+SHA1-Digest: XKK5cPTzZpz8ldj7OxKto1jLfxY=
+
+Name: org/eclipse/ui/IPageListener.java
+SHA1-Digest: QR+mQDMFE/3jVuvVDnMzAUh4AKc=
+
+Name: org/eclipse/ui/keys/KeyStroke.java
+SHA1-Digest: YC5Gy2/SaW1+Yb2OMpFyRlvc9WQ=
+
+Name: org/eclipse/ui/contexts/IContextActivation.java
+SHA1-Digest: zbPSegf6CbPONcl9uopxHYXxFhs=
+
+Name: org/eclipse/ui/intro/IntroContentDetector.java
+SHA1-Digest: +dJ3dxVVUn2uUUcTXsAG55DWfOM=
+
+Name: org/eclipse/ui/operations/RedoActionHandler.java
+SHA1-Digest: OIPAtRfY//VEw+LT2xxqgKGP61s=
+
+Name: org/eclipse/ui/about/IInstallationPageContainer.java
+SHA1-Digest: 1ZVyZv2qgtE3E7EhffmBY6RraEI=
+
+Name: org/eclipse/ui/internal/ViewPluginAction.java
+SHA1-Digest: Kwsj9bcsXQ1LTLxFzJsw0FP/fi8=
+
+Name: org/eclipse/ui/IWorkbenchPartSite.java
+SHA1-Digest: +cJ55MPXXHmP/Wnn1Fe/nsr7Q38=
+
+Name: org/eclipse/ui/internal/dialogs/ImportExportPage.java
+SHA1-Digest: M3FV7NZ3oLHM/Q0lWYaBTeMOhQc=
+
+Name: org/eclipse/ui/internal/keys/NativeModifierKeyComparator.java
+SHA1-Digest: VSLf6k8Nxh4OYLTbJUAISb9APLQ=
+
+Name: org/eclipse/ui/internal/keys/SchemeLegacyWrapper.java
+SHA1-Digest: NgmY8EHDu1Jn7iPO/8a+idD7ycg=
+
+Name: org/eclipse/ui/internal/progress/ProgressMonitorJobsDialog.java
+SHA1-Digest: Q/ISuwvwcUP8BQTPhRU9UocD224=
+
+Name: org/eclipse/ui/internal/WorkbenchSupportFactory.java
+SHA1-Digest: UzpY9hLYZXnWiuJeP+F04X0WUX4=
+
+Name: org/eclipse/ui/internal/keys/OutOfOrderListener.java
+SHA1-Digest: aXXiEmmp8Qmv1xZcMopAJ7A1yGY=
+
+Name: org/eclipse/ui/internal/presentations/util/TabDragHandler.java
+SHA1-Digest: jZoiojigqxfPzDv1GqU8EAT07MQ=
+
+Name: org/eclipse/ui/internal/presentations/SystemMenuMoveFolder.java
+SHA1-Digest: qIQVkE3AueYKpt9XHvOVA1/LvWQ=
+
+Name: org/eclipse/ui/internal/AbstractPartSelectionTracker.java
+SHA1-Digest: L+zxmiwAfEnXGJyOArcGzzL7HvU=
+
+Name: org/eclipse/ui/internal/keys/AbstractModifierKeyComparator.java
+SHA1-Digest: UHRHqRO2WaZG1+SFzm6YioGVVZA=
+
+Name: org/eclipse/ui/internal/progress/IProgressUpdateCollector.java
+SHA1-Digest: IOUfhEnfxhHNCAzQSKZvb2Y4uu0=
+
+Name: org/eclipse/ui/menus/MenuUtil.java
+SHA1-Digest: okLE8KUOxoZ6lc5Lmv5z2q8FKNQ=
+
+Name: org/eclipse/ui/wizards/IWizardCategory.java
+SHA1-Digest: 3c6q+YxpmZC12Zs/qGQ/PHZuATc=
+
+Name: org/eclipse/ui/internal/expressions/LegacyViewerContributionExpr
+ ession.java
+SHA1-Digest: sPvs+nVz7Jmy8abIBQaiqW34kyc=
+
+Name: org/eclipse/ui/internal/WorkbenchConfigurer.java
+SHA1-Digest: rZfqnunCRe0HJ4x3ATTYtdf8abI=
+
+Name: org/eclipse/ui/internal/quickaccess/QuickAccessHandler.java
+SHA1-Digest: aaYshfpvKqAdQwiOu3mWmHtEYow=
+
+Name: org/eclipse/ui/internal/preferences/IPropertyMap.java
+SHA1-Digest: axTNY2LMgtFptw+GRoyhEY5aWjA=
+
+Name: org/eclipse/ui/internal/InternalSaveable.java
+SHA1-Digest: bDRFeqI3xZloKBzZTS/SKhT1gIU=
+
+Name: org/eclipse/ui/internal/EditorHistory.java
+SHA1-Digest: 5WMJep1QIKbxl4B17MSuGmN/auk=
+
+Name: org/eclipse/ui/internal/tweaklets/AllowGrabFocus.java
+SHA1-Digest: Fmh8VPiAQ0HLG766fgPZBCTpdEQ=
+
+Name: org/eclipse/ui/internal/dialogs/WorkbenchDialogBlockedHandler.ja
+ va
+SHA1-Digest: e6JhgJuJJZB38dOiwA/h2nIrKi0=
+
+Name: org/eclipse/ui/internal/PartPlaceholder.java
+SHA1-Digest: wXFv5W6xOvc6TJsJ7p0TF0ABN/8=
+
+Name: org/eclipse/ui/internal/presentations/DefaultActionBarPresentati
+ onFactory.java
+SHA1-Digest: YGdtcwPkvPBTf/dyCLO6XmfWNgA=
+
+Name: org/eclipse/ui/model/ContributionComparator.java
+SHA1-Digest: croECTiX3D0TuDy3PIZ+alV4kd4=
+
+Name: org/eclipse/ui/internal/ReopenEditorMenu.java
+SHA1-Digest: Wpkx3sZU30jMExpHSnUkaxV5Oww=
+
+Name: org/eclipse/ui/activities/IActivityManager.java
+SHA1-Digest: l+Hj0ehk6KlZYwiTLvxo5sJXRC8=
+
+Name: org/eclipse/ui/internal/quickaccess/ViewElement.java
+SHA1-Digest: /EXdI4LOtfx/vWRQyhES7DS+vo8=
+
+Name: org/eclipse/ui/IWorkbenchWindow.java
+SHA1-Digest: 5BaXO07g/5PGnEVZ1rV4+A1dKbE=
+
+Name: org/eclipse/ui/databinding/WorkbenchObservables.java
+SHA1-Digest: 3WXt6QXKX3NuKvFJdTUdRMt/yso=
+
+Name: org/eclipse/ui/internal/keys/model/SchemeModel.java
+SHA1-Digest: eLngI+8e79YbZtFEjNKZRUMs4+E=
+
+Name: org/eclipse/ui/IEditorRegistry.java
+SHA1-Digest: 5Z/cR9Nd+kV2IPT2VLmeOPNVIuQ=
+
+Name: org/eclipse/ui/internal/activities/Persistence.java
+SHA1-Digest: dpgbbN6t0fOofUj971SchADJDrw=
+
+Name: org/eclipse/ui/internal/layout/SizeCache.java
+SHA1-Digest: 8j9Pb63/NoiC6/WIfH0H4u8eDJ8=
+
+Name: org/eclipse/ui/internal/tweaklets/TitlePathUpdater.java
+SHA1-Digest: hB0/JTE2zVcUAqkpZo0bet+oBZQ=
+
+Name: org/eclipse/ui/internal/layout/IWindowTrim.java
+SHA1-Digest: hhc8zV7hOFGaZGBImn2nWe9pgFc=
+
+Name: org/eclipse/ui/internal/dialogs/CapabilityFilter.java
+SHA1-Digest: +SZOMNgv9mWufAD61nWTQX23poI=
+
+Name: org/eclipse/ui/internal/keys/AbstractKeyFormatter.java
+SHA1-Digest: 0U9ayl+epNCP9Q+rGJ2dJ7wz9jw=
+
+Name: org/eclipse/ui/internal/quickaccess/ActionElement.java
+SHA1-Digest: WubL1xXrfzQ3PhmMP9wrUu0Vlnc=
+
+Name: org/eclipse/ui/internal/wizards/preferences/PreferencesMessages.
+ java
+SHA1-Digest: vmoJEciIMQD5PrrhgEvUKxzOdSY=
+
+Name: org/eclipse/ui/internal/actions/AbstractWorkingSetPulldownDelega
+ te.java
+SHA1-Digest: yA8tgVc8GzNwZTPaCqYtGSFNufA=
+
+Name: org/eclipse/ui/internal/ReferenceCounter.java
+SHA1-Digest: xdmJuSIcWDtF6F/aLRCo2c15tB4=
+
+Name: org/eclipse/ui/IWorkbenchActionConstants.java
+SHA1-Digest: IeDqqc7H7mv0dJotqK6koT5hfZ0=
+
+Name: org/eclipse/ui/dialogs/IOverwriteQuery.java
+SHA1-Digest: ZZljGhWMieAGRw79PgGqZQOS49M=
+
+Name: org/eclipse/ui/internal/dialogs/SavePerspectiveDialog.java
+SHA1-Digest: 0uDE6N3AcMrD9vfVAglCsANhLkA=
+
+Name: org/eclipse/ui/IFolderLayout.java
+SHA1-Digest: qxQypDu9ng4t7v6gzOP8fH91jn0=
+
+Name: org/eclipse/ui/internal/services/EvaluationResultCacheComparator
+ .java
+SHA1-Digest: MqlXQGDkGlEsXK6RRRXQYBNazUc=
+
+Name: org/eclipse/ui/internal/ViewPane.java
+SHA1-Digest: 7nSWL5CZ3TeWzDIOePRfc/uqmbw=
+
+Name: org/eclipse/ui/internal/handlers/HandlerAuthority.java
+SHA1-Digest: Q80a4sSbDSJFPVE5R21pMagXpcc=
+
+Name: org/eclipse/ui/internal/layout/TrimDragPreferenceDialog.java
+SHA1-Digest: YVlpyH3WgeUK8eMQY24Hjj734OI=
+
+Name: org/eclipse/ui/internal/menus/TrimBarManager2.java
+SHA1-Digest: fhioxl0blU+dn7E9l7C2ki5llD0=
+
+Name: org/eclipse/ui/part/CellEditorActionHandler.java
+SHA1-Digest: 5aIn3J5r8n7k29oRKDvsisTxmoU=
+
+Name: org/eclipse/ui/preferences/IWorkingCopyManager.java
+SHA1-Digest: HSBhKIT07COz781hIik6jC8dOIg=
+
+Name: org/eclipse/ui/internal/presentations/SystemMenuFastView.java
+SHA1-Digest: /aksPjkVtm2HI5+pdGGyMnEhrZo=
+
+Name: org/eclipse/ui/internal/themes/Theme.java
+SHA1-Digest: L/qSKTxdVHdGGEsIAO+pTD5RgTc=
+
+Name: org/eclipse/ui/browser/IWorkbenchBrowserSupport.java
+SHA1-Digest: bHl/LmNHTk44R2ilkroprdkfbqk=
+
+Name: org/eclipse/ui/internal/ActionSetsEvent.java
+SHA1-Digest: oxnQE+uFY7n0bRymKnTwMikkPTg=
+
+Name: org/eclipse/ui/part/CoolItemGroupMarker.java
+SHA1-Digest: nCRlFFtvNClkEJvgyYdYl2nnRq8=
+
+Name: org/eclipse/ui/internal/dnd/IDragOverListener.java
+SHA1-Digest: sRkRSVzCqmanHnumw1pXWOuXsuw=
+
+Name: org/eclipse/ui/internal/WWinActionBars.java
+SHA1-Digest: 8YsQloc61rUCweVrjzTv7bOM1mo=
+
+Name: org/eclipse/ui/SubActionBars2.java
+SHA1-Digest: RslZTwp4lH7vpXLj+yg20yDTl2E=
+
+Name: org/eclipse/ui/internal/tweaklets/Animations.java
+SHA1-Digest: N/mXzDnhsucDbsupLdyiJv2x2GY=
+
+Name: org/eclipse/ui/internal/MultiEditorInnerPane.java
+SHA1-Digest: M/6+avGQbsYBcVu7TI6Q5xhd/yc=
+
+Name: org/eclipse/ui/internal/keys/model/ConflictModel.java
+SHA1-Digest: CcLeqNvniTFXZiD1fah+ZmqO+Jo=
+
+Name: org/eclipse/ui/internal/themes/FontDefinition.java
+SHA1-Digest: eW7/MIDJ5jV5lGUw7abQ5RB0o8o=
+
+Name: org/eclipse/ui/internal/handlers/ClosePartHandler.java
+SHA1-Digest: QwVTItMT06HS0+ylsDWJ3cZ48/I=
+
+Name: org/eclipse/ui/internal/progress/SubTaskInfo.java
+SHA1-Digest: Y0SZ/kNpNyN8QsxckHY4sx5n97k=
+
+Name: org/eclipse/ui/internal/SlavePageService.java
+SHA1-Digest: XI8RjRg3klOOPq6Lwfpj7GSS/FM=
+
+Name: org/eclipse/ui/IEditorSite.java
+SHA1-Digest: Db5UIvE/CvZRtjil0HsU3qVs7zI=
+
+Name: org/eclipse/ui/internal/part/IMultiPageEditorSiteHolder.java
+SHA1-Digest: WkeIW3NZ3tfWq6XId+BRfH/nW3Y=
+
+Name: org/eclipse/ui/internal/WorkingSetFactory.java
+SHA1-Digest: cCAK4p44Pm7vrzBShEzzokNE/AI=
+
+Name: org/eclipse/ui/internal/about/InstallationDialog.java
+SHA1-Digest: Q8Bictn7148d1gsQ95qup/Q/Faw=
+
+Name: org/eclipse/ui/internal/AnimatedTabFeedback.java
+SHA1-Digest: hq+LMqnynSfRcJ5xq6deHlLC4O8=
+
+Name: org/eclipse/ui/internal/progress/DetailedProgressViewer.java
+SHA1-Digest: AYXSDfYLbShIf995r3WxGlLi9g4=
+
+Name: org/eclipse/ui/internal/PerspectiveTracker.java
+SHA1-Digest: SzO/xDxAIyLFOGe5XWCrfhnu5rQ=
+
+Name: org/eclipse/ui/IWindowListener.java
+SHA1-Digest: M0nJ8jIRojtpfYMEoxh3/Fq1MUk=
+
+Name: org/eclipse/ui/dialogs/WorkingSetGroup.java
+SHA1-Digest: BQF7rTlQ4R/WQ45XU4FjzAkFxGQ=
+
+Name: org/eclipse/ui/progress/IElementCollector.java
+SHA1-Digest: 6CAy5l/oxNoXZ5i3NG4P5HverK8=
+
+Name: org/eclipse/ui/dialogs/IWorkingSetPage.java
+SHA1-Digest: gLHKsBw1IcwcKg0xNvQHDKdl0bY=
+
+Name: org/eclipse/ui/IWorkbenchWindowPulldownDelegate.java
+SHA1-Digest: 7S2t3DpGlPL4yGBgTTfAM0c8l4E=
+
+Name: org/eclipse/ui/dialogs/SelectionStatusDialog.java
+SHA1-Digest: D3/ARS0F2SeZUlZUJiBMt12aLVw=
+
+Name: org/eclipse/ui/internal/menus/MenuActivation.java
+SHA1-Digest: QVmSAet3sVe/z7zwkqfEnFyC6Dc=
+
+Name: org/eclipse/ui/internal/progress/WorkbenchSiteProgressService.ja
+ va
+SHA1-Digest: 6K0nYEpFBj9AXxtZudyGlz8b5eQ=
+
+Name: org/eclipse/ui/progress/IProgressService.java
+SHA1-Digest: VOPk9JYhi/zbxDw7iKRcuoDKlng=
+
+Name: org/eclipse/ui/internal/dialogs/ShowViewDialog.java
+SHA1-Digest: aCT/MKaUK/ypLlZsrXmf0WsTPkA=
+
+Name: org/eclipse/ui/commands/HandlerSubmission.java
+SHA1-Digest: l2RET1UWCnP/NlVWYkm7eAquKeM=
+
+Name: org/eclipse/ui/internal/activities/ws/ActivityViewerFilter.java
+SHA1-Digest: AFD8DklInVh24ZosFaeurte67V8=
+
+Name: org/eclipse/ui/part/EditorPart.java
+SHA1-Digest: qos1ZxLoKTsKMNm9ZhpjLbc26/k=
+
+Name: org/eclipse/ui/internal/ProductInfo.java
+SHA1-Digest: 6kUNB12j/NibfFgKubTzNFySplQ=
+
+Name: org/eclipse/ui/model/AdaptableList.java
+SHA1-Digest: BfvPerL8ENEuIPhKvjKlMYJopgg=
+
+Name: org/eclipse/ui/internal/help/WorkbenchHelpSystem.java
+SHA1-Digest: 4UnF1lmxxjeHZdXKDBsBc+rh4eU=
+
+Name: org/eclipse/ui/internal/progress/TaskInfo.java
+SHA1-Digest: 0kZJslOO3yjfk4xtrgVnWsS/CIc=
+
+Name: org/eclipse/ui/OpenAndLinkWithEditorHelper.java
+SHA1-Digest: 2lcMqAYR3MtpSOWDLBjctcTCL34=
+
+Name: org/eclipse/ui/commands/ICommandManagerListener.java
+SHA1-Digest: Yxm+AstqMiaRRWl/CN+PEGgKz1o=
+
+Name: org/eclipse/ui/internal/keys/CompactKeyFormatter.java
+SHA1-Digest: dhbY+CwpTo7tPfp2yOHM3WPqxp8=
+
+Name: org/eclipse/ui/actions/RetargetAction.java
+SHA1-Digest: V8q99soGlPEbOBczhMAYWXlLrPk=
+
+Name: org/eclipse/ui/actions/ContributedAction.java
+SHA1-Digest: NEL2RJlUsIVI1u/dCyUHyPNLWgA=
+
+Name: org/eclipse/ui/ISizeProvider.java
+SHA1-Digest: HYyRe0Juamw8m1nTFUNZU1oQyx8=
+
+Name: org/eclipse/ui/internal/keys/NativeKeyFormatter.java
+SHA1-Digest: abngudWPDOp3PRVuwMl+CyPP0Yk=
+
+Name: org/eclipse/ui/internal/registry/ActionSetDescriptor.java
+SHA1-Digest: rb9GI1cC2/q0a0nQfOSvmZmHQPE=
+
+Name: org/eclipse/ui/internal/SaveablesList.java
+SHA1-Digest: 2y2TGjo04LskbRMVNAWw0cu/dl4=
+
+Name: org/eclipse/ui/activities/IWorkbenchActivitySupport.java
+SHA1-Digest: tEBi0+x8eYh8Xcrrcj7mLkMvPzc=
+
+Name: org/eclipse/ui/internal/dialogs/WizardPatternFilter.java
+SHA1-Digest: FVNrTf8dPiPiMCQNVaLcTBbhXvY=
+
+Name: org/eclipse/ui/internal/layout/GridInfo.java
+SHA1-Digest: 8dMkNvjrhdA18dbxM5aJEGmlTo0=
+
+Name: org/eclipse/ui/services/IEvaluationReference.java
+SHA1-Digest: bZskpfcrHULaZB8A2v7QGNxduZQ=
+
+Name: org/eclipse/ui/internal/ActionSetMenuManager.java
+SHA1-Digest: mbmLsUlKYZukrNmCNMW1daBN0yg=
+
+Name: org/eclipse/ui/internal/themes/CascadingColorRegistry.java
+SHA1-Digest: tZw5F5WzB08tTulEiUKheEhyZH4=
+
+Name: org/eclipse/ui/internal/commands/ICommandImageManagerListener.ja
+ va
+SHA1-Digest: a/SpTBcIGwQ3xG4GBUXk+CuLKb0=
+
+Name: org/eclipse/ui/internal/commands/SlaveCommandService.java
+SHA1-Digest: vTc+FiIiRKm33XZ7QMaLE/cnRL8=
+
+Name: org/eclipse/ui/internal/browser/DefaultWebBrowser.java
+SHA1-Digest: 3jmJHD6dHzR78uoIf3W4fuoPir8=
+
+Name: org/eclipse/ui/internal/registry/PerspectiveDescriptor.java
+SHA1-Digest: s33LoFe92oUElyZzT3Du+OH3oD8=
+
+Name: org/eclipse/ui/part/MessagePage.java
+SHA1-Digest: 5TT+FPB8YWFBzyHmZJaQfvnYBk8=
+
+Name: org/eclipse/ui/internal/tweaklets/Workbench3xImplementation.java
+SHA1-Digest: cQpwigVKkIaAznZQ1S2ojTtEb0c=
+
+Name: org/eclipse/ui/part/IPageBookViewPage.java
+SHA1-Digest: TVoq156h5g3UR5I1VmLGAJQQCW4=
+
+Name: org/eclipse/ui/dialogs/TwoArrayQuickSorter.java
+SHA1-Digest: 0mJ9BPXtSehDF/krSceMbn3ewFw=
+
+Name: org/eclipse/ui/internal/OpenPerspectivePropertyTester.java
+SHA1-Digest: 4q18f1nETyIJ2txslKp0Gs7pUmo=
+
+Name: org/eclipse/ui/internal/handlers/LegacyHandlerListenerWrapper.ja
+ va
+SHA1-Digest: /Ljs4QrCM69OaRr73jMiu9inpl0=
+
+Name: org/eclipse/ui/IViewPart.java
+SHA1-Digest: erBzPX1igu5tFlYpoXNog4FYh7k=
+
+Name: org/eclipse/ui/activities/IIdentifier.java
+SHA1-Digest: cVGpOcf3sfNKYSoG0c1gzf349QI=
+
+Name: org/eclipse/ui/internal/activities/ws/WorkbenchTriggerPoints.jav
+ a
+SHA1-Digest: arrHPe3wEqo+QSAHTQzsBKBqI1I=
+
+Name: org/eclipse/ui/databinding/WorkbenchProperties.java
+SHA1-Digest: R28jqnVFmeMbYFrX0m1pzy4asHY=
+
+Name: org/eclipse/ui/commands/ActionHandler.java
+SHA1-Digest: 5Vd2XrQT13pUBFghdYfyPX8jRXM=
+
+Name: org/eclipse/ui/internal/registry/PreferencePageRegistryReader.ja
+ va
+SHA1-Digest: lDA17hWlaLWvDBuWTBV6RSiseco=
+

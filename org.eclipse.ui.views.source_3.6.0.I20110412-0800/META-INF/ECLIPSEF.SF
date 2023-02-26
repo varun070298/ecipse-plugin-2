@@ -1,0 +1,124 @@
+Signature-Version: 1.0
+SHA1-Digest-Manifest: fK82hHjrha97KyyHK4DMUJ7cvyc=
+Created-By: 1.6.0 (IBM Corporation)
+SHA1-Digest-Manifest-Main-Attributes: /meOAwdGfDh9T4lHmBKpfl8FJ28=
+
+Name: org/eclipse/ui/internal/views/properties/PropertiesMessages.java
+SHA1-Digest: YPbocTJhsShsKZJBC6ozJht06+Y=
+
+Name: org/eclipse/ui/views/properties/ICellEditorActivationListener.ja
+ va
+SHA1-Digest: wYjYDIQ3JY6tkQ+G+t1Xzyb0Duk=
+
+Name: org/eclipse/ui/views/properties/PropertySheetViewer.java
+SHA1-Digest: AF0fmg85xyQAL4FvRr44eWNK0C0=
+
+Name: org/eclipse/ui/views/properties/PropertyColumnLabelProvider.java
+SHA1-Digest: /V3ziw1BQwsNogvx80ezV9VZM8g=
+
+Name: org/eclipse/ui/views/properties/IPropertySource.java
+SHA1-Digest: YU8iznJtnaqtDBCqh4y+bOW5/Uo=
+
+Name: org/eclipse/ui/views/contentoutline/ContentOutline.java
+SHA1-Digest: D4donATmYD+jiqjXqyjdgklbjhY=
+
+Name: org/eclipse/ui/views/properties/CategoriesAction.java
+SHA1-Digest: 4dRaSsIY6kLQ84eWlkHB24VZdAk=
+
+Name: org/eclipse/ui/views/properties/PropertyShowInContext.java
+SHA1-Digest: NEks8uiVSh+FElEhkPDBl7IG2Vs=
+
+Name: plugin.properties
+SHA1-Digest: D5HNIdvGrX+durS9Ew72wKnUFJ4=
+
+Name: org/eclipse/ui/views/properties/IPropertySheetEntry.java
+SHA1-Digest: 0ygI5k2ziUmLY+8N7jjXOwVvzvc=
+
+Name: org/eclipse/ui/views/properties/PinPropertySheetAction.java
+SHA1-Digest: eMkGOlYQsHDMbzKQmoUfk27eXKA=
+
+Name: org/eclipse/ui/views/properties/DefaultsAction.java
+SHA1-Digest: UZ2kMIiM0646RiSrnYCF+st+7W8=
+
+Name: org/eclipse/ui/views/properties/PropertyDescriptor.java
+SHA1-Digest: bvLo6HkMmgS8M/O7yqi81eUDGZw=
+
+Name: org/eclipse/ui/views/properties/IPropertySourceProvider.java
+SHA1-Digest: zPdyQj4q3WnHXDTmG7FDlBNj2z0=
+
+Name: org/eclipse/ui/views/properties/PropertySheetCategory.java
+SHA1-Digest: 2dAuWi6He5E4gwgiVa9R4yRKEUU=
+
+Name: org/eclipse/ui/views/properties/ComboBoxLabelProvider.java
+SHA1-Digest: e96x31kQZxLlXILpQWdWzBZpgUY=
+
+Name: org/eclipse/ui/internal/views/contentoutline/ContentOutlineMessa
+ ges.java
+SHA1-Digest: 8tSHczmllpIOzzb9IDOXR/GwYJU=
+
+Name: org/eclipse/ui/views/properties/PropertySheetAction.java
+SHA1-Digest: LnS4lwHCA1iKMqfnVKfig8d6S04=
+
+Name: org/eclipse/ui/views/properties/NewPropertySheetHandler.java
+SHA1-Digest: VNXPDic0R4HzwTsXueD+q/vVhPc=
+
+Name: META-INF/eclipse.inf
+SHA1-Digest: SAqY+5ITAL0mkdYeijlSRhyIaZk=
+
+Name: org/eclipse/ui/views/properties/IPropertySource2.java
+SHA1-Digest: dWomeCW09zcHLvk19BroLJhNOoU=
+
+Name: org/eclipse/ui/views/properties/PropertySheetPage.java
+SHA1-Digest: 1DcUSMD5gX88SMlQmhzNqMIY5nQ=
+
+Name: about.html
+SHA1-Digest: M+fykt9heyWoEv1LNiIEeBhi/2Q=
+
+Name: org/eclipse/ui/views/properties/TextPropertyDescriptor.java
+SHA1-Digest: AH3Ex1K14Vv6lDRCtsl5Z7Wngrc=
+
+Name: org/eclipse/ui/views/contentoutline/IContentOutlinePage.java
+SHA1-Digest: ylo6O7NfB1u3XHohU23OfRofKRU=
+
+Name: org/eclipse/ui/views/properties/IPropertySheetPage.java
+SHA1-Digest: kVz/8X75F9hV5E1PA+vkCcNJhP8=
+
+Name: org/eclipse/ui/views/properties/PropertySheetSorter.java
+SHA1-Digest: hjZix9CHD1bzP8xK3hOKdKQW2sI=
+
+Name: org/eclipse/ui/views/properties/FilterAction.java
+SHA1-Digest: L+RNSZoI01/KOg8bu5OwSukRJKk=
+
+Name: org/eclipse/ui/views/properties/PropertyEditingSupport.java
+SHA1-Digest: E9va8uf2xP53h0P877Uu931cZf8=
+
+Name: org/eclipse/ui/views/properties/PropertySheetEntry.java
+SHA1-Digest: qAdrAhWxUZFllTXmGtDyTb0xcoY=
+
+Name: org/eclipse/ui/views/properties/IPropertyDescriptor.java
+SHA1-Digest: VyZw+ZUG1OtlPv81AtLr2BRnpBA=
+
+Name: org/eclipse/ui/views/properties/PropertySheet.java
+SHA1-Digest: GVGWxSfzwARmOM01spa64GMDDaE=
+
+Name: org/eclipse/ui/internal/views/ViewsPlugin.java
+SHA1-Digest: 7I8A74Jlpeqdg6BAxJNtG59nfnY=
+
+Name: org/eclipse/ui/views/contentoutline/ContentOutlinePage.java
+SHA1-Digest: yHS4sD0kNNsTe2dnLuSln+sveYc=
+
+Name: org/eclipse/ui/views/properties/ColorPropertyDescriptor.java
+SHA1-Digest: NCVSeqIpFZjTQL1SSMJlSsS/5II=
+
+Name: org/eclipse/ui/views/properties/ComboBoxPropertyDescriptor.java
+SHA1-Digest: 36Py8P65dFLamddtZf7LPPHb654=
+
+Name: org/eclipse/ui/views/properties/IPropertiesHelpContextIds.java
+SHA1-Digest: lrTTHykt051hl0llbIEXoK3YdFM=
+
+Name: org/eclipse/ui/views/properties/CopyPropertyAction.java
+SHA1-Digest: UuKArrWmWhut587siSIePpADq5Q=
+
+Name: org/eclipse/ui/views/properties/IPropertySheetEntryListener.java
+SHA1-Digest: kmCbsmNJizzQhWG3SodtShqEdf0=
+

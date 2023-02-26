@@ -1,0 +1,42 @@
+Signature-Version: 1.0
+SHA1-Digest-Manifest: udUzG099NXe0K6k/ZUHoxMELIvY=
+Created-By: 1.6.0 (IBM Corporation)
+SHA1-Digest-Manifest-Main-Attributes: edmFMyL3Rdoowh7Q/uqGonYC9+M=
+
+Name: org/eclipse/ui/internal/ide/application/ResourcePerspective.java
+SHA1-Digest: ulcos+llnPaziNLTvgGd/qfEsFA=
+
+Name: org/eclipse/ui/internal/ide/application/dialogs/IDEStartupPrefer
+ encePage.java
+SHA1-Digest: baYJrUuHfAU/WAquooURQPtL3uA=
+
+Name: org/eclipse/ui/internal/ide/application/IDEIdleHelper.java
+SHA1-Digest: nt3FcJ+EVK29Z6cHHWWhBjd0+Pc=
+
+Name: org/eclipse/ui/internal/ide/application/IDEWorkbenchAdvisor.java
+SHA1-Digest: LHJ/nqw+pBV2sdacITPHmRHzUro=
+
+Name: org/eclipse/ui/internal/ide/application/IDEWorkbenchWindowAdviso
+ r.java
+SHA1-Digest: 5jtEfeZmfbFh+++Jrnkx3cbYh2c=
+
+Name: META-INF/eclipse.inf
+SHA1-Digest: SAqY+5ITAL0mkdYeijlSRhyIaZk=
+
+Name: org/eclipse/ui/internal/ide/application/DelayedEventsProcessor.j
+ ava
+SHA1-Digest: YacZXtuTwOy3hxJe2aWDrhlwTC4=
+
+Name: org/eclipse/ui/internal/ide/application/dialogs/RecentWorkspaces
+ PreferencePage.java
+SHA1-Digest: LJNL1J75CtQR+Yz1iU2q3jQxaSQ=
+
+Name: about.html
+SHA1-Digest: M+fykt9heyWoEv1LNiIEeBhi/2Q=
+
+Name: org/eclipse/ui/internal/ide/application/IDEApplication.java
+SHA1-Digest: 87ZX8MP0wjEVROxSH2mJ/CRkc8M=
+
+Name: plugin.properties
+SHA1-Digest: q2MUtv+bgq7OHQ4QdFuuzBCwc88=
+

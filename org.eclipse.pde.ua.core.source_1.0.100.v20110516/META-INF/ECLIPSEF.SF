@@ -1,0 +1,347 @@
+Signature-Version: 1.0
+SHA1-Digest-Manifest: TF5AQXxKnx1873vMQipQf56jWQ8=
+Created-By: 1.6.0 (IBM Corporation)
+SHA1-Digest-Manifest-Main-Attributes: KTrxl+wgTYY7UAEtGXzH+wPTMT0=
+
+Name: org/eclipse/pde/internal/ua/core/cheatsheet/simple/ISimpleCSComm
+ and.java
+SHA1-Digest: EM5Vzdz0Llx9MfoXX9gO1qaM49Y=
+
+Name: org/eclipse/pde/internal/ua/core/cheatsheet/simple/text/SimpleCS
+ DocumentTextNode.java
+SHA1-Digest: VTvTO5e3oTz3SXmQDVRvJp8XCvs=
+
+Name: org/eclipse/pde/internal/ua/core/cheatsheet/comp/CompCSOnComplet
+ ion.java
+SHA1-Digest: 6VQucvhJRyE/V22dRKV53GO+41s=
+
+Name: org/eclipse/pde/internal/ua/core/cheatsheet/simple/ISimpleCSMode
+ lFactory.java
+SHA1-Digest: Uu9BJX5PFQYrHDBdXjs+hMuRGt4=
+
+Name: org/eclipse/pde/internal/ua/core/icheatsheet/comp/ICompCSConstan
+ ts.java
+SHA1-Digest: Xveuhzr0+0cAZ+eZgLdYXYohjK0=
+
+Name: org/eclipse/pde/internal/ua/core/cheatsheet/comp/CompCSModel.jav
+ a
+SHA1-Digest: 7cmAxZbqyjaNkmP71R3FbQIh4ls=
+
+Name: org/eclipse/pde/internal/ua/core/icheatsheet/ICSConstants.java
+SHA1-Digest: dreFCMJSDHFT8abuJ9yLZHOj8uM=
+
+Name: org/eclipse/pde/internal/ua/core/icheatsheet/comp/ICompCSParam.j
+ ava
+SHA1-Digest: GXgc5bMtwMAD1QwX7in40ga+glA=
+
+Name: org/eclipse/pde/internal/ua/core/icheatsheet/comp/ICompCSIntro.j
+ ava
+SHA1-Digest: pms89v9NOmrCadSREkP+0fZY1nA=
+
+Name: org/eclipse/pde/internal/ua/core/toc/text/Toc.java
+SHA1-Digest: su78KSaJIgjfD2epeSO+1sKlx5g=
+
+Name: org/eclipse/pde/internal/ua/core/toc/ITocConstants.java
+SHA1-Digest: AY2aSxmDuT5Y3hAVcaEf/zMkerg=
+
+Name: org/eclipse/pde/internal/ua/core/cheatsheet/simple/ISimpleCSPerf
+ ormWhen.java
+SHA1-Digest: TufRdG57QNziYQWL0Wd7tTUNOS4=
+
+Name: org/eclipse/pde/internal/ua/core/toc/text/TocMarkerManager.java
+SHA1-Digest: K9llO7LR1LpHasBN5h8cs0iLq4k=
+
+Name: org/eclipse/pde/internal/ua/core/cheatsheet/simple/text/SimpleCS
+ OnCompletion.java
+SHA1-Digest: Z+47st2LQ6sgVZvbb/Jhb7iBmLI=
+
+Name: org/eclipse/pde/internal/ua/core/ctxhelp/text/CtxHelpDocumentFac
+ tory.java
+SHA1-Digest: eiP7fi3j+5paCcd0+HSKYAcQohE=
+
+Name: org/eclipse/pde/internal/ua/core/ctxhelp/text/CtxHelpTopic.java
+SHA1-Digest: rHY9GFw4pCtcgDEjGSXSjbQtuGI=
+
+Name: org/eclipse/pde/internal/ua/core/icheatsheet/comp/ICompCSModelFa
+ ctory.java
+SHA1-Digest: Tr2GXh/YyzzmehMMiX3uG208tJ4=
+
+Name: org/eclipse/pde/internal/ua/core/ctxhelp/text/CtxHelpDescription
+ TextNode.java
+SHA1-Digest: ZnR+6Z3DjWCxFEwWAI+wWv1ggrs=
+
+Name: org/eclipse/pde/internal/ua/core/toc/text/TocAnchor.java
+SHA1-Digest: v+ViFUimMPT7JKrfUPrG29ihuxg=
+
+Name: org/eclipse/pde/internal/ua/core/cheatsheet/simple/text/SimpleCS
+ Item.java
+SHA1-Digest: 0QO7Gk3soXHAtpug2XRPiYKzxik=
+
+Name: org/eclipse/pde/internal/ua/core/cheatsheet/comp/CompCSTaskObjec
+ t.java
+SHA1-Digest: y5IN7ldpgNZ6oS7G6mgKzLEQ6Bc=
+
+Name: META-INF/eclipse.inf
+SHA1-Digest: SAqY+5ITAL0mkdYeijlSRhyIaZk=
+
+Name: org/eclipse/pde/internal/ua/core/cheatsheet/simple/ISimpleCSMode
+ l.java
+SHA1-Digest: zmQKGAxyTm4WpmraHR9msHkmxog=
+
+Name: org/eclipse/pde/internal/ua/core/cheatsheet/simple/ISimpleCS.jav
+ a
+SHA1-Digest: tp6cp1PruFymv6fnm5nDeXeAxYQ=
+
+Name: org/eclipse/pde/internal/ua/core/cheatsheet/comp/CompCSParam.jav
+ a
+SHA1-Digest: d97VOs0cWmQ6Yh4Z2JnlB1RNayI=
+
+Name: org/eclipse/pde/internal/ua/core/cheatsheet/comp/CompCSIntro.jav
+ a
+SHA1-Digest: GA2yS5IN1BR8RXkIoRLRuioZGEY=
+
+Name: org/eclipse/pde/internal/ua/core/ctxhelp/text/CtxHelpDescription
+ .java
+SHA1-Digest: J3IYH2bZl25akgvDNR1Q6PaHCvs=
+
+Name: org/eclipse/pde/internal/ua/core/cheatsheet/comp/CompCSWorkspace
+ Model.java
+SHA1-Digest: +w3cpzS8ULkwZhhnNJC1zKi6664=
+
+Name: org/eclipse/pde/internal/ua/core/ctxhelp/text/CtxHelpRoot.java
+SHA1-Digest: AH7D8G1G1WJCHp+FPYwdFjFXhAI=
+
+Name: org/eclipse/pde/internal/ua/core/icheatsheet/comp/ICompCSDepende
+ ncy.java
+SHA1-Digest: d19IVg0BFRmIzmI5W3vtCZV7bLQ=
+
+Name: org/eclipse/pde/internal/ua/core/ctxhelp/ICtxHelpConstants.java
+SHA1-Digest: u7yqGBLShfv8GXnRbl9LOc4W2xM=
+
+Name: org/eclipse/pde/internal/ua/core/ctxhelp/text/CtxHelpObject.java
+SHA1-Digest: NBWKXpVC1UzvEyT2VnKYCIdQMUU=
+
+Name: org/eclipse/pde/internal/ua/core/icheatsheet/comp/ICompCSDataObj
+ ect.java
+SHA1-Digest: 6+a/t+O3bZpatAIoeeptYgDSg6Q=
+
+Name: org/eclipse/pde/internal/ua/core/ctxhelp/text/CtxHelpMarkerManag
+ er.java
+SHA1-Digest: Gp22Jd1bap0aOekAMJ8PyWjmU9w=
+
+Name: org/eclipse/pde/internal/ua/core/cheatsheet/simple/text/SimpleCS
+ SubItem.java
+SHA1-Digest: 5CDs4TFIHCbqSDnLOh7nRUcj/EU=
+
+Name: org/eclipse/pde/internal/ua/core/toc/text/TocLink.java
+SHA1-Digest: iQkJim8jfGYXzMP4lvpHrA3SnO4=
+
+Name: org/eclipse/pde/internal/ua/core/icheatsheet/comp/ICompCSTask.ja
+ va
+SHA1-Digest: nWBpOVEaJNSaYjTOCSAAGEv3Vao=
+
+Name: org/eclipse/pde/internal/ua/core/toc/text/TocDocumentHandler.jav
+ a
+SHA1-Digest: izyQWIYZjb2YfgwHKb/EAjsnNZk=
+
+Name: org/eclipse/pde/internal/ua/core/cheatsheet/simple/text/SimpleCS
+ DocumentFactory.java
+SHA1-Digest: OC7PaQ0QoMFVEXz6gXIE1ZAmCIc=
+
+Name: org/eclipse/pde/internal/ua/core/icheatsheet/comp/ICompCS.java
+SHA1-Digest: fPFn58W3PBcn8GrgHvnTbsCqP4k=
+
+Name: org/eclipse/pde/internal/ua/core/ctxhelp/text/CtxHelpCommand.jav
+ a
+SHA1-Digest: c4hdurgTObQ+vboN9JBHBlilwao=
+
+Name: org/eclipse/pde/internal/ua/core/icheatsheet/comp/ICompCSObject.
+ java
+SHA1-Digest: ePJHk6FEiuKX5T9M+Jpgvb27QfI=
+
+Name: org/eclipse/pde/internal/ua/core/toc/text/TocModel.java
+SHA1-Digest: BiANUKdYxgzfT4UDnA8wCzXhskQ=
+
+Name: org/eclipse/pde/internal/ua/core/cheatsheet/simple/text/SimpleCS
+ Model.java
+SHA1-Digest: cSu+45hV0azLE5iNAuiOrs7Sfps=
+
+Name: org/eclipse/pde/internal/ua/core/cheatsheet/simple/ISimpleCSCons
+ tants.java
+SHA1-Digest: yGSuMfnLqFrwvr8PUVevxaEmUKE=
+
+Name: org/eclipse/pde/internal/ua/core/cheatsheet/comp/CompCSModelFact
+ ory.java
+SHA1-Digest: u6T0G1o/fMb+u4y0P6ixMFijiNA=
+
+Name: org/eclipse/pde/internal/ua/core/icheatsheet/comp/ICompCSTaskGro
+ up.java
+SHA1-Digest: JESm1UOXcvNXUJ4/b2dskD7hiy4=
+
+Name: org/eclipse/pde/internal/ua/core/cheatsheet/simple/ISimpleCSIntr
+ o.java
+SHA1-Digest: FOT6Ot8M9MqfHFq364ddAwFeBaI=
+
+Name: org/eclipse/pde/internal/ua/core/cheatsheet/simple/ISimpleCSRun.
+ java
+SHA1-Digest: 7sBgQopKZM7BbMosFrGMKPodgWY=
+
+Name: org/eclipse/pde/internal/ua/core/cheatsheet/simple/ISimpleCSRunO
+ bject.java
+SHA1-Digest: HGPsllHGp/6Z1ElXWXCehqIGHXs=
+
+Name: plugin.properties
+SHA1-Digest: nH0IopD7tCSWUel153HI4nK2o2Q=
+
+Name: org/eclipse/pde/internal/ua/core/cheatsheet/simple/text/SimpleCS
+ Description.java
+SHA1-Digest: tsLorljIeV209pZmHb36ii4QYkM=
+
+Name: org/eclipse/pde/internal/ua/core/cheatsheet/simple/ISimpleCSOnCo
+ mpletion.java
+SHA1-Digest: 2Tb8IrhIdpocfSZ9paxSDySa7/M=
+
+Name: org/eclipse/pde/internal/ua/core/cheatsheet/simple/text/SimpleCS
+ RepeatedSubItem.java
+SHA1-Digest: a5Ta2yy0TobvZDqQfQPkUgjeo8w=
+
+Name: org/eclipse/pde/internal/ua/core/CheatSheetUtil.java
+SHA1-Digest: qnXF9oqprogXN/5TB0eaivjOncY=
+
+Name: org/eclipse/pde/internal/ua/core/toc/text/TocObject.java
+SHA1-Digest: npV2BWqv8nIlRh5be1If9QWDlw0=
+
+Name: org/eclipse/pde/internal/ua/core/cheatsheet/simple/ISimpleCSActi
+ on.java
+SHA1-Digest: JhDeJIEkg7jIi87/yBKOunpRyQk=
+
+Name: org/eclipse/pde/internal/ua/core/cheatsheet/simple/ISimpleCSRunC
+ ontainerObject.java
+SHA1-Digest: F7ajdbJFim7HyYZKVHlSa24m6dg=
+
+Name: org/eclipse/pde/internal/ua/core/cheatsheet/simple/ISimpleCSItem
+ .java
+SHA1-Digest: UcKnzJa6+C4yUvGeEN4C/XA0ycs=
+
+Name: org/eclipse/pde/internal/ua/core/cheatsheet/comp/CompCSDependenc
+ y.java
+SHA1-Digest: 4jRHvt6P+DN0+FuhyzhXP3kf3aE=
+
+Name: org/eclipse/pde/internal/ua/core/ctxhelp/text/CtxHelpContext.jav
+ a
+SHA1-Digest: J295uKHiY1iiJ4Ke4gUgqu0R27A=
+
+Name: org/eclipse/pde/internal/ua/core/ctxhelp/text/CtxHelpDocumentHan
+ dler.java
+SHA1-Digest: RE2BuhVuJ2/JBm1Fe1ETPQySyVI=
+
+Name: org/eclipse/pde/internal/ua/core/cheatsheet/comp/CompCSDataObjec
+ t.java
+SHA1-Digest: cOoNj20uGh0/T03THpqiBGG+vmU=
+
+Name: org/eclipse/pde/internal/ua/core/cheatsheet/simple/text/SimpleCS
+ Action.java
+SHA1-Digest: xBSsMibasi9fld7zD6NZhGvY2aw=
+
+Name: org/eclipse/pde/internal/ua/core/cheatsheet/simple/text/SimpleCS
+ Intro.java
+SHA1-Digest: 5BP3txrRh0iaVw38UXiqzHG/pMI=
+
+Name: org/eclipse/pde/internal/ua/core/cheatsheet/simple/ISimpleCSSubI
+ tem.java
+SHA1-Digest: q432B4dMr7pWSOwhkraAFGBWNc8=
+
+Name: org/eclipse/pde/internal/ua/core/cheatsheet/comp/CompCSTaskGroup
+ .java
+SHA1-Digest: rQ+1f0wGenPno75B90wb4of+0Gc=
+
+Name: org/eclipse/pde/internal/ua/core/cheatsheet/simple/ISimpleCSCond
+ itionalSubItem.java
+SHA1-Digest: VUR65JuJo9dJgz6JZOZxkgxBuzI=
+
+Name: org/eclipse/pde/internal/ua/core/cheatsheet/simple/text/SimpleCS
+ Command.java
+SHA1-Digest: TA7TCTUjNHAp/Xj+ynT6LtdBJYM=
+
+Name: org/eclipse/pde/internal/ua/core/cheatsheet/simple/ISimpleCSSubI
+ temObject.java
+SHA1-Digest: 7DrRZ7UmfC11OnWuVcH27WETR6k=
+
+Name: org/eclipse/pde/internal/ua/core/cheatsheet/comp/CompCSTask.java
+SHA1-Digest: lCbMNc5p7g44eLKSYOVcFtpNT7Q=
+
+Name: org/eclipse/pde/internal/ua/core/cheatsheet/simple/text/SimpleCS
+ RunObject.java
+SHA1-Digest: zekOzU/7mCuTjJE0kXIOx9DpbM0=
+
+Name: org/eclipse/pde/internal/ua/core/ctxhelp/text/CtxHelpModel.java
+SHA1-Digest: KJXmaSfO8iYs9qI1GhyoqJBSURk=
+
+Name: org/eclipse/pde/internal/ua/core/icheatsheet/comp/ICompCSOnCompl
+ etion.java
+SHA1-Digest: NenexHnCm3+RDnjW+UYPF938ItU=
+
+Name: org/eclipse/pde/internal/ua/core/cheatsheet/comp/CompCS.java
+SHA1-Digest: P+MheZnw/5wFpVGdppSmG0Izai0=
+
+Name: org/eclipse/pde/internal/ua/core/cheatsheet/simple/text/SimpleCS
+ ConditionalSubItem.java
+SHA1-Digest: 4LRYi+gAr1UEt/LGP6X4TZue5uw=
+
+Name: org/eclipse/pde/internal/ua/core/cheatsheet/comp/CompCSObject.ja
+ va
+SHA1-Digest: 2Q72nEDxnhOxvF25fv7IzLsx+gA=
+
+Name: org/eclipse/pde/internal/ua/core/Activator.java
+SHA1-Digest: e8n0oV1wRQnYB0KkJ+JdH8+1aWg=
+
+Name: about.html
+SHA1-Digest: M+fykt9heyWoEv1LNiIEeBhi/2Q=
+
+Name: org/eclipse/pde/internal/ua/core/cheatsheet/simple/ISimpleCSHelp
+ Object.java
+SHA1-Digest: 7C5lD32BWagPzJRQlPisMlhZbFo=
+
+Name: org/eclipse/pde/internal/ua/core/cheatsheet/simple/ISimpleCSObje
+ ct.java
+SHA1-Digest: haJscaIc4BdaCc5xgwLbJ0u+jSg=
+
+Name: org/eclipse/pde/internal/ua/core/cheatsheet/simple/text/SimpleCS
+ PerformWhen.java
+SHA1-Digest: XfsrSeAcqZ7Unp8WZ8xosQ+KTTY=
+
+Name: org/eclipse/pde/internal/ua/core/cheatsheet/simple/text/SimpleCS
+ .java
+SHA1-Digest: kwiGhCPxk78b7yZ6Zm+VfqXied4=
+
+Name: org/eclipse/pde/internal/ua/core/cheatsheet/simple/text/SimpleCS
+ Object.java
+SHA1-Digest: e9gOnDKFhKwrePGK+hr/9HQB+iI=
+
+Name: org/eclipse/pde/internal/ua/core/cheatsheet/simple/ISimpleCSDesc
+ ription.java
+SHA1-Digest: /3i9jbxrFhNXAQP6f5rIifWmNNA=
+
+Name: org/eclipse/pde/internal/ua/core/icheatsheet/comp/ICompCSModel.j
+ ava
+SHA1-Digest: iRZfuJRhN7PhONws47YkTvzCkns=
+
+Name: org/eclipse/pde/internal/ua/core/cheatsheet/simple/ISimpleCSRepe
+ atedSubItem.java
+SHA1-Digest: TMAe3QmSA4z5q/JE/DT8/sqzRRw=
+
+Name: org/eclipse/pde/internal/ua/core/icheatsheet/comp/ICompCSTaskObj
+ ect.java
+SHA1-Digest: bt0H+BChX8NzkEbkWdJE3CA2bpM=
+
+Name: org/eclipse/pde/internal/ua/core/toc/text/TocDocumentFactory.jav
+ a
+SHA1-Digest: xLJ9sK+XfyW+4avcEt+mrHs7vIE=
+
+Name: org/eclipse/pde/internal/ua/core/toc/text/TocTopic.java
+SHA1-Digest: 4GIP/mCVqX7W8u5A9SlLUVxIAlc=
+
+Name: org/eclipse/pde/internal/ua/core/cheatsheet/simple/text/SimpleCS
+ DocumentHandler.java
+SHA1-Digest: MlRR0vW3LKRItzPp2Y96Ml1jfNc=
+

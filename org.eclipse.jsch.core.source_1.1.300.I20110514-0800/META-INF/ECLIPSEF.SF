@@ -1,0 +1,65 @@
+Signature-Version: 1.0
+SHA1-Digest-Manifest: NtquA6uqTisxk12vH/JkF2z4Hq4=
+Created-By: 1.6.0 (IBM Corporation)
+SHA1-Digest-Manifest-Main-Attributes: uNM/3I/FnLFQ4PMZyQ0Ung4jDIg=
+
+Name: org/eclipse/jsch/internal/core/JSchLocation.java
+SHA1-Digest: gVRxLkEHmZfOSq1IPElI9/hOv/E=
+
+Name: META-INF/eclipse.inf
+SHA1-Digest: SAqY+5ITAL0mkdYeijlSRhyIaZk=
+
+Name: org/eclipse/jsch/internal/core/JSchCorePlugin.java
+SHA1-Digest: 0boKXDsIdxHL/pgINYNb/+9uFVQ=
+
+Name: org/eclipse/jsch/internal/core/IUserAuthenticator.java
+SHA1-Digest: levT9ar/EbxXNH5j2gewRIaDwJI=
+
+Name: org/eclipse/jsch/internal/core/JSchProvider.java
+SHA1-Digest: Y/bJs96z8ecsAhrG6mGBzAzBKLg=
+
+Name: org/eclipse/jsch/core/IJSchLocation.java
+SHA1-Digest: HDw1/t0NX8t7NCg79eJJNoF85nM=
+
+Name: org/eclipse/jsch/internal/core/Utils.java
+SHA1-Digest: 9hebNAE1vkYws+ihky7RTDgGhQ0=
+
+Name: org/eclipse/jsch/internal/core/UserInfoImpl.java
+SHA1-Digest: 9136vo+G5QlH03zb0zPvLp2gMvE=
+
+Name: about.html
+SHA1-Digest: M+fykt9heyWoEv1LNiIEeBhi/2Q=
+
+Name: plugin.properties
+SHA1-Digest: zWhv9C2YilgzhzJK5kqCHcRINbw=
+
+Name: org/eclipse/jsch/core/IJSchService.java
+SHA1-Digest: 7Dy0iOECUpwuTswTliQcn8ZgsvA=
+
+Name: org/eclipse/jsch/core/IPasswordStore.java
+SHA1-Digest: ylBK+8hDo1GfAKGDzwebYyz+JI0=
+
+Name: org/eclipse/jsch/internal/core/Policy.java
+SHA1-Digest: xG51V4hgzQz2kV85QFWu2V2oog0=
+
+Name: org/eclipse/jsch/internal/core/PreferenceInitializer.java
+SHA1-Digest: poiffSoT+IF11bCGhTaRwMhZpUU=
+
+Name: org/eclipse/jsch/internal/core/Messages.java
+SHA1-Digest: qJ3HN4NK5spmnK+E79Ix41GPWF8=
+
+Name: org/eclipse/jsch/internal/core/ResponsiveSocketFactory.java
+SHA1-Digest: BIRF4MQxjsPlqH/zKqhET2ul6/c=
+
+Name: org/eclipse/jsch/internal/core/IUserInfo.java
+SHA1-Digest: l4kDkUa9XZ4oH5QXtW5yyycJuIY=
+
+Name: org/eclipse/jsch/internal/core/NullUserAuthenticator.java
+SHA1-Digest: Z5xFLYYtHKXqieJmGZGxGMhshFw=
+
+Name: org/eclipse/jsch/internal/core/PreferenceModifyListener.java
+SHA1-Digest: 1LGTuhKwCFtBk8RoMR+V0md+OiE=
+
+Name: org/eclipse/jsch/internal/core/IConstants.java
+SHA1-Digest: 6r1//8ST9JP7aY3q7XlXki0D5tE=
+

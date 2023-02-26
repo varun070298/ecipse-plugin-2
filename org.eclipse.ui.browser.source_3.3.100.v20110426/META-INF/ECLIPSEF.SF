@@ -1,0 +1,176 @@
+Signature-Version: 1.0
+SHA1-Digest-Manifest: iPeZ7jhNg0CBpa4t4SDq1yD9z5M=
+Created-By: 1.6.0 (IBM Corporation)
+SHA1-Digest-Manifest-Main-Attributes: RTq1FklEHgicqC10Qug6GYAtU5Q=
+
+Name: org/eclipse/ui/internal/browser/macosx/SafariBrowser.java
+SHA1-Digest: IuLb9PEi05vAEdw0Fh9HlyJAJLE=
+
+Name: org/eclipse/ui/internal/browser/InternalBrowserInstance.java
+SHA1-Digest: 9S/u3ivdowiIn4W7x8wyuFjKvf4=
+
+Name: org/eclipse/ui/internal/browser/macosx/DefaultBrowserFactory.jav
+ a
+SHA1-Digest: FQSuUJHxYZ4SBp6bRA5FxIbw7z0=
+
+Name: org/eclipse/ui/internal/browser/browsers/StreamConsumer.java
+SHA1-Digest: qGwo0yG9ETLfOD7h9JfiQ0R2y3Q=
+
+Name: org/eclipse/ui/internal/browser/BrowserViewer.java
+SHA1-Digest: ysxahbjmQpzQRfopR6JZseTk5WI=
+
+Name: org/eclipse/ui/internal/browser/OpenBrowserWorkbenchAction.java
+SHA1-Digest: FRbvEIcsvRdNL7cYJsWImOujajQ=
+
+Name: org/eclipse/ui/internal/browser/IBrowserDescriptorWorkingCopy.ja
+ va
+SHA1-Digest: PGFOzPT0brO+7REgEPZl6GXgI0I=
+
+Name: org/eclipse/ui/internal/browser/WebBrowserUtil.java
+SHA1-Digest: hDZ/HR+6nA0AkQX3novdh4Do5fM=
+
+Name: org/eclipse/ui/internal/browser/BrowserText.java
+SHA1-Digest: XfIKY5/nHdmIo7GIy7I4pmMi7Bc=
+
+Name: org/eclipse/ui/internal/browser/ExternalBrowserInstance.java
+SHA1-Digest: 2xuRnp7eyrAv4QQyOYya7uFMRZA=
+
+Name: org/eclipse/ui/internal/browser/WebBrowserPreference.java
+SHA1-Digest: V00845clrhpJbVh8PCOhswL/Ht0=
+
+Name: org/eclipse/ui/internal/browser/IBrowserDescriptor.java
+SHA1-Digest: eV4IGnNm/EFG8Qhx6pQktpKsubo=
+
+Name: org/eclipse/ui/internal/browser/Messages.java
+SHA1-Digest: 3rh8sRoSepYTZpt3spnXrPCR7CU=
+
+Name: org/eclipse/ui/internal/browser/InternalBrowserEditorInstance.ja
+ va
+SHA1-Digest: JMXawpePLu/HEi7GtfVkYT6ghgQ=
+
+Name: org/eclipse/ui/internal/browser/browsers/DefaultBrowser.java
+SHA1-Digest: 8kISOEiJd55ReuDAO3hMAR4IzvY=
+
+Name: org/eclipse/ui/internal/browser/SystemBrowserDescriptor.java
+SHA1-Digest: wkNJB5Soo53xdELnBz61dU9790A=
+
+Name: schema/browsers.exsd
+SHA1-Digest: pxCgBjzAfInb8eJaYagwMRUFEDg=
+
+Name: org/eclipse/ui/browser/BrowserFactory.java
+SHA1-Digest: HmcZCndgFMAAUbcMD2MgM1uwDjI=
+
+Name: org/eclipse/ui/internal/browser/browsers/DefaultBrowserFactory.j
+ ava
+SHA1-Digest: 32Z4gYe7nEshDfyRX3Tfkcszi7Q=
+
+Name: org/eclipse/ui/internal/browser/browsers/MozillaFactory.java
+SHA1-Digest: RdZ3dcUp0WhLEwjDlw1hLmxZgT0=
+
+Name: META-INF/eclipse.inf
+SHA1-Digest: SAqY+5ITAL0mkdYeijlSRhyIaZk=
+
+Name: org/eclipse/ui/internal/browser/BrowserDescriptorWorkingCopy.jav
+ a
+SHA1-Digest: i8TtExzQL9xaM3Bm7i8iXUnLK/s=
+
+Name: org/eclipse/ui/internal/browser/SystemBrowserInstance.java
+SHA1-Digest: mBjt1axyctl7oPnfVs/LDihxl4s=
+
+Name: org/eclipse/ui/internal/browser/OpenBrowserHandler.java
+SHA1-Digest: wCi5i14hoF2N9Ccr6kFYBv8sx+I=
+
+Name: org/eclipse/ui/internal/browser/ContextIds.java
+SHA1-Digest: YeWVEsM8yTLluVIpMk2/aSMKQFc=
+
+Name: org/eclipse/ui/internal/browser/ImageResource.java
+SHA1-Digest: V7ifh5R8JpUBxm6VkBB8RozUpGc=
+
+Name: org/eclipse/ui/internal/browser/WebBrowserEditorInput.java
+SHA1-Digest: QXcvDdxpaLmQc+GtMp4Q71EaTN8=
+
+Name: org/eclipse/ui/internal/browser/TextAction.java
+SHA1-Digest: blPqQ43cnAVB4TC4ckE9f2nvlus=
+
+Name: org/eclipse/ui/internal/browser/ToolbarLayout.java
+SHA1-Digest: p+1viRRV+M8IizrjclKyPAnMzUo=
+
+Name: org/eclipse/ui/internal/browser/WebBrowserEditor.java
+SHA1-Digest: NhBcXf9x8PZf2En+VF6So1aNJws=
+
+Name: org/eclipse/ui/internal/browser/WebBrowserEditorActionBarContrib
+ utor.java
+SHA1-Digest: i1AxPU0sGo20uG1mSBe+rqssIG0=
+
+Name: org/eclipse/ui/internal/browser/WebBrowserPreferencePage.java
+SHA1-Digest: fzIKlDo2BUBYiLcO2RWJVRHfRXg=
+
+Name: org/eclipse/ui/internal/browser/browsers/MozillaBrowser.java
+SHA1-Digest: wCO77t1mvf8edolDcckhEAznyCI=
+
+Name: org/eclipse/ui/internal/browser/WebBrowserView.java
+SHA1-Digest: Q/GOGEnism0fDpO+WBUiSuisfGE=
+
+Name: org/eclipse/ui/internal/browser/FallbackScrolledComposite.java
+SHA1-Digest: qr/2p/ekw130j3Pw12+D2LxvFtw=
+
+Name: org/eclipse/ui/internal/browser/BrowserDescriptor.java
+SHA1-Digest: O0Zju74OZ8QPLJjcKTPeRiE+wxU=
+
+Name: org/eclipse/ui/internal/browser/BusyIndicator.java
+SHA1-Digest: cV/y54nO5rtv+lvupIvvzIMOtyg=
+
+Name: plugin.properties
+SHA1-Digest: 4YvpzivTKbemCfhRvz9qRyXxtw8=
+
+Name: org/eclipse/ui/internal/browser/IBrowserViewerContainer.java
+SHA1-Digest: RUwtL1o8fK8xvTKl6tTbAedrKE8=
+
+Name: org/eclipse/ui/internal/browser/macosx/SafariBrowserFactory.java
+SHA1-Digest: njpWbyx+shAc2lzFNIw4go0hDyg=
+
+Name: org/eclipse/ui/internal/browser/BrowserManager.java
+SHA1-Digest: MhZF8t6HABMuFdlfDFJeqp3pzOY=
+
+Name: org/eclipse/ui/internal/browser/WebBrowserViewDropAdapter.java
+SHA1-Digest: UGZWyWV7alpHwcguc77Ox6xWUXA=
+
+Name: org/eclipse/ui/internal/browser/InternalBrowserViewInstance.java
+SHA1-Digest: HtseG6S+nh/WtFww0lV0sHUGZUc=
+
+Name: org/eclipse/ui/internal/browser/browsers/BrowserLog.java
+SHA1-Digest: q7+NoIJzu8zoLlAHqykIHm8xJ6Y=
+
+Name: org/eclipse/ui/internal/browser/BrowserDescriptorDialog.java
+SHA1-Digest: ZHHsU1Q4jjMeZ+AOijBbHkQWah0=
+
+Name: org/eclipse/ui/internal/browser/browsers/NullBrowser.java
+SHA1-Digest: Kf/omSSgTzML05n1Tkz9ncIEdwQ=
+
+Name: org/eclipse/ui/internal/browser/WebBrowserUIPlugin.java
+SHA1-Digest: sFjiipH0Vv6SdCtOcaHZzRqgnL4=
+
+Name: org/eclipse/ui/internal/browser/BrowserExt.java
+SHA1-Digest: frRGSHB09RsD/UlfvslFKc+l2HA=
+
+Name: about.html
+SHA1-Digest: M+fykt9heyWoEv1LNiIEeBhi/2Q=
+
+Name: org/eclipse/ui/internal/browser/SWTUtil.java
+SHA1-Digest: tXNZhJLS923bne3dDyaLBRRnfFQ=
+
+Name: org/eclipse/ui/internal/browser/macosx/DefaultBrowser.java
+SHA1-Digest: Cqqk98d4nS0f3qpz0e3WM3T0vSY=
+
+Name: org/eclipse/ui/internal/browser/BrowserLauncher.java
+SHA1-Digest: ckhXHpXS2h93q4ML0G3E27HnrJk=
+
+Name: org/eclipse/ui/internal/browser/DefaultBrowserSupport.java
+SHA1-Digest: YsSpNXYIb3kqm1ZKld+RMrNXZ9M=
+
+Name: org/eclipse/ui/internal/browser/Trace.java
+SHA1-Digest: iwIt9oiWXI65SIgDXxgg0AfDBiw=
+
+Name: org/eclipse/ui/internal/browser/IBrowserExt.java
+SHA1-Digest: Rx1ewBdpwrSULASD5Jk+nzPaolk=
+

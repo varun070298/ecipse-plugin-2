@@ -1,0 +1,111 @@
+Manifest-Version: 1.0
+Eclipse-SourceBundle: org.eclipse.ui.intro.universal;version="3.2.500.
+ v20110510";roots:="universalsrc"
+Bundle-Vendor: %provider_name
+Bundle-Localization: plugin
+Bundle-Name: %plugin_name
+Bundle-SymbolicName: org.eclipse.ui.intro.universal.source
+Bundle-Version: 3.2.500.v20110510
+Bundle-ManifestVersion: 2
+
+Name: universalsrc/org/eclipse/ui/internal/intro/universal/contentdete
+ ct/ContentDetectHelper.java
+SHA1-Digest: mRMfpE4Wga57kg2PZut+YBkXWDY=
+
+Name: universalsrc/org/eclipse/ui/internal/intro/universal/IntroData.j
+ ava
+SHA1-Digest: bh6q82PO1Isz/X9m8/mAuSJN7X4=
+
+Name: universalsrc/org/eclipse/ui/internal/intro/universal/util/Bundle
+ Util.java
+SHA1-Digest: o8OM+bb9SOhrKoERmleaP8FTgn8=
+
+Name: universalsrc/org/eclipse/ui/internal/intro/universal/contentdete
+ ct/ContentDetector.java
+SHA1-Digest: /7WLauflmKl/uIUhqh9U2o5AC00=
+
+Name: universalsrc/org/eclipse/ui/intro/universal/ExtensionFactory.jav
+ a
+SHA1-Digest: QJakuOkDvi6OolKVJ3RYXQNhotA=
+
+Name: universalsrc/org/eclipse/ui/internal/intro/universal/GroupData.j
+ ava
+SHA1-Digest: M2JDNEPgTFoYeXAVNFem2iPYel4=
+
+Name: universalsrc/org/eclipse/ui/internal/intro/universal/ExtensionDa
+ ta.java
+SHA1-Digest: G8YNUkMpEBsJS9Saeir8MM38Mmc=
+
+Name: universalsrc/org/eclipse/ui/internal/intro/universal/BaseData.ja
+ va
+SHA1-Digest: XXP5kHJwQX9qgqWOVh6PRmoaoIM=
+
+Name: plugin.properties
+SHA1-Digest: wDe8hsdTqL1dF2+e/CGRuDBK2HM=
+
+Name: universalsrc/org/eclipse/ui/internal/intro/universal/PageData.ja
+ va
+SHA1-Digest: 9+jSdCHdVTO61sC1F7AKKH1E8N8=
+
+Name: universalsrc/org/eclipse/ui/internal/intro/universal/UniversalIn
+ troPlugin.java
+SHA1-Digest: aIvi9hR4bIj+xU7OzPFLhuS9/Tg=
+
+Name: universalsrc/org/eclipse/ui/internal/intro/universal/util/String
+ Util.java
+SHA1-Digest: UPhy04fjLvbFeCzNh/zRibIDkkg=
+
+Name: universalsrc/org/eclipse/ui/internal/intro/universal/util/ImageU
+ til.java
+SHA1-Digest: msg6O18s0iNn+3/yYdLAAVzylkw=
+
+Name: universalsrc/org/eclipse/ui/internal/intro/universal/Customizati
+ onDialog.java
+SHA1-Digest: Tuof00mOofefJx3/MHvU/YZR8fQ=
+
+Name: universalsrc/org/eclipse/ui/internal/intro/universal/UniversalIn
+ troConfigurer.java
+SHA1-Digest: huNg4x4lbaRHgC7UMbxI3Er1HN4=
+
+Name: universalsrc/org/eclipse/ui/internal/intro/universal/ExtensionDa
+ taTransfer.java
+SHA1-Digest: sdfOGyaqdvuudYRvdh6ixjZAe8g=
+
+Name: META-INF/eclipse.inf
+SHA1-Digest: KyT9FF7C7t86NoBoa2kZT3ZJBfw=
+
+Name: universalsrc/org/eclipse/ui/internal/intro/universal/IUniversalI
+ ntroConstants.java
+SHA1-Digest: gKI5XWYncMk8ENrkKDeYbk89n4s=
+
+Name: universalsrc/org/eclipse/ui/internal/intro/universal/SeparatorDa
+ ta.java
+SHA1-Digest: G/XgUsxMl6YQqpNbso4fhtsLJtM=
+
+Name: universalsrc/org/eclipse/ui/internal/intro/universal/util/Prefer
+ enceArbiter.java
+SHA1-Digest: i2h9uvtQzEvVi1S6NMrmTqIy9Ho=
+
+Name: about.html
+SHA1-Digest: ejOZra0kypGLQQ2bJtGTX+LI8tU=
+
+Name: universalsrc/org/eclipse/ui/internal/intro/universal/WelcomeCust
+ omizationPreferencePage.java
+SHA1-Digest: xCpUBtuka5t0RBhryGEjkFCm5N4=
+
+Name: universalsrc/org/eclipse/ui/internal/intro/universal/util/Log.ja
+ va
+SHA1-Digest: dK7C5dR8zi6lgol6Q6NTQu9539k=
+
+Name: universalsrc/org/eclipse/ui/internal/intro/universal/Messages.ja
+ va
+SHA1-Digest: dpdYo1joBAyv8zV3zr1B+BoHI8I=
+
+Name: universalsrc/org/eclipse/ui/internal/intro/universal/Customizati
+ onContentsArea.java
+SHA1-Digest: +sOTDLJLnTofTaAp+VE1SdONmgA=
+
+Name: universalsrc/org/eclipse/ui/internal/intro/universal/CustomizeAc
+ tion.java
+SHA1-Digest: 4SstD7eoFllnYvsKucWNj4WffyU=
+

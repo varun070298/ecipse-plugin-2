@@ -1,0 +1,1389 @@
+Signature-Version: 1.0
+SHA1-Digest-Manifest: sx81Wh9eaLGno1vL78CMqIHwRqs=
+Created-By: 1.6.0 (IBM Corporation)
+SHA1-Digest-Manifest-Main-Attributes: F7s0PaW8EimVzncHJQPYgqMHEgc=
+
+Name: org/eclipse/osgi/framework/internal/core/AbstractBundle.java
+SHA1-Digest: R/JKg+JlT7Avmm8Ev3H6M/MaXYo=
+
+Name: org/eclipse/osgi/internal/permadmin/PermissionsHash.java
+SHA1-Digest: p0SImPed6vlozsfG2OetQGGzfK8=
+
+Name: org/eclipse/osgi/internal/loader/SystemBundleLoader.java
+SHA1-Digest: 06qoVP9lJh5RFA0wiHLagVJUi+8=
+
+Name: org/eclipse/osgi/baseadaptor/BaseAdaptor.java
+SHA1-Digest: eGhcM7u7+uh62bzzYIqyNapxcfc=
+
+Name: org/osgi/framework/wiring/BundleRequirement.java
+SHA1-Digest: AZ32YdBaMsr92/y051c0YSaM8UI=
+
+Name: org/eclipse/osgi/service/resolver/StateWire.java
+SHA1-Digest: aidd7B/npjuV3uBYRENIG8r19kY=
+
+Name: org/eclipse/osgi/service/pluginconversion/PluginConverter.java
+SHA1-Digest: I7dLZm2McVpWr31g0i+Llhg86MQ=
+
+Name: org/eclipse/osgi/framework/internal/protocol/bundleresource/Hand
+ ler.java
+SHA1-Digest: SEgG6neqWBNJOGKZyUT2G2ZWmYg=
+
+Name: org/eclipse/osgi/internal/permadmin/BundlePermissions.java
+SHA1-Digest: /WTwqYjD1z+Lp7lQVIAY8858xYo=
+
+Name: org/osgi/service/log/LogListener.java
+SHA1-Digest: ZvnRl+ZDce5WsTmReraymV8htjI=
+
+Name: org/eclipse/osgi/framework/internal/core/BundleRepository.java
+SHA1-Digest: a0PNL9pxy4BfYne4arJjaZhy2Qc=
+
+Name: org/eclipse/osgi/internal/baseadaptor/AdaptorUtil.java
+SHA1-Digest: BOPLmNDDdeR9nKOhy5aGqLZw47s=
+
+Name: org/eclipse/osgi/framework/debug/Debug.java
+SHA1-Digest: fgDEyH9gRWe3E6WHgVf2geq3FiM=
+
+Name: org/eclipse/osgi/baseadaptor/bundlefile/BundleEntry.java
+SHA1-Digest: URWXSlB/nBYNIT819j+7MBkEgaY=
+
+Name: org/eclipse/osgi/service/runnable/ApplicationRunnable.java
+SHA1-Digest: XWfuWx5bSnw22RQd7Cnul34XvPc=
+
+Name: org/osgi/service/condpermadmin/ConditionalPermissionAdmin.java
+SHA1-Digest: 85mDXUjMU2je1sXq+0wlwyzz5Uc=
+
+Name: org/eclipse/osgi/framework/internal/protocol/MultiplexingFactory
+ .java
+SHA1-Digest: W4bqwIlkW1y6eYa2xmlOVWZEN7M=
+
+Name: org/eclipse/osgi/service/resolver/BundleDescription.java
+SHA1-Digest: /aCaogr4PWLiuPdlj6R5BtkJtnU=
+
+Name: org/osgi/service/url/AbstractURLStreamHandlerService.java
+SHA1-Digest: UAY06ht6Z1zN7oM3aIrIi9qU9go=
+
+Name: org/eclipse/osgi/service/resolver/Resolver.java
+SHA1-Digest: hz5HttIVIJXqbTwb5H/FYwt6yS4=
+
+Name: org/eclipse/osgi/framework/internal/core/FrameworkConsole.java
+SHA1-Digest: bXrlgfnm1TTiuCZKJhwrbijogHI=
+
+Name: org/eclipse/osgi/internal/loader/buddy/RegisteredPolicy.java
+SHA1-Digest: vbuHS593lGLt6NXLVHxJ4SU7eVA=
+
+Name: org/eclipse/core/runtime/internal/stats/StatsManager.java
+SHA1-Digest: vkh7yiFH6FLhA+lIt830k7xJU/8=
+
+Name: org/eclipse/core/runtime/internal/adaptor/EclipseLazyStarter.jav
+ a
+SHA1-Digest: t8I5p59/r4JouUuFr0wAxIfkg28=
+
+Name: org/eclipse/osgi/framework/internal/core/ConsoleManager.java
+SHA1-Digest: slr8QIM73OXhrH/9EUb/Vj3HWMo=
+
+Name: org/eclipse/core/runtime/internal/adaptor/DefaultStartupMonitor.
+ java
+SHA1-Digest: fZXqXHMpYjH6TKlYzE4R3RhJS+s=
+
+Name: org/eclipse/osgi/internal/composite/SurrogateImpl.java
+SHA1-Digest: EMwrDv+thmNZrHLvokI4/EOGXPo=
+
+Name: org/eclipse/osgi/service/resolver/StateObjectFactory.java
+SHA1-Digest: gEytI6OaH5y283M6+Qt6SGXCxjA=
+
+Name: org/eclipse/osgi/framework/internal/core/EquinoxLauncher.java
+SHA1-Digest: v5bKpLbesaYSWEKDraBLiSnc+lc=
+
+Name: org/eclipse/osgi/framework/internal/core/Tokenizer.java
+SHA1-Digest: frjrZUP6pGzBdQYtN1rX5uz4fWo=
+
+Name: org/osgi/framework/SynchronousBundleListener.java
+SHA1-Digest: Xrsoj63kKjLOmklMZ277u6PIuyY=
+
+Name: org/eclipse/osgi/internal/permadmin/SecurityRow.java
+SHA1-Digest: O8RXQJVRNkH5MS/x+dKt4r/z5UM=
+
+Name: org/eclipse/osgi/baseadaptor/hooks/StorageHook.java
+SHA1-Digest: bxaSg0UFW5LfmRMPi6VU1WB5lKs=
+
+Name: org/eclipse/osgi/baseadaptor/bundlefile/MRUBundleFileList.java
+SHA1-Digest: 9dfaIWgqnMVNXVzOoThPui2itJY=
+
+Name: org/eclipse/osgi/internal/provisional/service/security/Authoriza
+ tionEvent.java
+SHA1-Digest: liIoS+kbrs8axJ4FlrA603EeEXo=
+
+Name: org/eclipse/osgi/baseadaptor/HookConfigurator.java
+SHA1-Digest: 19Gh8xwvEm2nbY9R8KvlqDexssI=
+
+Name: org/eclipse/osgi/framework/debug/FrameworkDebugOptions.java
+SHA1-Digest: IuOH8QEyppRSZegCbxY8hD6qHSU=
+
+Name: org/eclipse/osgi/framework/internal/core/ReferenceInputStream.ja
+ va
+SHA1-Digest: mpq+NG9nQeUbl9/scUNC2kB90RQ=
+
+Name: org/eclipse/osgi/internal/resolver/ReadOnlyState.java
+SHA1-Digest: H/FA+KqTCvDJo48Sw1qtrHcVhMc=
+
+Name: org/eclipse/osgi/internal/signedcontent/SignedContentConstants.j
+ ava
+SHA1-Digest: vtgLSDxc9sbpjeKRKAPqOj73cpM=
+
+Name: org/eclipse/osgi/framework/console/ConsoleSession.java
+SHA1-Digest: 4f+8xM1qcUtQHDAqXLNwxZNojnQ=
+
+Name: org/osgi/framework/hooks/bundle/FindHook.java
+SHA1-Digest: BAo+n6DwQmQGmjUonMLVcEs24jU=
+
+Name: org/eclipse/osgi/service/resolver/ImportPackageSpecification.jav
+ a
+SHA1-Digest: wVtaTojhedbpR8H46i4BHnBt0cU=
+
+Name: org/osgi/framework/launch/FrameworkFactory.java
+SHA1-Digest: 1VolEvnBOg4E7D+jyrgIZSM1gAo=
+
+Name: org/eclipse/core/runtime/internal/stats/ClassStats.java
+SHA1-Digest: ty/nXd4AASkWHhFuVAPqf5e2pUA=
+
+Name: org/osgi/service/condpermadmin/Condition.java
+SHA1-Digest: c/axVHYL7MTx7W9Y3DgYBQ91chw=
+
+Name: org/eclipse/osgi/baseadaptor/hooks/ClassLoadingStatsHook.java
+SHA1-Digest: jrFGpNzKRdTn5Xvf8rajeQu0+NE=
+
+Name: org/eclipse/osgi/framework/internal/core/ExportedPackageImpl.jav
+ a
+SHA1-Digest: m7o+hYtoTwSv/1yPO1LC86drG+4=
+
+Name: org/osgi/framework/FrameworkEvent.java
+SHA1-Digest: t7cPPnFVArvG46+tSKKa/XoclB8=
+
+Name: org/eclipse/osgi/internal/profile/Profile.java
+SHA1-Digest: UB9DbJVHP2lPHmAdAC47bx20KMs=
+
+Name: org/eclipse/osgi/internal/baseadaptor/DefaultClassLoader.java
+SHA1-Digest: vOW6HMxGcAmVwp59UwA0IDUL+U8=
+
+Name: org/eclipse/osgi/internal/module/PermissionChecker.java
+SHA1-Digest: 2eeyEcdLqPfR/rn1wUBTDNeA7X4=
+
+Name: org/eclipse/osgi/internal/composite/CompositeConfigurator.java
+SHA1-Digest: 0D3A6F8V3soGORe4AnaPCCrtIV4=
+
+Name: org/osgi/service/log/LogReaderService.java
+SHA1-Digest: LZ1Ebr4bpE84Yvliby2Sern9BpI=
+
+Name: org/eclipse/osgi/internal/signedcontent/SignatureBlockProcessor.
+ java
+SHA1-Digest: ybiXNgahzumXKTDKWSL9DExyP5E=
+
+Name: org/eclipse/osgi/baseadaptor/bundlefile/DirBundleFile.java
+SHA1-Digest: uGlssGnldg1oXBhDx1aA8O5x2Lo=
+
+Name: org/eclipse/osgi/service/resolver/StateHelper.java
+SHA1-Digest: 0RQ2Ly8rtONdAmHg33VuNJYnRFg=
+
+Name: org/eclipse/osgi/signedcontent/InvalidContentException.java
+SHA1-Digest: ud05Eua21cMaU6aXBJXMvv14TKg=
+
+Name: org/osgi/framework/BundleListener.java
+SHA1-Digest: sdexUjZKaqi+ZVekpxousbIDuiY=
+
+Name: org/eclipse/equinox/log/internal/ExtendedLogServiceFactory.java
+SHA1-Digest: IdbjxaOjmXC6XNXhXUMMN9R3j6w=
+
+Name: org/osgi/framework/startlevel/FrameworkStartLevel.java
+SHA1-Digest: SKbwNjD7Nmq3Rsw0BPbrTdc83iw=
+
+Name: org/osgi/framework/BundlePermission.java
+SHA1-Digest: WrVkDW0AtEcvSWT1jmwNttMPyeA=
+
+Name: org/osgi/framework/hooks/service/ListenerHook.java
+SHA1-Digest: hA3aUHBeAj+lCnu44DXLmfJQBYU=
+
+Name: org/eclipse/equinox/log/LogPermission.java
+SHA1-Digest: z2R7J7x3R6uIZAeyNZE4/NDh8xg=
+
+Name: org/eclipse/osgi/internal/loader/NullPackageSource.java
+SHA1-Digest: JRIz8KrZ1qhSl0s+zX+Ux1lDnLc=
+
+Name: org/eclipse/osgi/internal/profile/DefaultProfileLogger.java
+SHA1-Digest: G2kvTxkYKKUst4EMfZdWz/W4lDI=
+
+Name: org/eclipse/osgi/baseadaptor/loader/ParallelClassLoader.java
+SHA1-Digest: m1IupunU4hcUGc4npCx7rjYhhdM=
+
+Name: org/eclipse/osgi/internal/serviceregistry/FilteredServiceListene
+ r.java
+SHA1-Digest: ejuqAGEcQel8ZMnvdvPYNys/fvc=
+
+Name: org/eclipse/osgi/internal/signedcontent/DigestedInputStream.java
+SHA1-Digest: 5L6g1kzRXHpQ5u2X/+zvrEAnxHE=
+
+Name: org/osgi/util/tracker/ServiceTrackerCustomizer.java
+SHA1-Digest: PQTVxqgakH0ZFzce2t7C9jjXq78=
+
+Name: org/eclipse/osgi/internal/provisional/verifier/CertificateTrustA
+ uthority.java
+SHA1-Digest: +em/0pFZ4mjq1qd+w7BwWu8KChw=
+
+Name: org/osgi/framework/ServiceEvent.java
+SHA1-Digest: wFMCo9VYFVGAwCeOnHAp20mZAEk=
+
+Name: org/eclipse/core/runtime/internal/adaptor/ContextFinder.java
+SHA1-Digest: 3y1mEZKQq0rzzGElENr/hLgWlXQ=
+
+Name: org/osgi/util/tracker/ServiceTracker.java
+SHA1-Digest: xRgjo0wSupIVSxUajywZ+0Q6/Ds=
+
+Name: org/eclipse/core/runtime/internal/adaptor/EclipseClassLoadingHoo
+ k.java
+SHA1-Digest: khcSjHd3p3GLSGE2H0cXqz+PZUg=
+
+Name: org/osgi/util/tracker/AbstractTracked.java
+SHA1-Digest: eQmnaVu8SOIFnf538cZTrFcTcj0=
+
+Name: org/osgi/framework/hooks/bundle/EventHook.java
+SHA1-Digest: ne26QsA5SWpRpTPfk4o75Aq7MEA=
+
+Name: org/eclipse/osgi/internal/module/VersionHashMap.java
+SHA1-Digest: hGkVLj34/yTnO6pjQ86vRYZvxr0=
+
+Name: org/eclipse/osgi/internal/baseadaptor/weaving/WovenClassImpl.jav
+ a
+SHA1-Digest: t2qvou/RAvnvdmnMdDKnypzemeE=
+
+Name: org/osgi/service/packageadmin/PackageAdmin.java
+SHA1-Digest: SCKSRNTTIv61u70aI7lJQ/PZ25Y=
+
+Name: org/osgi/framework/CapabilityPermission.java
+SHA1-Digest: qB6Q59TMSrntqz732z0mljT5IJw=
+
+Name: org/eclipse/osgi/service/environment/EnvironmentInfo.java
+SHA1-Digest: m1SXWpF76LnFSdOyAhZIIK1IYfU=
+
+Name: org/eclipse/osgi/framework/internal/core/StartLevelEvent.java
+SHA1-Digest: DZRMHNDLLC/1g+ZrD7pashWhsSc=
+
+Name: org/eclipse/osgi/internal/resolver/GenericDescriptionImpl.java
+SHA1-Digest: 8IzWcfvFc/vi1SOMmr0P4FZRGW4=
+
+Name: org/osgi/framework/launch/Framework.java
+SHA1-Digest: FmgcisDhDyiENNHTfDEqwJwSkMY=
+
+Name: org/eclipse/osgi/internal/signedcontent/BERProcessor.java
+SHA1-Digest: 7XVmq4ijdNaOQGeU0JZbNdDtgXY=
+
+Name: org/eclipse/osgi/internal/baseadaptor/BaseClassLoadingHook.java
+SHA1-Digest: Y430txWkwtKbGOyvksz8+mqJoIM=
+
+Name: org/eclipse/osgi/framework/internal/protocol/ContentHandlerFacto
+ ry.java
+SHA1-Digest: 1llFqsctyvUkzfMJ53jp7kXW5sM=
+
+Name: org/eclipse/core/runtime/internal/adaptor/MessageHelper.java
+SHA1-Digest: f1nyhnXJq8tJmMUE6ig8VZdRkII=
+
+Name: org/eclipse/osgi/baseadaptor/bundlefile/BundleFileWrapperChain.j
+ ava
+SHA1-Digest: O9VBXwPqwoSrsvlxJ2GzDjvkS3A=
+
+Name: org/eclipse/osgi/internal/resolver/NativeCodeDescriptionImpl.jav
+ a
+SHA1-Digest: 8In8aXwB6U+KorZhbMeKxM5n6Ok=
+
+Name: org/eclipse/osgi/internal/signedcontent/PKCS7DateParser.java
+SHA1-Digest: Va+gfjKNwtJwtgrmETEZz8I4KLY=
+
+Name: org/eclipse/osgi/service/resolver/BundleSpecification.java
+SHA1-Digest: 6sLe+M1FtRupBvbvcbTk1U4qZAM=
+
+Name: org/eclipse/osgi/framework/internal/reliablefile/ReliableFile.ja
+ va
+SHA1-Digest: Lsf+sHyBt25MBrBTGn0EfLI4cN0=
+
+Name: org/eclipse/osgi/framework/internal/protocol/URLStreamHandlerFac
+ toryProxyFor15.java
+SHA1-Digest: hNMz9JIlz20lCsgsXDS2G6eOvnc=
+
+Name: org/eclipse/osgi/framework/internal/protocol/MultiplexingURLStre
+ amHandler.java
+SHA1-Digest: Xi1sKIjRzDCX6ajhKBDe55ZdnIE=
+
+Name: org/eclipse/equinox/log/ExtendedLogService.java
+SHA1-Digest: tUuSxYGeBI/zWnQXhuUmLHASqxU=
+
+Name: org/eclipse/osgi/internal/signedcontent/BundleInstallListener.ja
+ va
+SHA1-Digest: MY0oGwJLwaErhgDHNM7bLI6UUH4=
+
+Name: org/eclipse/osgi/framework/internal/protocol/bundleentry/Handler
+ .java
+SHA1-Digest: tJuc+KYgaQzI0moexyVRD3t6OzY=
+
+Name: org/osgi/service/condpermadmin/ConditionInfo.java
+SHA1-Digest: rUjiwVni8I9/Z8cCGejlHLEL0gU=
+
+Name: org/osgi/framework/BundleException.java
+SHA1-Digest: ZIgKma1Hyr6qfCF4BwV/ftYYYo0=
+
+Name: org/eclipse/osgi/service/resolver/VersionRange.java
+SHA1-Digest: 1MPL0FFnDSDV+1RasmNgCV1HM6E=
+
+Name: org/eclipse/equinox/log/internal/EventAdminAdapter.java
+SHA1-Digest: vV93GcLcEn/rsa5ZdcQ5pM+uA7w=
+
+Name: org/eclipse/equinox/log/LogPermissionCollection.java
+SHA1-Digest: HNG1RcXXzxVYFIrL91cdjD92Z9E=
+
+Name: org/eclipse/osgi/framework/eventmgr/EventDispatcher.java
+SHA1-Digest: IhfEBcuWs2oGKbh9XEaw6P4IG9c=
+
+Name: org/osgi/service/startlevel/StartLevel.java
+SHA1-Digest: yWaDKoHQWJm468QavZAN6tmYEp0=
+
+Name: org/osgi/service/log/LogService.java
+SHA1-Digest: BENXjQu0uZyFKBG6dK/b+dwS5sw=
+
+Name: org/eclipse/osgi/internal/loader/MultiSourcePackage.java
+SHA1-Digest: un6VwTrleFqExRiVWfWcA1Eb6yY=
+
+Name: org/eclipse/osgi/internal/provisional/service/security/Authoriza
+ tionEngine.java
+SHA1-Digest: cBVZzzjpGIXzIF2qb5IIvsxWO7M=
+
+Name: org/osgi/service/packageadmin/RequiredBundle.java
+SHA1-Digest: W+Ak144zNHhxTbI2yocA2Z5o0v0=
+
+Name: org/eclipse/osgi/framework/console/CommandInterpreter.java
+SHA1-Digest: pOun4kMtF9Zi8EX1vngzB7jj6Gk=
+
+Name: org/eclipse/osgi/internal/signedcontent/SignerInfoImpl.java
+SHA1-Digest: IgWQ6U/egl1d7hS3V/fcuJr2+nQ=
+
+Name: org/eclipse/core/runtime/internal/adaptor/PluginConverterImpl.ja
+ va
+SHA1-Digest: nAS8W81Pvc6h2eg4VuzWkUMkPTM=
+
+Name: org/eclipse/osgi/internal/permadmin/SecurityAdmin.java
+SHA1-Digest: AX1MQMh1BJZ8pDWIwX6e4bd05QE=
+
+Name: org/eclipse/osgi/storagemanager/StorageManager.java
+SHA1-Digest: Il8nR0MEduDm7G2j9aHAiv9cJco=
+
+Name: org/eclipse/osgi/internal/resolver/UserState.java
+SHA1-Digest: 6PqLgF1miIFskprPCytGzYFZa94=
+
+Name: org/eclipse/osgi/util/ManifestElement.java
+SHA1-Digest: b3I2wMFiP/PnoXgPuqDIYqegJ2Q=
+
+Name: org/eclipse/osgi/framework/eventmgr/ListenerQueue.java
+SHA1-Digest: t/bAaqjgYn1X5Q9kkdFlyMD/0k4=
+
+Name: org/eclipse/osgi/internal/module/GenericConstraint.java
+SHA1-Digest: 7Xiax4TpmLR7/+ba6IjpSCCqPxY=
+
+Name: org/eclipse/osgi/internal/signedcontent/SignedContentFile.java
+SHA1-Digest: k+LtMeOF1+noDpGnEEFfD75Z+5E=
+
+Name: org/eclipse/osgi/framework/internal/core/Constants.java
+SHA1-Digest: 8eE4Z0BaJzxRA4VcbUZwFEvZLaU=
+
+Name: org/osgi/service/framework/CompositeBundleFactory.java
+SHA1-Digest: yH8tGgbiifqTJZATsN0Ena0RtsU=
+
+Name: org/osgi/framework/ServiceException.java
+SHA1-Digest: ZkCNYDvS5HuUkTe81pkSYr4LLV8=
+
+Name: org/eclipse/osgi/framework/internal/core/FrameworkCommandInterpr
+ eter.java
+SHA1-Digest: g5pRdkk7O7sPq6vQE2KXrOcGCPE=
+
+Name: org/eclipse/osgi/framework/internal/protocol/NullURLStreamHandle
+ rService.java
+SHA1-Digest: O6kkl3gzxElVbE1Pi4QNI1q4g24=
+
+Name: org/eclipse/osgi/service/resolver/GenericSpecification.java
+SHA1-Digest: ZaA88wSPvKsDa6TTTC/DmBuY/9Q=
+
+Name: org/eclipse/osgi/event/BatchBundleListener.java
+SHA1-Digest: zpa0Vwjfr1PGqoa8+sDvahR2Exs=
+
+Name: org/eclipse/osgi/internal/resolver/StateImpl.java
+SHA1-Digest: 3xpFzF761gfr9l2R5hNYd09rR8E=
+
+Name: org/eclipse/osgi/internal/baseadaptor/BundleInstall.java
+SHA1-Digest: +2u/C7+8GRh9P+YSXfv2SzqtV+g=
+
+Name: org/eclipse/osgi/internal/service/security/KeyStoreTrustEngine.j
+ ava
+SHA1-Digest: t/wHfU+8sEf9fvBHmJg4YwoI2/o=
+
+Name: org/eclipse/osgi/baseadaptor/bundlefile/BundleFile.java
+SHA1-Digest: TM+K44aC6TxdRTdvKgF770QMOjo=
+
+Name: org/eclipse/osgi/internal/resolver/StateMsg.java
+SHA1-Digest: ab3MqpL14B9nqPgFI1AMsWwFjBI=
+
+Name: org/eclipse/osgi/internal/module/VersionSupplier.java
+SHA1-Digest: vSTXb2W37BdmDWRCfzLtq+g+ecg=
+
+Name: org/eclipse/osgi/framework/internal/core/CoreResolverHookFactory
+ .java
+SHA1-Digest: U2izqrXmRDirxIHUWW9DIyxKGRw=
+
+Name: org/osgi/service/condpermadmin/BundleLocationCondition.java
+SHA1-Digest: z/MmlZFmYmaDBPHjHvdTl1JJqDg=
+
+Name: org/eclipse/osgi/internal/resolver/GenericSpecificationImpl.java
+SHA1-Digest: +qnwCuixzeP4uyLIkL+hpW6Wo3c=
+
+Name: org/eclipse/osgi/internal/provisional/verifier/CertificateChain.
+ java
+SHA1-Digest: DnyfbqNSL/wwLaH/dN6C4knHvmg=
+
+Name: org/eclipse/osgi/internal/baseadaptor/SystemBundleData.java
+SHA1-Digest: Rhf6R2bPH16Hcz8Kx6IOwoY90G4=
+
+Name: org/eclipse/osgi/framework/internal/protocol/ContentHandlerProxy
+ .java
+SHA1-Digest: ZHJkl79vIsMdFQcauQuEjwEDkbI=
+
+Name: org/eclipse/osgi/framework/internal/protocol/ProtocolActivator.j
+ ava
+SHA1-Digest: Su5FXGiAZD1mXJYY3BQgMIRiDZ0=
+
+Name: org/eclipse/osgi/framework/adaptor/BundleProtectionDomain.java
+SHA1-Digest: JoBKqjiC5xBBas9LJcjWRt/e+w0=
+
+Name: org/eclipse/osgi/internal/resolver/HostSpecificationImpl.java
+SHA1-Digest: FwolLChsOnF5bF79K37rUIrSerQ=
+
+Name: org/eclipse/osgi/internal/resolver/BundleDeltaImpl.java
+SHA1-Digest: 4etEuYKEnoDPHv/Ct3HQAEmxJA8=
+
+Name: org/eclipse/core/runtime/internal/adaptor/IModel.java
+SHA1-Digest: INyvBPRrCfdY6Ann97oSHDdKd0w=
+
+Name: org/eclipse/equinox/log/internal/EventAdminLogListener.java
+SHA1-Digest: BIdRPROkLe0Xa3sPJwQQ7Vcr3vU=
+
+Name: org/eclipse/osgi/framework/internal/protocol/URLStreamHandlerSet
+ ter.java
+SHA1-Digest: gylo2W60navw1gX+caHQrypKAFI=
+
+Name: org/osgi/framework/hooks/service/FindHook.java
+SHA1-Digest: V8lQqzZZnRuFByHYlhYXG/t1Fuk=
+
+Name: org/eclipse/core/runtime/internal/stats/ClassloaderStats.java
+SHA1-Digest: JUR1L8Uyjcg4gc0iFPevVz+n/tY=
+
+Name: org/eclipse/osgi/internal/provisional/service/security/Authoriza
+ tionStatus.java
+SHA1-Digest: G4JrTPs/79P8dPEQKSzY6du2KGU=
+
+Name: org/eclipse/osgi/service/resolver/GenericDescription.java
+SHA1-Digest: bh8v2BOATcn5MbIqAdLykcfQyRI=
+
+Name: org/eclipse/osgi/internal/signedcontent/Base64.java
+SHA1-Digest: l7L0s/x1KOwEJZQMLkyj3YQyzWA=
+
+Name: org/osgi/framework/wiring/BundleRevision.java
+SHA1-Digest: 1o5jiXEhM14TVSAPjGJC/azFhfc=
+
+Name: org/osgi/service/log/package-info.java
+SHA1-Digest: 1PjvLHX823wfDxPsF/0UEGvdvpU=
+
+Name: org/eclipse/osgi/internal/resolver/BundleSpecificationImpl.java
+SHA1-Digest: 5prEXbCh5Puee6mX5bxZmkMSE4k=
+
+Name: org/eclipse/osgi/internal/module/ResolverBundle.java
+SHA1-Digest: VHfEbpPY7/E9t2wQnNbW9P3L5fM=
+
+Name: org/eclipse/osgi/internal/loader/buddy/PolicyHandler.java
+SHA1-Digest: /EdkXgvQG7P8WwP2iZTKCuIvek0=
+
+Name: org/eclipse/osgi/service/resolver/ResolverHookException.java
+SHA1-Digest: UOyhAEFnrYlXQY6hFv6Lkk8wr/k=
+
+Name: org/eclipse/osgi/internal/resolver/StateReader.java
+SHA1-Digest: ta4fN+aSxnXtqkfo67mY5QTf/Nk=
+
+Name: org/osgi/framework/PackagePermission.java
+SHA1-Digest: t2Jaq22Sbh22qi4oGVapxX6tY2o=
+
+Name: org/eclipse/osgi/framework/internal/core/BundleURLConnection.jav
+ a
+SHA1-Digest: xitI+LZRqgDMnvH+6ELs8C7cG64=
+
+Name: org/osgi/framework/hooks/resolver/ResolverHookFactory.java
+SHA1-Digest: iOGYKrzTtbvTBv3OACzqaT5Phwk=
+
+Name: org/osgi/framework/FrameworkListener.java
+SHA1-Digest: TDGic290eO7Wm3QnHNxB5xHMKTM=
+
+Name: org/eclipse/core/runtime/internal/adaptor/BundleLocalizationImpl
+ .java
+SHA1-Digest: yoUiEazciyKyouZUvceg+pZTx9M=
+
+Name: org/eclipse/osgi/framework/internal/core/FrameworkCommandProvide
+ r.java
+SHA1-Digest: TxN9IxDO+82iWHnMKRsTvaR22hU=
+
+Name: org/eclipse/osgi/internal/module/ResolverExport.java
+SHA1-Digest: OY3UifkO93czrenN4PXqdELIbzc=
+
+Name: org/eclipse/osgi/signedcontent/SignerInfo.java
+SHA1-Digest: mYBKkh7g+tC50pFISNjH/9CSR0Q=
+
+Name: org/eclipse/core/runtime/internal/adaptor/Locker.java
+SHA1-Digest: RpK+mlUOYtYjvnFLBOzKvGhuiD4=
+
+Name: org/eclipse/osgi/framework/adaptor/ClassLoaderDelegate.java
+SHA1-Digest: 7UIiG0AYN9aycLFlWT0WcLD3bGo=
+
+Name: org/eclipse/osgi/baseadaptor/hooks/ClassLoadingHook.java
+SHA1-Digest: rUu49rEp59yD3xVCCtJ2mfCGvrI=
+
+Name: org/eclipse/osgi/framework/debug/EclipseDebugTrace.java
+SHA1-Digest: VuJq9hEZ7xkXMDXoFv1Q1LFdUqM=
+
+Name: org/eclipse/osgi/internal/composite/CompositeHelper.java
+SHA1-Digest: QugNqoDabcv3p8glp9sLnOgtLLg=
+
+Name: org/eclipse/osgi/framework/debug/FrameworkDebugTraceEntry.java
+SHA1-Digest: FvZxKuv+ucPvbIRzBW5G5iP7oQw=
+
+Name: about.html
+SHA1-Digest: y+GVbkQRY4fNtZ1U+J4NPyZCMLE=
+
+Name: org/eclipse/osgi/service/resolver/PlatformAdmin.java
+SHA1-Digest: W3KotWsVEDKI/59EK/VijFBF1CY=
+
+Name: org/eclipse/osgi/internal/provisional/service/security/Authoriza
+ tionListener.java
+SHA1-Digest: A+M90DjKadeKTI8qwG9USHF9zsk=
+
+Name: org/eclipse/osgi/internal/composite/CompositeImpl.java
+SHA1-Digest: UJG90lyiAjjPEGjTE/mF3kx9l3Q=
+
+Name: org/eclipse/osgi/framework/adaptor/ClassLoaderDelegateHook.java
+SHA1-Digest: 9muuBDMXBfipx4aYI2SyLWo7/AM=
+
+Name: org/eclipse/equinox/log/internal/BasicReadWriteLock.java
+SHA1-Digest: jxuQk9cnMLrxARASDt+9724tIoQ=
+
+Name: org/osgi/framework/wiring/BundleWiring.java
+SHA1-Digest: vjHAl52EQcBWZBX2XyhkMqdQoRY=
+
+Name: org/eclipse/osgi/service/resolver/StateDelta.java
+SHA1-Digest: z+xdLlHHHsOJz0Iqj//B/I8MIZY=
+
+Name: org/eclipse/osgi/framework/internal/core/SystemBundleActivator.j
+ ava
+SHA1-Digest: ynldibH6/TGo1YbupbIewPcNmug=
+
+Name: org/eclipse/core/runtime/internal/adaptor/EclipseCommandProvider
+ .java
+SHA1-Digest: PzHo/QHkplgwmu3uONw39mpdVpQ=
+
+Name: org/eclipse/equinox/log/ExtendedLogReaderService.java
+SHA1-Digest: 6gP2z1ngXqL+6vLzHKE3YtCKibk=
+
+Name: org/eclipse/osgi/framework/util/KeyedHashSet.java
+SHA1-Digest: 5AzAlJkJGbsBcvgugde45TKfy44=
+
+Name: org/eclipse/osgi/internal/permadmin/PermissionAdminTable.java
+SHA1-Digest: ur39xBflc46OEza+LH5MUh85xKU=
+
+Name: org/eclipse/core/runtime/internal/adaptor/PluginParser.java
+SHA1-Digest: p/CJNe2sgBdXfYYvKkLBBXSqRss=
+
+Name: org/eclipse/osgi/internal/loader/BundleLoaderProxy.java
+SHA1-Digest: 8ArEyfGw9GJqB0HZ+vPXWz+m3Hg=
+
+Name: org/eclipse/osgi/baseadaptor/hooks/AdaptorHook.java
+SHA1-Digest: 3za3F5Qxcxt+6GQCPljbb37UlDQ=
+
+Name: org/osgi/framework/wiring/BundleRevisions.java
+SHA1-Digest: Plhl+0CvzrFoARVrr5VtGWLxORo=
+
+Name: org/osgi/service/log/LogEntry.java
+SHA1-Digest: elPj9YSseFZGcQ86wB2jUYQaKEA=
+
+Name: org/eclipse/osgi/service/runnable/ApplicationLauncher.java
+SHA1-Digest: G7jN7MDI1LPkfP1IZG1X78iWExM=
+
+Name: org/eclipse/osgi/framework/internal/core/BundleContextImpl.java
+SHA1-Digest: rQ2WAHzxjHHjPpN5WTTimsV9ssM=
+
+Name: org/eclipse/osgi/internal/signedcontent/SignedBundleFile.java
+SHA1-Digest: z1LewejT3Scp6lSg9+1qEu3YJ5I=
+
+Name: org/eclipse/core/runtime/internal/adaptor/Locker_JavaIo.java
+SHA1-Digest: wA7IzJOnKyDpKN+rJvG/umePD+Y=
+
+Name: org/eclipse/equinox/log/LogFilter.java
+SHA1-Digest: lrDpro0ucnnAjZ+KAvLavm2ksVI=
+
+Name: org/eclipse/osgi/internal/module/BundleConstraint.java
+SHA1-Digest: SsQ/TNoMjC2KW+PDvN8i4GQQTBg=
+
+Name: org/osgi/framework/InvalidSyntaxException.java
+SHA1-Digest: ATmK1s+NYTcCyi3/I+iY8Kw9yAM=
+
+Name: org/eclipse/equinox/log/internal/ExtendedLogEntryImpl.java
+SHA1-Digest: uQJtxVRk7TkPnaJ5GNDv2dyz4Pg=
+
+Name: org/eclipse/core/runtime/internal/adaptor/EclipseAppLauncher.jav
+ a
+SHA1-Digest: cVLHyPTkxFq/MTxZ/SuaG55u+JQ=
+
+Name: org/eclipse/core/runtime/internal/adaptor/EclipseEnvironmentInfo
+ .java
+SHA1-Digest: uJC3iaGl+VViX2S7I+mCkHNHCmE=
+
+Name: org/eclipse/osgi/framework/internal/protocol/reference/Handler.j
+ ava
+SHA1-Digest: 6d1wBR1YvZCJ1vPW52msPgwrCCI=
+
+Name: org/eclipse/osgi/service/resolver/State.java
+SHA1-Digest: h7qVPo1pznWLgh+ra34rNHF5RZU=
+
+Name: org/eclipse/osgi/internal/module/CompositeResolveHelperRegistry.
+ java
+SHA1-Digest: oLUkmpZX1zalrio8IQ5WZ7c6UMs=
+
+Name: org/osgi/framework/hooks/weaving/WovenClass.java
+SHA1-Digest: BxPufE+lUvWJf2Sln0g9VfirBx0=
+
+Name: org/eclipse/osgi/baseadaptor/bundlefile/ZipBundleEntry.java
+SHA1-Digest: ZovXcPmrahVlLDU+8aOk/SdxXgk=
+
+Name: org/eclipse/osgi/util/TextProcessor.java
+SHA1-Digest: 2yHM+GrejjqL/N91brbbbZ25U/k=
+
+Name: org/eclipse/osgi/framework/internal/core/AliasMapper.java
+SHA1-Digest: LlTgP0xYLTV3u8vz1kdBUJMmrx4=
+
+Name: org/eclipse/osgi/service/debug/DebugOptionsListener.java
+SHA1-Digest: 2wiznCSyWvBK67DObnzKgUwM0JM=
+
+Name: org/osgi/framework/wiring/FrameworkWiring.java
+SHA1-Digest: Knl08Xqq8cfP5dGup/QWQosUBGM=
+
+Name: org/eclipse/osgi/internal/permadmin/EquinoxSecurityManager.java
+SHA1-Digest: a0hYLYLAWQVqttHHkIZiXpgKGKo=
+
+Name: org/eclipse/osgi/internal/provisional/verifier/CertificateVerifi
+ er.java
+SHA1-Digest: AvDihOdjAbc6ygRzoi1tPwT2ZLc=
+
+Name: org/eclipse/osgi/signedcontent/SignedContentEntry.java
+SHA1-Digest: f0ipns9cFLmUgjgeJbKrNYUkfAU=
+
+Name: org/eclipse/core/runtime/internal/adaptor/EclipseAdaptorMsg.java
+SHA1-Digest: RfUtlRnY+NJ0kGocNR39IXrpJn0=
+
+Name: org/eclipse/osgi/internal/baseadaptor/ArrayMap.java
+SHA1-Digest: rR2OOS3Sn5xpLE47yuIgKRhEOhk=
+
+Name: org/osgi/framework/ServiceListener.java
+SHA1-Digest: uLrEP97hPDSR7VNc6tVcZA2id9A=
+
+Name: org/eclipse/osgi/framework/internal/core/Framework.java
+SHA1-Digest: XKucLO4JkS06f2q56zIs9ppre0w=
+
+Name: org/eclipse/osgi/framework/adaptor/BundleClassLoader.java
+SHA1-Digest: 5Wuiz7AyA6z7dA7JmTrkPdL1vpo=
+
+Name: org/eclipse/osgi/baseadaptor/bundlefile/FileBundleEntry.java
+SHA1-Digest: ArCSZwA2Yy8OhyxGnMZ7HYQQeiM=
+
+Name: org/eclipse/osgi/internal/baseadaptor/BaseStorage.java
+SHA1-Digest: 4GROTb5Ei9Glr8Rd7639OYJNsbw=
+
+Name: org/eclipse/osgi/internal/baseadaptor/weaving/WeavingHookConfigu
+ rator.java
+SHA1-Digest: W5BIac+so11btk8Te+zfQquBbJ4=
+
+Name: org/eclipse/osgi/internal/resolver/VersionConstraintImpl.java
+SHA1-Digest: 27RivvpUH/mCVrZhMifpDaxDlvc=
+
+Name: org/eclipse/osgi/framework/internal/core/StartLevelManager.java
+SHA1-Digest: dZsZ4QyVS5BTaKaXQdFOK1Of10c=
+
+Name: org/eclipse/core/runtime/adaptor/EclipseStarter.java
+SHA1-Digest: Vlzi87pVB9sEa4OZuCgcG850dd4=
+
+Name: org/osgi/framework/BundleActivator.java
+SHA1-Digest: i3QQSGpSojYOlJpi3z6JQ646zE4=
+
+Name: org/eclipse/core/runtime/internal/adaptor/EclipseErrorHandler.ja
+ va
+SHA1-Digest: p/Ft9ACvHjq1AAPBF+bNts4N8Nk=
+
+Name: org/eclipse/osgi/service/resolver/NativeCodeDescription.java
+SHA1-Digest: aH1l8dc4R2jptECh+en2MifoPuo=
+
+Name: org/eclipse/osgi/framework/internal/core/Msg.java
+SHA1-Digest: uqbNL8kiPezChTDaUxn4maaeucg=
+
+Name: org/eclipse/osgi/internal/module/CompositeResolveHelper.java
+SHA1-Digest: wd5n92OqPTddWn9FfJDmbHgoTuI=
+
+Name: org/eclipse/osgi/baseadaptor/bundlefile/NestedDirBundleFile.java
+SHA1-Digest: b8zISgobR0nUdj7rvH/nhw9FloI=
+
+Name: org/eclipse/osgi/framework/internal/core/ConsoleMsg.java
+SHA1-Digest: keoSPKatd7MznpJnzW0oGQCNRD0=
+
+Name: org/osgi/framework/hooks/weaving/WeavingException.java
+SHA1-Digest: HQqBEt8wvVpOcu07Gp5LBlRJZAs=
+
+Name: org/eclipse/equinox/log/internal/SerializedTaskQueue.java
+SHA1-Digest: c5Nrs2EITNoXimrusCfOupdb438=
+
+Name: org/eclipse/osgi/internal/serviceregistry/ServiceUse.java
+SHA1-Digest: Epp9Wcynbxq906QRDoLVS1exMrY=
+
+Name: org/eclipse/osgi/internal/loader/buddy/SystemPolicy.java
+SHA1-Digest: hwg456uy8uswn0/MunnG/n1FnBI=
+
+Name: org/osgi/framework/BundleEvent.java
+SHA1-Digest: elxDnwn7elDQs3+zAK+b8XD/AMM=
+
+Name: org/eclipse/osgi/service/resolver/NativeCodeSpecification.java
+SHA1-Digest: OLAjPpGv9sgRpSUp6NUovdSyiNA=
+
+Name: org/osgi/framework/hooks/weaving/WeavingHook.java
+SHA1-Digest: 4NAyolJFmCf3LjOgFLp4QGFIpY4=
+
+Name: org/eclipse/osgi/service/resolver/DisabledInfo.java
+SHA1-Digest: QvSCBtliVp75A/o7ThWXCkip6xM=
+
+Name: org/eclipse/core/runtime/internal/stats/ResourceBundleStats.java
+SHA1-Digest: JkuChnDGKWzFrny40tRe0JG1MNE=
+
+Name: org/eclipse/osgi/service/localization/BundleLocalization.java
+SHA1-Digest: EE6CQ2a3WUQpzNVOWq6uJhWwNX0=
+
+Name: org/eclipse/osgi/internal/signedcontent/TrustEngineListener.java
+SHA1-Digest: pya5cYy3LCcO0GAoHlbXEb6sjYM=
+
+Name: org/osgi/framework/Constants.java
+SHA1-Digest: 58rBdhr3MbT1EFS+t8/kzL0t1t4=
+
+Name: org/eclipse/osgi/framework/eventmgr/EventManager.java
+SHA1-Digest: C4WWQL8R+5mb+zNqgdXJO0xZwC0=
+
+Name: org/eclipse/osgi/internal/baseadaptor/weaving/DynamicImportList.
+ java
+SHA1-Digest: CE+ZvOi322O6SvwkbsgbOunFGpU=
+
+Name: org/eclipse/osgi/internal/profile/ProfileLogger.java
+SHA1-Digest: g0ncslp0mUqoaercynIqXraG7/E=
+
+Name: org/eclipse/osgi/internal/resolver/StateDeltaImpl.java
+SHA1-Digest: bhlYUnTUtEzBjohVJ+g9RHtzcfA=
+
+Name: org/eclipse/osgi/internal/signedcontent/SignedStorageHook.java
+SHA1-Digest: Xk2+8sW2Cn4wUDg71+E6G3pxLIE=
+
+Name: org/eclipse/core/runtime/internal/adaptor/Locker_JavaNio.java
+SHA1-Digest: 7bIcRI91Af9+9uvBoLtg/nt7oPg=
+
+Name: org/osgi/service/framework/SurrogateBundle.java
+SHA1-Digest: lHAXGjkhTvSexy6F+o0drg8oQSk=
+
+Name: org/eclipse/osgi/internal/permadmin/SecurityTableUpdate.java
+SHA1-Digest: FuIgqAwObt5hB+QdyjJR3+SqjkQ=
+
+Name: org/eclipse/osgi/service/internal/composite/CompositeModule.java
+SHA1-Digest: cJLX/gjuWUKPFFUdX/M+KIzBikI=
+
+Name: org/eclipse/equinox/log/internal/ExtendedLogReaderServiceFactory
+ .java
+SHA1-Digest: 86tFs9/8WL5ifCVSUofzZwb3FB0=
+
+Name: org/osgi/service/packageadmin/ExportedPackage.java
+SHA1-Digest: m2fHBeikWwQsNRyFafK2iOuPfik=
+
+Name: org/eclipse/osgi/service/resolver/ExportPackageDescription.java
+SHA1-Digest: fxC2paL+FbN24Q4dLSjCn1HP/JA=
+
+Name: org/osgi/framework/startlevel/BundleStartLevel.java
+SHA1-Digest: cfW79/QH76Kc7oAolCzSGtshifo=
+
+Name: org/eclipse/osgi/framework/adaptor/BundleData.java
+SHA1-Digest: MrpzwOtXLoZEV5KyS6M9OlvvQco=
+
+Name: org/eclipse/core/runtime/internal/adaptor/BasicLocation.java
+SHA1-Digest: kMqHEyq8Lz71SAct2DP6qcmh0os=
+
+Name: org/osgi/framework/wiring/BundleCapability.java
+SHA1-Digest: g/GKmBQ4BVU39u7/mE0BZLn+7rU=
+
+Name: org/eclipse/osgi/internal/module/MappedList.java
+SHA1-Digest: AImJwHYRDDE+RGF7OjuvQzDKuyM=
+
+Name: org/eclipse/osgi/internal/resolver/ResolverErrorImpl.java
+SHA1-Digest: +ZNAzSX+OOWk0eIYRzQIrfaCWUY=
+
+Name: org/eclipse/osgi/internal/resolver/BundleDescriptionImpl.java
+SHA1-Digest: vpbP+qTC4IfBvCPZj/lSTMgn2t0=
+
+Name: org/eclipse/osgi/service/resolver/ResolverError.java
+SHA1-Digest: /l3bImlfNGlzE9EXuTkGGISDPws=
+
+Name: org/eclipse/osgi/internal/resolver/BaseDescriptionImpl.java
+SHA1-Digest: 7yckPqVH25OQiiYBTExi54mOyNM=
+
+Name: org/eclipse/osgi/service/resolver/BundleDelta.java
+SHA1-Digest: ZGqvGQHZNd0s+IAoVpPpzm1PQh8=
+
+Name: org/eclipse/osgi/launch/EquinoxFactory.java
+SHA1-Digest: L5krdAiOWl0zyKehpf6MnYkf5/U=
+
+Name: org/eclipse/osgi/internal/serviceregistry/ServiceRegistrationImp
+ l.java
+SHA1-Digest: Oxqb6A8yzaW+AKroTJ3iYC9ZQWs=
+
+Name: org/eclipse/osgi/framework/adaptor/BundleOperation.java
+SHA1-Digest: bmmNVJ2lx1on8eGNfLo9BFoKszI=
+
+Name: org/eclipse/osgi/baseadaptor/HookRegistry.java
+SHA1-Digest: 2H97QcZ2kOKkUW3AXEQHrdpvbV8=
+
+Name: org/eclipse/osgi/service/pluginconversion/PluginConversionExcept
+ ion.java
+SHA1-Digest: mgC2/56z2IjP1pIKRvsrin7qJYQ=
+
+Name: org/eclipse/osgi/internal/signedcontent/SignedBundleHook.java
+SHA1-Digest: 2o3ribU+U+O0v6NDu96q3/7TZY0=
+
+Name: org/eclipse/osgi/launch/EquinoxFWClassLoader.java
+SHA1-Digest: wrNJ5Q6izqm0YlOetvrS96q+ulg=
+
+Name: org/eclipse/osgi/internal/resolver/StateObjectFactoryImpl.java
+SHA1-Digest: 0DK7StpptuIFZSCiU5SgJiH8bOc=
+
+Name: org/eclipse/osgi/internal/baseadaptor/DevClassLoadingHook.java
+SHA1-Digest: DeevcJ+UAq4NsR69zYq5S+cExlk=
+
+Name: org/eclipse/osgi/framework/internal/core/UniversalUniqueIdentifi
+ er.java
+SHA1-Digest: l2u/Rc0182WDPZrMdVffLw/UbBw=
+
+Name: org/eclipse/core/runtime/internal/adaptor/EclipseStorageHook.jav
+ a
+SHA1-Digest: WqZii2WcrPoGJ35B2Jd3vLNqAhg=
+
+Name: org/eclipse/osgi/service/resolver/VersionConstraint.java
+SHA1-Digest: 2BFKorsrEo/n4gLELPuAyv58yCk=
+
+Name: org/eclipse/osgi/service/security/TrustEngine.java
+SHA1-Digest: hadjnJZ9MowKKjEBujmbLkIZucI=
+
+Name: org/eclipse/osgi/framework/adaptor/FrameworkAdaptor.java
+SHA1-Digest: Ha/YUk94dKx/UnRn9awEggitR5E=
+
+Name: org/eclipse/osgi/framework/internal/core/InternalSystemBundle.ja
+ va
+SHA1-Digest: cAFiTQE3OBBEGd+WbEbNiPkppV4=
+
+Name: org/eclipse/osgi/internal/resolver/ImportPackageSpecificationImp
+ l.java
+SHA1-Digest: srl9J6OQ+QHd+AK3aT3VolgA56w=
+
+Name: org/osgi/framework/SignerProperty.java
+SHA1-Digest: o4DsI70WVGiWs6EtxCiAz8mW0mo=
+
+Name: org/osgi/framework/hooks/service/EventListenerHook.java
+SHA1-Digest: lB9Tny2gbSv+a7FK8N0o+PiwRds=
+
+Name: org/eclipse/osgi/internal/composite/CompositeServiceTracker.java
+SHA1-Digest: fVABoZ7bIXrmCcfDab8FSQQNFYQ=
+
+Name: org/eclipse/osgi/framework/internal/core/BundleSource.java
+SHA1-Digest: kiAQczHXEpEpTPq5zv+f4krbsXA=
+
+Name: org/eclipse/osgi/internal/resolver/ComputeNodeOrder.java
+SHA1-Digest: RlfyqDpPvALn0qvR+KWZzMjvD+I=
+
+Name: org/eclipse/osgi/framework/util/ObjectPool.java
+SHA1-Digest: W01pk8awTEdQ0Tmy0PiZBzWPIyc=
+
+Name: org/eclipse/osgi/service/debug/DebugTrace.java
+SHA1-Digest: 7BtkN49cjtOSQIi3TYBKsTXXovw=
+
+Name: org/eclipse/equinox/log/ExtendedLogEntry.java
+SHA1-Digest: nB9NCnjQoJP3OhmXwsQsleN35eM=
+
+Name: org/eclipse/core/runtime/internal/adaptor/Semaphore.java
+SHA1-Digest: +gTM4qDxHFuk6B9wJWzT5xM9cnc=
+
+Name: org/eclipse/osgi/internal/loader/BundleLoader.java
+SHA1-Digest: 7xT0U9z83Ulhf4Etw8E1kLR74w8=
+
+Name: org/eclipse/osgi/framework/adaptor/FilePath.java
+SHA1-Digest: GEC0ZCzZWLyRDd0WmFLfLHnFang=
+
+Name: about_files/LICENSE-2.0.txt
+SHA1-Digest: DMnZPrY7w/ZEOj0YI/l8KoozuvM=
+
+Name: org/eclipse/equinox/log/internal/ExtendedLogReaderServiceImpl.ja
+ va
+SHA1-Digest: wcYkMou7GQ/+qSaj0aHOOX/drLY=
+
+Name: org/eclipse/osgi/service/environment/Constants.java
+SHA1-Digest: 9GMs+rQvVB6KpXNnGf7RktPgkrs=
+
+Name: org/eclipse/osgi/internal/baseadaptor/BundleUpdate.java
+SHA1-Digest: S0H9ICok1UGGDrPUoWqwjiGkXTo=
+
+Name: org/eclipse/core/runtime/adaptor/LocationManager.java
+SHA1-Digest: DLBdeSgzq1N0xslwWX9zbNnNDGg=
+
+Name: org/eclipse/core/runtime/internal/adaptor/CachedManifest.java
+SHA1-Digest: aQ7v3fq11SyPfmdw/W4t9FTc1d4=
+
+Name: org/osgi/service/url/URLConstants.java
+SHA1-Digest: Wv02nINq2HsJxuoKlb6Q0g58f7w=
+
+Name: org/eclipse/osgi/internal/baseadaptor/AdaptorMsg.java
+SHA1-Digest: 8NPKkfxCMhta0CxlbmA6zD8zYI4=
+
+Name: org/eclipse/osgi/framework/util/SecureAction.java
+SHA1-Digest: V1ACg2Z5W4aLTjdpAqjayZf9B70=
+
+Name: org/osgi/service/url/URLStreamHandlerSetter.java
+SHA1-Digest: osi4iZk1Nr0gp9pliDdLDeaXzvQ=
+
+Name: org/eclipse/osgi/framework/eventmgr/EventListeners.java
+SHA1-Digest: NnSB4RNoCk+2JKY/o5ZOwHrZmAg=
+
+Name: META-INF/eclipse.inf
+SHA1-Digest: SAqY+5ITAL0mkdYeijlSRhyIaZk=
+
+Name: org/eclipse/osgi/internal/permadmin/SecurePermissionStorage.java
+SHA1-Digest: 9h2WYQHEmkDt8pSdsoqEZFDK0Ak=
+
+Name: org/eclipse/osgi/internal/module/GenericCapability.java
+SHA1-Digest: THErt1xC79xar3mYR/4Sv0CAI7w=
+
+Name: org/osgi/framework/Filter.java
+SHA1-Digest: YoKRAdWA5mw7YA5A0AKmNLeBplA=
+
+Name: org/osgi/framework/ServiceFactory.java
+SHA1-Digest: sKZnYv1yw0DsyC3vX6Ayvd0gfw0=
+
+Name: org/eclipse/core/runtime/internal/adaptor/IPluginInfo.java
+SHA1-Digest: jup0XMZnsdcZL6w45+2d4kYmz/A=
+
+Name: org/eclipse/osgi/service/resolver/HostSpecification.java
+SHA1-Digest: b1TZ4yEPKjDnFpuM1lDpX5Yi/kI=
+
+Name: org/osgi/framework/AdaptPermission.java
+SHA1-Digest: ENGhbfKK+PLNRlAE9mWtyoeZv1A=
+
+Name: org/eclipse/osgi/internal/loader/PackageSource.java
+SHA1-Digest: sOBubyzPJFwihbb4QfB0ew8ntCs=
+
+Name: org/eclipse/osgi/internal/signedcontent/SignedContentMessages.ja
+ va
+SHA1-Digest: 2csPPxGx6gRM5pz5/EIypPwga6Y=
+
+Name: org/eclipse/osgi/storagemanager/ManagedOutputStream.java
+SHA1-Digest: yeM82eYIvwpDua3ceqdt2t3FqZg=
+
+Name: org/osgi/framework/hooks/service/EventHook.java
+SHA1-Digest: XoBcnPuaQLqln8ZxIf6FxfQdQhQ=
+
+Name: org/eclipse/osgi/signedcontent/SignedContent.java
+SHA1-Digest: dAZGI+uy4DT42Dij/wHs8xsca9I=
+
+Name: org/osgi/service/condpermadmin/ConditionalPermissionUpdate.java
+SHA1-Digest: dpJSztcozkfOyVKpJuulE1pQbWM=
+
+Name: org/eclipse/osgi/internal/serviceregistry/HookContext.java
+SHA1-Digest: oj5y//KX85mbfhssZfF4gdeyuNM=
+
+Name: org/eclipse/osgi/internal/permadmin/SecurityRowSnapShot.java
+SHA1-Digest: s1aozZm/9wST2vbBBIui0nUZ8iY=
+
+Name: org/eclipse/osgi/service/resolver/BaseDescription.java
+SHA1-Digest: LBPybc9Sm+RzgWvyxE98B4NA+xU=
+
+Name: org/eclipse/osgi/service/localization/LocaleProvider.java
+SHA1-Digest: sKbGDO8CbLQ8BTF4YeyLNcNg/WU=
+
+Name: org/eclipse/osgi/internal/serviceregistry/ServiceProperties.java
+SHA1-Digest: TWQTdW93g1ixXHT+XnUPwdkU804=
+
+Name: org/eclipse/osgi/framework/internal/protocol/StreamHandlerFactor
+ y.java
+SHA1-Digest: LVg7g8JzJ97wW89QTyZOWEkLmOA=
+
+Name: org/osgi/framework/Configurable.java
+SHA1-Digest: XiC1gWoUgTZY8OqUi61G2TnxB1Q=
+
+Name: org/eclipse/osgi/framework/internal/reliablefile/ReliableFileInp
+ utStream.java
+SHA1-Digest: FaAXktqaduz6unSXujzQeJzi7ho=
+
+Name: org/osgi/service/condpermadmin/BundleSignerCondition.java
+SHA1-Digest: xGEEYBRBcwZK+1YES+BKn/ufM6c=
+
+Name: org/osgi/framework/wiring/BundleWire.java
+SHA1-Digest: NXMa948ymimAtrqaeWCQrD8pft0=
+
+Name: org/eclipse/equinox/log/SynchronousLogListener.java
+SHA1-Digest: crMcEiFleWVC9XgNMQPbOTAQy2Y=
+
+Name: org/eclipse/core/runtime/internal/adaptor/ClasspathManifest.java
+SHA1-Digest: Xe057F9qhdUGaTx72/wrfV6JXcM=
+
+Name: org/eclipse/osgi/baseadaptor/loader/ClasspathEntry.java
+SHA1-Digest: luMThtyZ3wz1YRR4FSqKCAMxbTo=
+
+Name: org/eclipse/osgi/service/runnable/StartupMonitor.java
+SHA1-Digest: rBm3uOg0QRIlqqx+hsQRhih3UOs=
+
+Name: org/osgi/service/permissionadmin/PermissionAdmin.java
+SHA1-Digest: wBFuhnc4Y+fpJA/sm1isC7BCuRk=
+
+Name: org/eclipse/osgi/signedcontent/SignedContentFactory.java
+SHA1-Digest: r9h3BF0DYI/pciT1pGBAV1ofx+M=
+
+Name: org/eclipse/osgi/service/runnable/ParameterizedRunnable.java
+SHA1-Digest: ERuW4ANRuPuklipen3PEQrdsJF8=
+
+Name: org/eclipse/osgi/launch/Equinox.java
+SHA1-Digest: Q3E3U7vd9RKsGCd/ht5WDrl4CkI=
+
+Name: org/eclipse/osgi/baseadaptor/loader/BaseClassLoader.java
+SHA1-Digest: 0N8ag005mGQyAvlkPXQhWtaeG00=
+
+Name: org/eclipse/osgi/internal/serviceregistry/ServiceReferenceImpl.j
+ ava
+SHA1-Digest: ZQsu/Emz8VK6degj3xhzciTW7XI=
+
+Name: org/eclipse/osgi/internal/signedcontent/SignedContentImpl.java
+SHA1-Digest: EYSa4qp76HnXjOtYX9VwV4lTNZc=
+
+Name: org/osgi/framework/AdminPermission.java
+SHA1-Digest: NvBI01c+NlT6ewnfzSV91lJz5Cc=
+
+Name: org/eclipse/osgi/internal/permadmin/PermissionInfoCollection.jav
+ a
+SHA1-Digest: qX4r7y/mFPi65Km5W1qSWb9vOxg=
+
+Name: org/eclipse/osgi/internal/serviceregistry/ModifiedServiceEvent.j
+ ava
+SHA1-Digest: W6y9s1ue96gw+iWz3keb/R+3OmA=
+
+Name: org/eclipse/equinox/log/Logger.java
+SHA1-Digest: OLXRqzTIO+cc9H3kpco+HTap6nM=
+
+Name: org/eclipse/equinox/log/internal/ExtendedLogServiceImpl.java
+SHA1-Digest: 9H6Xg/qx3/67hJ0tuiGUlyH7UAc=
+
+Name: org/osgi/service/url/URLStreamHandlerService.java
+SHA1-Digest: nklzkyUmtOE07g31uGHRU0OJlbc=
+
+Name: org/eclipse/osgi/baseadaptor/loader/FragmentClasspath.java
+SHA1-Digest: ajuxCxP7yPeUTtcgf6ws8CRPmks=
+
+Name: org/osgi/service/framework/CompositeBundle.java
+SHA1-Digest: +QzIUH6Nry0aCh8BhVqcU2OtT+A=
+
+Name: org/eclipse/osgi/internal/serviceregistry/ServiceRegistry.java
+SHA1-Digest: llFKg+zDCWpHr+7voizmytRfnEw=
+
+Name: org/eclipse/osgi/framework/log/FrameworkLog.java
+SHA1-Digest: A+uDdfTuEQ71I6KqJNBvt7uh9ps=
+
+Name: org/eclipse/osgi/framework/internal/protocol/MultiplexingContent
+ Handler.java
+SHA1-Digest: lGBHjjoCYV4dRREsvsoZmKdrdTA=
+
+Name: org/eclipse/osgi/service/debug/DebugOptions.java
+SHA1-Digest: yj/Ftzt8nhYUMAOnWiHDjiYCFeY=
+
+Name: org/osgi/framework/ServicePermission.java
+SHA1-Digest: Ap9vfX7QsD5hT2E1ymxXOcFXHgY=
+
+Name: org/eclipse/osgi/internal/signedcontent/PKCS7Processor.java
+SHA1-Digest: wjtIA6fXwwi3QwQeENLRiRvqpCk=
+
+Name: org/eclipse/osgi/internal/service/security/DefaultAuthorizationE
+ ngine.java
+SHA1-Digest: xfuArV0jYTJkAMRdvVsBo6zWKqY=
+
+Name: org/eclipse/equinox/log/internal/LoggerImpl.java
+SHA1-Digest: +lA2eJ+H938QKevXMj7oBa0b5z0=
+
+Name: org/eclipse/osgi/baseadaptor/BaseData.java
+SHA1-Digest: BepF5SDiztFDJQ+duky5803lxCE=
+
+Name: org/eclipse/osgi/internal/baseadaptor/InvalidVersion.java
+SHA1-Digest: 92BGjWAqYF6t6Vszq8HxO1UnCZY=
+
+Name: org/eclipse/core/runtime/internal/adaptor/EclipseLogWriter.java
+SHA1-Digest: icxrJffUAwYYrSooA0ewmOUghOU=
+
+Name: org/eclipse/osgi/framework/internal/core/BundleFragment.java
+SHA1-Digest: dOb12fEH1QVVri3KcqBrJvJmQPU=
+
+Name: org/eclipse/osgi/internal/resolver/ExportPackageDescriptionImpl.
+ java
+SHA1-Digest: RPhGLfpDboLOh/GvUHoe8sFOKDg=
+
+Name: org/eclipse/osgi/internal/resolver/SystemState.java
+SHA1-Digest: 8HARlDYMc6Q3PTkm5wV1moVxBuQ=
+
+Name: org/eclipse/osgi/framework/adaptor/EventPublisher.java
+SHA1-Digest: CbPAAP5m6UtvmfMolxKvxOGYGpc=
+
+Name: org/eclipse/osgi/framework/internal/protocol/reference/Reference
+ URLConnection.java
+SHA1-Digest: OrpHWBL+UICSkuGHRkyPOQsGKh0=
+
+Name: org/eclipse/osgi/framework/internal/core/ManifestLocalization.ja
+ va
+SHA1-Digest: TECP7w/cJqqjpPmgVsBxGekCwE8=
+
+Name: org/eclipse/osgi/internal/module/ResolverImpl.java
+SHA1-Digest: ApRu2MMtpZHbg9KBCW+SzXnkY3Q=
+
+Name: org/eclipse/osgi/internal/provisional/verifier/CertificateVerifi
+ erFactory.java
+SHA1-Digest: cIiLHnR7FrwKTfPi3ltEz0P3DOk=
+
+Name: org/eclipse/core/runtime/internal/adaptor/EclipseLogHook.java
+SHA1-Digest: KKryG9BbMmhHBkoCHl+BtHsrlh4=
+
+Name: org/osgi/service/permissionadmin/PermissionInfo.java
+SHA1-Digest: Ny6TQpEOcAImiTL35pvWPq3kDhc=
+
+Name: org/osgi/framework/hooks/resolver/ResolverHook.java
+SHA1-Digest: 23ne4uaHi0EZg/vknwpgx/RIXP8=
+
+Name: org/eclipse/osgi/internal/baseadaptor/BasePermissionStorage.java
+SHA1-Digest: PivpRy2PQAzE6KIZ5mOcNgctKbI=
+
+Name: org/eclipse/osgi/internal/serviceregistry/ShrinkableEntrySetValu
+ eCollection.java
+SHA1-Digest: vVB9fBC5yBpfUYmrM60DRU/peew=
+
+Name: org/eclipse/equinox/log/internal/LogServiceManager.java
+SHA1-Digest: BhRbrwq4a+YhxslhPhuaUD1BFY4=
+
+Name: org/eclipse/osgi/internal/serviceregistry/ShrinkableCollection.j
+ ava
+SHA1-Digest: G3ggNNld93RNcK47t2yNqRMBcKk=
+
+Name: org/osgi/service/condpermadmin/ConditionalPermissionInfo.java
+SHA1-Digest: Zu1QpRutDTfSsGWjsR4cewjkHZA=
+
+Name: org/eclipse/osgi/internal/resolver/StateBuilder.java
+SHA1-Digest: v49IyOQixMsFKBd7YirCmV3gq7M=
+
+Name: org/eclipse/osgi/framework/internal/core/BundleResourceHandler.j
+ ava
+SHA1-Digest: PjFmEmN/F06S2r1z3Hc+g35gbC4=
+
+Name: org/eclipse/osgi/internal/baseadaptor/StateManager.java
+SHA1-Digest: 0sVZ9Zl9GHtX80ddUTbBWmaQ/WI=
+
+Name: org/osgi/framework/FrameworkUtil.java
+SHA1-Digest: Jd7K2+ZH0AV2SYj0fL/SE958ERU=
+
+Name: org/osgi/util/tracker/BundleTracker.java
+SHA1-Digest: dz6RZC48BD9WsdvK65kcieVA+10=
+
+Name: org/eclipse/osgi/framework/internal/core/BundleHost.java
+SHA1-Digest: n5wRut+nMYQ2kT8H69SrLBZLGhc=
+
+Name: org/eclipse/osgi/framework/internal/core/PackageAdminImpl.java
+SHA1-Digest: tUncdgMNzWIjF/yyJNxOGri3/7Q=
+
+Name: org/eclipse/osgi/internal/module/ResolverConstraint.java
+SHA1-Digest: FcLNSh5cJ7XhNWcQT7ELB9OOqUo=
+
+Name: org/eclipse/osgi/internal/serviceregistry/ShrinkableValueCollect
+ ionMap.java
+SHA1-Digest: Gw6AN6f/yPOTl14bd48EcJ5+KXQ=
+
+Name: org/eclipse/osgi/internal/loader/buddy/DependentPolicy.java
+SHA1-Digest: Pkte+DEQVccz2FBa/If/prTHacg=
+
+Name: org/eclipse/osgi/internal/baseadaptor/BaseHookConfigurator.java
+SHA1-Digest: rZp95bkatn3NPMm6m/o/RErZ514=
+
+Name: org/osgi/framework/BundleReference.java
+SHA1-Digest: 1BpWl3zguGOreYQeR9KuwJyvRSI=
+
+Name: org/eclipse/core/runtime/internal/adaptor/URLConverterImpl.java
+SHA1-Digest: 3z9Nh6NsOYuSxq3Q376SfwxnToI=
+
+Name: org/eclipse/osgi/internal/composite/CompositeBase.java
+SHA1-Digest: TTHa9he5ldBi6N0P8KWjPtW4odk=
+
+Name: org/eclipse/osgi/internal/resolver/NativeCodeSpecificationImpl.j
+ ava
+SHA1-Digest: S1UXZC7OlUZHHeB67KuczlcXxnE=
+
+Name: org/eclipse/osgi/internal/module/GroupingChecker.java
+SHA1-Digest: a4IcbXa1F1K87vxHFLtTWSl6U4w=
+
+Name: org/eclipse/osgi/baseadaptor/hooks/BundleFileWrapperFactoryHook.
+ java
+SHA1-Digest: wReRf3dZhbz92+30eE69XoSq7NY=
+
+Name: org/eclipse/osgi/framework/internal/reliablefile/ReliableFileOut
+ putStream.java
+SHA1-Digest: uw4V3qPD8+CqGDM89Shl+qhAHTs=
+
+Name: org/eclipse/osgi/baseadaptor/bundlefile/ZipBundleFile.java
+SHA1-Digest: IThF7KpKrXiRbCqT83lpSlmmD18=
+
+Name: org/eclipse/osgi/framework/eventmgr/CopyOnWriteIdentityMap.java
+SHA1-Digest: Py6qhGKVJO0b2YrA5OIgpHPUYas=
+
+Name: org/eclipse/osgi/internal/loader/buddy/IBuddyPolicy.java
+SHA1-Digest: RBICSBgtM02njWltU5k/gHobyCc=
+
+Name: org/eclipse/osgi/framework/internal/core/FrameworkConsoleSession
+ .java
+SHA1-Digest: 7Dw5rDK5Xbd6rkHyU2QJlOHchhE=
+
+Name: org/eclipse/osgi/service/datalocation/Location.java
+SHA1-Digest: LlN6vjNf61KI6M7zNmktMiYQ0a4=
+
+Name: org/eclipse/osgi/framework/internal/core/FrameworkProperties.jav
+ a
+SHA1-Digest: iKeb6CI2mH4Wlz+Lsw/DW31lC9A=
+
+Name: org/eclipse/osgi/service/urlconversion/URLConverter.java
+SHA1-Digest: 3DOR6Xdmez6/pW2ooh8fUufozFc=
+
+Name: org/eclipse/core/runtime/internal/adaptor/LocationHelper.java
+SHA1-Digest: uU2WLny70VWJ1fany+ki/t26sqU=
+
+Name: org/eclipse/core/runtime/internal/adaptor/EclipseAdaptorHook.jav
+ a
+SHA1-Digest: eQ535ztKIY6uPCd1RtvBlQ0Ccfw=
+
+Name: org/eclipse/osgi/framework/internal/protocol/URLStreamHandlerPro
+ xy.java
+SHA1-Digest: Vtyuap1E0TBPAG9IQeCj7E260eM=
+
+Name: org/osgi/framework/ServiceReference.java
+SHA1-Digest: vGdM3OoGCrHMooTqMlnyg8qMx58=
+
+Name: org/eclipse/core/runtime/internal/adaptor/EclipseLogFactory.java
+SHA1-Digest: Z1v1gGTU7l8C3iaR4FjO6hn4hgs=
+
+Name: org/eclipse/osgi/framework/util/Headers.java
+SHA1-Digest: cRKciM+cM3V+gtlSvDewZ9/XbHk=
+
+Name: org/eclipse/osgi/framework/internal/core/FilterImpl.java
+SHA1-Digest: NhCUnGsL9Oiar1e+ZXCp0VqTGw4=
+
+Name: org/eclipse/osgi/baseadaptor/bundlefile/DirZipBundleEntry.java
+SHA1-Digest: m1ZFhHuUbRBrLVkrNXKQ3o40UYA=
+
+Name: org/eclipse/osgi/framework/log/FrameworkLogEntry.java
+SHA1-Digest: 46n/OkX/as/ZO5wlVNila6Y0Gz0=
+
+Name: org/eclipse/osgi/internal/resolver/StateWriter.java
+SHA1-Digest: jk95W5uSB+O7mJAEsacnbDGkRgA=
+
+Name: org/eclipse/osgi/internal/baseadaptor/DevClassPathHelper.java
+SHA1-Digest: 3VxZkppo5SflkboKf6bKPZndEwg=
+
+Name: org/eclipse/osgi/internal/composite/CompositeClassLoader.java
+SHA1-Digest: LKO/BbSXzfdHoEqodfcbQdeXg88=
+
+Name: org/eclipse/osgi/internal/loader/SingleSourcePackage.java
+SHA1-Digest: 8VOd1XzAXvc7iDZI4unBawfOcSs=
+
+Name: org/osgi/framework/BundleContext.java
+SHA1-Digest: jpjFEM74f9vlz0ovSqcG4rfcIuk=
+
+Name: org/eclipse/osgi/framework/console/CommandProvider.java
+SHA1-Digest: J6ubwWa1pqxyFdTXst0XG/Acl6w=
+
+Name: org/eclipse/osgi/framework/adaptor/PermissionStorage.java
+SHA1-Digest: e7ftQ/kA18gygg2eJ3xBFsmZUsc=
+
+Name: org/eclipse/osgi/internal/loader/FilteredSourcePackage.java
+SHA1-Digest: Iq64XcCzj9T0D1QamGPYz9ByF0M=
+
+Name: org/eclipse/core/runtime/internal/stats/BundleStats.java
+SHA1-Digest: rZR8VK/qzW6s/0O53TFaLnwSpQ8=
+
+Name: org/eclipse/osgi/framework/adaptor/StatusException.java
+SHA1-Digest: KMEFNJZqTZ1aDgxjTLGsLbSC7X0=
+
+Name: org/osgi/framework/Version.java
+SHA1-Digest: loLsSG8ngjx30vsw9diab/Sxkks=
+
+Name: org/eclipse/osgi/framework/adaptor/BundleWatcher.java
+SHA1-Digest: VtOvM8mXUolMeM6nCdZh8YN5Sh4=
+
+Name: org/eclipse/osgi/framework/internal/core/Util.java
+SHA1-Digest: Km7tBhxc8WQnK91uYhVjlq0gfFc=
+
+Name: org/eclipse/osgi/internal/permadmin/SecurityTable.java
+SHA1-Digest: aaezdmqT8sWQ9MDHxqUW7xwNhzg=
+
+Name: systembundle.properties
+SHA1-Digest: nqZSJ/JdiulvOoIEB4dAEs53Lxo=
+
+Name: org/osgi/framework/ServiceRegistration.java
+SHA1-Digest: QWsfdikdQmsTNk1Ibj8kAuaNSN4=
+
+Name: org/eclipse/osgi/baseadaptor/hooks/BundleFileFactoryHook.java
+SHA1-Digest: phouVbDPxcIB5AVMkPxsgu64IcI=
+
+Name: org/eclipse/osgi/util/NLS.java
+SHA1-Digest: XPpwPYZjfE5w+FR3YJWsYw1SdKE=
+
+Name: org/eclipse/osgi/internal/signedcontent/LegacyVerifierFactory.ja
+ va
+SHA1-Digest: 6fWlFgJQlHTFUZCTzhVWnj1LRrk=
+
+Name: org/eclipse/osgi/internal/baseadaptor/BaseStorageHook.java
+SHA1-Digest: kLVHcFE6yWNERIo9pbzK4PN/Qo8=
+
+Name: org/osgi/framework/Bundle.java
+SHA1-Digest: iYEnHttdOtE86VfLsuUwYb5Qmw0=
+
+Name: org/eclipse/osgi/internal/baseadaptor/BundleUninstall.java
+SHA1-Digest: zOMOh0WSjoxdP8z2JB+gfZPktQw=
+
+Name: org/eclipse/osgi/framework/util/KeyedElement.java
+SHA1-Digest: zd/BHA/e0zWKMBB9Ts49jT+cGx4=
+
+Name: org/osgi/util/tracker/BundleTrackerCustomizer.java
+SHA1-Digest: iwoNVbRRdTScQ9d3srnlhYikThQ=
+
+Name: org/eclipse/osgi/internal/loader/buddy/GlobalPolicy.java
+SHA1-Digest: 4p8IOjF2ooOmwFob41KvgMtvmUU=
+
+Name: org/eclipse/osgi/baseadaptor/loader/ClasspathManager.java
+SHA1-Digest: 4fP5Z9alFFbtOnbfD3bveV9a8QY=
+
+Name: org/osgi/framework/AllServiceListener.java
+SHA1-Digest: ITZ5fDOswNn4co1qwqgzxMZfJhg=
+
+Name: org/eclipse/osgi/internal/resolver/StateHelperImpl.java
+SHA1-Digest: 8gUfpIY29cLVILSnYFDbJL8XVTc=
+
+Name: org/eclipse/osgi/internal/module/ResolverImport.java
+SHA1-Digest: VjQ4xan8Dlg1U62JnGZ9+MaAvQM=
+

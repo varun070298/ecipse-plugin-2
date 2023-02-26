@@ -1,0 +1,56 @@
+Signature-Version: 1.0
+SHA1-Digest-Manifest: kZQD2xSC1NibwUzQN4tdTn5CCRw=
+Created-By: 1.6.0 (IBM Corporation)
+SHA1-Digest-Manifest-Main-Attributes: +7pSyjtLZh8CfqHaG4d9G4aAofM=
+
+Name: META-INF/eclipse.inf
+SHA1-Digest: SAqY+5ITAL0mkdYeijlSRhyIaZk=
+
+Name: org/eclipse/ui/internal/net/ProxyEntriesContentProvider.java
+SHA1-Digest: GkWOxZhfBA0Bgv0pcGpxZLUnfNA=
+
+Name: org/eclipse/ui/internal/net/ProxyEntriesComposite.java
+SHA1-Digest: f4sx5gTOtBqaG+0p4WgQnLCF3UA=
+
+Name: org/eclipse/ui/internal/net/ProxyEntryDialog.java
+SHA1-Digest: NZyP5PaVZHK58uKM7ejuv084CPY=
+
+Name: org/eclipse/ui/internal/net/ProxyEntriesLabelProvider.java
+SHA1-Digest: aOyk54SlL+gLwc5ssbJwAt3pjWs=
+
+Name: about.html
+SHA1-Digest: M+fykt9heyWoEv1LNiIEeBhi/2Q=
+
+Name: org/eclipse/ui/internal/net/ProxyBypassData.java
+SHA1-Digest: 3t2SPi5KZdWyyE36Hooyt7RuiqA=
+
+Name: org/eclipse/ui/internal/net/auth/Authentication.java
+SHA1-Digest: AFFer+OucZRk8qK3A1uVUJT+FpY=
+
+Name: plugin.properties
+SHA1-Digest: lrYBqcs0s9/83H83V6OV69rHfK0=
+
+Name: org/eclipse/ui/internal/net/auth/NetAuthenticator.java
+SHA1-Digest: XjwFlnMuZ3/yRrhRA9Ycw5YQcSY=
+
+Name: org/eclipse/ui/internal/net/NetUIMessages.java
+SHA1-Digest: ISZoEj+o/uMuO4xAuycS04TMkU0=
+
+Name: org/eclipse/ui/internal/net/NonProxyHostsContentProvider.java
+SHA1-Digest: eWryU5Uoicr+s8kop8rk1fIeu2A=
+
+Name: org/eclipse/ui/internal/net/ProxyPreferencePage.java
+SHA1-Digest: kldKrBNmYk2F7VRzeoV6wjPOFP0=
+
+Name: org/eclipse/ui/internal/net/NonProxyHostsComposite.java
+SHA1-Digest: uavDCo0lZoettpAaPE4fU13Q600=
+
+Name: org/eclipse/ui/internal/net/Activator.java
+SHA1-Digest: NdPgh6tz0myQBsJiDSK2tICNk+U=
+
+Name: org/eclipse/ui/internal/net/NonProxyHostsLabelProvider.java
+SHA1-Digest: ccttj0LIdpDAqw6jEHPgS2U0YW4=
+
+Name: org/eclipse/ui/internal/net/auth/UserValidationDialog.java
+SHA1-Digest: ppoSP9iYKVhB6HmDQs5woUg1eC0=
+

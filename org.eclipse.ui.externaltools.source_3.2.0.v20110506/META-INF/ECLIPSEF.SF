@@ -1,0 +1,147 @@
+Signature-Version: 1.0
+SHA1-Digest-Manifest: ukXDLMCr2Z/uOfultH/Za/wABOk=
+Created-By: 1.6.0 (IBM Corporation)
+SHA1-Digest-Manifest-Main-Attributes: MB+scdLj1V295A+kAqu73xCX4Rg=
+
+Name: org/eclipse/ui/externaltools/internal/ui/BuilderPropertyPage.jav
+ a
+SHA1-Digest: N4i2S4ChzEsdw6wk1s/muSVeorY=
+
+Name: org/eclipse/ui/externaltools/internal/menu/ExternalToolMenuDeleg
+ ate.java
+SHA1-Digest: 7fvrRaOGTa54OS377AjSIcOc3P4=
+
+Name: org/eclipse/ui/externaltools/internal/variables/VariableMessages
+ .java
+SHA1-Digest: qoL/ukf5dy1OqnyUDBdDa8i1NN0=
+
+Name: org/eclipse/ui/externaltools/internal/program/launchConfiguratio
+ ns/ProgramBuilderTabGroup.java
+SHA1-Digest: Q0cLK/SXIGlEpPcIbmoSuNRkuUA=
+
+Name: org/eclipse/ui/externaltools/internal/ui/FileSelectionDialog.jav
+ a
+SHA1-Digest: xkwcSMKGAB6Jb6mqBt8pA85PN3U=
+
+Name: org/eclipse/ui/externaltools/internal/model/BuilderUtils.java
+SHA1-Digest: rIr3Auv9TT7NG9vkTPlXRtUtzo8=
+
+Name: org/eclipse/ui/externaltools/internal/program/launchConfiguratio
+ ns/ProgramTabGroup.java
+SHA1-Digest: 5ibI01DG/NTl3rT481S53whSKnM=
+
+Name: org/eclipse/ui/externaltools/internal/launchConfigurations/Exter
+ nalToolsBuildTab.java
+SHA1-Digest: 3C2S1RsB9ZNt1+zOPvog5nS01bM=
+
+Name: org/eclipse/ui/externaltools/internal/model/IExternalToolsHelpCo
+ ntextIds.java
+SHA1-Digest: ZWUKndLRXHb4swCkwAULXlENcM8=
+
+Name: plugin.properties
+SHA1-Digest: FNGyjsGmRfJVhnH1mC19TfvGV2U=
+
+Name: org/eclipse/ui/externaltools/internal/launchConfigurations/Exter
+ nalToolsMainTab.java
+SHA1-Digest: nG7P1Gd4lIrHUdEUveNC3fOCxZ0=
+
+Name: org/eclipse/ui/externaltools/internal/ui/ExternalToolsUIMessages
+ .java
+SHA1-Digest: 4yJnx3gBIYcbTEFV8Hsn8svBspk=
+
+Name: org/eclipse/ui/externaltools/internal/menu/OpenExternalToolsConf
+ igurations.java
+SHA1-Digest: VnJoXvYlIsFDJRPf1G7C022jyGg=
+
+Name: org/eclipse/ui/externaltools/internal/variables/SystemPathResolv
+ er.java
+SHA1-Digest: fWsFKSScWg0NnX92/AwNLxAScik=
+
+Name: org/eclipse/ui/externaltools/internal/ui/BuilderLabelProvider.ja
+ va
+SHA1-Digest: Sp/oeW8ytdLRTLVXu8NQCVF+PdQ=
+
+Name: org/eclipse/ui/externaltools/internal/launchConfigurations/Ignor
+ eWhiteSpaceComparator.java
+SHA1-Digest: PsGg3of8IsKckpo+fe0m3yJDnSQ=
+
+Name: org/eclipse/ui/externaltools/internal/ui/TreeAndListGroup.java
+SHA1-Digest: CnNwKwNnvzMFYxFlBCZlydp21Yg=
+
+Name: org/eclipse/ui/externaltools/internal/model/ExternalToolsModelMe
+ ssages.java
+SHA1-Digest: +u9ZnZETSdsNaYUIl77+2Xaqr3I=
+
+Name: org/eclipse/ui/externaltools/internal/variables/BuildProjectReso
+ lver.java
+SHA1-Digest: B1xRQdWOa1xYxSQ/24PDBk2NCx8=
+
+Name: org/eclipse/ui/externaltools/internal/model/IExternalToolConstan
+ ts.java
+SHA1-Digest: WoRYtCvXi+R4+gZiVuUPrjpbRm8=
+
+Name: org/eclipse/ui/externaltools/internal/launchConfigurations/Exter
+ nalToolsLaunchConfigurationMessages.java
+SHA1-Digest: BAtSLbarb4yKPJIK99MaFfsPl7I=
+
+Name: org/eclipse/ui/externaltools/internal/model/ExternalToolsPlugin.
+ java
+SHA1-Digest: pilEOGQW4OZliHWqrX9tpQUsLP4=
+
+Name: META-INF/eclipse.inf
+SHA1-Digest: SAqY+5ITAL0mkdYeijlSRhyIaZk=
+
+Name: org/eclipse/ui/externaltools/internal/variables/BuildTypeResolve
+ r.java
+SHA1-Digest: 7ir5bf3XEjEV1jAtuKEYKsM8j84=
+
+Name: org/eclipse/ui/externaltools/internal/ui/ExternalToolsPreference
+ Page.java
+SHA1-Digest: vUkg92m/BJlHSKdBPtg3QAnpvZQ=
+
+Name: org/eclipse/ui/externaltools/internal/program/launchConfiguratio
+ ns/ExternalToolsProgramMessages.java
+SHA1-Digest: 2iAsBcWtNwY2YjDUyrBZfZ7yeZI=
+
+Name: org/eclipse/ui/externaltools/internal/model/ExternalToolsPrefere
+ nceInitializer.java
+SHA1-Digest: UTKaZW3YjKBTibP0STB4Bht8zJQ=
+
+Name: about.html
+SHA1-Digest: M+fykt9heyWoEv1LNiIEeBhi/2Q=
+
+Name: org/eclipse/ui/externaltools/internal/program/launchConfiguratio
+ ns/ProgramMainTab.java
+SHA1-Digest: qDfPkjji9FA/3I8K6gd5DoQwksU=
+
+Name: org/eclipse/ui/externaltools/internal/launchConfigurations/Exter
+ nalToolsUtil.java
+SHA1-Digest: d4ZipxB8LIHOXM2j9GvZVkyKoBU=
+
+Name: org/eclipse/ui/externaltools/internal/model/IPreferenceConstants
+ .java
+SHA1-Digest: SYhoE6mMEedfemSxi18P8rviel8=
+
+Name: org/eclipse/ui/externaltools/internal/launchConfigurations/Worki
+ ngSetComparator.java
+SHA1-Digest: vk/MdH0YPgLrbWCijOEU6YI2Cpk=
+
+Name: org/eclipse/ui/externaltools/internal/ui/EditCommandDialog.java
+SHA1-Digest: IGeBVlcEKwc3uFC61krm+wduvY4=
+
+Name: org/eclipse/ui/externaltools/internal/model/ExternalToolsImages.
+ java
+SHA1-Digest: 1lNpJjIW2G6/IMFwJXVSF9Vho/Y=
+
+Name: org/eclipse/ui/externaltools/internal/model/ImageDescriptorRegis
+ try.java
+SHA1-Digest: hgs0fD+Wiox3RGes3GF45Zbco/M=
+
+Name: org/eclipse/ui/externaltools/internal/launchConfigurations/Exter
+ nalToolsBuilderTab.java
+SHA1-Digest: JyxXq9wSUAMEO9ili3nWAZQvVqE=
+
+Name: org/eclipse/ui/externaltools/internal/variables/BuildFilesResolv
+ er.java
+SHA1-Digest: 4JzEpvVtYbKOpzHP9Biqlc68rks=
+

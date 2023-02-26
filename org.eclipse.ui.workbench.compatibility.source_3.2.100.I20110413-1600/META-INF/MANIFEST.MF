@@ -1,0 +1,27 @@
+Manifest-Version: 1.0
+Eclipse-SourceBundle: org.eclipse.ui.workbench.compatibility;version="
+ 3.2.100.I20110413-1600";roots:="compatibilitysrc"
+Bundle-Vendor: %providerName
+Bundle-Localization: fragment-compatibility
+Bundle-Name: %fragmentName
+Bundle-SymbolicName: org.eclipse.ui.workbench.compatibility.source
+Bundle-Version: 3.2.100.I20110413-1600
+Bundle-ManifestVersion: 2
+
+Name: META-INF/eclipse.inf
+SHA1-Digest: KyT9FF7C7t86NoBoa2kZT3ZJBfw=
+
+Name: compatibilitysrc/org/eclipse/ui/internal/ICompatibleWorkbenchPag
+ e.java
+SHA1-Digest: RPOPyKPs+7R7Hg+83NTpVLaFyck=
+
+Name: compatibilitysrc/org/eclipse/ui/internal/CompatibleWorkbenchPage
+ .java
+SHA1-Digest: HntGb2lDMP1b63ikXDAsDIRjs7I=
+
+Name: about.html
+SHA1-Digest: ejOZra0kypGLQQ2bJtGTX+LI8tU=
+
+Name: fragment-compatibility.properties
+SHA1-Digest: KsIasv+nALpSPU8go01fi7p9kXQ=
+

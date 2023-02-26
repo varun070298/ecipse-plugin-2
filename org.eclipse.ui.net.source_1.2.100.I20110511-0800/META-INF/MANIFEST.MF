@@ -1,0 +1,61 @@
+Manifest-Version: 1.0
+Eclipse-SourceBundle: org.eclipse.ui.net;version="1.2.100.I20110511-08
+ 00";roots:="."
+Bundle-Vendor: %PLUGIN_PROVIDER
+Bundle-Localization: plugin
+Bundle-Name: %PLUGIN_NAME
+Bundle-SymbolicName: org.eclipse.ui.net.source
+Bundle-Version: 1.2.100.I20110511-0800
+Bundle-ManifestVersion: 2
+
+Name: META-INF/eclipse.inf
+SHA1-Digest: KyT9FF7C7t86NoBoa2kZT3ZJBfw=
+
+Name: org/eclipse/ui/internal/net/ProxyEntriesContentProvider.java
+SHA1-Digest: W/hD1bHN+UsaJmoYfrKxDb3DiPM=
+
+Name: org/eclipse/ui/internal/net/ProxyEntriesComposite.java
+SHA1-Digest: J+Ivzfo9tVPAx0KnYS8VX/p05L4=
+
+Name: org/eclipse/ui/internal/net/ProxyEntryDialog.java
+SHA1-Digest: lZ5KUjvKZ1j/h1TcUpA8E/FICpg=
+
+Name: org/eclipse/ui/internal/net/ProxyEntriesLabelProvider.java
+SHA1-Digest: C7yDNnj5cteHo8og0WYwm8Dt2sg=
+
+Name: about.html
+SHA1-Digest: ejOZra0kypGLQQ2bJtGTX+LI8tU=
+
+Name: org/eclipse/ui/internal/net/ProxyBypassData.java
+SHA1-Digest: oU/wv0GO4WTsjmLJuJ82n4IDHv0=
+
+Name: org/eclipse/ui/internal/net/auth/Authentication.java
+SHA1-Digest: 2Gm/p6RAmzpYHvB9FklkLaeRyac=
+
+Name: plugin.properties
+SHA1-Digest: XDThZX7IFN390vJBDtIQrwX+WXw=
+
+Name: org/eclipse/ui/internal/net/auth/NetAuthenticator.java
+SHA1-Digest: OzWjTYY800Yp+RXAPJST6YuLraE=
+
+Name: org/eclipse/ui/internal/net/NetUIMessages.java
+SHA1-Digest: mEFPu/2RqCRkGmdjOJJXqYRmq+U=
+
+Name: org/eclipse/ui/internal/net/ProxyPreferencePage.java
+SHA1-Digest: kpbZi9qaBEqV8eHAgFHKu7WRp+o=
+
+Name: org/eclipse/ui/internal/net/NonProxyHostsContentProvider.java
+SHA1-Digest: IDN8AvLqMEDkd2LZf6xx2UtB8EA=
+
+Name: org/eclipse/ui/internal/net/Activator.java
+SHA1-Digest: FMB+ifJKGYWSJikNuLMRl8RNiTo=
+
+Name: org/eclipse/ui/internal/net/NonProxyHostsComposite.java
+SHA1-Digest: 0TjVkP5AL+htiQszsI4M/wHCSQo=
+
+Name: org/eclipse/ui/internal/net/auth/UserValidationDialog.java
+SHA1-Digest: BbWVWRZBeS3XAVhk/MuwEf9sla0=
+
+Name: org/eclipse/ui/internal/net/NonProxyHostsLabelProvider.java
+SHA1-Digest: EVZlRoDlrwyXcxKFGMuSyplc3A4=
+

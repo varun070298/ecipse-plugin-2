@@ -1,0 +1,536 @@
+Signature-Version: 1.0
+SHA1-Digest-Manifest: tZHb1zk3kQEHaJesqEy2dyR3a6o=
+Created-By: 1.6.0 (IBM Corporation)
+SHA1-Digest-Manifest-Main-Attributes: g4cHnfMz6XXxbUfoCPoIaLf4odQ=
+
+Name: org/eclipse/ui/texteditor/GotoLastEditPositionAction.java
+SHA1-Digest: 757hto/P84+40HzkCmPdVf+RIyQ=
+
+Name: org/eclipse/ui/internal/texteditor/quickdiff/compare/equivalence
+ /DJBHashFunction.java
+SHA1-Digest: f5We4eyWjhabyU0HUmX8FVuUsA0=
+
+Name: org/eclipse/ui/texteditor/templates/TemplateContentProvider.java
+SHA1-Digest: T8RaSPYf3XUqQDC26re8zjRDhl0=
+
+Name: org/eclipse/ui/texteditor/IDeleteLineTarget.java
+SHA1-Digest: iaNhpCsDB31E+3UGwfvWB2LEzt8=
+
+Name: org/eclipse/ui/texteditor/spelling/IPreferenceStatusMonitor.java
+SHA1-Digest: iV0EdM3mCKqRRL2dpytG3lyUjoA=
+
+Name: org/eclipse/ui/texteditor/ShiftAction.java
+SHA1-Digest: /7a0lL7oHkCpju0tMCQoc6S/7v8=
+
+Name: org/eclipse/ui/texteditor/ITextEditorExtension3.java
+SHA1-Digest: kYpNj2USjDxAqXX8kg0KHLzsxH4=
+
+Name: org/eclipse/ui/texteditor/IDocumentProvider.java
+SHA1-Digest: iZLVqNEWjQH7S+JAlgIW5q+YcFY=
+
+Name: org/eclipse/ui/internal/texteditor/quickdiff/compare/equivalence
+ /IntHash.java
+SHA1-Digest: bOcRi2nLwtZ7r3WbOnfcKfB10R4=
+
+Name: org/eclipse/ui/texteditor/DefaultRangeIndicator.java
+SHA1-Digest: K1AQRzfP06KChG53ZLFXk8CYGY0=
+
+Name: org/eclipse/ui/internal/texteditor/NLSUtility.java
+SHA1-Digest: ZBfg/EW9cZpEfHY3ChLbuOShrW8=
+
+Name: org/eclipse/ui/texteditor/quickdiff/ReferenceProviderDescriptor.
+ java
+SHA1-Digest: 3mp9hOiuGfgZh/fWgIoXDhyrhwQ=
+
+Name: org/eclipse/ui/texteditor/IAnnotationImageProvider.java
+SHA1-Digest: YuX/u9tPVO+3MJcIAmeV6L3wiUA=
+
+Name: org/eclipse/ui/internal/texteditor/rulers/RulerColumnPlacement.j
+ ava
+SHA1-Digest: nOzzL7gKSvCy0WTi3Ow4iL5buyM=
+
+Name: org/eclipse/ui/texteditor/InfoForm.java
+SHA1-Digest: FmGP+tZqa62AHFwErHQgRMH9r5c=
+
+Name: org/eclipse/ui/internal/texteditor/quickdiff/compare/equivalence
+ /IHashFunction.java
+SHA1-Digest: HUcS5Ya5uOfDk5zIQCZxfbFETaQ=
+
+Name: org/eclipse/ui/texteditor/rulers/IContributedRulerColumn.java
+SHA1-Digest: gkxCxWzCdYhK4KIcJ7jK5pUk0vU=
+
+Name: org/eclipse/ui/texteditor/BlockSelectionModeToggleAction.java
+SHA1-Digest: gC8GYXIjV+SyKYEVzRX4Q6oy+hY=
+
+Name: org/eclipse/ui/texteditor/ITextEditorActionDefinitionIds.java
+SHA1-Digest: 9ZJEWAO9F8lu+yub7oCEIqSOFdc=
+
+Name: org/eclipse/ui/texteditor/HippieProposalProcessor.java
+SHA1-Digest: FQGmRKVu85Yae+F+dH/01hdKM4U=
+
+Name: org/eclipse/ui/texteditor/GotoAnnotationAction.java
+SHA1-Digest: ZIGDZP4WBCnKc1GAaUV1XmKt0rA=
+
+Name: org/eclipse/ui/texteditor/spelling/SpellingService.java
+SHA1-Digest: 6MspGWbzLhSZa9cAA0J27jrdNe8=
+
+Name: org/eclipse/ui/texteditor/IStatusFieldExtension.java
+SHA1-Digest: IoBSr+fFMjTkuactsGEim1K9lZ4=
+
+Name: org/eclipse/ui/texteditor/MarkAction.java
+SHA1-Digest: WwJlMueBEzsNV0NC+rPFbiRIXSU=
+
+Name: org/eclipse/ui/texteditor/IWorkbenchActionDefinitionIds.java
+SHA1-Digest: LD+0Ypj70FOaildGT4J2so3y5aI=
+
+Name: org/eclipse/ui/texteditor/templates/TemplateVariableProposal.jav
+ a
+SHA1-Digest: AVS0hSQ2aGzY2xwdQZQsl16kCRI=
+
+Name: org/eclipse/ui/texteditor/ITextEditorExtension.java
+SHA1-Digest: CfMFTnpNdu1rQ0BOVXAFKFEOuN8=
+
+Name: org/eclipse/ui/internal/texteditor/EditorMessages.java
+SHA1-Digest: LVxAYhxNyvy2M9SZOMS2fFsYGas=
+
+Name: org/eclipse/ui/texteditor/DeleteLineAction.java
+SHA1-Digest: o9gy4ntQfEySrDINMW/vEDNo9o0=
+
+Name: schema/hyperlinkDetectorTargets.exsd
+SHA1-Digest: bDU3AvOg9bMbI2esjXdyIkrpJKw=
+
+Name: org/eclipse/ui/texteditor/ValidateStateException.java
+SHA1-Digest: P6m0FKdKq0mIKPAIlBAv+8ztVAk=
+
+Name: org/eclipse/ui/texteditor/templates/TemplatesTransfer.java
+SHA1-Digest: a70DZ7jo/Rc3Pxco3DZ9Ta6qMwI=
+
+Name: org/eclipse/ui/internal/texteditor/quickdiff/compare/equivalence
+ /DocEquivalenceComparator.java
+SHA1-Digest: nDwpHrbiZgxPomK5WH5xXnui5tA=
+
+Name: org/eclipse/ui/texteditor/PropagatingFontFieldEditor.java
+SHA1-Digest: 2Zp8ngtPOyYSwA1r7oXkFoW930Y=
+
+Name: org/eclipse/ui/internal/texteditor/EditPosition.java
+SHA1-Digest: 2Xh0gaNdyL9p3GrrBzVaYccnf0A=
+
+Name: org/eclipse/ui/texteditor/JoinLinesAction.java
+SHA1-Digest: fL9ozco8UDnlPRnGRwbqTDLmLSI=
+
+Name: org/eclipse/ui/texteditor/IDocumentProviderExtension4.java
+SHA1-Digest: cJbFrwx9l1/ItT7LBFe0gVNVJiw=
+
+Name: org/eclipse/ui/contentassist/ContentAssistHandler.java
+SHA1-Digest: MsHNydQ3EHyMjAsxK3nv1qCeOpw=
+
+Name: org/eclipse/ui/internal/texteditor/rulers/RulerColumnPlacementCo
+ nstraint.java
+SHA1-Digest: Qv8ZV+MgR6IkUSTQe3P2RCwxui4=
+
+Name: org/eclipse/ui/texteditor/templates/ITemplatesPageExtension.java
+SHA1-Digest: LAFpIlmLaIHVCJo1aDlrc04bjvo=
+
+Name: org/eclipse/ui/texteditor/templates/TemplatesPageImages.java
+SHA1-Digest: F7vtTqcLhBMJmS0ymUNGid2Uwmk=
+
+Name: org/eclipse/ui/internal/texteditor/quickdiff/compare/equivalence
+ /DocumentEquivalenceClass.java
+SHA1-Digest: r/WAlUQMcKXkAxGwfovqUQQ7BTM=
+
+Name: org/eclipse/ui/texteditor/GotoLineAction.java
+SHA1-Digest: 2yzig41r4gijOgA4TguRJAMhUXQ=
+
+Name: org/eclipse/ui/contentassist/ContentAssistMessages.java
+SHA1-Digest: TvmIAlZqv/zQzvuh536Rlra8//4=
+
+Name: org/eclipse/ui/internal/texteditor/CompoundEditExitStrategy.java
+SHA1-Digest: gGP53DrcI34+Egk7DTu9/K5Cqm8=
+
+Name: org/eclipse/ui/texteditor/IEditorStatusLine.java
+SHA1-Digest: D/BFwoppT40dtKWIQ5dcjwgf4nw=
+
+Name: org/eclipse/ui/texteditor/ITextEditorExtension5.java
+SHA1-Digest: jB/s8tGrDJdUlcLJGvEhiT063H4=
+
+Name: org/eclipse/ui/texteditor/IStatusField.java
+SHA1-Digest: 0GUzHT2aYd0+tPqi2rtuyD5qztU=
+
+Name: org/eclipse/ui/texteditor/RecenterAction.java
+SHA1-Digest: ikcWf/v/joFC7c+gjST6ATbbUvw=
+
+Name: org/eclipse/ui/texteditor/ContentAssistAction.java
+SHA1-Digest: JwBBVpHE2/JR9ryamyBluUA18hc=
+
+Name: org/eclipse/ui/internal/texteditor/quickdiff/compare/equivalence
+ /SystemHashFunction.java
+SHA1-Digest: uk7OqsE27jf/+h+oxm85ZWZTjN0=
+
+Name: org/eclipse/ui/texteditor/quickdiff/QuickDiff.java
+SHA1-Digest: h8Od89o5C5wwtLT+FIwO4aT/0MM=
+
+Name: org/eclipse/ui/internal/texteditor/FocusedInformationPresenter.j
+ ava
+SHA1-Digest: MAtn4tYm7oZPOjKPH1+qiDt0B6Q=
+
+Name: org/eclipse/ui/internal/texteditor/HippieCompletionEngine.java
+SHA1-Digest: AN109373zmJHoQmHefyofzm3n74=
+
+Name: org/eclipse/ui/texteditor/templates/StatusInfo.java
+SHA1-Digest: MX686k3x0UtFkCwtu1BDSJIzvRk=
+
+Name: org/eclipse/ui/internal/texteditor/quickdiff/DiffRegion.java
+SHA1-Digest: pAQzmO3w6BbyJAg2ZFDkg+4Fsk4=
+
+Name: org/eclipse/ui/internal/texteditor/quickdiff/ReferenceSelectionA
+ ction.java
+SHA1-Digest: nqATDTgbH5UPG0ldzeY2sDR8NQU=
+
+Name: org/eclipse/ui/internal/texteditor/quickdiff/QuickDiffRestoreAct
+ ion.java
+SHA1-Digest: a3qd6+u6Z4jsJav3SND6JjEbxlg=
+
+Name: org/eclipse/ui/texteditor/templates/TemplateVariableProcessor.ja
+ va
+SHA1-Digest: 2l8j2wo9rjM58Dxf2LpPNJn45rg=
+
+Name: org/eclipse/ui/texteditor/StatusTextEditor.java
+SHA1-Digest: w/l9x11Z5r0TGMjieq8z2XRA5ag=
+
+Name: org/eclipse/ui/internal/texteditor/quickdiff/RevertBlockAction.j
+ ava
+SHA1-Digest: vEC2RbjVQs9stelrTCvlyoGKfKk=
+
+Name: schema/quickDiffReferenceProvider.exsd
+SHA1-Digest: OfxXYIqHNtx/IXC3RoEDuDU9UF4=
+
+Name: org/eclipse/ui/internal/texteditor/quickdiff/QuickDiffMessages.j
+ ava
+SHA1-Digest: RZnBjCjJfjY2dy7A8MBePmp96u8=
+
+Name: org/eclipse/ui/texteditor/rulers/IColumnSupport.java
+SHA1-Digest: sB9i6MBPw1Ni6ZAtkpqollajL5E=
+
+Name: org/eclipse/ui/texteditor/spelling/SpellingCorrectionProcessor.j
+ ava
+SHA1-Digest: n6X2UPeMehtCY1MnwEMxBtCD/M8=
+
+Name: org/eclipse/ui/texteditor/KeyBindingSupportForAssistant.java
+SHA1-Digest: zBj8Hh6AvQqn8Mjv7qA0CKeAK+A=
+
+Name: org/eclipse/ui/internal/texteditor/rulers/RulerColumnMessages.ja
+ va
+SHA1-Digest: nP/j/V78idPV5FlT04E95SZdw+M=
+
+Name: org/eclipse/ui/texteditor/InsertLineAction.java
+SHA1-Digest: nucBocGNSXpkceTWlLaUi7QFuHs=
+
+Name: org/eclipse/ui/texteditor/HyperlinkDetectorDescriptor.java
+SHA1-Digest: 16bAsQfiYTfuFRD85I2V2pa4Rs8=
+
+Name: org/eclipse/ui/texteditor/spelling/SpellingContext.java
+SHA1-Digest: kQfzqOeU8VW/qFNHeNnkl3O3ZxQ=
+
+Name: org/eclipse/ui/texteditor/rulers/RulerColumnPreferenceAdapter.ja
+ va
+SHA1-Digest: ov0sDud3ccmN+s74biRJiQqdw9Q=
+
+Name: org/eclipse/ui/texteditor/spelling/ISpellingProblemCollector.jav
+ a
+SHA1-Digest: +waVatrUhKWQU4HRzxBiI2Sec30=
+
+Name: org/eclipse/ui/texteditor/AbstractTextEditor.java
+SHA1-Digest: UYrQ4C4Ce2KaF8Ook3tLVcmSSj4=
+
+Name: org/eclipse/ui/texteditor/ITextEditorExtension2.java
+SHA1-Digest: LeTtZlMh9lc8CRDK/37gOY45cNY=
+
+Name: org/eclipse/ui/internal/texteditor/SWTUtil.java
+SHA1-Digest: F9YOF3739lq1saJCfPFf+A1jOOM=
+
+Name: about.html
+SHA1-Digest: M+fykt9heyWoEv1LNiIEeBhi/2Q=
+
+Name: org/eclipse/ui/texteditor/FindReplaceAction.java
+SHA1-Digest: KLGbXrt4oBm1FuawWXtsHAYbpVY=
+
+Name: org/eclipse/ui/internal/texteditor/spelling/SpellingEngineRegist
+ ry.java
+SHA1-Digest: za+CqaVqjlKh+qDatePi+D1sV/8=
+
+Name: org/eclipse/ui/internal/texteditor/rulers/DAG.java
+SHA1-Digest: qI8qoCyyDND+wGpvhYikn2cKhg0=
+
+Name: org/eclipse/ui/texteditor/ITextEditorActionConstants.java
+SHA1-Digest: 6h3MimdtvhE7TUkOkM3UojHSqCg=
+
+Name: org/eclipse/ui/texteditor/templates/TemplatesMessages.java
+SHA1-Digest: rCxQQU9iQS/JrIPW2lJc93U6Fzw=
+
+Name: org/eclipse/ui/texteditor/templates/ITemplatesPage.java
+SHA1-Digest: 9RY3hqaB7fM6Tq0ChhVtW7v3KjY=
+
+Name: org/eclipse/ui/texteditor/RetargetTextEditorAction.java
+SHA1-Digest: NDUqtqaq80C9u029ewOMIhtqp9Y=
+
+Name: org/eclipse/ui/texteditor/SaveAction.java
+SHA1-Digest: oCxuTWCZnDp4nimVF8y11S2wp7Y=
+
+Name: org/eclipse/ui/internal/texteditor/spelling/NoCompletionsProposa
+ l.java
+SHA1-Digest: bYxXeGbtpdtLoJCIYY4QMb8Pshs=
+
+Name: org/eclipse/ui/texteditor/spelling/SpellingProblem.java
+SHA1-Digest: tEwaE82RCU5N46Hj8b4WdaTIyXU=
+
+Name: org/eclipse/ui/texteditor/WorkbenchChainedTextFontFieldEditor.ja
+ va
+SHA1-Digest: 4XN4g2Ic7DMePsqAnE3Ko7a5Pro=
+
+Name: org/eclipse/ui/internal/texteditor/TextEditorPlugin.java
+SHA1-Digest: sR2uv36KtYwT35OUPVmNjdHDhp0=
+
+Name: org/eclipse/ui/texteditor/spelling/ISpellingPreferenceBlock.java
+SHA1-Digest: RVje7CouNBuIkUCEBa8nwY9jWZo=
+
+Name: org/eclipse/ui/texteditor/IncrementalFindTarget.java
+SHA1-Digest: GJdkb8m2F7wuU7LP/5vD6kElqo0=
+
+Name: org/eclipse/ui/internal/texteditor/quickdiff/RevertLineAction.ja
+ va
+SHA1-Digest: 3nwpEJcZJycuSslFse8BBXGwJiw=
+
+Name: org/eclipse/ui/texteditor/SelectAnnotationRulerAction.java
+SHA1-Digest: aLOljNTBeg+1BSGesaiMujycdWc=
+
+Name: org/eclipse/ui/texteditor/spelling/SpellingEngineDescriptor.java
+SHA1-Digest: I9/8pH7ucUpp9nlR9joeOXiSrss=
+
+Name: org/eclipse/ui/texteditor/RevertToSavedAction.java
+SHA1-Digest: jWGNAat5udAMxVFdkB22Az3AFOE=
+
+Name: org/eclipse/ui/internal/texteditor/rulers/ExtensionPointHelper.j
+ ava
+SHA1-Digest: tTCLvVPJS9/c+mDL7v0/SIJ8UjE=
+
+Name: org/eclipse/ui/texteditor/IUpdate.java
+SHA1-Digest: QvWsXTnuV/QDpmt47jtn5BUxOl0=
+
+Name: org/eclipse/ui/texteditor/IElementStateListener.java
+SHA1-Digest: Ie/3QddU013tdkugUVnQsX2vNXk=
+
+Name: org/eclipse/ui/texteditor/TextNavigationAction.java
+SHA1-Digest: BbjbNkSc7ojg6y+UbpbjPZQkpxg=
+
+Name: org/eclipse/ui/texteditor/MarkRegionTarget.java
+SHA1-Digest: Zu63ElG7OZ5r4HGALxMJ/hBJ7uA=
+
+Name: org/eclipse/ui/texteditor/ISchedulingRuleProvider.java
+SHA1-Digest: zBQ+pfa7gN1o79ow/yoVAJ1CgWk=
+
+Name: org/eclipse/ui/texteditor/TextEditorAction.java
+SHA1-Digest: vgedpnILm5G+1C/tqTzmuw9pMjE=
+
+Name: org/eclipse/ui/texteditor/spelling/ISpellingEngine.java
+SHA1-Digest: c7iqMlhAqlanayf4RQOZ+Wpow7c=
+
+Name: org/eclipse/ui/texteditor/IDocumentProviderExtension3.java
+SHA1-Digest: 9hG3npwvIsk9zdiZtcjhIcn8eW0=
+
+Name: org/eclipse/ui/texteditor/HyperlinkDetectorRegistry.java
+SHA1-Digest: CO+hi8/8WQ1iyyHLcK+B+hSlpCY=
+
+Name: org/eclipse/ui/internal/texteditor/rulers/StringSetSerializer.ja
+ va
+SHA1-Digest: bCLGJ6h95/ea50XlyFNKOTzpRi4=
+
+Name: org/eclipse/ui/texteditor/TextViewerDeleteLineTarget.java
+SHA1-Digest: JhqODCQpeO2gd+m/XJQ/bOOaAf0=
+
+Name: org/eclipse/ui/texteditor/HippieCompleteAction.java
+SHA1-Digest: l+nwmZx9/1DSGjCncSADDpxnH0A=
+
+Name: org/eclipse/ui/texteditor/FindReplaceDialog.java
+SHA1-Digest: h6l3YwFOXcBBc6SMaXwESh1FfWk=
+
+Name: org/eclipse/ui/texteditor/rulers/RulerColumnDescriptor.java
+SHA1-Digest: MMBPJnh1NWPoqpW5xqHKRok3oqg=
+
+Name: org/eclipse/ui/internal/texteditor/quickdiff/QuickDiffRangeDiffe
+ rence.java
+SHA1-Digest: jmROgm0jTo99pCdQxsBNeVteDTg=
+
+Name: META-INF/eclipse.inf
+SHA1-Digest: SAqY+5ITAL0mkdYeijlSRhyIaZk=
+
+Name: org/eclipse/ui/texteditor/ITextEditorExtension4.java
+SHA1-Digest: d1hhtdHHnGA36LIt5zstAqOfVXE=
+
+Name: org/eclipse/ui/texteditor/ITextEditorDropTargetListener.java
+SHA1-Digest: M9td6+KzUfiuFIZ3oHi2ALePzBM=
+
+Name: org/eclipse/ui/texteditor/BasicTextEditorActionContributor.java
+SHA1-Digest: Ji78FHduKoeLIH8Oip0rOJqv09Q=
+
+Name: org/eclipse/ui/internal/texteditor/quickdiff/DocumentLineDiffer.
+ java
+SHA1-Digest: 8RgzIR06Cndt3xEpqb04TKQKRaA=
+
+Name: org/eclipse/ui/internal/texteditor/ICompoundEditListener.java
+SHA1-Digest: oAPX8cZCd0SY2cdgJGKzblo+hmI=
+
+Name: org/eclipse/ui/texteditor/ShowWhitespaceCharactersAction.java
+SHA1-Digest: OSyJYKe1z3FaKQWaeohQC9f8q/c=
+
+Name: org/eclipse/ui/texteditor/link/EditorLinkedModeUI.java
+SHA1-Digest: XwkTTN+eB43pgdFpXFhdVrdHRRU=
+
+Name: org/eclipse/ui/texteditor/IFindReplaceTargetExtension2.java
+SHA1-Digest: M8g3fCDNZOwpJjgttVgdblwEICI=
+
+Name: org/eclipse/ui/texteditor/templates/ColumnLayout.java
+SHA1-Digest: xQEIgI7hl+tPVFYxHSyhy6OzYfQ=
+
+Name: org/eclipse/ui/texteditor/ConfigurationElementSorter.java
+SHA1-Digest: P54vkHJLKL2iqzFq+hiQyQ5dWPw=
+
+Name: org/eclipse/ui/internal/texteditor/quickdiff/RestoreAction.java
+SHA1-Digest: vMlaJitJ2er1gi0e2vfThQ7ka+k=
+
+Name: org/eclipse/ui/texteditor/AbstractDocumentProvider.java
+SHA1-Digest: gLIOORaREa6ktM0sCOAPM1tx6gM=
+
+Name: org/eclipse/ui/texteditor/TextSelectionNavigationLocation.java
+SHA1-Digest: JYU52VgovT/utQvHMREPQdwx2rQ=
+
+Name: org/eclipse/ui/texteditor/templates/TemplatesView.java
+SHA1-Digest: FQaYScbEJqICx7ptbB1NpgtpqxE=
+
+Name: org/eclipse/ui/texteditor/IElementStateListenerExtension.java
+SHA1-Digest: z+S48/jdid5/KXzeyZxUlZPbNOE=
+
+Name: org/eclipse/ui/texteditor/AnnotationPreference.java
+SHA1-Digest: zoFI1i99e42Mb/TxhE0lknndWS0=
+
+Name: schema/hyperlinkDetectors.exsd
+SHA1-Digest: 9pRa453Bj1qqQzBTO84mN6w1yKw=
+
+Name: org/eclipse/ui/texteditor/quickdiff/QuickDiffToggleAction.java
+SHA1-Digest: bs6jQbeNLYCFVnyiM4JxJS82pYc=
+
+Name: org/eclipse/ui/texteditor/ResourceAction.java
+SHA1-Digest: 4FkEit+Y1kuSG6ekGPRlmygLXN0=
+
+Name: org/eclipse/ui/texteditor/FindNextAction.java
+SHA1-Digest: Hnh/PUwDDUJpGKXFpmORW6iN2bU=
+
+Name: org/eclipse/ui/texteditor/quickdiff/IQuickDiffReferenceProvider.
+ java
+SHA1-Digest: 33PcBj7xmF0slRuyRPUDuCvn1ZU=
+
+Name: org/eclipse/ui/texteditor/rulers/RulerColumnRegistry.java
+SHA1-Digest: gv/UzhctMeKscSfruSAcNjbeLJ4=
+
+Name: org/eclipse/ui/texteditor/TextOperationAction.java
+SHA1-Digest: H0vnLJfM+P94D27/KwnlKM2Veno=
+
+Name: org/eclipse/ui/texteditor/templates/AbstractTemplatesPage.java
+SHA1-Digest: cCqOUXCc3I7LT5vDPLuZ7/ndJgQ=
+
+Name: plugin.properties
+SHA1-Digest: Ogvs2FXj3cf/KVGmcan+/tnGvRs=
+
+Name: org/eclipse/ui/texteditor/AbstractRulerActionDelegate.java
+SHA1-Digest: 25IBH75tYV4XtW27m2IezQJ+j0k=
+
+Name: org/eclipse/ui/texteditor/IReadOnlyDependent.java
+SHA1-Digest: zaAxryWPYASW5PiG1s33JTfZ+gM=
+
+Name: org/eclipse/ui/texteditor/HyperlinkDetectorTargetDescriptor.java
+SHA1-Digest: SXf+hoxxfBA6Gf+NVpSW/t46vtg=
+
+Name: org/eclipse/ui/texteditor/IDocumentProviderExtension5.java
+SHA1-Digest: Tr3v5x4VKOdSSAz0UfFb8ZTTdxY=
+
+Name: org/eclipse/ui/texteditor/rulers/AbstractContributedRulerColumn.
+ java
+SHA1-Digest: DMKVlgUhj1QWuaIPTl3BevW4UYw=
+
+Name: org/eclipse/ui/internal/texteditor/quickdiff/QuickDiffExtensions
+ Registry.java
+SHA1-Digest: fSwoSyaJG2iOQ+tG2IajJq56m1c=
+
+Name: org/eclipse/ui/texteditor/IDocumentProviderExtension.java
+SHA1-Digest: 1hK6R9wjVy9UVpcbR0d85B3aH3g=
+
+Name: org/eclipse/ui/texteditor/MoveLinesAction.java
+SHA1-Digest: jLG0P8bsK8oaLRwYFfIlMlrbAnE=
+
+Name: org/eclipse/ui/texteditor/StatusLineContributionItem.java
+SHA1-Digest: nCjgCtzAdazIKUtZQrTOP2kdrkg=
+
+Name: org/eclipse/ui/internal/texteditor/spelling/EmptySpellingPrefere
+ nceBlock.java
+SHA1-Digest: xZtihCYRZQ0olCfbFWoeWyleogM=
+
+Name: org/eclipse/ui/texteditor/CaseAction.java
+SHA1-Digest: U/OepcNjKukEYm2uEa0oywjc15o=
+
+Name: schema/rulerColumns.exsd
+SHA1-Digest: pokpkOOT6RoMy+0PWG/aUKuVmvc=
+
+Name: org/eclipse/ui/texteditor/spelling/SpellingAnnotation.java
+SHA1-Digest: fUrtOuCRm/+8i/2Dnc6zvCx7fC8=
+
+Name: org/eclipse/ui/internal/texteditor/spelling/SpellingMessages.jav
+ a
+SHA1-Digest: nidcloudB8SceEiGQhwKCjernPA=
+
+Name: schema/spellingEngine.exsd
+SHA1-Digest: UJx0OEqLdC+3zVRd52g7ZxqNWAs=
+
+Name: org/eclipse/ui/texteditor/templates/TemplatePreferencePage.java
+SHA1-Digest: eH541RV4rMbiELR9+FdTbnD+/gc=
+
+Name: org/eclipse/ui/texteditor/EditorMessages.java
+SHA1-Digest: NxJkFEof3ZzvbPW9RBadOUwaFqY=
+
+Name: org/eclipse/ui/texteditor/SourceViewerDecorationSupport.java
+SHA1-Digest: vzBpXJpmQz080leq2J4AweOK2tA=
+
+Name: org/eclipse/ui/internal/texteditor/quickdiff/compare/equivalence
+ /Hash.java
+SHA1-Digest: u9J3Q/I1tTb+05clLQqvSI8TT8Y=
+
+Name: org/eclipse/ui/texteditor/IAbstractTextEditorHelpContextIds.java
+SHA1-Digest: Mp3JZXNLGTDqsZbJyaDPrR789hE=
+
+Name: org/eclipse/ui/texteditor/EditorStatusLine.java
+SHA1-Digest: xjrDor2eDPk9G2nCwmuTkT2Q+5U=
+
+Name: org/eclipse/ui/texteditor/FindReplaceTarget.java
+SHA1-Digest: lt974URAIltLMe7lwvnHAEYuZCE=
+
+Name: org/eclipse/ui/texteditor/spelling/SpellingReconcileStrategy.jav
+ a
+SHA1-Digest: lJvuT6CKPOcQSRAdJxc1iIXhDA0=
+
+Name: org/eclipse/ui/texteditor/ConvertLineDelimitersAction.java
+SHA1-Digest: KbuccCYc7824N2t8IeQzI2+u2w4=
+
+Name: org/eclipse/ui/texteditor/IncrementalFindAction.java
+SHA1-Digest: 0kIWYkE4yW26d5/G8RHCJfeW/yU=
+
+Name: org/eclipse/ui/texteditor/IDocumentProviderExtension2.java
+SHA1-Digest: 5JBDRP7WDUpkqHUCIcvWfJn5H0Q=
+
+Name: org/eclipse/ui/texteditor/ITextEditor.java
+SHA1-Digest: JLeXB5XqGXCxcUMiA/hFrpsne9M=
+
+Name: org/eclipse/ui/internal/texteditor/quickdiff/RevertSelectionActi
+ on.java
+SHA1-Digest: A2JFcSvS77E/I8sxF/KDOvMqj7I=
+
+Name: org/eclipse/ui/internal/texteditor/rulers/RulerColumnTarget.java
+SHA1-Digest: DC1TwLldbw47Jjis1/MtSPXw0W4=
+

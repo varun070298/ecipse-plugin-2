@@ -1,0 +1,43 @@
+Signature-Version: 1.0
+SHA1-Digest-Manifest: 7usWHoaeOFFbKrUrwjln/gnu+A0=
+Created-By: 1.6.0 (IBM Corporation)
+SHA1-Digest-Manifest-Main-Attributes: ds3q2jAa07ZGC45UtQyUdNiGUDk=
+
+Name: org/eclipse/update/internal/scheduler/UpdateJobChangeAdapter.jav
+ a
+SHA1-Digest: MKfgv5zxiY5406ip3Ket1D33KZw=
+
+Name: org/eclipse/update/internal/scheduler/preferences/PreferenceInit
+ ializer.java
+SHA1-Digest: qVya/8oHzsJxhpmlH/VR3xgaf9U=
+
+Name: org/eclipse/update/internal/scheduler/AutomaticUpdateJob.java
+SHA1-Digest: CoKj44jFxqSYrjPG7pWXIr9C1D4=
+
+Name: META-INF/eclipse.inf
+SHA1-Digest: SAqY+5ITAL0mkdYeijlSRhyIaZk=
+
+Name: org/eclipse/update/internal/scheduler/UpdateSchedulerMessages.ja
+ va
+SHA1-Digest: gQY9m4JOHAbFMC/0bf7fdxQ9BZs=
+
+Name: org/eclipse/update/internal/scheduler/ScheduledPluginUninstall.j
+ ava
+SHA1-Digest: R1USKvNSE9zt/D+Z7zR2o1dwvBo=
+
+Name: org/eclipse/update/internal/scheduler/SchedulerStartup.java
+SHA1-Digest: dUGIBe55WFuIawlepcqu/ckFfA0=
+
+Name: about.html
+SHA1-Digest: M+fykt9heyWoEv1LNiIEeBhi/2Q=
+
+Name: org/eclipse/update/internal/scheduler/preferences/AutomaticUpdat
+ esPreferencePage.java
+SHA1-Digest: HbzXjn+MTaYcxez7zQuUmwP7BXU=
+
+Name: plugin.properties
+SHA1-Digest: dZ3PlAbf6oGxI010YWTWNXxCGbs=
+
+Name: org/eclipse/update/internal/scheduler/UpdateSchedulerPlugin.java
+SHA1-Digest: 7Ps0qX8SWX6nHMAwzghF9sntStw=
+

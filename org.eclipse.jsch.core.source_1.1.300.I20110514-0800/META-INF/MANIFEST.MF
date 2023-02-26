@@ -1,0 +1,70 @@
+Manifest-Version: 1.0
+Eclipse-SourceBundle: org.eclipse.jsch.core;version="1.1.300.I20110514
+ -0800";roots:="."
+Bundle-Vendor: %providerName
+Bundle-Localization: plugin
+Bundle-Name: %pluginName
+Bundle-SymbolicName: org.eclipse.jsch.core.source
+Bundle-Version: 1.1.300.I20110514-0800
+Bundle-ManifestVersion: 2
+
+Name: org/eclipse/jsch/internal/core/JSchLocation.java
+SHA1-Digest: iGry6zyKHMCRIBII8bw7mvSJoFM=
+
+Name: META-INF/eclipse.inf
+SHA1-Digest: KyT9FF7C7t86NoBoa2kZT3ZJBfw=
+
+Name: org/eclipse/jsch/internal/core/JSchCorePlugin.java
+SHA1-Digest: ANyF73yQB7YAbmZrMi5qM8O9p2A=
+
+Name: org/eclipse/jsch/internal/core/IUserAuthenticator.java
+SHA1-Digest: WLKhdAf/dWOPRKxTn0x9BgfMIPg=
+
+Name: org/eclipse/jsch/internal/core/JSchProvider.java
+SHA1-Digest: HcbdnNB8Na5ufA3mMOokcf6/l7s=
+
+Name: org/eclipse/jsch/core/IJSchLocation.java
+SHA1-Digest: b+24V5O9o/HtUdrUOXVbXkokoNU=
+
+Name: org/eclipse/jsch/internal/core/Utils.java
+SHA1-Digest: juXuridGCT2MXXJSIV5WWsE+9Jw=
+
+Name: org/eclipse/jsch/internal/core/UserInfoImpl.java
+SHA1-Digest: VWmqXj1UOXXScb244SBuzIFeADg=
+
+Name: about.html
+SHA1-Digest: ejOZra0kypGLQQ2bJtGTX+LI8tU=
+
+Name: plugin.properties
+SHA1-Digest: Wvk0xxAwObWbij9C74aBtN1+Kr8=
+
+Name: org/eclipse/jsch/core/IJSchService.java
+SHA1-Digest: dM4uOBHSSSo46LSfDCko7CISJHg=
+
+Name: org/eclipse/jsch/core/IPasswordStore.java
+SHA1-Digest: zr47uhiWJ4Rd8j/R1QErrxzFYh0=
+
+Name: org/eclipse/jsch/internal/core/Policy.java
+SHA1-Digest: YKbGUPw0t73D+MYqKOx5SL/ZiQ0=
+
+Name: org/eclipse/jsch/internal/core/PreferenceInitializer.java
+SHA1-Digest: dOA7VLvG+PCSiRm/jtHmoNdN6g8=
+
+Name: org/eclipse/jsch/internal/core/Messages.java
+SHA1-Digest: HMJLbAJcLqXPk/fbUFJ+WaM6bZI=
+
+Name: org/eclipse/jsch/internal/core/ResponsiveSocketFactory.java
+SHA1-Digest: vyAOuJdWaJ8dPo+66jUT0aeom7w=
+
+Name: org/eclipse/jsch/internal/core/IUserInfo.java
+SHA1-Digest: I3TgMkAggKpn6+X5AWSgvetljVc=
+
+Name: org/eclipse/jsch/internal/core/PreferenceModifyListener.java
+SHA1-Digest: d2/QRf4iAa4C6LDc49t/b4b1xT4=
+
+Name: org/eclipse/jsch/internal/core/NullUserAuthenticator.java
+SHA1-Digest: dHXGi7Hm+miX5EiHoOJNaMK8CvU=
+
+Name: org/eclipse/jsch/internal/core/IConstants.java
+SHA1-Digest: RFzjN21g2+KD9hzYcAIQDepwGgg=
+

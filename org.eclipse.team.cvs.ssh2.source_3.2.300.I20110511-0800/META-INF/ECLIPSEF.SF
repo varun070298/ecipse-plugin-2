@@ -1,0 +1,39 @@
+Signature-Version: 1.0
+SHA1-Digest-Manifest: qzSpKB0Xbt4vO8Fk1yv7zWv5GXw=
+Created-By: 1.6.0 (IBM Corporation)
+SHA1-Digest-Manifest-Main-Attributes: /F5idSeTRzAJhy/V6PxI0Ge2pow=
+
+Name: org/eclipse/team/internal/ccvs/ssh2/CVSSSH2Messages.java
+SHA1-Digest: Yikj5dXd3A8fDExtIyK+wgwOiRE=
+
+Name: META-INF/eclipse.inf
+SHA1-Digest: SAqY+5ITAL0mkdYeijlSRhyIaZk=
+
+Name: org/eclipse/team/internal/ccvs/ssh2/PServerSSH2Method.java
+SHA1-Digest: UlTCYyvJmnKhdBmc6KkrW3uIyzg=
+
+Name: org/eclipse/team/internal/ccvs/ssh2/PServerSSH2ServerConnection.
+ java
+SHA1-Digest: H+RM5jCgbdBG75HNvigPJbmZw6k=
+
+Name: org/eclipse/team/internal/ccvs/ssh2/Policy.java
+SHA1-Digest: 4WLj7OtaIJnjJCcQXPq47DQx/7U=
+
+Name: org/eclipse/team/internal/ccvs/ssh2/CVSSSH2Plugin.java
+SHA1-Digest: k8MN1TdUKblNhhM5NemmWicF/Y4=
+
+Name: org/eclipse/team/internal/ccvs/ssh2/CVSSSH2Method.java
+SHA1-Digest: FWrapyoXuqOIAb6hxU4g96TOxoY=
+
+Name: org/eclipse/team/internal/ccvs/ssh2/CVSSSH2ServerConnection.java
+SHA1-Digest: eLx5ozKFRREoQv4YWWtuNXjVE34=
+
+Name: about.html
+SHA1-Digest: M+fykt9heyWoEv1LNiIEeBhi/2Q=
+
+Name: plugin.properties
+SHA1-Digest: G2q1r9M5oupUIUxZhNlL3BMpPdM=
+
+Name: org/eclipse/team/internal/ccvs/ssh2/JSchSession.java
+SHA1-Digest: Vv+lVNgEv2zUE3ctqTT9li6MZyE=
+

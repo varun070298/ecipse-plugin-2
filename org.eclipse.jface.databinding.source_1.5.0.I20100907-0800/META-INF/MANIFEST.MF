@@ -1,0 +1,638 @@
+Manifest-Version: 1.0
+Eclipse-SourceBundle: org.eclipse.jface.databinding;version="1.5.0.I20
+ 100907-0800";roots:="."
+Bundle-Vendor: %providerName
+Bundle-Localization: plugin
+Bundle-Name: %pluginName
+Bundle-SymbolicName: org.eclipse.jface.databinding.source
+Bundle-Version: 1.5.0.I20100907-0800
+Bundle-ManifestVersion: 2
+
+Name: org/eclipse/jface/internal/databinding/viewers/ObservableCollect
+ ionContentProvider.java
+SHA1-Digest: L2bGmP3PfsPhMzp5FLuUMexQEFM=
+
+Name: org/eclipse/jface/databinding/dialog/IValidationMessageProvider.
+ java
+SHA1-Digest: mpmvkLfWuf25Zg2q5I2UWIpsrb8=
+
+Name: org/eclipse/jface/internal/databinding/swt/ListItemsProperty.jav
+ a
+SHA1-Digest: aMFWf4I4hohzoB02JU1z3NwePfI=
+
+Name: org/eclipse/jface/databinding/viewers/ViewersObservables.java
+SHA1-Digest: AMiDMRy8Swso3n2Jonzf0qKvhEI=
+
+Name: org/eclipse/jface/internal/databinding/swt/ControlForegroundProp
+ erty.java
+SHA1-Digest: xZhoCpdnYRp67X2o6nJuoVpjguA=
+
+Name: org/eclipse/jface/internal/databinding/swt/WidgetStringValueProp
+ erty.java
+SHA1-Digest: SCxw3qPEtUKel057GoNS3VHWKRk=
+
+Name: org/eclipse/jface/internal/databinding/swt/TableSingleSelectionI
+ ndexProperty.java
+SHA1-Digest: GWb6/mffHBsuGjaYSgrWPU7qPjE=
+
+Name: org/eclipse/jface/databinding/swt/IWidgetValueProperty.java
+SHA1-Digest: ttQCSSOUZy+lXghZddtzT+2+6OE=
+
+Name: org/eclipse/jface/internal/databinding/provisional/swt/WorkQueue
+ .java
+SHA1-Digest: 5GMkjU+fsn1V/puu0kNo8YT9KsY=
+
+Name: org/eclipse/jface/databinding/dialog/MaxSeverityValidationStatus
+ Provider.java
+SHA1-Digest: 49rhGBjQvIa9GxnWPVifqYtWz6A=
+
+Name: org/eclipse/jface/internal/databinding/swt/ControlEnabledPropert
+ y.java
+SHA1-Digest: e6ba1TtsHpXfbnDFzxbBgLYFVo4=
+
+Name: org/eclipse/jface/internal/databinding/swt/ControlLocationProper
+ ty.java
+SHA1-Digest: 8VmPrSaCcV4D0o9ByQYvt4xKBh4=
+
+Name: org/eclipse/jface/databinding/dialog/TitleAreaDialogSupport.java
+SHA1-Digest: NmhKmiPUHMFVQF+WpW6FZUgqkoQ=
+
+Name: org/eclipse/jface/internal/databinding/swt/WidgetTooltipTextProp
+ erty.java
+SHA1-Digest: uJ6ek1L7kog8TF4TP7czR+YfbBI=
+
+Name: org/eclipse/jface/internal/databinding/viewers/ObservableViewerE
+ lementSet.java
+SHA1-Digest: lgK3j3yYYNIekfeNxYQRCr6DOf4=
+
+Name: org/eclipse/jface/internal/databinding/swt/SpinnerMinimumPropert
+ y.java
+SHA1-Digest: HOz2ML9m8eXpcFXVpS6hV8OoKlc=
+
+Name: org/eclipse/jface/internal/databinding/provisional/swt/MenuUpdat
+ er.java
+SHA1-Digest: ocsRNWHYorG8Q9z303QLkAcGn6s=
+
+Name: org/eclipse/jface/internal/databinding/swt/ComboItemsProperty.ja
+ va
+SHA1-Digest: o49ZAOGW+7DP6OfQgDXjJIlREwc=
+
+Name: org/eclipse/jface/internal/databinding/swt/ToolItemTooltipTextPr
+ operty.java
+SHA1-Digest: MbvuAZiJ8Jtg0NYbtFCP5YU1vI8=
+
+Name: org/eclipse/jface/internal/databinding/swt/TextEditableProperty.
+ java
+SHA1-Digest: xXnibWoDAM7lt1tKN4N0gJO0Nas=
+
+Name: org/eclipse/jface/internal/databinding/provisional/viewers/Viewe
+ rLabelProvider.java
+SHA1-Digest: Cq8QS95Br/fFJkVxVOq1OBEjvlM=
+
+Name: org/eclipse/jface/internal/databinding/swt/SWTDelayedObservableV
+ alueDecorator.java
+SHA1-Digest: NzRqGm+bf7MP8tvv4yH1EWEqkak=
+
+Name: org/eclipse/jface/internal/databinding/swt/ShellTextProperty.jav
+ a
+SHA1-Digest: buwum4LBkMEzBz2KiMovLvuQfUE=
+
+Name: org/eclipse/jface/internal/databinding/swt/TextMessageProperty.j
+ ava
+SHA1-Digest: 1Xdwq/B4M+H2Jtkn8w9LGZ9SNUg=
+
+Name: org/eclipse/jface/internal/databinding/swt/MenuItemSelectionProp
+ erty.java
+SHA1-Digest: 45Enz/5jse9nstpkLn5df4AjyPk=
+
+Name: org/eclipse/jface/databinding/viewers/ViewerListProperty.java
+SHA1-Digest: SxS+WgeqE3LMv3MrF5/a4bpf35g=
+
+Name: org/eclipse/jface/databinding/wizard/WizardPageSupport.java
+SHA1-Digest: 5uQcy68k5Zj10otb2zk2C2y/a3Y=
+
+Name: org/eclipse/jface/databinding/preference/PreferencePageSupport.j
+ ava
+SHA1-Digest: tSmje94uHU4q19NUn3V3j7NW2Ek=
+
+Name: org/eclipse/jface/databinding/viewers/IViewerObservableList.java
+SHA1-Digest: IuQPklGGiwVJ+Ch87p91Dx3r31g=
+
+Name: org/eclipse/jface/internal/databinding/viewers/ViewerUpdater.jav
+ a
+SHA1-Digest: 25E3V5sZM1aGhpH2gT0xxsE1xe8=
+
+Name: org/eclipse/jface/internal/databinding/swt/WidgetImageValuePrope
+ rty.java
+SHA1-Digest: 8CasjQJNg5XOxbW9nxSZJzsUnSw=
+
+Name: org/eclipse/jface/databinding/viewers/ViewerValueProperty.java
+SHA1-Digest: mCPFSTA8tmvjBMwHHPiKOGh/zYk=
+
+Name: org/eclipse/jface/databinding/fieldassist/ControlDecorationUpdat
+ er.java
+SHA1-Digest: GZCH4pIcYJtLDf+m/Yd0FflsuvI=
+
+Name: org/eclipse/jface/internal/databinding/swt/ControlFontProperty.j
+ ava
+SHA1-Digest: Vcs6439tWs+ZcJc8I3rJJbgKw/k=
+
+Name: org/eclipse/jface/internal/databinding/swt/SliderSelectionProper
+ ty.java
+SHA1-Digest: 6nkKJ9VjGXvVYWgoJDwI81IPMtM=
+
+Name: org/eclipse/jface/internal/databinding/provisional/swt/TableUpda
+ ter.java
+SHA1-Digest: VLVDf2DfuobRnL6RNolcIcfp/Dg=
+
+Name: org/eclipse/jface/internal/databinding/swt/WidgetTextWithEventsP
+ roperty.java
+SHA1-Digest: cwV0mo7JgH3garyysZUGFSeslaM=
+
+Name: org/eclipse/jface/internal/databinding/swt/WidgetMessageProperty
+ .java
+SHA1-Digest: ZL7lVQCR88Wnowr7cp79WJ1xM6o=
+
+Name: org/eclipse/jface/internal/databinding/swt/WidgetBooleanValuePro
+ perty.java
+SHA1-Digest: XgGFZaaNg+xp5sJran7ujlJxm6g=
+
+Name: org/eclipse/jface/databinding/viewers/ObservableSetTreeContentPr
+ ovider.java
+SHA1-Digest: akRo++SKBolhCRqtvLacxp40P2U=
+
+Name: org/eclipse/jface/internal/databinding/swt/WidgetEnabledProperty
+ .java
+SHA1-Digest: NoYsVgA1PHN6oKWIDOmaImVbgbQ=
+
+Name: org/eclipse/jface/internal/databinding/swt/TabItemTooltipTextPro
+ perty.java
+SHA1-Digest: WRWewT61XTC6wbDxrHwHqKFh3J0=
+
+Name: org/eclipse/jface/internal/databinding/swt/ComboSingleSelectionI
+ ndexProperty.java
+SHA1-Digest: KUnQodIvIgn4+IODzIULV1v9epc=
+
+Name: org/eclipse/jface/internal/databinding/swt/SpinnerMaximumPropert
+ y.java
+SHA1-Digest: vYqyfzooqnhsc3iMgGFMOytdqbw=
+
+Name: org/eclipse/jface/internal/databinding/swt/LabelImageProperty.ja
+ va
+SHA1-Digest: NNowAcMZBHUuXQ26SpUmg72AdBc=
+
+Name: org/eclipse/jface/internal/databinding/swt/LinkTextProperty.java
+SHA1-Digest: Z7AbK3OVKyiIqaqybgOR13a1ui4=
+
+Name: org/eclipse/jface/internal/databinding/viewers/CheckboxTableView
+ erUpdater.java
+SHA1-Digest: VoEtr9CsIgCE607AH26/owEnPpw=
+
+Name: org/eclipse/jface/internal/databinding/swt/WidgetIntValuePropert
+ y.java
+SHA1-Digest: 9tzT3TLPrsftECUs+CALOTkP2Kk=
+
+Name: org/eclipse/jface/internal/databinding/swt/ScaleMinimumProperty.
+ java
+SHA1-Digest: Cr65/5pf2gbpV+EAitvp0oLoBiQ=
+
+Name: org/eclipse/jface/internal/databinding/viewers/ViewerElementWrap
+ per.java
+SHA1-Digest: 9vwpRlbesrjwjFiD2h34d/M2lTM=
+
+Name: org/eclipse/jface/databinding/viewers/CellEditorProperties.java
+SHA1-Digest: 9rD9S/jnkymDSDOKezvYWHtpbU8=
+
+Name: org/eclipse/jface/internal/databinding/swt/ItemTextProperty.java
+SHA1-Digest: SMdZeJ8RTedigIlOA0jd5aXpD80=
+
+Name: org/eclipse/jface/internal/databinding/swt/CLabelTextProperty.ja
+ va
+SHA1-Digest: oEb1t4MiEtU8QZW/I9ZJ2fK1vdM=
+
+Name: org/eclipse/jface/internal/databinding/swt/ControlBoundsProperty
+ .java
+SHA1-Digest: +vaLpqQD8Z6tK7pDJRT8K3cyYOY=
+
+Name: org/eclipse/jface/internal/databinding/provisional/swt/SWTUtil.j
+ ava
+SHA1-Digest: khwUKjk0zW+5BxUQAc3pz2IYlXk=
+
+Name: org/eclipse/jface/internal/databinding/viewers/StructuredViewerF
+ iltersProperty.java
+SHA1-Digest: 5DfcSeWUpwTDOBJcTXVKUM6DejU=
+
+Name: org/eclipse/jface/databinding/swt/WidgetValueProperty.java
+SHA1-Digest: GDXxFt/BwVVmE5W85McE4Jg0ylQ=
+
+Name: org/eclipse/jface/internal/databinding/swt/ButtonImageProperty.j
+ ava
+SHA1-Digest: nr3GcabrQQCi8CuTPiocKl5cOM8=
+
+Name: org/eclipse/jface/internal/databinding/swt/WidgetSelectionProper
+ ty.java
+SHA1-Digest: 15j0tDdyEsudiyLHVbSBNV3qM6U=
+
+Name: org/eclipse/jface/internal/databinding/swt/SWTObservableValueDec
+ orator.java
+SHA1-Digest: QT3CtJb15u3LDLqyt5ndAAy4BV8=
+
+Name: org/eclipse/jface/databinding/swt/IWidgetListProperty.java
+SHA1-Digest: wpkQUemI3Ym2uEsXfJer+3hYENE=
+
+Name: org/eclipse/jface/internal/databinding/swt/ControlTooltipTextPro
+ perty.java
+SHA1-Digest: C8WHRMt3+Fdn6+IvcQrOjPQHCPc=
+
+Name: org/eclipse/jface/internal/databinding/viewers/ViewerElementSet.
+ java
+SHA1-Digest: SKBcLXBPXNiC7Z8UICwZAX2OaZ0=
+
+Name: org/eclipse/jface/databinding/swt/SWTObservables.java
+SHA1-Digest: Vm08kfTTaqSgoTj44kBaMIO3XD4=
+
+Name: org/eclipse/jface/internal/databinding/viewers/SelectionProvider
+ MultipleSelectionProperty.java
+SHA1-Digest: tL6et8wJ6fCCV311zllM9zqHSQk=
+
+Name: org/eclipse/jface/internal/databinding/swt/MenuEnabledProperty.j
+ ava
+SHA1-Digest: csaNIxZkhhjR3hcuPcs2MM/KUgc=
+
+Name: org/eclipse/jface/databinding/viewers/TreeStructureAdvisor.java
+SHA1-Digest: anzkjCWdq/WKPv0YjbHT9qV2fa4=
+
+Name: org/eclipse/jface/databinding/viewers/ObservableValueEditingSupp
+ ort.java
+SHA1-Digest: THGXNpm0TD9Xz5mD3wF1Eoj0aio=
+
+Name: org/eclipse/jface/internal/databinding/swt/TreeColumnTooltipText
+ Property.java
+SHA1-Digest: QpK68LC+IUlvFKCtOXV6Pi3Zteo=
+
+Name: org/eclipse/jface/databinding/dialog/ValidationMessageProvider.j
+ ava
+SHA1-Digest: LbxBomdlTLlv6MDPX3Xty8U0wL0=
+
+Name: about.html
+SHA1-Digest: ejOZra0kypGLQQ2bJtGTX+LI8tU=
+
+Name: org/eclipse/jface/internal/databinding/swt/WidgetListener.java
+SHA1-Digest: 4ary8+gCc/LCMal9LPgIqPU71rM=
+
+Name: org/eclipse/jface/internal/databinding/swt/TextTextProperty.java
+SHA1-Digest: Kt70knI3bV3sjRUwYu6HE+cVaA0=
+
+Name: org/eclipse/jface/databinding/swt/ISWTObservableValue.java
+SHA1-Digest: tJ9xl3tBDm/ZHAPdc7bmgxUT778=
+
+Name: org/eclipse/jface/databinding/swt/ISWTObservable.java
+SHA1-Digest: Rb49W84OF9yxKo1qdV0QmQxk9yU=
+
+Name: org/eclipse/jface/internal/databinding/swt/ControlStringListProp
+ erty.java
+SHA1-Digest: AHgn6hA95KZ9zf/TH6f7DUEMyE0=
+
+Name: org/eclipse/jface/databinding/swt/ISWTObservableList.java
+SHA1-Digest: meplwHvQ1X43oaoVet2bFhYIG3I=
+
+Name: org/eclipse/jface/internal/databinding/swt/ScaleMaximumProperty.
+ java
+SHA1-Digest: O4Mk1UXDa3gtc8JWYzas4ru1L0w=
+
+Name: org/eclipse/jface/internal/databinding/swt/ControlVisiblePropert
+ y.java
+SHA1-Digest: uR39GOP79RrjpP9ADa5phlHblHU=
+
+Name: org/eclipse/jface/internal/databinding/swt/ItemImageProperty.jav
+ a
+SHA1-Digest: 4KxRdQo5pvkkfzuyFzQr3bGayvs=
+
+Name: org/eclipse/jface/internal/databinding/swt/WidgetSingleSelection
+ IndexProperty.java
+SHA1-Digest: k4FHjNtHkJVCxHbtl+kJmjvb0e8=
+
+Name: org/eclipse/jface/databinding/viewers/ObservableListTreeContentP
+ rovider.java
+SHA1-Digest: 10WL1TrUATSc+lYS3CMeHSU+EBQ=
+
+Name: org/eclipse/jface/internal/databinding/viewers/CheckableCheckedE
+ lementsProperty.java
+SHA1-Digest: IdFUGs+DEGga+i6f0g/dv2EV0zI=
+
+Name: org/eclipse/jface/internal/databinding/viewers/CheckableCheckedE
+ lementsObservableSet.java
+SHA1-Digest: z6VRSPr+3bOoInUcqQZDnl7+2RM=
+
+Name: org/eclipse/jface/internal/databinding/viewers/ViewerCheckedElem
+ entsProperty.java
+SHA1-Digest: 8nCUSkPl03P4af/xY/LRUSuEDJg=
+
+Name: org/eclipse/jface/databinding/viewers/ObservableSetContentProvid
+ er.java
+SHA1-Digest: +2WsS+dwLwCksE0U3WyQAJiOWwI=
+
+Name: org/eclipse/jface/internal/databinding/viewers/ViewerObservableS
+ etDecorator.java
+SHA1-Digest: MhEnkGoMJAY6p2RIFLYQUJ1P5cE=
+
+Name: org/eclipse/jface/databinding/viewers/ListeningLabelProvider.jav
+ a
+SHA1-Digest: XQIXUJSUHDUbH1/vPT6lp3MZiSo=
+
+Name: org/eclipse/jface/internal/databinding/swt/ComboTextProperty.jav
+ a
+SHA1-Digest: mSrbWyXA9Mi+R/17vluK9ZXJCh0=
+
+Name: org/eclipse/jface/internal/databinding/provisional/swt/ControlUp
+ dater.java
+SHA1-Digest: BevZpUElzgxThC+Hv/qtfU+cXlg=
+
+Name: org/eclipse/jface/databinding/swt/WidgetProperties.java
+SHA1-Digest: ImGDUwgTbB+NpyA11BS5iDSEMzg=
+
+Name: org/eclipse/jface/internal/databinding/swt/WidgetListenerUtil.ja
+ va
+SHA1-Digest: +W5910qtyM65xgipUViCFlq61ac=
+
+Name: org/eclipse/jface/internal/databinding/swt/WidgetDelegatingListP
+ roperty.java
+SHA1-Digest: m9UQGZJHYCz/S39+QEEU54tqDPs=
+
+Name: org/eclipse/jface/internal/databinding/swt/ToolTipMessagePropert
+ y.java
+SHA1-Digest: bfWNcn8mO66qX9OLFfWSiW4ev7s=
+
+Name: org/eclipse/jface/internal/databinding/viewers/TableViewerUpdate
+ r.java
+SHA1-Digest: tOQm1K6fhDLwjuQbRfpWdhOPfZk=
+
+Name: org/eclipse/jface/databinding/viewers/IViewerObservableSet.java
+SHA1-Digest: wXDCzAsMDmBHLslzhD+wBvSnnW8=
+
+Name: org/eclipse/jface/internal/databinding/swt/ScaleSelectionPropert
+ y.java
+SHA1-Digest: iVhtKTy7KdCjUuIn5GUrGD5M2p4=
+
+Name: org/eclipse/jface/databinding/dialog/DialogPageSupport.java
+SHA1-Digest: X3dCe4/DJ3OdNR3LHiK7y5U+NFo=
+
+Name: org/eclipse/jface/internal/databinding/swt/CComboItemsProperty.j
+ ava
+SHA1-Digest: n4yYcjEixwE0VuJ9pqbDQNNLzcA=
+
+Name: org/eclipse/jface/internal/databinding/swt/ButtonTextProperty.ja
+ va
+SHA1-Digest: /ixy2lXDK9JnDq2bZWN0mhT67x4=
+
+Name: org/eclipse/jface/internal/databinding/viewers/CheckboxTreeViewe
+ rUpdater.java
+SHA1-Digest: t+xzS8tIa450WTPijpKMR/huqaE=
+
+Name: org/eclipse/jface/internal/databinding/util/JFaceProperty.java
+SHA1-Digest: wpF+8j34DoBp1/UqgIs+0YINT0M=
+
+Name: org/eclipse/jface/internal/databinding/swt/MenuItemEnabledProper
+ ty.java
+SHA1-Digest: NeF8ttYf2SErWLPWBs0iIXY0LJ4=
+
+Name: org/eclipse/jface/internal/databinding/swt/ControlFocusedPropert
+ y.java
+SHA1-Digest: OA8BAYEmKxQIV5iTSa/oGcND0Bw=
+
+Name: org/eclipse/jface/internal/databinding/viewers/SelectionProvider
+ SingleSelectionProperty.java
+SHA1-Digest: Sf8F9VddEAFZB/Y8Qv/eK6qwADU=
+
+Name: org/eclipse/jface/internal/databinding/swt/WidgetMinimumProperty
+ .java
+SHA1-Digest: aoize/EirAtGz/2O2mpCXylFJ7U=
+
+Name: org/eclipse/jface/internal/databinding/swt/SpinnerSelectionPrope
+ rty.java
+SHA1-Digest: 2lx2s7v3lOXiqJbv1JopBq+poEU=
+
+Name: org/eclipse/jface/databinding/viewers/IViewerObservableValue.jav
+ a
+SHA1-Digest: 6DISDKMcy1NEA8nx+8smVJDr7dI=
+
+Name: org/eclipse/jface/internal/databinding/viewers/CheckboxTableView
+ erCheckedElementsProperty.java
+SHA1-Digest: vfdISeFWEODxyn+xfDch11PMolY=
+
+Name: META-INF/eclipse.inf
+SHA1-Digest: KyT9FF7C7t86NoBoa2kZT3ZJBfw=
+
+Name: org/eclipse/jface/internal/databinding/viewers/ViewerElementMap.
+ java
+SHA1-Digest: MdmYBictPVFyTlyEJQeSQYROGXE=
+
+Name: org/eclipse/jface/databinding/viewers/IViewerUpdater.java
+SHA1-Digest: WSu7Tc+39O0i8nwFQ2rbGCRWZ80=
+
+Name: org/eclipse/jface/internal/databinding/viewers/CellEditorControl
+ Property.java
+SHA1-Digest: dhnvVuW+gbm46RRGp0krQ+EXKhA=
+
+Name: org/eclipse/jface/databinding/viewers/ViewerSetProperty.java
+SHA1-Digest: e3WqEvJV7Dha/R5Sd7kL690GoNg=
+
+Name: org/eclipse/jface/databinding/viewers/IViewerValueProperty.java
+SHA1-Digest: 106ZyqhgiJH3qamJgqnQ3l6rt9I=
+
+Name: org/eclipse/jface/internal/databinding/swt/WidgetItemsProperty.j
+ ava
+SHA1-Digest: 9ihCMP2T6tGYzFd41M2ZKVtAX6U=
+
+Name: org/eclipse/jface/internal/databinding/viewers/CheckboxViewerChe
+ ckedElementsProperty.java
+SHA1-Digest: SY0HETZH5k11plnKA6OuEKnVUOc=
+
+Name: org/eclipse/jface/databinding/swt/WidgetListProperty.java
+SHA1-Digest: yyBOs6GMld+GdI6k6lcGIcEfsug=
+
+Name: org/eclipse/jface/databinding/viewers/IViewerObservable.java
+SHA1-Digest: a5UsfCG5V//tWUVbvLaumx46fDQ=
+
+Name: org/eclipse/jface/databinding/viewers/ViewerSupport.java
+SHA1-Digest: p6+gqKZmoRPTV+yppz7Y9nYfDJA=
+
+Name: org/eclipse/jface/internal/databinding/swt/ScrollBarEnabledPrope
+ rty.java
+SHA1-Digest: bntIgY5CtS60PZcHi+s66x8PIQI=
+
+Name: org/eclipse/jface/internal/databinding/swt/ListSelectionProperty
+ .java
+SHA1-Digest: BBSSgELRqCYbzE5bgESiXeBfHOY=
+
+Name: org/eclipse/jface/internal/databinding/swt/SliderMinimumProperty
+ .java
+SHA1-Digest: 4NS0DygQHwlRX3ZQxM+6EK2J4Pk=
+
+Name: org/eclipse/jface/internal/databinding/swt/CComboSingleSelection
+ IndexProperty.java
+SHA1-Digest: CX60YYRJsvyo3I83rVV499PeDQo=
+
+Name: org/eclipse/jface/internal/databinding/swt/WidgetDelegatingValue
+ Property.java
+SHA1-Digest: ppbWQ8gwsZSkGKwAMqRGYfiKocY=
+
+Name: org/eclipse/jface/internal/databinding/swt/CTabItemTooltipTextPr
+ operty.java
+SHA1-Digest: pGN9oyGscCv8kiKu67SV+YDTNjk=
+
+Name: org/eclipse/jface/internal/databinding/swt/CLabelImageProperty.j
+ ava
+SHA1-Digest: BnDubjoTruuKgCvijBjQi1Kt7EI=
+
+Name: org/eclipse/jface/internal/databinding/viewers/ViewerInputProper
+ ty.java
+SHA1-Digest: utDWY3XKy6KKtecbBEjRI3wrUls=
+
+Name: org/eclipse/jface/internal/databinding/swt/SWTObservableListDeco
+ rator.java
+SHA1-Digest: G79zRK+HvmxeQrVUvBt4J8ll5zg=
+
+Name: org/eclipse/jface/internal/databinding/swt/SWTVetoableValueDecor
+ ator.java
+SHA1-Digest: xxsVloFLfEbpuqZk2iowu0FT5Hg=
+
+Name: org/eclipse/jface/internal/databinding/viewers/ObservableCollect
+ ionTreeContentProvider.java
+SHA1-Digest: 58xLQ/h34DfuPlE4+T3hkOef+tE=
+
+Name: org/eclipse/jface/internal/databinding/swt/TrayItemTooltipTextPr
+ operty.java
+SHA1-Digest: yvfCm5g46Nd4W8jDFm3zULjtDMw=
+
+Name: org/eclipse/jface/internal/databinding/swt/WidgetTextProperty.ja
+ va
+SHA1-Digest: TGzD3qjToMHe5ATxzYHjjjKqAAw=
+
+Name: org/eclipse/jface/databinding/viewers/ObservableListContentProvi
+ der.java
+SHA1-Digest: V336anKfbVI7GShjxZL31DpfcDg=
+
+Name: org/eclipse/jface/internal/databinding/swt/CComboSelectionProper
+ ty.java
+SHA1-Digest: Lc87HRUDp8nXtLCOycwtFAeKg64=
+
+Name: org/eclipse/jface/internal/databinding/swt/TableColumnTooltipTex
+ tProperty.java
+SHA1-Digest: Vjql/trT2dU+BLfQiP66CkIQAEA=
+
+Name: org/eclipse/jface/internal/databinding/swt/ControlSizeProperty.j
+ ava
+SHA1-Digest: 5Wp96InXVn83v5AUwno1inn0tmI=
+
+Name: org/eclipse/jface/internal/databinding/swt/WidgetMaximumProperty
+ .java
+SHA1-Digest: FOnaXuKcL/Rd2JzN2g0MthwXM6k=
+
+Name: org/eclipse/jface/internal/databinding/swt/ButtonSelectionProper
+ ty.java
+SHA1-Digest: EPyQ54zkZqrcSk+vO9NnYhf5fS4=
+
+Name: org/eclipse/jface/databinding/viewers/ViewerProperties.java
+SHA1-Digest: bqLoiTQg+jLZRYCFC4t5sp14Xck=
+
+Name: plugin.properties
+SHA1-Digest: IRkB/WyQgvjO4fBcwPpJDhK+9Rg=
+
+Name: org/eclipse/jface/internal/databinding/swt/ToolItemEnabledProper
+ ty.java
+SHA1-Digest: NKMecpt97WCcr4YELbwP1us11wU=
+
+Name: org/eclipse/jface/internal/databinding/swt/ComboSelectionPropert
+ y.java
+SHA1-Digest: OCqN6OxT/RPyEsLi/RRN9GDN/Vo=
+
+Name: org/eclipse/jface/databinding/viewers/IViewerSetProperty.java
+SHA1-Digest: rK46yXxZ5TL6HxVMbiPezqfXkik=
+
+Name: org/eclipse/jface/internal/databinding/viewers/ViewerObservableV
+ alueDecorator.java
+SHA1-Digest: ERwTMzO6isErcIt3I2CmGp6msnY=
+
+Name: org/eclipse/jface/databinding/viewers/IViewerListProperty.java
+SHA1-Digest: UPlDh79wKx6JfmxXLTQkf8DNnDM=
+
+Name: org/eclipse/jface/internal/databinding/viewers/ViewerObservableL
+ istDecorator.java
+SHA1-Digest: MMlySQMCvgCuRB9X26f6NgPTWJY=
+
+Name: org/eclipse/jface/internal/databinding/swt/SingleSelectionIndexP
+ roperty.java
+SHA1-Digest: Pe5tQeAPhk+T2+iB0/E6++2urTc=
+
+Name: org/eclipse/jface/internal/databinding/swt/StyledTextTextPropert
+ y.java
+SHA1-Digest: y4Ob7WVHepY1nOiksvDuV6oW75w=
+
+Name: org/eclipse/jface/internal/databinding/swt/LabelTextProperty.jav
+ a
+SHA1-Digest: m0Fb+zvgQZgv6gxmc0DldaDb684=
+
+Name: org/eclipse/jface/internal/databinding/swt/ListSingleSelectionIn
+ dexProperty.java
+SHA1-Digest: RCapMQUoVkPgLs25+olIrkZrfgo=
+
+Name: org/eclipse/jface/internal/databinding/swt/SliderMaximumProperty
+ .java
+SHA1-Digest: Ypcm0QEhUhps1jLZOhzqz77bJHI=
+
+Name: org/eclipse/jface/databinding/viewers/ObservableMapLabelProvider
+ .java
+SHA1-Digest: ngqGJKRkPyS2905PIe2ak6FIUx8=
+
+Name: org/eclipse/jface/internal/databinding/viewers/CheckboxTreeViewe
+ rCheckedElementsProperty.java
+SHA1-Digest: y/Cas4RcQ/NC031c0LOScKUiTII=
+
+Name: org/eclipse/jface/internal/databinding/swt/WidgetEditablePropert
+ y.java
+SHA1-Digest: clTtO0oGhUiRIhL8A+whV8amKaw=
+
+Name: org/eclipse/jface/databinding/viewers/ObservableMapCellLabelProv
+ ider.java
+SHA1-Digest: 4bDViXAuAOMresrJIOutkU9gBYI=
+
+Name: org/eclipse/jface/internal/databinding/swt/WidgetImageProperty.j
+ ava
+SHA1-Digest: ldWn98bR7NBZjTOafAg2se+m4dk=
+
+Name: org/eclipse/jface/internal/databinding/viewers/TreeViewerUpdater
+ .java
+SHA1-Digest: Yexj+D6P44iri5hov0CrDYgUn4s=
+
+Name: org/eclipse/jface/internal/databinding/viewers/ListViewerUpdater
+ .java
+SHA1-Digest: L1W/GK0Xhu6ybk4k5I0w4SyS36g=
+
+Name: org/eclipse/jface/databinding/fieldassist/ControlDecorationSuppo
+ rt.java
+SHA1-Digest: OGMAiARg4XF/agikkopbrDvRHkw=
+
+Name: org/eclipse/jface/databinding/util/JFaceProperties.java
+SHA1-Digest: oWT/VSQ3KgeGQFuLzvDdOsMVbcI=
+
+Name: org/eclipse/jface/internal/databinding/swt/DateTimeSelectionProp
+ erty.java
+SHA1-Digest: HZNJZ9pfDQUFvLQoFx5RbbUeDAY=
+
+Name: org/eclipse/jface/internal/databinding/provisional/swt/Composite
+ Updater.java
+SHA1-Digest: wtrEMgy+S/78iu6MFlUgjGsX6cY=
+
+Name: org/eclipse/jface/internal/databinding/swt/CComboTextProperty.ja
+ va
+SHA1-Digest: mViVwJJ1Pw4KprxHw3gM/lVjqEo=
+
+Name: org/eclipse/jface/internal/databinding/swt/ControlBackgroundProp
+ erty.java
+SHA1-Digest: bZ5ul7Q0o8bk9vCkqX7P4H4ueEI=
+
+Name: org/eclipse/jface/internal/databinding/viewers/SelectionChangedL
+ istener.java
+SHA1-Digest: bN1+TbK1KIwKdPPe9OdWYmrb7mM=
+

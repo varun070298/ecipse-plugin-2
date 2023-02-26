@@ -1,0 +1,617 @@
+Signature-Version: 1.0
+SHA1-Digest-Manifest: Z5+T0e75uTaPV/2m/9rUUXB1l8g=
+Created-By: 1.6.0 (IBM Corporation)
+SHA1-Digest-Manifest-Main-Attributes: 0+wvIofncmVoJN/8dsgvfneH8wY=
+
+Name: org/eclipse/team/core/importing/provisional/IBundleImporterDeleg
+ ate.java
+SHA1-Digest: 6L6WnoPLmnW6gr0ixYyLUsAKSd4=
+
+Name: org/eclipse/team/internal/core/Policy.java
+SHA1-Digest: QldL9Q3i+Y5d/hSVq5ULNvN4zxI=
+
+Name: org/eclipse/team/core/Team.java
+SHA1-Digest: rXJjbJzm3rQRBEwBpHseLbUeQg4=
+
+Name: org/eclipse/team/internal/core/subscribers/ContentComparator.jav
+ a
+SHA1-Digest: xQd6LLhOLv/7IXzQKsRWYl1fsdg=
+
+Name: org/eclipse/team/core/synchronize/ISyncInfoSetChangeEvent.java
+SHA1-Digest: kwdiX+behDy3gjNPdIEKVE5nEb4=
+
+Name: org/eclipse/team/core/variants/ThreeWayResourceComparator.java
+SHA1-Digest: 8V+voXd38j8YP581xViDVi2ke4s=
+
+Name: org/eclipse/team/internal/core/Cache.java
+SHA1-Digest: ectXG4QvjcHN/dG1YR+t3aJQais=
+
+Name: org/eclipse/team/internal/core/history/LocalFileHistory.java
+SHA1-Digest: r+n8En0fxpuVr2MFRaX5YCKJZoQ=
+
+Name: org/eclipse/team/core/synchronize/ISyncInfoSetChangeListener.jav
+ a
+SHA1-Digest: a+/iVeAeCyVlscCcK2kTrpPhuaM=
+
+Name: org/eclipse/team/internal/core/StringMatcher.java
+SHA1-Digest: h30MLA/QnzLUlQPVnb5kBMjaUAM=
+
+Name: org/eclipse/team/core/mapping/IResourceMappingMerger.java
+SHA1-Digest: 08TJ9s0//xvw8St33NLIKbmQARI=
+
+Name: org/eclipse/team/core/mapping/ISynchronizationScopeParticipantFa
+ ctory.java
+SHA1-Digest: i9fz87CnjoEcSd91POKJfYvnaxM=
+
+Name: org/eclipse/team/internal/core/subscribers/ThreeWayBaseTree.java
+SHA1-Digest: 2hhk5z9taZMEHZ3QupcCgSsyqLE=
+
+Name: org/eclipse/team/core/TeamException.java
+SHA1-Digest: 6X8s7MWdQ1Ib/LkJpzFkbd4DcsQ=
+
+Name: org/eclipse/team/core/synchronize/SyncInfoSetChangeEvent.java
+SHA1-Digest: NBOkHQJ0GvabMXP3mPWNiGooFOQ=
+
+Name: org/eclipse/team/internal/core/subscribers/ContentComparisonDiff
+ Filter.java
+SHA1-Digest: dmyOicWeZipGWlf/7H3h1GXTQI4=
+
+Name: org/eclipse/team/core/subscribers/Subscriber.java
+SHA1-Digest: gbEM8Tl4XK3DrkjQtaqVUUQg8Kw=
+
+Name: org/eclipse/team/internal/core/IRepositoryProviderListener.java
+SHA1-Digest: 0aAx45su2mqgMVo1WzqUYc3iM0M=
+
+Name: org/eclipse/team/internal/core/BackgroundEventHandler.java
+SHA1-Digest: lRDCSwe87OTaNlQfCEIBG7uXK+E=
+
+Name: org/eclipse/team/internal/core/AdapterFactory.java
+SHA1-Digest: wnafPbt4M538yGqI8tv5MRtPED4=
+
+Name: org/eclipse/team/internal/core/DefaultFileModificationValidator.
+ java
+SHA1-Digest: 2dn9Ogpf3NhkDnlC/frTyxtn5MI=
+
+Name: org/eclipse/team/core/diff/IDiffChangeEvent.java
+SHA1-Digest: 5djHVce5/Y4c/+zK93hfA1yWSu0=
+
+Name: org/eclipse/team/core/history/IFileRevision.java
+SHA1-Digest: Vk4zIdgWt4gE4gW2t7pF0f+Amao=
+
+Name: org/eclipse/team/core/variants/ResourceVariantByteStore.java
+SHA1-Digest: sKYfSLpO0E09U1xfmYSgZBEjetU=
+
+Name: org/eclipse/team/core/history/IFileHistoryProvider.java
+SHA1-Digest: b2wFXYpQZGpsp6P2eZ8FM1j99Uk=
+
+Name: org/eclipse/team/internal/core/ResourceVariantCacheEntry.java
+SHA1-Digest: +bn9U8wqH5uz+QAY8blas/ie5RE=
+
+Name: org/eclipse/team/core/mapping/ResourceMappingMerger.java
+SHA1-Digest: BuvGX0OAXhPwIEjl5eYuAes+7BM=
+
+Name: org/eclipse/team/core/variants/ResourceVariantTree.java
+SHA1-Digest: 1FiX38olvtmxO34u/Ut4+9NoNnI=
+
+Name: org/eclipse/team/core/DefaultRepositoryProviderType.java
+SHA1-Digest: nbQ0gFQAyMWwWqZTnprwaeda6bo=
+
+Name: org/eclipse/team/internal/core/subscribers/RootResourceSynchroni
+ zationScope.java
+SHA1-Digest: VWhyfSKAmqr5y27ymKUQMK0DJ1I=
+
+Name: org/eclipse/team/internal/core/mapping/ModelProviderResourceMapp
+ ing.java
+SHA1-Digest: ItICQ94rLW5xd8A8twtJo8vSNPA=
+
+Name: org/eclipse/team/core/mapping/ISynchronizationScopeManager.java
+SHA1-Digest: UpOl5EAWKFyG9huMTSgFcj8w0bg=
+
+Name: org/eclipse/team/internal/core/streams/TimeoutInputStream.java
+SHA1-Digest: 9BNiUBiv0pKirrxuCwI4Rs80+Dw=
+
+Name: org/eclipse/team/internal/core/subscribers/ActiveChangeSetManage
+ r.java
+SHA1-Digest: 0Kk9MbjFLRa87KA9ygtwYSXN8PQ=
+
+Name: org/eclipse/team/internal/core/mapping/PathTree.java
+SHA1-Digest: 04y0WDfgymAj0mxvyxFn8qP0xUU=
+
+Name: org/eclipse/team/core/ICacheListener.java
+SHA1-Digest: 1jNRI9f54LnhvQUpnkVTLTWqfCg=
+
+Name: org/eclipse/team/internal/core/ExceptionCollector.java
+SHA1-Digest: 3usHxwAT9Qjyv4XjCDHkJJ+b0E4=
+
+Name: org/eclipse/team/internal/core/subscribers/WorkingSetFilteredSyn
+ cInfoCollector.java
+SHA1-Digest: P+w86aEgQFukjToXACrP2QumYyc=
+
+Name: org/eclipse/team/core/IIgnoreInfo.java
+SHA1-Digest: IzLELam3rlr6DBVHdP6mqR3z0fQ=
+
+Name: org/eclipse/team/core/history/provider/FileHistoryProvider.java
+SHA1-Digest: Xl8l7Sa6gMUKyM6Wp4PwYPqL0Ew=
+
+Name: org/eclipse/team/internal/core/streams/ProgressMonitorInputStrea
+ m.java
+SHA1-Digest: VxIgEfFraU3o6Q145b7b8t342Pc=
+
+Name: org/eclipse/team/internal/core/subscribers/SyncSetInputFromSubsc
+ riber.java
+SHA1-Digest: efXvxIgFN653bm1xeovC6RV11pI=
+
+Name: org/eclipse/team/core/diff/IDiff.java
+SHA1-Digest: suuv4SKAY3I7pn3Y7jex7j5IM8o=
+
+Name: org/eclipse/team/internal/core/RepositoryProviderManager.java
+SHA1-Digest: 8GTX7TGAcNlIbV6GgjkAwC8EBSc=
+
+Name: org/eclipse/team/internal/core/MoveDeleteManager.java
+SHA1-Digest: AYqbrB6xQQ37VeF70phFC5WAIKk=
+
+Name: schema/bundleImporters.exsd
+SHA1-Digest: QW1f6nlBDgxmGOAcBAkTCRkwpj4=
+
+Name: org/eclipse/team/core/subscribers/ISubscriberChangeEvent.java
+SHA1-Digest: II5X8xja6nEeflRJDgIqk+jVVGc=
+
+Name: org/eclipse/team/core/mapping/provider/SynchronizationScopeManag
+ er.java
+SHA1-Digest: AvDHBSWCmw+gSPOukbP+ysGHZN8=
+
+Name: org/eclipse/team/core/subscribers/SubscriberChangeEvent.java
+SHA1-Digest: xCm8hrHfsh8DmOUizsqvKkeJuFo=
+
+Name: schema/storageMergers.exsd
+SHA1-Digest: h0DDDUOP3HxsruLjwL8nBhjMazE=
+
+Name: org/eclipse/team/core/IFileContentManager.java
+SHA1-Digest: u5Psu+LZp/kabEeacmEQJ0fQi9c=
+
+Name: org/eclipse/team/core/variants/SessionResourceVariantByteStore.j
+ ava
+SHA1-Digest: BDglnmZF3achVIVnDE1GgSS2hjI=
+
+Name: org/eclipse/team/internal/core/mapping/DiffChangeEvent.java
+SHA1-Digest: X6671+vXWI6+iudV1VCDd5iOruo=
+
+Name: org/eclipse/team/core/variants/PersistantResourceVariantByteStor
+ e.java
+SHA1-Digest: vYbK2Z170DZhlC4apjk0zWYq2ag=
+
+Name: org/eclipse/team/internal/core/subscribers/BatchingChangeSetMana
+ ger.java
+SHA1-Digest: SndCssr2SWgFVcGjtwihGykVMHs=
+
+Name: org/eclipse/team/core/mapping/provider/MergeContext.java
+SHA1-Digest: wBN3FFJOIcnWVuJOi0GrE68txX8=
+
+Name: org/eclipse/team/internal/core/subscribers/DescendantResourceVar
+ iantByteStore.java
+SHA1-Digest: KhHiDwLUh0dpew73Rtd42tKr0TY=
+
+Name: org/eclipse/team/core/subscribers/ISubscriberChangeListener.java
+SHA1-Digest: IblLc3eZ83KiqYix63SVZmQeiO0=
+
+Name: org/eclipse/team/internal/core/subscribers/SyncByteConverter.jav
+ a
+SHA1-Digest: C8k33fp5hDQnN2wYR9vI9GGb7KQ=
+
+Name: org/eclipse/team/core/diff/provider/ThreeWayDiff.java
+SHA1-Digest: sWYzICO6pMyy41v9TH2V4FCbecg=
+
+Name: schema/projectSets.exsd
+SHA1-Digest: PcqWrl6ElcSOeYA/DRN2e9QfHLk=
+
+Name: org/eclipse/team/internal/core/subscribers/SubscriberResourceCol
+ lector.java
+SHA1-Digest: NjKIxRv+qE+EuWm1wyk9vyrW0WM=
+
+Name: org/eclipse/team/core/subscribers/SubscriberScopeManager.java
+SHA1-Digest: 3aiWX3T7otYE1xYxpObXmxqBFEQ=
+
+Name: org/eclipse/team/internal/core/subscribers/BatchingLock.java
+SHA1-Digest: /omJPjggCZjkscMVoCTVKxEBQH0=
+
+Name: org/eclipse/team/internal/core/streams/CRLFtoLFInputStream.java
+SHA1-Digest: qn536lMTkzFpC8rHmXBn9KZQZvQ=
+
+Name: org/eclipse/team/internal/core/PessimisticResourceRuleFactory.ja
+ va
+SHA1-Digest: g52GoUVV+LrDTQCj6wsY8IZsFck=
+
+Name: org/eclipse/team/core/ProjectSetCapability.java
+SHA1-Digest: SiUggZTy00NoB29lbwIorBBLFEw=
+
+Name: org/eclipse/team/internal/core/streams/SizeConstrainedInputStrea
+ m.java
+SHA1-Digest: k8Zk+iYSjgERUg1jGV+vYeDRHRI=
+
+Name: schema/fileTypes.exsd
+SHA1-Digest: PmSqPf4TcEwb7xYc+t7nN/DWUFA=
+
+Name: org/eclipse/team/internal/core/subscribers/DiffChangeSet.java
+SHA1-Digest: e+tKZ4of5CXbj7NMVZ4ERkmtAJI=
+
+Name: org/eclipse/team/core/subscribers/SubscriberResourceMappingConte
+ xt.java
+SHA1-Digest: oPE88z2s2yZE5JfSwFK8gx33Jdc=
+
+Name: org/eclipse/team/internal/core/subscribers/ActiveChangeSet.java
+SHA1-Digest: CnfNUWS6h1EIeNlYk+7d9srbzlg=
+
+Name: org/eclipse/team/internal/core/streams/PollingOutputStream.java
+SHA1-Digest: hQa/XWEcfQGGYNcAqXCEWDW3qm8=
+
+Name: org/eclipse/team/core/mapping/ISynchronizationScope.java
+SHA1-Digest: tJlv+QKw1XgK+gFttkiSRQ9FJ1Y=
+
+Name: org/eclipse/team/internal/core/history/LocalFileRevision.java
+SHA1-Digest: OxSW3qL2FcAuHCxCNujNYDVfqPM=
+
+Name: org/eclipse/team/core/mapping/IResourceDiff.java
+SHA1-Digest: ISYn8znzHi/FzqsXFmf5miQqA98=
+
+Name: org/eclipse/team/internal/core/Messages.java
+SHA1-Digest: FLrHmHwV1B1DRMqylPxaA1SccHU=
+
+Name: org/eclipse/team/internal/core/ResourceVariantCache.java
+SHA1-Digest: 8l6MMPF02YhKVakN7K9fE9Pbx/k=
+
+Name: org/eclipse/team/core/mapping/IResourceDiffTree.java
+SHA1-Digest: jqnBLj52TDwNkHPHGuEpXbXM2fw=
+
+Name: org/eclipse/team/internal/core/mapping/CompoundResourceTraversal
+ .java
+SHA1-Digest: 3zrMxG0Y5D77f8Q3E/9HeZp8lt0=
+
+Name: org/eclipse/team/core/RepositoryProviderType.java
+SHA1-Digest: ADTcjrGG+BKg0AKL/ypuwpLSQlE=
+
+Name: schema/defaultFileModificationValidator.exsd
+SHA1-Digest: 1MtZqLE7EpNsj0qSZhoL1Dbz/Sc=
+
+Name: org/eclipse/team/internal/core/DefaultProjectSetCapability.java
+SHA1-Digest: fGA5E0hQKjRSk27PGOEuq5Jr3II=
+
+Name: org/eclipse/team/core/IStringMapping.java
+SHA1-Digest: 6gyXrbX1Ufc+d7OPePi6kcuRtLw=
+
+Name: about.html
+SHA1-Digest: M+fykt9heyWoEv1LNiIEeBhi/2Q=
+
+Name: org/eclipse/team/core/variants/AbstractResourceVariantTree.java
+SHA1-Digest: 7DSOxiCv5uBR0pG7+vQ5MJ/P+CI=
+
+Name: org/eclipse/team/core/variants/ThreeWaySynchronizer.java
+SHA1-Digest: gIdG0OJneDTNQP0BvYSovics+i8=
+
+Name: schema/ignore.exsd
+SHA1-Digest: 6XjSmSkOt3xunRFSTHqR4U6kjQI=
+
+Name: org/eclipse/team/core/mapping/provider/ResourceDiffTree.java
+SHA1-Digest: ySG+i1swIVsbFq26rR3ouYUZygs=
+
+Name: org/eclipse/team/internal/core/importing/BundleImporterExtension
+ .java
+SHA1-Digest: lJdIY6DTOKU1FMkP7Ll7rjN7k5s=
+
+Name: org/eclipse/team/core/mapping/provider/SynchronizationContext.ja
+ va
+SHA1-Digest: 9BAGC8qQtD5qZUQR4lHfqaPbT3E=
+
+Name: org/eclipse/team/core/diff/IDiffVisitor.java
+SHA1-Digest: Zyy/1sDgCsqAkb6G6mn5YFeK5rQ=
+
+Name: org/eclipse/team/core/synchronize/SyncInfo.java
+SHA1-Digest: k/nFrAUEGWVMXg5DXxU4/QGuWJ0=
+
+Name: org/eclipse/team/core/diff/ITwoWayDiff.java
+SHA1-Digest: YoL8+yb0QGEYu4DN59z0n6byTBA=
+
+Name: org/eclipse/team/core/subscribers/SubscriberMergeContext.java
+SHA1-Digest: pyvybZWj9KJXkB0Gxk8MMfI4hKM=
+
+Name: org/eclipse/team/core/diff/FastDiffFilter.java
+SHA1-Digest: SaQfvou2v93zuxRIAaoTRv/+HsE=
+
+Name: org/eclipse/team/internal/core/NullSubProgressMonitor.java
+SHA1-Digest: ZNEKa9i8HqhRijOk2NlJT9MmjzE=
+
+Name: org/eclipse/team/internal/core/subscribers/ChangeSet.java
+SHA1-Digest: wWagELdPBLXKZ1I+0w7EID6wpFU=
+
+Name: org/eclipse/team/core/mapping/ISynchronizationScopeChangeListene
+ r.java
+SHA1-Digest: fZnc4VGDk5K+gd/mul0ozyX0i0U=
+
+Name: org/eclipse/team/internal/core/TeamPlugin.java
+SHA1-Digest: 7e+2Fh9SKPI2Fwf6SEOuq46bJHE=
+
+Name: org/eclipse/team/internal/core/subscribers/SyncInfoStatistics.ja
+ va
+SHA1-Digest: Mgeysjr9QFY93OO0gOBeggrXEOU=
+
+Name: org/eclipse/team/core/RepositoryProvider.java
+SHA1-Digest: hbMdet+zLlS7Q9rfilWcG5tl3uk=
+
+Name: org/eclipse/team/internal/core/mapping/GroupProgressMonitor.java
+SHA1-Digest: VzahEFMIMBjumScTkyhaIFkhCjk=
+
+Name: org/eclipse/team/core/importing/provisional/IBundleImporter.java
+SHA1-Digest: nfw2JfoiXN3yxp/EYvfAzuxuI9Q=
+
+Name: org/eclipse/team/core/synchronize/ISyncInfoTreeChangeEvent.java
+SHA1-Digest: pZdfknJsYmMY7BePdgSbj40ivug=
+
+Name: org/eclipse/team/core/ICache.java
+SHA1-Digest: gsGm89Xc9lmWiJJOb4e3oX9MgNU=
+
+Name: org/eclipse/team/internal/core/mapping/LocalResourceVariant.java
+SHA1-Digest: AADAikYQnhz00oPHWu3FYIsebOI=
+
+Name: org/eclipse/team/internal/core/streams/TimeoutOutputStream.java
+SHA1-Digest: BhjllCXf4IiiLKuy6GWpbgt0q58=
+
+Name: org/eclipse/team/core/mapping/IChangeGroupingRequestor.java
+SHA1-Digest: cmbG80Hl8IwzoHdPCpHjIucZLpI=
+
+Name: org/eclipse/team/core/ITeamStatus.java
+SHA1-Digest: ayiuH31HtE1XX0Dh2zEu8lJbbVE=
+
+Name: org/eclipse/team/core/variants/ThreeWayRemoteTree.java
+SHA1-Digest: ULkADtCVERc3QWgrDkittsXOoUA=
+
+Name: org/eclipse/team/internal/core/subscribers/SubscriberChangeSetMa
+ nager.java
+SHA1-Digest: pvnbh9OxfZMmKa+XTrnNMBS3MCE=
+
+Name: org/eclipse/team/internal/core/DefaultMoveDeleteHook.java
+SHA1-Digest: t7u4Ep0Ve/rE2zKPuvnWypYs0mU=
+
+Name: org/eclipse/team/internal/core/streams/PollingInputStream.java
+SHA1-Digest: u6cS+c7qWzMaQGVEegMtfxDzStw=
+
+Name: org/eclipse/team/core/variants/IResourceVariant.java
+SHA1-Digest: gczJ0ttRiFe1xmA4mPPDyLMa5GU=
+
+Name: org/eclipse/team/core/mapping/IStorageMerger.java
+SHA1-Digest: Q9A/xM2gDgukmDspzuz8Qs9Tp+w=
+
+Name: org/eclipse/team/core/variants/IResourceVariantTree.java
+SHA1-Digest: 4HPRfZSmHKhY5EjRGj+BdYPrnHg=
+
+Name: org/eclipse/team/internal/core/subscribers/SubscriberDiffTreeEve
+ ntHandler.java
+SHA1-Digest: 7e+vE3x/H6uvJjt6+pVSkxweaeU=
+
+Name: org/eclipse/team/core/history/IFileHistory.java
+SHA1-Digest: ZViNTC0sjSnOs1GpV2Ck0nx+TyA=
+
+Name: org/eclipse/team/internal/core/subscribers/SubscriberEventHandle
+ r.java
+SHA1-Digest: w2MgQXkiFjXbHZ58rzqq7JriY0I=
+
+Name: org/eclipse/team/internal/core/StorageMergerRegistry.java
+SHA1-Digest: Bf13PiV23Dh4vkhKaKlPL46I3j8=
+
+Name: org/eclipse/team/internal/core/subscribers/WorkingSetSyncSetInpu
+ t.java
+SHA1-Digest: ZTCxghsMOq6jdwVaBrOuwaFRWwQ=
+
+Name: org/eclipse/team/internal/core/mapping/ScopeChangeEvent.java
+SHA1-Digest: aaZ5qbmU4aqtts9ePTrN455+9EQ=
+
+Name: org/eclipse/team/internal/core/streams/LFtoCRLFInputStream.java
+SHA1-Digest: zXpS+WG+vMhHoiJnTnk9Rf7UN7c=
+
+Name: org/eclipse/team/internal/core/subscribers/SyncInfoWorkingSetFil
+ ter.java
+SHA1-Digest: Gq6xvu2rrCM3yk1Hw7w74ref1+M=
+
+Name: org/eclipse/team/core/synchronize/SyncInfoFilter.java
+SHA1-Digest: QcXQrUpaVTbcPWQerNAkSQnaRBw=
+
+Name: org/eclipse/team/core/synchronize/FastSyncInfoFilter.java
+SHA1-Digest: fXu2dhNC7TFOYXU3pLdkhYmzx+s=
+
+Name: META-INF/eclipse.inf
+SHA1-Digest: SAqY+5ITAL0mkdYeijlSRhyIaZk=
+
+Name: org/eclipse/team/internal/core/mapping/IStreamMergerDelegate.jav
+ a
+SHA1-Digest: Es6X6MFbrX/GuqYmgHAAMpdteh4=
+
+Name: org/eclipse/team/core/variants/ThreeWaySubscriber.java
+SHA1-Digest: Fe/vWtbAdOxp2S1H2t+yuB1UZds=
+
+Name: org/eclipse/team/core/history/provider/FileRevision.java
+SHA1-Digest: znWaw1WPHyqsW6uK/I1z9/jfDSM=
+
+Name: org/eclipse/team/internal/core/StorageMergerDescriptor.java
+SHA1-Digest: dn7dwShO9pnKM5dTZoCx8CIKbnU=
+
+Name: org/eclipse/team/internal/core/mapping/ScopeManagerEventHandler.
+ java
+SHA1-Digest: b9rWCjbWrRAVX76DLjrxXrG6hhI=
+
+Name: org/eclipse/team/core/mapping/ISynchronizationContext.java
+SHA1-Digest: Rq4oHTDagie8+XeC4CQ9bVPCQKg=
+
+Name: org/eclipse/team/core/history/provider/FileHistory.java
+SHA1-Digest: QtOv+zEbNYqTD5wcTglMNPVrR1k=
+
+Name: org/eclipse/team/internal/core/PluginStringMappings.java
+SHA1-Digest: /CvXo6LKnX9rjyum/tWxgFea8Xo=
+
+Name: org/eclipse/team/internal/core/subscribers/SubscriberSyncInfoEve
+ ntHandler.java
+SHA1-Digest: jbABq/V2Fub12BqfuRv49zDbgjE=
+
+Name: org/eclipse/team/core/TeamStatus.java
+SHA1-Digest: NFKZjat3oscqanpGtErZ+W1CTnQ=
+
+Name: org/eclipse/team/core/variants/ISynchronizerChangeListener.java
+SHA1-Digest: Vkud5QOPbxAy55pVBRHFOAY7ZiI=
+
+Name: org/eclipse/team/core/history/ITag.java
+SHA1-Digest: UDKYThoWJzymNzRhL+LVu5Gg1yE=
+
+Name: org/eclipse/team/core/IFileTypeInfo.java
+SHA1-Digest: pMR55P5mOmIrGvuBLQce+lGucqk=
+
+Name: org/eclipse/team/core/ProjectSetSerializationContext.java
+SHA1-Digest: Jg0vCYejs5MPftqaOQ3Z7GVIHX4=
+
+Name: org/eclipse/team/core/mapping/ChangeTracker.java
+SHA1-Digest: Vciyyjlkz66g0Mdedg/vB65zmp8=
+
+Name: org/eclipse/team/core/IProjectSetSerializer.java
+SHA1-Digest: 4J5+hBJfTUV+HIHHs+6HovAEqSQ=
+
+Name: org/eclipse/team/core/diff/IDiffTree.java
+SHA1-Digest: jXRJEHTDlziEK07zXUK6Soc9CqQ=
+
+Name: org/eclipse/team/core/mapping/IMergeStatus.java
+SHA1-Digest: u1+aFujW9H0bXS3nRf2566tcoIg=
+
+Name: org/eclipse/team/internal/core/FileModificationValidatorManager.
+ java
+SHA1-Digest: vckMawloGykDTjrt7vi/8PL7NKc=
+
+Name: org/eclipse/team/internal/core/mapping/ResourceVariantFileRevisi
+ on.java
+SHA1-Digest: D9h+QsVVT9qfDn7LX+rFhRSRHFI=
+
+Name: org/eclipse/team/internal/core/subscribers/SubscriberSyncInfoSet
+ .java
+SHA1-Digest: VRVmWIjInlWGfJI0NnNbLBapHSM=
+
+Name: org/eclipse/team/core/mapping/IMergeContext.java
+SHA1-Digest: N26V0vEH8NOV9oXYs1+tpX3MglM=
+
+Name: org/eclipse/team/internal/core/subscribers/IChangeSetChangeListe
+ ner.java
+SHA1-Digest: Klb191t5NDKhpJlEZGIgxMoESNk=
+
+Name: org/eclipse/team/core/diff/provider/TwoWayDiff.java
+SHA1-Digest: jsCFN8MSSl3idY8K6Oa6QAk4uio=
+
+Name: org/eclipse/team/internal/core/mapping/ResourceMappingInputScope
+ .java
+SHA1-Digest: L9UotD4HrYALMxgGiNmSoFFOCLU=
+
+Name: org/eclipse/team/core/importing/provisional/BundleImporterDelega
+ te.java
+SHA1-Digest: hHEbCEukAvY3oxn9jjg9Uh3pZcA=
+
+Name: org/eclipse/team/core/diff/provider/Diff.java
+SHA1-Digest: 0/UvY3t258tX1D9D9XzQLviKPQY=
+
+Name: org/eclipse/team/core/synchronize/SyncInfoSet.java
+SHA1-Digest: RYC8Jyg1XLaKCHvwvqfQ70JkCgI=
+
+Name: org/eclipse/team/core/diff/provider/DiffTree.java
+SHA1-Digest: MI1OsDLqtgHXCaCzhLZE0oOqfv8=
+
+Name: org/eclipse/team/core/diff/IThreeWayDiff.java
+SHA1-Digest: aKTLRhn21zwDrcYqD/l4HbJhk6k=
+
+Name: org/eclipse/team/internal/core/subscribers/SyncSetInput.java
+SHA1-Digest: kwXcucsJbPONQsqvbWmagc3lx/s=
+
+Name: plugin.properties
+SHA1-Digest: KCPx0lskkSsG32uKKbRg6bV6ld8=
+
+Name: org/eclipse/team/internal/core/subscribers/SyncInfoTreeChangeEve
+ nt.java
+SHA1-Digest: smC+s+F7gElTaekOWYZW60euF2o=
+
+Name: org/eclipse/team/core/mapping/DelegatingStorageMerger.java
+SHA1-Digest: 42pVlxCDb0X97UN5I0nCVSdRWe0=
+
+Name: org/eclipse/team/core/mapping/provider/MergeStatus.java
+SHA1-Digest: kXIwhM5xigl2GzgjQBkniILKUgo=
+
+Name: org/eclipse/team/internal/core/InfiniteSubProgressMonitor.java
+SHA1-Digest: HSUZHcEHkOzZKfe9/dSEIsyan7s=
+
+Name: org/eclipse/team/internal/core/UserStringMappings.java
+SHA1-Digest: +b7jEJOXwG289ir77eIm9FM87ps=
+
+Name: org/eclipse/team/internal/core/subscribers/ChangeSetManager.java
+SHA1-Digest: k05BJzw93jpiWbQ19uAtR4avhws=
+
+Name: org/eclipse/team/core/diff/IDiffChangeListener.java
+SHA1-Digest: nXRb6xE0hvxvSHQ5vDt3zJTHUbU=
+
+Name: org/eclipse/team/internal/core/mapping/SyncInfoToDiffConverter.j
+ ava
+SHA1-Digest: VB4F7bnIBAvEboo8nhsiy1CpLgg=
+
+Name: org/eclipse/team/internal/core/subscribers/SyncSetInputFromSyncS
+ et.java
+SHA1-Digest: 2srmQxraFG7kzL8GQn+Q1AkyLFA=
+
+Name: org/eclipse/team/internal/core/subscribers/AbstractSynchronizati
+ onScope.java
+SHA1-Digest: 0OZH+2UAEBHGjVCIXN1pTqqTSio=
+
+Name: org/eclipse/team/core/variants/IResourceVariantComparator.java
+SHA1-Digest: B1bEgie22HEZD3eooZIrHWh+PmI=
+
+Name: org/eclipse/team/internal/core/mapping/AbstractResourceMappingSc
+ ope.java
+SHA1-Digest: U0BNrdoGP/7fLuhQsrx5UFIBp3E=
+
+Name: org/eclipse/team/internal/core/mapping/ResourceMappingScope.java
+SHA1-Digest: /KvEhj0wBy+0nBSw5ybYnwkuAcY=
+
+Name: org/eclipse/team/core/variants/ResourceVariantTreeSubscriber.jav
+ a
+SHA1-Digest: 0eI4I72fJa3JkEpcDtgQwYo8pDU=
+
+Name: org/eclipse/team/internal/core/FileContentManager.java
+SHA1-Digest: wlfkupdhx1wLa7kETuYtyUzJByo=
+
+Name: org/eclipse/team/internal/core/TeamResourceChangeListener.java
+SHA1-Digest: EaPlhBBk+0ZNbCFriJhKT9o/lVA=
+
+Name: org/eclipse/team/core/mapping/ISynchronizationScopeParticipant.j
+ ava
+SHA1-Digest: bZALVzduIbMA17LXcmROq+Kdjsc=
+
+Name: org/eclipse/team/internal/core/subscribers/CheckedInChangeSet.ja
+ va
+SHA1-Digest: nfp5QDHM/0jAAO8wfvvdoV3sOy0=
+
+Name: org/eclipse/team/internal/core/subscribers/DiffTreeStatistics.ja
+ va
+SHA1-Digest: RDtiThdWOD2x/BIfKcEFEjAQxLU=
+
+Name: org/eclipse/team/core/variants/CachedResourceVariant.java
+SHA1-Digest: um6uo+IAoYnt1DvZHuOO6z4mTS0=
+
+Name: org/eclipse/team/internal/core/TeamHookDispatcher.java
+SHA1-Digest: P2BlzJB1QpXQMHBZLovQzIMiwNA=
+
+Name: org/eclipse/team/core/mapping/provider/ResourceDiff.java
+SHA1-Digest: X/gzFPs6f7BMWzYOs3iRz7J8LcE=
+
+Name: org/eclipse/team/internal/core/subscribers/SubscriberSyncInfoCol
+ lector.java
+SHA1-Digest: Mfe00WDzytZ7Vlq1bhyJBlkN2Mc=
+
+Name: org/eclipse/team/core/synchronize/SyncInfoTree.java
+SHA1-Digest: mmI6XJDitjrzyogTWZjPEE/v1fc=
+
+Name: org/eclipse/team/core/diff/DiffFilter.java
+SHA1-Digest: 50D11xL48MSlpT8APZE/YwS3UL4=
+
+Name: schema/repository.exsd
+SHA1-Digest: 2BDz6hlPJZSP+WChwyNymPoCOAs=
+
+Name: org/eclipse/team/core/ScmUrlImportDescription.java
+SHA1-Digest: az5zEOo6BWo6bpjqcbK6WwZcvjY=
+

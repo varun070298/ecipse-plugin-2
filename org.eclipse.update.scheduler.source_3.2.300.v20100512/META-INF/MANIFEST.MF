@@ -1,0 +1,48 @@
+Manifest-Version: 1.0
+Eclipse-SourceBundle: org.eclipse.update.scheduler;version="3.2.300.v2
+ 0100512";roots:="."
+Bundle-Vendor: %providerName
+Bundle-Localization: plugin
+Bundle-Name: %pluginName
+Bundle-SymbolicName: org.eclipse.update.scheduler.source
+Bundle-Version: 3.2.300.v20100512
+Bundle-ManifestVersion: 2
+
+Name: org/eclipse/update/internal/scheduler/UpdateJobChangeAdapter.jav
+ a
+SHA1-Digest: f4NZZfbYs12e4bPmrhoQiLP09xg=
+
+Name: org/eclipse/update/internal/scheduler/preferences/PreferenceInit
+ ializer.java
+SHA1-Digest: LBkw40q58Q9LyKchVxu/aL8fDSA=
+
+Name: META-INF/eclipse.inf
+SHA1-Digest: KyT9FF7C7t86NoBoa2kZT3ZJBfw=
+
+Name: org/eclipse/update/internal/scheduler/AutomaticUpdateJob.java
+SHA1-Digest: d1EImIGKHuQdrHdAAZNaQQ8MOto=
+
+Name: org/eclipse/update/internal/scheduler/UpdateSchedulerMessages.ja
+ va
+SHA1-Digest: nFN0iqi0e49he5Ncj52ps5GohaM=
+
+Name: org/eclipse/update/internal/scheduler/SchedulerStartup.java
+SHA1-Digest: tyNaJKCgLfS3v/CA79pVqgALKFY=
+
+Name: org/eclipse/update/internal/scheduler/ScheduledPluginUninstall.j
+ ava
+SHA1-Digest: tbenmJ5jgJDINZqF8KFSu2tycMI=
+
+Name: about.html
+SHA1-Digest: ejOZra0kypGLQQ2bJtGTX+LI8tU=
+
+Name: org/eclipse/update/internal/scheduler/preferences/AutomaticUpdat
+ esPreferencePage.java
+SHA1-Digest: Uq+7M2Xgw0Kz+Zb3c3pQMD+Sg5Y=
+
+Name: org/eclipse/update/internal/scheduler/UpdateSchedulerPlugin.java
+SHA1-Digest: cwfzu3w21Gyu6w8pXD0Qe4a5GLk=
+
+Name: plugin.properties
+SHA1-Digest: Ikj64puSeeN4nJq1HIj+yYAi+EI=
+

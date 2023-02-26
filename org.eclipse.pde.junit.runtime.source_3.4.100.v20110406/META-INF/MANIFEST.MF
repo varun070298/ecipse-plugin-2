@@ -1,0 +1,41 @@
+Manifest-Version: 1.0
+Eclipse-SourceBundle: org.eclipse.pde.junit.runtime;version="3.4.100.v
+ 20110406";roots:="."
+Bundle-Vendor: %providerName
+Bundle-Localization: plugin
+Bundle-Name: %pluginName
+Bundle-SymbolicName: org.eclipse.pde.junit.runtime.source
+Bundle-Version: 3.4.100.v20110406
+Bundle-ManifestVersion: 2
+
+Name: org/eclipse/pde/internal/junit/runtime/PlatformUITestHarness.jav
+ a
+SHA1-Digest: HyiTCWSn/vJSlDqqGRxbRJMW3uE=
+
+Name: META-INF/eclipse.inf
+SHA1-Digest: KyT9FF7C7t86NoBoa2kZT3ZJBfw=
+
+Name: org/eclipse/pde/internal/junit/runtime/NonUIThreadTestApplicatio
+ n.java
+SHA1-Digest: xhd6zXg2RXc0L0bDPFsWrxJOQiw=
+
+Name: org/eclipse/pde/internal/junit/runtime/LegacyUITestApplication.j
+ ava
+SHA1-Digest: 7aOHd5kG19ucOYcoYIm4WVPghCQ=
+
+Name: org/eclipse/pde/internal/junit/runtime/CoreTestApplication.java
+SHA1-Digest: zSdUzg/G5Ki3+eZSOHYAYCyqik0=
+
+Name: org/eclipse/pde/internal/junit/runtime/RemotePluginTestRunner.ja
+ va
+SHA1-Digest: JV/+conLz7BDMqmEj+g7ZSxvI4Y=
+
+Name: about.html
+SHA1-Digest: ejOZra0kypGLQQ2bJtGTX+LI8tU=
+
+Name: plugin.properties
+SHA1-Digest: lpgjdOMEadAVliqCvbwn8vT4dDk=
+
+Name: org/eclipse/pde/internal/junit/runtime/UITestApplication.java
+SHA1-Digest: ohJzP6qa5OG/4Khzd2y7SlyItMA=
+

@@ -1,0 +1,2649 @@
+Signature-Version: 1.0
+SHA1-Digest-Manifest: 8OEeQz1jAJqH/kqUXEC8rgpN/RM=
+Created-By: 1.6.0 (IBM Corporation)
+SHA1-Digest-Manifest-Main-Attributes: WVHylkzxloT8HN9XuibJwtK+GOI=
+
+Name: org/eclipse/swt/internal/mozilla/nsIWebProgressListener.java
+SHA1-Digest: IEjMGI2vHsnZxS5o7XLAsERE0CQ=
+
+Name: org/eclipse/swt/internal/webkit/IWebError.java
+SHA1-Digest: Mp4lF54WxqjZT5ScY9/6PHq1AfU=
+
+Name: org/eclipse/swt/graphics/Image.java
+SHA1-Digest: DxEAVkMNAncJyKIsQTt+NLnUvK4=
+
+Name: org/eclipse/swt/accessibility/Accessible.java
+SHA1-Digest: /s+kFWBAXdGRfJAfAnpzph6aCWM=
+
+Name: org/eclipse/swt/events/MouseMoveListener.java
+SHA1-Digest: bQ4s5vsG4qV5DHAPF78NkhI0g6s=
+
+Name: org/eclipse/swt/internal/ole/win32/IConnectionPointContainer.jav
+ a
+SHA1-Digest: AcqwiJaja8wnXVzSC9TZCpaKyKQ=
+
+Name: org/eclipse/swt/internal/ole/win32/IFont.java
+SHA1-Digest: VEuD1x7CFO50M1xJzErUOFm6c5Y=
+
+Name: org/eclipse/swt/dnd/OleEnumFORMATETC.java
+SHA1-Digest: jmBwfYRTL902Jia0CENmD+HbUrw=
+
+Name: org/eclipse/swt/internal/ImageList.java
+SHA1-Digest: icmRbr+3GPLCYy7Vh7IkncckFN8=
+
+Name: org/eclipse/swt/internal/mozilla/nsIHelperAppLauncher_1_8.java
+SHA1-Digest: Ypclczyatn+0VMwx184pxb5jeRM=
+
+Name: org/eclipse/swt/dnd/DropTargetEffect.java
+SHA1-Digest: zMQTol0m82rtwWIcKGhQ2byu2hs=
+
+Name: org/eclipse/swt/custom/TableCursor.java
+SHA1-Digest: lghsvdpKDjgMShm63quBvmPJHNc=
+
+Name: org/eclipse/swt/internal/win32/TCITEM.java
+SHA1-Digest: VpLJScJi/exR67EkpwMa12MTxvk=
+
+Name: org/eclipse/swt/internal/image/PNGFileFormat.java
+SHA1-Digest: BHM+sqciM3sl3OjzhhylmsVsG9U=
+
+Name: org/eclipse/swt/internal/ole/win32/IOleInPlaceObject.java
+SHA1-Digest: hfYvQmYS/iUZk0hdPU4k2g3Cvl4=
+
+Name: org/eclipse/swt/internal/win32/OPENFILENAME.java
+SHA1-Digest: eqycrkhmtE2isLRDI7eS92QVy1o=
+
+Name: org/eclipse/swt/internal/win32/HDITEM.java
+SHA1-Digest: Ft7rKXDBYkur3GWP4cKcQsoZrlY=
+
+Name: org/eclipse/swt/internal/image/JPEGArithmeticConditioningTable.j
+ ava
+SHA1-Digest: KDiS4S5OFU8zoG/Ce7muNUw9vzQ=
+
+Name: org/eclipse/swt/events/ShellListener.java
+SHA1-Digest: 1g4esdasSNnqc9AQseCVmGTjOiA=
+
+Name: org/eclipse/swt/internal/win32/NMTTDISPINFOA.java
+SHA1-Digest: yGuxFkzXMTGOH4K5A8S8+UIz8YM=
+
+Name: org/eclipse/swt/browser/WebKit.java
+SHA1-Digest: sjorwrl0QqM/whIlP2X/NEtgyJE=
+
+Name: org/eclipse/swt/internal/webkit/JSClassDefinition.java
+SHA1-Digest: ElandPovdy1IP/J0/lIjsFWmCxA=
+
+Name: org/eclipse/swt/internal/win32/SHELLEXECUTEINFO.java
+SHA1-Digest: nziKnH8apOKffToCB+0io/V1NPE=
+
+Name: org/eclipse/swt/internal/image/JPEGScanHeader.java
+SHA1-Digest: p8+ewC9Aj0DwMntP6n/7MJcwCJE=
+
+Name: org/eclipse/swt/custom/CaretEvent.java
+SHA1-Digest: V9iAqZk98EGsV67VnUhPmiqhK6g=
+
+Name: org/eclipse/swt/events/SelectionListener.java
+SHA1-Digest: fzo3FezLB30Aj0jQUskf0ilXzdc=
+
+Name: org/eclipse/swt/internal/mozilla/nsIWebProgress.java
+SHA1-Digest: Zp37xbR5V1Z2O4Gh80NVOfmRsuk=
+
+Name: org/eclipse/swt/internal/ole/win32/IUnknown.java
+SHA1-Digest: wvFSwaopl6ac9Hnp9xb92n1Njaw=
+
+Name: org/eclipse/swt/printing/PrinterData.java
+SHA1-Digest: x+7dm1xFKb6+ttcv7XUHt47bIaM=
+
+Name: org/eclipse/swt/graphics/RGB.java
+SHA1-Digest: hDZ6eYxHzi3zGkfjgb87qi11qKc=
+
+Name: org/eclipse/swt/internal/ole/win32/IServiceProvider.java
+SHA1-Digest: ITSPEAb5HE3BvLC+TTG09SdBqQI=
+
+Name: org/eclipse/swt/internal/image/JPEGSegment.java
+SHA1-Digest: 0V/YZrPHwqHzByIIKZL6nkkjCVE=
+
+Name: org/eclipse/swt/custom/ViewForm.java
+SHA1-Digest: 82WLNB8o+Hf6VWuhLZOucla2GTU=
+
+Name: org/eclipse/swt/internal/mozilla/nsIWebBrowserChrome.java
+SHA1-Digest: qEs/Xu5TL+j13X8REctCnBTJFDw=
+
+Name: gdip_stats.h
+SHA1-Digest: VpLeuK64sLf5s4t7artLpasWoBo=
+
+Name: org/eclipse/swt/widgets/Menu.java
+SHA1-Digest: Se5dgiavqlgFsbDdyih2rWWRKIM=
+
+Name: org/eclipse/swt/widgets/Caret.java
+SHA1-Digest: 4Dv15NuMZnlsZ8zDqmcPz8DjYiQ=
+
+Name: org/eclipse/swt/custom/TableEditor.java
+SHA1-Digest: +uE9UTd4b+034bxBUjF5Og7sxzg=
+
+Name: org/eclipse/swt/events/ShellEvent.java
+SHA1-Digest: HiMopwKnzPcBUTlA32gAxQtmROY=
+
+Name: org/eclipse/swt/internal/win32/OUTLINETEXTMETRICW.java
+SHA1-Digest: 18r3rliDFfw62//KUsfujj8yIkU=
+
+Name: org/eclipse/swt/internal/mozilla/nsIURI.java
+SHA1-Digest: 7D+Yq7ZyMXBpinj2JdsxzY2NRkI=
+
+Name: org/eclipse/swt/internal/Callback.java
+SHA1-Digest: KlmKn1tM3ubwzXAwQOF+rcOTfHs=
+
+Name: org/eclipse/swt/dnd/DragSourceEvent.java
+SHA1-Digest: LsCIU6KwoSD668Ouw9F3X8qVsi8=
+
+Name: org/eclipse/swt/internal/win32/HDHITTESTINFO.java
+SHA1-Digest: w/fDNqra0HKnnpaD7e+gA9vgq2M=
+
+Name: org/eclipse/swt/layout/GridLayout.java
+SHA1-Digest: bS9HrIab7vu1F1+37EIO0JwY7W0=
+
+Name: org/eclipse/swt/internal/theme/ToolItemDrawData.java
+SHA1-Digest: KiY/fJpZ1pTAPSPDULRJq6iYEK0=
+
+Name: org/eclipse/swt/graphics/ImageLoaderEvent.java
+SHA1-Digest: xdsyGWreWdlJdEBn790Xj+J7S78=
+
+Name: org/eclipse/swt/browser/TitleEvent.java
+SHA1-Digest: HEsUQgwfmoJ9MD4Hs0Jeks6Nhrg=
+
+Name: org/eclipse/swt/events/FocusAdapter.java
+SHA1-Digest: ckMI56VCSNafajkZzlbj0VmqxcU=
+
+Name: org/eclipse/swt/internal/mozilla/init/XPCOMInit.java
+SHA1-Digest: qqI0qY4LZtXOBdsBh1Y7EJas0MQ=
+
+Name: org/eclipse/swt/internal/win32/SIZE.java
+SHA1-Digest: mHn4dhmT2uuvT2If2xr7gRYY3Jc=
+
+Name: org/eclipse/swt/browser/WebUIDelegate.java
+SHA1-Digest: 1KCi4A1adx7ImlIOEo+Ps9wpUTI=
+
+Name: org/eclipse/swt/internal/win32/WINDOWPOS.java
+SHA1-Digest: AdFcAPd3v5tZZtUx7EDar8ayn5s=
+
+Name: org/eclipse/swt/custom/CTabFolderRenderer.java
+SHA1-Digest: bSIfqPJddNIYXoql2x5Di2R5xfY=
+
+Name: xpcom_structs.h
+SHA1-Digest: /Ot32famBdWtSi2g9les4z+PgMA=
+
+Name: swt.c
+SHA1-Digest: hwIH38+fO7jaFqWR018RTNB3q/k=
+
+Name: org/eclipse/swt/widgets/Canvas.java
+SHA1-Digest: +Z9LtGu4yfTGbm46kYiLxd4dOr0=
+
+Name: org/eclipse/swt/internal/theme/GroupDrawData.java
+SHA1-Digest: jIu+S5t0ALvc7xxV1I+n8/18Ij4=
+
+Name: swt.h
+SHA1-Digest: QElGqgWKWroPHeAnbR+ukFTBLyI=
+
+Name: webkit_win32_custom.h
+SHA1-Digest: 1M3UHdEwE4PyyP0U3b1ihoa0Trk=
+
+Name: org/eclipse/swt/internal/ole/win32/IOleControl.java
+SHA1-Digest: IlX6BvTN8n6B8TTh1NAxiZuGS3E=
+
+Name: org/eclipse/swt/internal/mozilla/nsIWebNavigation.java
+SHA1-Digest: jcIGd6CmBknQW8eRE9n0+Eo8Sqg=
+
+Name: org/eclipse/swt/internal/win32/NOTIFYICONDATAA.java
+SHA1-Digest: gK8fTifIPZfR5kRHhdIiZfG3n4A=
+
+Name: org/eclipse/swt/dnd/DropTargetListener.java
+SHA1-Digest: xsddYvWrdK1K4EmA2QO6FcRRxsY=
+
+Name: org/eclipse/swt/events/MouseEvent.java
+SHA1-Digest: d2Sv+63MyxT/5hGAQKXNAtk0jk4=
+
+Name: org/eclipse/swt/internal/mozilla/nsIDOMKeyEvent.java
+SHA1-Digest: 38M5l1AnzrY5ugmcsCc7wsXkwCk=
+
+Name: org/eclipse/swt/internal/image/PngChunk.java
+SHA1-Digest: r1f+1aGqwIgwqbLPFlKwOIoMtyA=
+
+Name: org/eclipse/swt/accessibility/AccessibleHyperlinkListener.java
+SHA1-Digest: X/0r1HXCfg6DMwfEfxmwdEP5V8s=
+
+Name: org/eclipse/swt/internal/win32/NMREBARCHEVRON.java
+SHA1-Digest: 2ml/IH8YuHDmXeuoaJUnNvjL/Do=
+
+Name: org/eclipse/swt/internal/mozilla/nsIChannel.java
+SHA1-Digest: qFCGrZEzRMm9i8eohWQ5d+RkxXQ=
+
+Name: org/eclipse/swt/internal/image/PngHuffmanTables.java
+SHA1-Digest: zktWjphtkNmJFqWr91mNthconSY=
+
+Name: org/eclipse/swt/internal/ole/win32/IOleDocumentView.java
+SHA1-Digest: ra+nJOEsG/b8Wu4PKV+wkJYuJqE=
+
+Name: org/eclipse/swt/internal/mozilla/nsIHelperAppLauncher_1_9.java
+SHA1-Digest: Z9Rpidk4J8AEqIre3ljq/iTiqFw=
+
+Name: org/eclipse/swt/custom/ScrolledCompositeLayout.java
+SHA1-Digest: MLjJ3UBcsRAwwATURmnEYNXKTQE=
+
+Name: org/eclipse/swt/events/GestureListener.java
+SHA1-Digest: bpVYXxCSh2lV0n8ID75Dx2EjZSQ=
+
+Name: org/eclipse/swt/internal/win32/OSVERSIONINFOA.java
+SHA1-Digest: lhpMCvM5Z/mbAdDuByhcs+u8P6U=
+
+Name: org/eclipse/swt/internal/image/JPEGFileFormat.java
+SHA1-Digest: /33yliMHMOt2EtUX+UcYjKIEd9o=
+
+Name: org/eclipse/swt/events/PaintListener.java
+SHA1-Digest: qI2igSVnh9DDnv51aLMVMYP85b0=
+
+Name: org/eclipse/swt/internal/ole/win32/IStorage.java
+SHA1-Digest: +S4peyJAAP9dhY3F9Akh+WoB5Vk=
+
+Name: webkit_win32_custom.cpp
+SHA1-Digest: NV5HVK2AvSY0rVC1+IAYFrJ+3+w=
+
+Name: org/eclipse/swt/browser/CloseWindowListener.java
+SHA1-Digest: EyYffGDUva71l0ZLkqhDMV+CR7o=
+
+Name: org/eclipse/swt/graphics/PathData.java
+SHA1-Digest: UfHR7HlG5CaBKVD9nkG/2/nN2/8=
+
+Name: wgl_structs.c
+SHA1-Digest: FpX3XnaDx0Br5Mb0GKhAfGi0FDY=
+
+Name: org/eclipse/swt/internal/ole/win32/IProvideClassInfo2.java
+SHA1-Digest: MRq2bNtaOnxyZefRXIzw86MXXJE=
+
+Name: org/eclipse/swt/events/KeyEvent.java
+SHA1-Digest: FqQ04l9r/OjpoOsiY39VBzp20ao=
+
+Name: org/eclipse/swt/custom/SashFormLayout.java
+SHA1-Digest: HuFN1XzmUeVlptJSAdZhnKh5gE4=
+
+Name: org/eclipse/swt/internal/win32/POINT.java
+SHA1-Digest: 8j4M7C5nP93NjtUpAeA+ri6DgvQ=
+
+Name: org/eclipse/swt/custom/AnimatedProgress.java
+SHA1-Digest: oGV+UTGb02a3r9TN5Wjo5kEuH9g=
+
+Name: wgl_structs.h
+SHA1-Digest: Q7oMKVow/tEwUte6WByzdgY1HeY=
+
+Name: c_structs.c
+SHA1-Digest: n601YpHWfhXZbbrwr1W7vtYUuh4=
+
+Name: org/eclipse/swt/internal/win32/TCHAR.java
+SHA1-Digest: T5nRznRcHiJo2dKB2z3t3Fbxcyw=
+
+Name: c_structs.h
+SHA1-Digest: wfezwG6N3C6ipD9FqjJ4B6mDiFo=
+
+Name: org/eclipse/swt/accessibility/AccessibleActionListener.java
+SHA1-Digest: heAx+Y8y7F/xUZVRIU1OGz9a9CU=
+
+Name: org/eclipse/swt/internal/win32/REBARBANDINFO.java
+SHA1-Digest: UC7irtfK7FBuj+Zv6mAm/u4kXQ8=
+
+Name: org/eclipse/swt/browser/FilePicker_1_8.java
+SHA1-Digest: L6Gn94Ht1PX2tPdtc7wftJu2i9o=
+
+Name: org/eclipse/swt/widgets/Tray.java
+SHA1-Digest: i2Sw0WvN+xr7sYpUPJQd5FuCD9M=
+
+Name: org/eclipse/swt/internal/mozilla/nsIFile.java
+SHA1-Digest: w2QbIdIqWw6FQAr8XlXR7kOfRdA=
+
+Name: org/eclipse/swt/internal/mozilla/nsICertOverrideService.java
+SHA1-Digest: zjCEcjNuF0NxD/uogPXgsl3y9Gg=
+
+Name: org/eclipse/swt/internal/win32/BITMAPINFOHEADER.java
+SHA1-Digest: 9VNgQjhkq5tE6GHVGo6CKROcbxI=
+
+Name: org/eclipse/swt/internal/image/JPEGHuffmanTable.java
+SHA1-Digest: CpN+jMrTUa/RpEASCWes8nswmk0=
+
+Name: org/eclipse/swt/internal/win32/NONCLIENTMETRICSW.java
+SHA1-Digest: pZwaC8UosWljP3NWVxVNtHTRGiw=
+
+Name: callback.c
+SHA1-Digest: H2wurfbvMulMD6XZxtX1bjBBCfk=
+
+Name: callback.h
+SHA1-Digest: dGxa+YdBzTJn6Od+uovTfiJUky4=
+
+Name: org/eclipse/swt/internal/win32/TEXTMETRICA.java
+SHA1-Digest: GJdEY2+QBTEiysJcViD3k7cTuYo=
+
+Name: org/eclipse/swt/internal/webkit/IWebFramePrivate.java
+SHA1-Digest: HiCH6Re1kvv9PHGMgBLz4yMrVZw=
+
+Name: org/eclipse/swt/graphics/TextLayout.java
+SHA1-Digest: 6a99n1OiNmWQaZ4LcWWOWfhIVV8=
+
+Name: org/eclipse/swt/internal/mozilla/nsIURIContentListener.java
+SHA1-Digest: TiH0Kb/1e/ph2WSrHFv36W1CLNs=
+
+Name: org/eclipse/swt/internal/ole/win32/IPersist.java
+SHA1-Digest: CHYUtkeS49iV+qOwmPFZlipl6cY=
+
+Name: org/eclipse/swt/internal/mozilla/nsIFactory.java
+SHA1-Digest: uL0ma9X657g/xytfIrl8me0zBwU=
+
+Name: org/eclipse/swt/internal/mozilla/nsICookieManager.java
+SHA1-Digest: 3AR6mFTRJDSZgXNIzXQ13n37xt4=
+
+Name: org/eclipse/swt/internal/ole/win32/GUID.java
+SHA1-Digest: x5js5jLxa8E0Y+sg2Bpuck2rXc0=
+
+Name: org/eclipse/swt/browser/HelperAppLauncherDialog.java
+SHA1-Digest: iUTGdgtMECErkbLYg+TXnf+V9Yo=
+
+Name: org/eclipse/swt/events/PaintEvent.java
+SHA1-Digest: O8bu+wmsyVR0bcSSkQO5tAdATyU=
+
+Name: os_structs.c
+SHA1-Digest: N/gVzDMS/k+IGs+6LETymaNeVWA=
+
+Name: org/eclipse/swt/internal/win32/NMLISTVIEW.java
+SHA1-Digest: 0qbom6xx18waTty43nnq4HDjWb0=
+
+Name: os_structs.h
+SHA1-Digest: FfI8NZY98p2mCKMxhV7qJxBB74E=
+
+Name: org/eclipse/swt/internal/webkit/IWebErrorPrivate.java
+SHA1-Digest: TeYFp1+PvQJ88Phvncu/rdMC5+0=
+
+Name: org/eclipse/swt/accessibility/AccessibleValueEvent.java
+SHA1-Digest: yIoA60Ve4/8j+f4fgSOlT1HF6lI=
+
+Name: org/eclipse/swt/internal/BidiUtil.java
+SHA1-Digest: DLVnu7WzhYKJ3loCGhtZZUBE3gk=
+
+Name: org/eclipse/swt/internal/mozilla/nsIHelperAppLauncher.java
+SHA1-Digest: n8ji0MRjt6C7l3v5Xc/XLgrV1zg=
+
+Name: org/eclipse/swt/events/ControlListener.java
+SHA1-Digest: fQDy9jzlQ2SdDrjv/IORwDYIYXo=
+
+Name: org/eclipse/swt/internal/mozilla/nsIIOService.java
+SHA1-Digest: mZU7hNSkz5+Hid2sEl7fL0O60Bw=
+
+Name: org/eclipse/swt/internal/win32/NMCUSTOMDRAW.java
+SHA1-Digest: 69C+4jrFnHion7yUOUPMSkBsdIM=
+
+Name: org/eclipse/swt/events/SelectionAdapter.java
+SHA1-Digest: 5C4OUryFrbJtGnpmKLYoSjVCxoM=
+
+Name: org/eclipse/swt/internal/ole/win32/IDragSourceHelper2.java
+SHA1-Digest: bGZQqf5dXu1oJD9zCdW7irAEKoI=
+
+Name: org/eclipse/swt/internal/image/GIFFileFormat.java
+SHA1-Digest: Z4aRjCyAPQSEQMzxDSpwluCPjeo=
+
+Name: org/eclipse/swt/internal/mozilla/nsIWritableVariant.java
+SHA1-Digest: Oq06Ruea8Jo9pSrF3qJDcMX4igo=
+
+Name: org/eclipse/swt/internal/Library.java
+SHA1-Digest: LgugoOE7RoTys/xR/23YXhVA5ws=
+
+Name: org/eclipse/swt/internal/mozilla/nsIScriptSecurityManager_1_9_1.
+ java
+SHA1-Digest: kr4UCHRAArB1YDEawdT46XWQG10=
+
+Name: org/eclipse/swt/custom/StyledTextContent.java
+SHA1-Digest: Na8upy1nCwBHUiJorNFg/eFvuoA=
+
+Name: org/eclipse/swt/internal/ole/win32/VARIANT.java
+SHA1-Digest: Z4GSms8/KpZPVDApGTCPM3i/Fnk=
+
+Name: org/eclipse/swt/internal/win32/SCRIPT_FONTPROPERTIES.java
+SHA1-Digest: OZXilP0YYXEBsQmzcj1ysl+X1ak=
+
+Name: org/eclipse/swt/widgets/Text.java
+SHA1-Digest: J7GymaCMuiAGqjElUAWlBHzZbdo=
+
+Name: org/eclipse/swt/internal/win32/OSVERSIONINFOEXW.java
+SHA1-Digest: SH585+MYvsMT0CX3tVL05TQ3A2w=
+
+Name: org/eclipse/swt/internal/ole/win32/IOleLink.java
+SHA1-Digest: JA/jmuBHuX2PuoOhv2auuZx41+4=
+
+Name: org/eclipse/swt/internal/win32/CRYPT_BIT_BLOB.java
+SHA1-Digest: iNqJOIG7B8jljtnPxetFoB9JjlI=
+
+Name: org/eclipse/swt/internal/win32/MINMAXINFO.java
+SHA1-Digest: vyjQON8jY/LicTg+sVpP4vuuySk=
+
+Name: org/eclipse/swt/internal/win32/MONITORINFO.java
+SHA1-Digest: VkVKjD459Jb01XWKRrMrpbgrET0=
+
+Name: org/eclipse/swt/graphics/PaletteData.java
+SHA1-Digest: auyULUB5e7v8rrgm77F4+ZKQthc=
+
+Name: org/eclipse/swt/browser/FilePickerFactory_1_8.java
+SHA1-Digest: aZyhmeESSbC2rv4+j1E+AucFYhA=
+
+Name: org/eclipse/swt/internal/mozilla/nsIMIMEInputStream.java
+SHA1-Digest: x1wh8Fi968k8gUClq85AwM40z8E=
+
+Name: org/eclipse/swt/layout/RowLayout.java
+SHA1-Digest: rFiWoqU0IyexFDTJPb5p2yNDeNM=
+
+Name: org/eclipse/swt/ole/win32/OleEventTable.java
+SHA1-Digest: 0ILzxoAqOQnPG/IoPdHTHoLWK5A=
+
+Name: org/eclipse/swt/accessibility/ACC.java
+SHA1-Digest: A7XKczB+EHhamMoEpA46R0d4gwQ=
+
+Name: org/eclipse/swt/internal/theme/ScrollBarDrawData.java
+SHA1-Digest: dDtSvfKwbnj48eeBP5UOA5oIg7Q=
+
+Name: org/eclipse/swt/internal/SWTEventObject.java
+SHA1-Digest: iyaT193xvfks94S+TveTKFEajVQ=
+
+Name: org/eclipse/swt/internal/opengl/win32/WGL.java
+SHA1-Digest: VtvYXqbvtIUzAwerNIyOG2NLbgA=
+
+Name: org/eclipse/swt/internal/win32/LOGFONTA.java
+SHA1-Digest: A6JB/vH/7kcxJNL3lAoDzf0RLiA=
+
+Name: org/eclipse/swt/internal/win32/NMTBHOTITEM.java
+SHA1-Digest: 9rqkRQ7qITR8ObWagQCw4htpFHA=
+
+Name: org/eclipse/swt/internal/win32/GESTURECONFIG.java
+SHA1-Digest: u9sYJQ1HeqmjukApl+nI4yqGsZc=
+
+Name: org/eclipse/swt/internal/image/PngInputStream.java
+SHA1-Digest: NZcYo48/qmoa5kMToNNibHfhkZA=
+
+Name: org/eclipse/swt/dnd/ByteArrayTransfer.java
+SHA1-Digest: 5ry758+9lUzjKxCi6TCjaAod0jI=
+
+Name: org/eclipse/swt/internal/win32/LRESULT.java
+SHA1-Digest: Pr5KXJ9tK6S5H6g+Jj6EO0wq9Yc=
+
+Name: org/eclipse/swt/SWTException.java
+SHA1-Digest: yK4pwvgLReCV+vL+TXYGMFM1Qow=
+
+Name: org/eclipse/swt/widgets/Tree.java
+SHA1-Digest: 3fbayxZUEqAo46YQ7qS8dzlCjW4=
+
+Name: org/eclipse/swt/custom/CBannerLayout.java
+SHA1-Digest: nnHYK9BSSUDwyWGi571sABrJ8PY=
+
+Name: org/eclipse/swt/browser/ProgressAdapter.java
+SHA1-Digest: tvCaB4CHIUkmkdFk1DaPFHzntbA=
+
+Name: org/eclipse/swt/internal/webkit/IWebURLAuthenticationChallengeSe
+ nder.java
+SHA1-Digest: 0cTs+rwZXTiUdvwlxj9hVvLaM8s=
+
+Name: org/eclipse/swt/browser/BrowserFunction.java
+SHA1-Digest: myb1aCX2maSmYNlR3iZmuA3OIkQ=
+
+Name: org/eclipse/swt/widgets/MenuItem.java
+SHA1-Digest: A/52p8jVZn2DZ9K++8P2fyr8X4w=
+
+Name: org/eclipse/swt/internal/ole/win32/DISPPARAMS.java
+SHA1-Digest: 5VAGy+FMbscI+RukhM/4c3Y6bGU=
+
+Name: org/eclipse/swt/custom/StyledTextDropTargetEffect.java
+SHA1-Digest: NgJVNv5pmGiaR9xUGzE0F64lBLQ=
+
+Name: c.c
+SHA1-Digest: CfcPB/LF1F5w8HMDCmQrjRyriF4=
+
+Name: org/eclipse/swt/widgets/ProgressBar.java
+SHA1-Digest: EIEkY3c2UTWLNTSXvi7wLT9vCG0=
+
+Name: c.h
+SHA1-Digest: +B00noE9fih7PulcRZmGt9m71BM=
+
+Name: org/eclipse/swt/internal/Compatibility.java
+SHA1-Digest: OtEMYp4IJ6flCy+590ZxIJZ4OEk=
+
+Name: org/eclipse/swt/widgets/TableItem.java
+SHA1-Digest: uS58oEe8JO6aJsVJHo91pMvaTK4=
+
+Name: org/eclipse/swt/internal/win32/MENUBARINFO.java
+SHA1-Digest: QBLs1Ti7iXK9kWxy2JEclLf7CQI=
+
+Name: org/eclipse/swt/browser/WebBrowser.java
+SHA1-Digest: wnPGNajF4rzo1/a+YG1Bhq1ZXk8=
+
+Name: org/eclipse/swt/internal/mozilla/XPCOM.java
+SHA1-Digest: F4iX6a5YlUSnVHuBjJwe4oXGHjw=
+
+Name: org/eclipse/swt/layout/GridData.java
+SHA1-Digest: m1b+Py2e8+x9AOeiBpQKibZ3zG0=
+
+Name: org/eclipse/swt/internal/mozilla/nsID.java
+SHA1-Digest: stuVQHcNcpuKvewbCnv1c9EiOTs=
+
+Name: org/eclipse/swt/internal/win32/LOGFONT.java
+SHA1-Digest: 3fgsGJwr0oErIsNa24SNhBA9WFg=
+
+Name: org/eclipse/swt/internal/win32/TVSORTCB.java
+SHA1-Digest: /tdL6yiYAOTI/3G1yoaSB41kdeE=
+
+Name: org/eclipse/swt/internal/win32/NMREBARCHILDSIZE.java
+SHA1-Digest: v3hRpMyI/z40jPc+4aNZqqIaCyU=
+
+Name: org/eclipse/swt/internal/image/TIFFRandomFileAccess.java
+SHA1-Digest: 9WJ1iNVVlt/Ba7gZ0YfLJQxC/Oc=
+
+Name: org/eclipse/swt/internal/webkit/IWebIBActions.java
+SHA1-Digest: lmiABZ3qHzmsLG7/EQYviUBoYIQ=
+
+Name: make_common.mak
+SHA1-Digest: h/vBhoARcQKIbqjLgNWBTc6mBis=
+
+Name: org/eclipse/swt/internal/ole/win32/IDispatch.java
+SHA1-Digest: UDofLMA2bF8hBC8LJfHJLCEdJp8=
+
+Name: org/eclipse/swt/internal/mozilla/nsIMemory.java
+SHA1-Digest: ETR0mYVszHpy7pWkOofhRN4eaeY=
+
+Name: org/eclipse/swt/internal/ole/win32/OLEINPLACEFRAMEINFO.java
+SHA1-Digest: ENheKCzDUrE3LQ3KJRwvuFVm+sA=
+
+Name: org/eclipse/swt/browser/WebSite.java
+SHA1-Digest: hQadkeETq6wMpChh+wCAsNiJj2c=
+
+Name: org/eclipse/swt/custom/StyledTextListener.java
+SHA1-Digest: 6BufoUM70I3fh0I306/4AZ36TMw=
+
+Name: org/eclipse/swt/internal/win32/BUTTON_IMAGELIST.java
+SHA1-Digest: M79ReZquB5+KFnEcMuCXVv4I46E=
+
+Name: org/eclipse/swt/browser/PromptService2.java
+SHA1-Digest: lbCDaFpq9AB4xDRsxQdRqBZMelo=
+
+Name: org/eclipse/swt/ole/win32/Variant.java
+SHA1-Digest: vf9AHn49WcTBlEOdVykGO6zi8+E=
+
+Name: org/eclipse/swt/browser/IE.java
+SHA1-Digest: eNtGgQeTNRSKybby8eu4Djdrw4I=
+
+Name: org/eclipse/swt/internal/ole/win32/IOleDocument.java
+SHA1-Digest: zuytXbwvuwpdblI1mIm4mfUMqLs=
+
+Name: org/eclipse/swt/internal/image/PngLzBlockReader.java
+SHA1-Digest: KVr4Vd7hCzYINnIkuBWk59r/etQ=
+
+Name: org/eclipse/swt/internal/mozilla/nsIDirectoryService.java
+SHA1-Digest: +fb2zqoEDuLQZ96DurnwIdUNTv4=
+
+Name: org/eclipse/swt/internal/ole/win32/OLECMD.java
+SHA1-Digest: 3N0HjhV/3SaFAf+Jo7Ixq9ItyEc=
+
+Name: org/eclipse/swt/internal/win32/SHRGINFO.java
+SHA1-Digest: J2lbboWAJUNP9c2Lpb/K+14R1y4=
+
+Name: org/eclipse/swt/custom/LineBackgroundEvent.java
+SHA1-Digest: +hTWYb6PBkMKz1D2r4S4N4PG1y0=
+
+Name: org/eclipse/swt/internal/win32/NMHDR.java
+SHA1-Digest: Kpt+CI7bHRMbzPV4p4XxuB7z/A4=
+
+Name: org/eclipse/swt/internal/theme/ExpanderDrawData.java
+SHA1-Digest: iYoQzOYHtezRWFE8fPxv418+V/I=
+
+Name: gdip_structs.cpp
+SHA1-Digest: qPv7Hfho7Sz8NWH29LhSS9wTQ+s=
+
+Name: gdip_structs.h
+SHA1-Digest: F3h2FvGdjtpTwOtIAiIRKANGCgU=
+
+Name: org/eclipse/swt/internal/win32/SCRIPT_STATE.java
+SHA1-Digest: 4wQxXwdAc2GPoH18sXg5RcI46io=
+
+Name: org/eclipse/swt/internal/webkit/IWebCookieManager.java
+SHA1-Digest: lY2cfBVvjUvTUXno5BNxcy+OaSM=
+
+Name: org/eclipse/swt/internal/mozilla/nsIWebNavigationInfo.java
+SHA1-Digest: ruvlZ/q0Wq99m6Ic261E2StqPCA=
+
+Name: org/eclipse/swt/widgets/Display.java
+SHA1-Digest: fp7M5ql1CYZUHQNPS5NsPWrHzqA=
+
+Name: gdip_custom.cpp
+SHA1-Digest: CgPXZOe+B10cwYtkiFdpd1h5F3Y=
+
+Name: org/eclipse/swt/internal/mozilla/nsIDOMWindow.java
+SHA1-Digest: M4tZiUiu8J832sQ2e59Hr9hkQUY=
+
+Name: org/eclipse/swt/custom/CLayoutData.java
+SHA1-Digest: eoDu3b7LjckaTeCgK55Zmnt99rE=
+
+Name: org/eclipse/swt/internal/image/PngEncoder.java
+SHA1-Digest: Py4EEaMRnLK0O/qVZU1iWGVA1Xw=
+
+Name: org/eclipse/swt/custom/LineStyleListener.java
+SHA1-Digest: 7YVyhVizJkUqytPDLcbKtIybEAI=
+
+Name: org/eclipse/swt/dnd/TableDropTargetEffect.java
+SHA1-Digest: NYhBOX7HeY0o31E2JyL56i3wsaU=
+
+Name: org/eclipse/swt/events/TypedEvent.java
+SHA1-Digest: OpLiMzOA+i/BNdLSRKh7HqkKOmk=
+
+Name: org/eclipse/swt/dnd/DropTargetEvent.java
+SHA1-Digest: hnCadOoP6HmIR8LjmTBFHgC31bA=
+
+Name: org/eclipse/swt/internal/win32/EXTLOGFONTW.java
+SHA1-Digest: k5Cg0Kb9iaW6WxJJ9GboS+o1bwI=
+
+Name: org/eclipse/swt/custom/StyledText.java
+SHA1-Digest: lDuRdirPDoQLw9XRbmhZ8oWirIo=
+
+Name: com_custom.c
+SHA1-Digest: k7vA0672Shs4O9nC1A1mO+vL/24=
+
+Name: org/eclipse/swt/internal/webkit/WebKit_win32.java
+SHA1-Digest: 3x65rOsTAQOR1h67cgQvnPz5gZg=
+
+Name: org/eclipse/swt/internal/theme/TabFolderDrawData.java
+SHA1-Digest: ZTOLdPVrvlFZ4TYpiMfCHyiZm+Q=
+
+Name: org/eclipse/swt/internal/mozilla/nsIPrefBranch.java
+SHA1-Digest: QcbRzAiVkX12RNHapoOOSgyaCC8=
+
+Name: com_custom.h
+SHA1-Digest: 5BpDuCXV01vfdUGf8GkGXnqpC0E=
+
+Name: org/eclipse/swt/dnd/TreeDragSourceEffect.java
+SHA1-Digest: Ao6nq7OR4C2geA4stUMaWrGiVxk=
+
+Name: org/eclipse/swt/widgets/TreeItem.java
+SHA1-Digest: V/w6SgPBYLo5i5qPkHtS54DXBS0=
+
+Name: org/eclipse/swt/internal/webkit/IWebURLResponse.java
+SHA1-Digest: Tek9eWcnypVrwVhAbYsTE00KWDk=
+
+Name: org/eclipse/swt/dnd/DragSource.java
+SHA1-Digest: M0ajYzXPICEBVH2+fNGxk7L1QJE=
+
+Name: org/eclipse/swt/widgets/TabItem.java
+SHA1-Digest: ZuG/524i0nfnMGkf2/uz4xf3p78=
+
+Name: org/eclipse/swt/graphics/DeviceData.java
+SHA1-Digest: A5oQehy3Oh9BKvFOy2PwG0YqTu0=
+
+Name: org/eclipse/swt/widgets/TableColumn.java
+SHA1-Digest: Suu9tCQpNWGtgKUbV8YupPzDevA=
+
+Name: org/eclipse/swt/internal/image/JPEGQuantizationTable.java
+SHA1-Digest: IHS3GUjH+0RAxcvUYsv6VgKv4zA=
+
+Name: org/eclipse/swt/internal/mozilla/nsIDOMWindowCollection.java
+SHA1-Digest: lQvdo6biI3seCBotC640EX5ZrOU=
+
+Name: org/eclipse/swt/internal/mozilla/nsIDOMUIEvent.java
+SHA1-Digest: O4JcPbxEbuZDW3x9IfSYmiZH0Tw=
+
+Name: org/eclipse/swt/internal/mozilla/nsICookie.java
+SHA1-Digest: rQl93WkNenipuin/6NY/q4fREU8=
+
+Name: org/eclipse/swt/internal/mozilla/nsEmbedString.java
+SHA1-Digest: GX8e6nkI22yhTAb4NV4dU7K7Bh4=
+
+Name: org/eclipse/swt/internal/ole/win32/IConnectionPoint.java
+SHA1-Digest: 9uBqxfBjc70/P7i3y/ZeAvc+5YI=
+
+Name: org/eclipse/swt/accessibility/AccessibleTextExtendedListener.jav
+ a
+SHA1-Digest: GVCmEeJXEN94jCfa2B8k/HpVFB0=
+
+Name: swt.rc
+SHA1-Digest: v2OjFk9nPa23WyWjOtpFenAITAM=
+
+Name: org/eclipse/swt/custom/TextChangeListener.java
+SHA1-Digest: 4h+Cd+LL8N6tZ2zBak8LjlYO/AE=
+
+Name: org/eclipse/swt/internal/image/PngDeflater.java
+SHA1-Digest: r2sJJkEA9mXPdgX1BMD+lYBSKNc=
+
+Name: org/eclipse/swt/custom/CTabFolder2Listener.java
+SHA1-Digest: ru448JoF54HLocW3MxbQ+E7Z3eg=
+
+Name: org/eclipse/swt/SWTError.java
+SHA1-Digest: 9n4BjYgeE0mnHJws/6f18DNPIIk=
+
+Name: org/eclipse/swt/browser/AuthenticationEvent.java
+SHA1-Digest: 79Xq6Ao4Uku3TjZeotl4zqQaiks=
+
+Name: org/eclipse/swt/browser/OpenWindowListener.java
+SHA1-Digest: tlo/e/m+jLxID8VB5mAiKxNked0=
+
+Name: org/eclipse/swt/internal/win32/NMTTDISPINFO.java
+SHA1-Digest: QpanyjEhJsIYi7IYE3xZG/UAjsI=
+
+Name: org/eclipse/swt/internal/win32/NOTIFYICONDATA.java
+SHA1-Digest: /Ki7QRizCtdtJgeurRFFq+uT0vI=
+
+Name: org/eclipse/swt/graphics/Pattern.java
+SHA1-Digest: sSr7Bjf9+Z4hc4Q7Y014QkHWtwA=
+
+Name: org/eclipse/swt/browser/WebFrameLoadDelegate.java
+SHA1-Digest: jeWjh25cB5kOCV+JGbIhpvqyOKU=
+
+Name: org/eclipse/swt/internal/mozilla/nsIProgressDialog.java
+SHA1-Digest: /SbbdC84ItrK/+7J9VhasHQSRfo=
+
+Name: webkit_win32_structs.h
+SHA1-Digest: BLLeMDKA8BJhSJULfb1AnIM3/pM=
+
+Name: org/eclipse/swt/internal/webkit/IWebURLRequest.java
+SHA1-Digest: 5JC412otO7m5HgT74g8MQv9JFfA=
+
+Name: org/eclipse/swt/events/ControlAdapter.java
+SHA1-Digest: 2m17bNMTLWTnFN2F9c9SlvW1ZC8=
+
+Name: org/eclipse/swt/events/HelpEvent.java
+SHA1-Digest: fnJ4/OgC+q5tyjUN8l4YC6v5950=
+
+Name: org/eclipse/swt/internal/mozilla/nsIComponentManager.java
+SHA1-Digest: d1kwtl0/tqOOmumpaEH6mCRXO1Q=
+
+Name: org/eclipse/swt/internal/win32/DROPFILES.java
+SHA1-Digest: dP9XznF+mD/ftDFF+6wb31IWF1k=
+
+Name: org/eclipse/swt/internal/mozilla/nsIDirectoryServiceProvider2.ja
+ va
+SHA1-Digest: xRLIXNhgKyfQBQwTq3yzEboUCm4=
+
+Name: org/eclipse/swt/internal/ole/win32/IProvideClassInfo.java
+SHA1-Digest: AqRJhFECFAzwr32jSTTYzZKeWQc=
+
+Name: org/eclipse/swt/custom/ScrolledComposite.java
+SHA1-Digest: vme9BWYwOkd+C3nS4zyuq5Wfvdg=
+
+Name: org/eclipse/swt/custom/PaintObjectEvent.java
+SHA1-Digest: Gt+RlAEh8kCe0BwokUXk7MbyltU=
+
+Name: org/eclipse/swt/events/FocusListener.java
+SHA1-Digest: x/w95NZdrH2tcTnT6Qptu5ppK2U=
+
+Name: org/eclipse/swt/internal/mozilla/nsIXPCSecurityManager.java
+SHA1-Digest: lmjVz7cwhhJVMewCBU0+6AzZfGA=
+
+Name: org/eclipse/swt/internal/mozilla/nsIJSContextStack.java
+SHA1-Digest: n92XRbin1mlGG2vebCWA1NtGL5Y=
+
+Name: org/eclipse/swt/internal/theme/RangeDrawData.java
+SHA1-Digest: HdP0cyFe7cmluedM++rMDOWw07U=
+
+Name: org/eclipse/swt/widgets/DirectoryDialog.java
+SHA1-Digest: VXUej6XNDkd0FVazaLNK5He3YT0=
+
+Name: org/eclipse/swt/events/DisposeEvent.java
+SHA1-Digest: geGcw/h5dtBaXDOi/59spgCG5aM=
+
+Name: wgl.c
+SHA1-Digest: wg1qw3m3mFKpd4q/pNSA11COiLU=
+
+Name: wgl.h
+SHA1-Digest: Lb6NBSm8NFQQp3zefj5KOawgiYI=
+
+Name: org/eclipse/swt/widgets/Scrollable.java
+SHA1-Digest: gglg5XgCvQU5oPtuR9nH0AsPWTo=
+
+Name: org/eclipse/swt/internal/win32/GCP_RESULTS.java
+SHA1-Digest: uV1dY7xg6TSCl0YEN6pQwPQwFkQ=
+
+Name: org/eclipse/swt/internal/ole/win32/STATSTG.java
+SHA1-Digest: W8d4fKRadrL/MeJsikRxDh/F3GE=
+
+Name: org/eclipse/swt/browser/WebResourceLoadDelegate.java
+SHA1-Digest: nkr2jUYq8fhwoeLJMlid8fmlo5o=
+
+Name: org/eclipse/swt/browser/ProgressEvent.java
+SHA1-Digest: FD8CuG3DKqli5657ACIHzlJGzVk=
+
+Name: org/eclipse/swt/widgets/Slider.java
+SHA1-Digest: wrnqt2xaFaw8gXEi597mB/GGlNQ=
+
+Name: org/eclipse/swt/internal/mozilla/nsIDOMMouseEvent.java
+SHA1-Digest: arXLjZ4fbvf5GkfRYZ1lYGEKcV4=
+
+Name: xpcom_stats.cpp
+SHA1-Digest: i+ra7eEyj9bCcK2LgMAr9eK0CKE=
+
+Name: org/eclipse/swt/internal/win32/NMLVODSTATECHANGE.java
+SHA1-Digest: TIEK1FbbUtjxJZE4ewjmMyQGAr0=
+
+Name: org/eclipse/swt/browser/HelperAppLauncherDialog_1_9.java
+SHA1-Digest: Nd/wI1NFszMgjx88aj1zNrVohwQ=
+
+Name: org/eclipse/swt/internal/mozilla/nsIRequest.java
+SHA1-Digest: /W87hzGMOXOIuW4sHhjMxSv1ayw=
+
+Name: org/eclipse/swt/internal/win32/FLICK_POINT.java
+SHA1-Digest: LqNC6hKei0sKWXnMOO4J3UIb40c=
+
+Name: org/eclipse/swt/events/TouchEvent.java
+SHA1-Digest: 8W4oSXymlhzJuHEmofpfl4oLVHo=
+
+Name: org/eclipse/swt/internal/win32/SHDRAGIMAGE.java
+SHA1-Digest: sXg1tagrKpOiowAewbghp+pi80w=
+
+Name: org/eclipse/swt/internal/mozilla/nsISecurityCheckedComponent.jav
+ a
+SHA1-Digest: HiqENETesC4pY68plRunILxuLhg=
+
+Name: org/eclipse/swt/internal/win32/COMPOSITIONFORM.java
+SHA1-Digest: t6qEmb/8dqO+SRPAILz/XzkPtFE=
+
+Name: org/eclipse/swt/accessibility/AccessibleTableListener.java
+SHA1-Digest: XYRXlJTWGWAktDPd2LOMJAumD/A=
+
+Name: org/eclipse/swt/internal/win32/OUTLINETEXTMETRICA.java
+SHA1-Digest: DeK33/A+Xrx/gG3HomEbY+Y06hA=
+
+Name: org/eclipse/swt/internal/win32/TBBUTTON.java
+SHA1-Digest: XHX8SLvs4RY2bE1qSdpajA7mFyg=
+
+Name: org/eclipse/swt/widgets/ScrollBar.java
+SHA1-Digest: NKTAdVIyQEsEDYsxCrwtB3NGB+s=
+
+Name: org/eclipse/swt/events/SelectionEvent.java
+SHA1-Digest: 1pJJ1ewp1vs/IYq6WQXPCLSr/UM=
+
+Name: org/eclipse/swt/accessibility/AccessibleEvent.java
+SHA1-Digest: VYFcVuRuLSPdlBdaaPnefZ3Fcb4=
+
+Name: org/eclipse/swt/internal/win32/SCROLLINFO.java
+SHA1-Digest: LINzbOkGlK/Lbh0gY5oNK22MGO8=
+
+Name: org/eclipse/swt/custom/StyledTextEvent.java
+SHA1-Digest: jFKYGHWiXYnmd5GEKTV+DlyBKiw=
+
+Name: org/eclipse/swt/internal/image/PngFileReadState.java
+SHA1-Digest: V+13Asjv0XZIF1L09T3NFksq7Hc=
+
+Name: org/eclipse/swt/internal/win32/SCRIPT_DIGITSUBSTITUTE.java
+SHA1-Digest: hZMHiqlPZnT12xkfRo3VJtSuDDE=
+
+Name: org/eclipse/swt/custom/CTabFolderAdapter.java
+SHA1-Digest: yk0c4sYXAlvGNLCOv8xCbJSZSlI=
+
+Name: org/eclipse/swt/internal/webkit/IWebDocumentRepresentation.java
+SHA1-Digest: cjCMpugAoYLzseQxfdE3aSe+Oag=
+
+Name: org/eclipse/swt/internal/win32/TVITEMEX.java
+SHA1-Digest: 2n54yjtfTTbnFn9nhH5GHrNppaQ=
+
+Name: org/eclipse/swt/graphics/Path.java
+SHA1-Digest: gQyMctCUCdMEQNo44FyGQYsYzsk=
+
+Name: os.c
+SHA1-Digest: Ib0jEpdHASilDp10mZ3uo3Fb6iY=
+
+Name: org/eclipse/swt/internal/win32/INPUT.java
+SHA1-Digest: O7xRmfPDEbHoXo664EFJyWqqK5k=
+
+Name: org/eclipse/swt/internal/win32/EMR.java
+SHA1-Digest: CWETxuaxrU023Se62cll7/1OoB0=
+
+Name: os.h
+SHA1-Digest: J8XhxpYDryQhNp/8JQSxtll/h8U=
+
+Name: org/eclipse/swt/internal/win32/SYSTEMTIME.java
+SHA1-Digest: 7hurdr2LwA4spdiqpi1Wl4nlW5s=
+
+Name: org/eclipse/swt/custom/BidiSegmentListener.java
+SHA1-Digest: jA6NHhGINQVhFYxUMEd+/5V5MjE=
+
+Name: swt_gdip.rc
+SHA1-Digest: OvHaFYm6Y1Eb6LC70G1pJonWCZA=
+
+Name: org/eclipse/swt/ole/win32/OleEvent.java
+SHA1-Digest: QTKYaSXx6OV90O6m97OAE90r43Y=
+
+Name: org/eclipse/swt/internal/win32/KEYBDINPUT.java
+SHA1-Digest: AsuzY7IrP3W00bCOqb+Lvh+0iZY=
+
+Name: org/eclipse/swt/internal/mozilla/nsIServiceManager.java
+SHA1-Digest: +mWeO60J9B2dDnhYUUdbaVYPxCQ=
+
+Name: org/eclipse/swt/widgets/Table.java
+SHA1-Digest: B7QrifMLFzBInYRrMp1PkObMlcg=
+
+Name: org/eclipse/swt/accessibility/AccessibleTableCellListener.java
+SHA1-Digest: kb/GDgTT6V4Wn6fAh2aLrlw9H98=
+
+Name: org/eclipse/swt/internal/ole/win32/LICINFO.java
+SHA1-Digest: Cb6RNzmGQEKIvoP2K0uPxjsnWj0=
+
+Name: org/eclipse/swt/internal/mozilla/nsIDOMSerializer_1_7.java
+SHA1-Digest: nfE8J96WyD2xt9X7hZJiL+fm2bE=
+
+Name: org/eclipse/swt/internal/win32/SAFEARRAY.java
+SHA1-Digest: j4uZAzG1PcOrQf6QfzWQdEEIYe8=
+
+Name: c_stats.c
+SHA1-Digest: L5+IcncIxuE1k/Mtqkhipx9kx8M=
+
+Name: org/eclipse/swt/widgets/Scale.java
+SHA1-Digest: Lh516WLfdQ7kljJsCFdVgkgFSL4=
+
+Name: org/eclipse/swt/browser/DownloadFactory_1_8.java
+SHA1-Digest: 1XJuq5oUWZtpPb38nDrsvNe+mMA=
+
+Name: c_stats.h
+SHA1-Digest: v2n9SfFbecVkF2oTDw5wFeVPCl4=
+
+Name: org/eclipse/swt/graphics/Drawable.java
+SHA1-Digest: lVgp0ByqwB4QJl/jnI4D/4pTjh4=
+
+Name: org/eclipse/swt/internal/win32/NMTOOLBAR.java
+SHA1-Digest: YSimpdLagjD941nVR0WtQCAQkzA=
+
+Name: org/eclipse/swt/widgets/EventTable.java
+SHA1-Digest: XQeGtOkPYBpQZQl4Cu1FAdv9ZxQ=
+
+Name: org/eclipse/swt/browser/LocationAdapter.java
+SHA1-Digest: KJZFIiKVPTWsfbfZmyYijFMDBME=
+
+Name: org/eclipse/swt/internal/image/LZWCodec.java
+SHA1-Digest: rbzBlzIuABXV9kqAARbYA9TOULY=
+
+Name: org/eclipse/swt/internal/webkit/IWebDownload.java
+SHA1-Digest: /2Avf4VdNjiZz9kYhJkXfdXuTRs=
+
+Name: org/eclipse/swt/custom/ViewFormLayout.java
+SHA1-Digest: 2uky26ZIRzKLj2zG/n8R7JF/mvA=
+
+Name: org/eclipse/swt/internal/mozilla/nsIContextMenuListener.java
+SHA1-Digest: ePi+nE8PAAlOEDrqaX8iTi0I3vM=
+
+Name: make_win32.mak
+SHA1-Digest: JzVRcScsRZhAix0SbMCFB4eRaKs=
+
+Name: org/eclipse/swt/events/MenuEvent.java
+SHA1-Digest: lxg+gcJn8vXuJaxuUgT9DeKLvw0=
+
+Name: org/eclipse/swt/internal/webkit/IWebURLProtectionSpace.java
+SHA1-Digest: x+6yyZdL0dueFdaKMv52YBJwV6k=
+
+Name: org/eclipse/swt/accessibility/AccessibleTextAttributeEvent.java
+SHA1-Digest: ZLpkzm0ifbpl5NuHcHMfqj0jnxg=
+
+Name: org/eclipse/swt/internal/win32/NMLVCUSTOMDRAW.java
+SHA1-Digest: iYp+fPfLKVRYT3g/tlfZFOD/dvw=
+
+Name: org/eclipse/swt/internal/ole/win32/IEnumFORMATETC.java
+SHA1-Digest: X9OmZ8ZJYZHDCsIkh6N82Pii024=
+
+Name: org/eclipse/swt/internal/win32/NMTVCUSTOMDRAW.java
+SHA1-Digest: k/17K6AR+x0V/CvBiQUoSEMMmWQ=
+
+Name: org/eclipse/swt/internal/mozilla/nsIPrincipal.java
+SHA1-Digest: c7fN/3eOMbXyAbI7qeBruNRQUwE=
+
+Name: about_files/mpl-v11.txt
+SHA1-Digest: kye+J+SfAeSHDb4yfkmEMHDyA6s=
+
+Name: org/eclipse/swt/widgets/Item.java
+SHA1-Digest: JQg6V6cvAjpAqW1BKTrjcVF2o34=
+
+Name: org/eclipse/swt/internal/win32/DEVMODE.java
+SHA1-Digest: 4xJLDxhupYCtO1CZ0AXDPFr+tUU=
+
+Name: org/eclipse/swt/browser/External.java
+SHA1-Digest: Xa8HdNRBZI7xWQERL1X278BOLnk=
+
+Name: org/eclipse/swt/browser/LocationListener.java
+SHA1-Digest: lMmCVF+74EF9F1G6AcrK+VNS0l8=
+
+Name: org/eclipse/swt/custom/CTabFolderListener.java
+SHA1-Digest: yr5XxX7FlECW4UygEgiRxe6aOy0=
+
+Name: org/eclipse/swt/internal/mozilla/init/GREVersionRange.java
+SHA1-Digest: 3NOEZkKdV2hRCQJ+tEaBFpFTT40=
+
+Name: org/eclipse/swt/browser/MozillaDelegate.java
+SHA1-Digest: Nmtq5su7nppHvQlM+LZaTCFSjTw=
+
+Name: com.c
+SHA1-Digest: tKOv4Z/9ABc56UxBnoN3R7st78Y=
+
+Name: org/eclipse/swt/internal/win32/INITCOMMONCONTROLSEX.java
+SHA1-Digest: rQxd1q5FmnKgpskXPKzWLuDxR0I=
+
+Name: org/eclipse/swt/internal/image/LEDataOutputStream.java
+SHA1-Digest: SRl6sfnbmXV4XILfth6kZFn4XCo=
+
+Name: org/eclipse/swt/internal/mozilla/nsIHelperAppLauncherDialog.java
+SHA1-Digest: tMJeVd7wAvR8lpxYdXZVU42flM8=
+
+Name: com.h
+SHA1-Digest: dz4e79OtA53PuJhxqd05eWmjB7g=
+
+Name: org/eclipse/swt/accessibility/AccessibleTableEvent.java
+SHA1-Digest: MyVplIVJGniTcJDd0U/CPi5AODc=
+
+Name: org/eclipse/swt/internal/win32/MENUITEMINFO.java
+SHA1-Digest: O3xFeIKOI8q7WTHcGEq8bHD90CU=
+
+Name: org/eclipse/swt/internal/win32/EMREXTCREATEFONTINDIRECTW.java
+SHA1-Digest: nAw8vlDolcty7ot3R7bZPAx/Yoo=
+
+Name: org/eclipse/swt/browser/TitleListener.java
+SHA1-Digest: FcYFzNpVMdj6atQo3AcuuxmD4dM=
+
+Name: xpcom_structs.cpp
+SHA1-Digest: 3bLjF3qSNpjEJ5W6ltDSxp3eTx8=
+
+Name: org/eclipse/swt/ole/win32/OleParameterDescription.java
+SHA1-Digest: WF3WtoXLGwHBf2kgaWWpoFxu56A=
+
+Name: org/eclipse/swt/internal/theme/ProgressBarDrawData.java
+SHA1-Digest: wUA95g7cqNnJTkIV4BAE3Gm6HFQ=
+
+Name: org/eclipse/swt/awt/SWT_AWT.java
+SHA1-Digest: 4Uz2AV6plp7CFT7dnpjB0LIP3yg=
+
+Name: org/eclipse/swt/internal/Lock.java
+SHA1-Digest: xrG9A9txpLLODbw49piIp2nSy5I=
+
+Name: org/eclipse/swt/accessibility/AccessibleControlListener.java
+SHA1-Digest: IjEoWQGb26qm2bJQwVzdsZNDNyk=
+
+Name: org/eclipse/swt/dnd/DNDListener.java
+SHA1-Digest: JnO71PJ2tk1/N/s/BCbGLDD0TMU=
+
+Name: org/eclipse/swt/internal/ole/win32/COM.java
+SHA1-Digest: AqZ2m86ByKaUk7Ul3sSyWOlvY7s=
+
+Name: org/eclipse/swt/internal/win32/UDACCEL.java
+SHA1-Digest: MTXEMNoApWLMuZfOFDEQHTYM5QY=
+
+Name: org/eclipse/swt/accessibility/AccessibleTextEvent.java
+SHA1-Digest: 8qGOuQkZkGla8hq1KZY3nlOkUwc=
+
+Name: org/eclipse/swt/internal/win32/NONCLIENTMETRICSA.java
+SHA1-Digest: yeq4IVXdCVhorI9CA9daQ5VwIpw=
+
+Name: org/eclipse/swt/custom/BidiSegmentEvent.java
+SHA1-Digest: XHUdQzWwFUSs9zX4yzOa/3PBQcQ=
+
+Name: org/eclipse/swt/internal/mozilla/nsIWindowCreator2.java
+SHA1-Digest: LloGINEtyL87wMA243OtGam3/CA=
+
+Name: org/eclipse/swt/internal/win32/TOOLINFO.java
+SHA1-Digest: aPKPQ4F/2y6DaMzi6nXK9kdDaME=
+
+Name: org/eclipse/swt/dnd/DragSourceAdapter.java
+SHA1-Digest: rMmZmG/qUveSwK0UcR7YPlJuvWk=
+
+Name: org/eclipse/swt/internal/mozilla/nsIProperties.java
+SHA1-Digest: 9yA08Y/TZpAIzybeORnX8PnUY+o=
+
+Name: org/eclipse/swt/internal/win32/TF_DISPLAYATTRIBUTE.java
+SHA1-Digest: V+TWwZdwr+rBJfH196GFfbj118M=
+
+Name: org/eclipse/swt/browser/PromptService2Factory.java
+SHA1-Digest: w96xtgjabIoVDnAkVskZVGJoc64=
+
+Name: org/eclipse/swt/internal/image/PngPlteChunk.java
+SHA1-Digest: GloK8grKrCpBkL0hVMw0WTsifVA=
+
+Name: org/eclipse/swt/internal/mozilla/nsISupports.java
+SHA1-Digest: GKEW6XwM+B1yzGddHn5kJf3QlhI=
+
+Name: org/eclipse/swt/internal/win32/DRAWITEMSTRUCT.java
+SHA1-Digest: 3WnmqswBBrhtaXuUSQpRylCtrWo=
+
+Name: org/eclipse/swt/custom/StyledTextPrintOptions.java
+SHA1-Digest: AK1Pnwn1i8J7BQezMFp089eTESQ=
+
+Name: webkit_win32.cpp
+SHA1-Digest: olqEGYVKKnUlPgTssVOVQIN7Aoc=
+
+Name: org/eclipse/swt/events/HelpListener.java
+SHA1-Digest: XekP0Y/xvjFRqDRDoZlP3aHFp9Q=
+
+Name: org/eclipse/swt/custom/CTabFolderLayout.java
+SHA1-Digest: 65vPL2Tk8ZeRfJL+brsMGZDYXAk=
+
+Name: org/eclipse/swt/accessibility/AccessibleHyperlinkAdapter.java
+SHA1-Digest: LrVLiVP8lAZH++tmAcJyjloP/jc=
+
+Name: org/eclipse/swt/browser/InputStream.java
+SHA1-Digest: rVLWR4pKJQWVQA3Qw0sShD8Bqa0=
+
+Name: org/eclipse/swt/accessibility/AccessibleActionAdapter.java
+SHA1-Digest: GwTwl/wr780ZTuPyS9gfRhDqYyQ=
+
+Name: org/eclipse/swt/ole/win32/OlePropertyDescription.java
+SHA1-Digest: a6b/LyL1qxiuRwy46SskV5tuL+Y=
+
+Name: org/eclipse/swt/custom/CTabFolder.java
+SHA1-Digest: Hho2uBTTCp3Y/GHiXHUejUYHh5Y=
+
+Name: org/eclipse/swt/widgets/TypedListener.java
+SHA1-Digest: w3KV6qwMPpQvAl/WoUFOs0s8EVo=
+
+Name: org/eclipse/swt/ole/win32/OleFunctionDescription.java
+SHA1-Digest: dnllmnCDW7jr/K9WfioQ9e/mqxo=
+
+Name: org/eclipse/swt/internal/win32/TVINSERTSTRUCT.java
+SHA1-Digest: 2HWKhdkpOQurToD395HeGwnaKTU=
+
+Name: org/eclipse/swt/internal/ole/win32/IAccessible.java
+SHA1-Digest: yxYonjM8tXXJHHMaX1cmNljUNlA=
+
+Name: org/eclipse/swt/internal/win32/WINDOWPLACEMENT.java
+SHA1-Digest: CGzkboxpwq2RADSvBI7/PbM7wAU=
+
+Name: org/eclipse/swt/internal/win32/WNDCLASS.java
+SHA1-Digest: fwG6VULaqfNZcWgYzYe0Jj/Pj9E=
+
+Name: org/eclipse/swt/internal/win32/PAINTSTRUCT.java
+SHA1-Digest: xOOy7qOQk5kGu8SqeZ2VDCS3Q8U=
+
+Name: org/eclipse/swt/internal/SWTEventListener.java
+SHA1-Digest: zKxTSoawaG3ZIVaXzoIsXn1civA=
+
+Name: org/eclipse/swt/custom/SashFormData.java
+SHA1-Digest: ueperLd8KMbUjFTAzBF7B1WJ8JE=
+
+Name: org/eclipse/swt/internal/ole/win32/IDropTargetHelper.java
+SHA1-Digest: isMinOBhZOTZkftyQVVx8/+kTec=
+
+Name: org/eclipse/swt/internal/image/TIFFFileFormat.java
+SHA1-Digest: dYSBIxvr6viDRZXJGgo2ytRFKKA=
+
+Name: org/eclipse/swt/internal/image/PngChunkReader.java
+SHA1-Digest: SllWT5nJRTJCFBo+H+u2C6QIsOc=
+
+Name: org/eclipse/swt/internal/ole/win32/IDataObject.java
+SHA1-Digest: f8L5PRwU+yEMQrFip8wx8MNUZvI=
+
+Name: org/eclipse/swt/internal/win32/STARTUPINFO.java
+SHA1-Digest: 2+adodQy8H1aVxZaYDdrJ0VFzoU=
+
+Name: org/eclipse/swt/events/DisposeListener.java
+SHA1-Digest: HlHn+w6DXyR9MYc9MMSbiCcFy48=
+
+Name: org/eclipse/swt/internal/win32/CRYPT_OBJID_BLOB.java
+SHA1-Digest: GNbznrP5W4yf9SBUeFulyivcUho=
+
+Name: org/eclipse/swt/internal/win32/NMLVDISPINFO.java
+SHA1-Digest: ZPO+zJpYXgnWodp1h+6vEfXGMqQ=
+
+Name: org/eclipse/swt/widgets/Event.java
+SHA1-Digest: EZtau85tOW9wV8q/dsAYuB+Sq+c=
+
+Name: org/eclipse/swt/internal/win32/PROCESS_INFORMATION.java
+SHA1-Digest: e5CcseZ1O1XtgJEym8mevR2hTE4=
+
+Name: org/eclipse/swt/dnd/DragSourceEffect.java
+SHA1-Digest: JTqse/BaF1qRQ+BlWKuIrdmwCXs=
+
+Name: org/eclipse/swt/internal/gdip/ColorPalette.java
+SHA1-Digest: CAe5sK3msUhbmfYV2eHOAgbfYYI=
+
+Name: org/eclipse/swt/internal/mozilla/nsIWebProgressListener2.java
+SHA1-Digest: F4pO2HySSk5VwwJxlQKnJRR0Av0=
+
+Name: swt_awt.rc
+SHA1-Digest: W8rZGP/dv4beHpHj6zlb6qHqZb8=
+
+Name: org/eclipse/swt/internal/win32/OSVERSIONINFOEXA.java
+SHA1-Digest: 6jfDSzk/br6gdwTvXUONY8WuiQM=
+
+Name: org/eclipse/swt/custom/ExtendedModifyEvent.java
+SHA1-Digest: toba+Aid8Xy7JqQSz86L7G7zBNU=
+
+Name: org/eclipse/swt/browser/ProgressListener.java
+SHA1-Digest: eeaSiaax5zZFaRpb5b+KUY79J7M=
+
+Name: org/eclipse/swt/internal/win32/CHOOSEFONT.java
+SHA1-Digest: 71bXeM9+Y7bFNrAtlgpktAFE8Dk=
+
+Name: org/eclipse/swt/internal/mozilla/nsDynamicFunctionLoad.java
+SHA1-Digest: NsKEESGh/UDlwiaUzkruDI+VCTg=
+
+Name: org/eclipse/swt/internal/win32/MOUSEINPUT.java
+SHA1-Digest: 2CCX0NG1I4G50nS/xlCuBVMKcgE=
+
+Name: org/eclipse/swt/widgets/CoolBar.java
+SHA1-Digest: VaoF1CwMvmFUZs2PEhOEyB4DqpQ=
+
+Name: org/eclipse/swt/internal/win32/HIGHCONTRAST.java
+SHA1-Digest: GVZJCHhCsLGv9oCUjqji+DQ2nT8=
+
+Name: org/eclipse/swt/internal/webkit/IWebURLAuthenticationChallenge.j
+ ava
+SHA1-Digest: uQ7aWDTLRwT+/UByWiL8/9lKxxc=
+
+Name: org/eclipse/swt/accessibility/AccessibleTableCellEvent.java
+SHA1-Digest: IwOlOcX5m2WVy8BJFtjH1haWhv0=
+
+Name: gdip.h
+SHA1-Digest: gkKWJM2Qpw1JA3R1y5Q4q4wcUtA=
+
+Name: org/eclipse/swt/ole/win32/OleClientSite.java
+SHA1-Digest: +u5AexaeJHQE790+zylyEFZ9JjA=
+
+Name: org/eclipse/swt/widgets/FontDialog.java
+SHA1-Digest: xAJeLgOw6XdEXl0uSw47X3NDWWA=
+
+Name: org/eclipse/swt/graphics/Device.java
+SHA1-Digest: m3RVNrILqJZwVe5LN5oop4U38c4=
+
+Name: org/eclipse/swt/internal/ole/win32/COMObject.java
+SHA1-Digest: yqUj/n3HKyGX7/0eGhaav5jyuMQ=
+
+Name: xpcominit_structs.cpp
+SHA1-Digest: qhwDRVSWDfRjTkJcESN2bgfXgsw=
+
+Name: org/eclipse/swt/internal/win32/HELPINFO.java
+SHA1-Digest: yR5VAlOVnWXtABKI4Q3B5b2R9VQ=
+
+Name: org/eclipse/swt/internal/ole/win32/FORMATETC.java
+SHA1-Digest: 54rXGQ/V36lP+eXEqHx68Vp3dWw=
+
+Name: org/eclipse/swt/internal/mozilla/nsIX509CertValidity.java
+SHA1-Digest: C7+ytjlnfaQAGx7uh4guYOxsy8k=
+
+Name: org/eclipse/swt/dnd/TextTransfer.java
+SHA1-Digest: yQ7wbyjwF/uCgnknXm4sFTylpLM=
+
+Name: org/eclipse/swt/internal/win32/NONCLIENTMETRICS.java
+SHA1-Digest: dIbGECaQkKglw/GrGxrDq7iBMi0=
+
+Name: xpcominit.h
+SHA1-Digest: rZsVxG2umlwG539//IEoQTN09bk=
+
+Name: org/eclipse/swt/internal/win32/SIPINFO.java
+SHA1-Digest: TiEGgKuH6sPKucG/pBL6pye2R3g=
+
+Name: org/eclipse/swt/internal/win32/TCHITTESTINFO.java
+SHA1-Digest: wMb87XnRMvWG8uYkGEdu4xyfL4A=
+
+Name: org/eclipse/swt/dnd/FileTransfer.java
+SHA1-Digest: EP6dwsqxh7N9JhtL7Z55/yb9amc=
+
+Name: org/eclipse/swt/internal/image/PngIhdrChunk.java
+SHA1-Digest: EZ7SBpCRmVAnMnf5+sLlvl0nzAw=
+
+Name: org/eclipse/swt/dnd/DragSourceListener.java
+SHA1-Digest: 6lJuFoSLk+G4JA8Oayi6VTGt+/M=
+
+Name: org/eclipse/swt/dnd/DNDEvent.java
+SHA1-Digest: j5vKJQCT5VV4Zg6YiSk1YAUNHq4=
+
+Name: org/eclipse/swt/internal/win32/BP_PAINTPARAMS.java
+SHA1-Digest: oNK56D6mbl+ZbiuvRqHPthuazc4=
+
+Name: org/eclipse/swt/internal/theme/ButtonDrawData.java
+SHA1-Digest: 81XG63D18+x5Okdy95FyGcToZiE=
+
+Name: org/eclipse/swt/internal/ole/win32/IPersistFile.java
+SHA1-Digest: vPVKF6i96/1SagXN/jq3FHbbPEk=
+
+Name: webkit_win32_structs.cpp
+SHA1-Digest: S0QfPADh9nEJMW8J407G+vcFcrc=
+
+Name: org/eclipse/swt/internal/mozilla/nsIDOMEvent.java
+SHA1-Digest: yQ41SIye/Pbxe9LyWj2yc+k3d0Q=
+
+Name: org/eclipse/swt/internal/ole/win32/ITypeInfo.java
+SHA1-Digest: Ckza3fNzW64T7SsgJ7eCcgGUZ6Y=
+
+Name: org/eclipse/swt/internal/win32/CANDIDATEFORM.java
+SHA1-Digest: OR4OlCtZ1elaPhAsj5rkilYsUUk=
+
+Name: org/eclipse/swt/browser/WebPolicyDelegate.java
+SHA1-Digest: hYuc/4RJSVBrUFQGHLX/Q6A7gE8=
+
+Name: org/eclipse/swt/accessibility/AccessibleEditableTextListener.jav
+ a
+SHA1-Digest: cDEz/Oxp7HdwG8dc+o79mJMDFHY=
+
+Name: org/eclipse/swt/browser/AuthenticationListener.java
+SHA1-Digest: dVMTX/kltzm5RzL61nLYYX60vY0=
+
+Name: org/eclipse/swt/internal/mozilla/nsIClassInfo.java
+SHA1-Digest: 6Pud95blWU5tllaUabksRuB4Q6s=
+
+Name: org/eclipse/swt/accessibility/AccessibleTextExtendedAdapter.java
+SHA1-Digest: ed4JkLKnTu8HquNLkccPnwUtkw0=
+
+Name: org/eclipse/swt/layout/FillData.java
+SHA1-Digest: 9YiGVMcOc64w2VnPWhdzQm35XaY=
+
+Name: org/eclipse/swt/internal/win32/DIBSECTION.java
+SHA1-Digest: VlhWkn4xRsuLpX6Ucd7Bapraltg=
+
+Name: gdip_stats.cpp
+SHA1-Digest: hmGKK6WmuK08dCg0rQAvKPUhZAs=
+
+Name: xpcom_custom.cpp
+SHA1-Digest: ytcj5zcNAEbJPxZFPoadYGJyXZg=
+
+Name: org/eclipse/swt/internal/mozilla/nsIDOMSerializer.java
+SHA1-Digest: zN9BWZthLks0IUu9wAR9U3pbXeM=
+
+Name: org/eclipse/swt/graphics/GC.java
+SHA1-Digest: 0n0PN0AQvBIElRqDrHNl+9BuwRs=
+
+Name: xpcom_stats.h
+SHA1-Digest: DZOcNDaUG8u2q0aicYZiXJKZQaY=
+
+Name: org/eclipse/swt/internal/SWTMessages.properties
+SHA1-Digest: 2OkayetyAuMPRLv7qUOBvHUshL0=
+
+Name: org/eclipse/swt/opengl/GLCanvas.java
+SHA1-Digest: luOZYz9RlLmEFGPVB3vEJkRtv8I=
+
+Name: org/eclipse/swt/widgets/TaskItem.java
+SHA1-Digest: lv9cbrWs6amkwRLnohJ8LW+bO1w=
+
+Name: org/eclipse/swt/internal/image/FileFormat.java
+SHA1-Digest: q7vsdJNPNoJfx2E1ADPWk78gPIY=
+
+Name: org/eclipse/swt/layout/FormLayout.java
+SHA1-Digest: MtnZnx4q2XdwspQbTV7ZxpDfC5g=
+
+Name: org/eclipse/swt/custom/PopupList.java
+SHA1-Digest: bfmTk8R5njvP6zkzBBBt18xxjOw=
+
+Name: org/eclipse/swt/internal/win32/CRYPT_ALGORITHM_IDENTIFIER.java
+SHA1-Digest: mMTJ1BIvgsRPwuYFNUlifoKk5OY=
+
+Name: org/eclipse/swt/internal/mozilla/nsISSLStatus.java
+SHA1-Digest: zegDK+/jmrctySdn+cagHIEbII0=
+
+Name: org/eclipse/swt/internal/image/JPEGRestartInterval.java
+SHA1-Digest: bFmCwLja646QaYyvsfUC82ESdFI=
+
+Name: org/eclipse/swt/custom/StyleRange.java
+SHA1-Digest: JJUpuZ4BPKi9A/JNCr7I4/Nydqk=
+
+Name: org/eclipse/swt/internal/win32/NMRGINFO.java
+SHA1-Digest: Ea8IUKTfiBLOQxquLKzAZVrp86Y=
+
+Name: org/eclipse/swt/internal/mozilla/nsIAppShell.java
+SHA1-Digest: ripuF6RlCMxALOkI19bmG5oNPSo=
+
+Name: org/eclipse/swt/dnd/URLTransfer.java
+SHA1-Digest: Ai4nElnVAsdxOepFKGfgtO/VxgI=
+
+Name: org/eclipse/swt/internal/mozilla/nsIEmbeddingSiteWindow.java
+SHA1-Digest: gk9NQoPSd3pADSuFS+EHAvEYbK4=
+
+Name: org/eclipse/swt/accessibility/AccessibleControlEvent.java
+SHA1-Digest: +bpZKd25qkLJ/xW7wSO7y7gqP/0=
+
+Name: org/eclipse/swt/browser/PromptDialog.java
+SHA1-Digest: 9y2S8amSoP0tafMLMZa2qdDvkjY=
+
+Name: org/eclipse/swt/internal/mozilla/nsISerializable.java
+SHA1-Digest: K/2e/DP26i6FafdvrXGi+6r5Xu8=
+
+Name: org/eclipse/swt/custom/CBanner.java
+SHA1-Digest: VrNAFKTDHFCah1ECTDV3oWKYPQ4=
+
+Name: org/eclipse/swt/events/ControlEvent.java
+SHA1-Digest: nmq79JZ70UOhK8rLOQDCwpH5NGI=
+
+Name: org/eclipse/swt/custom/TableTree.java
+SHA1-Digest: EdhQBAXwWPhfgmY9J8RWy7Fzuic=
+
+Name: org/eclipse/swt/internal/win32/NMHEADER.java
+SHA1-Digest: liS/1rk7Rtb8qhlF7awbIcSlw88=
+
+Name: org/eclipse/swt/opengl/GLData.java
+SHA1-Digest: gG93AqNWYmSL+tVz8dpvfw8yp7M=
+
+Name: org/eclipse/swt/internal/gdip/RectF.java
+SHA1-Digest: at6jB0/1LY0fi0pepa7wz7DRO0g=
+
+Name: version.txt
+SHA1-Digest: KJS7SaE+CWk9yKViTWaKUPGm+gU=
+
+Name: org/eclipse/swt/dnd/Clipboard.java
+SHA1-Digest: dTYn+Jqk/TRhOFy7sSYi3Mmx4u0=
+
+Name: org/eclipse/swt/custom/CaretListener.java
+SHA1-Digest: HZZxgiaiziUirc3yXqcyFCyUi4Q=
+
+Name: org/eclipse/swt/custom/LineStyleEvent.java
+SHA1-Digest: Trfzs/0QilO9bx8zS5JDYgWZhEI=
+
+Name: org/eclipse/swt/widgets/Monitor.java
+SHA1-Digest: xmNZFafcRDgA4VLIEbHBxeuu7kw=
+
+Name: org/eclipse/swt/custom/ControlEditor.java
+SHA1-Digest: 45UYO6SmMpQiIjiMU3fppTqYTko=
+
+Name: com_structs.c
+SHA1-Digest: ZyV2QWBHBUcOK27BAHUOG1dufQ0=
+
+Name: org/eclipse/swt/internal/win32/RECT.java
+SHA1-Digest: 8lchjoQua69VQtbiLPdd+o5av+U=
+
+Name: org/eclipse/swt/widgets/FileDialog.java
+SHA1-Digest: j1tsK7Au3XevoXZQM6sOq0Y0KT0=
+
+Name: com_structs.h
+SHA1-Digest: j9GexqnyIYkLCcGvUhp4rUU1w2I=
+
+Name: org/eclipse/swt/widgets/Synchronizer.java
+SHA1-Digest: oL2T4pwOQFxmBiSYR9YimrIyTA8=
+
+Name: org/eclipse/swt/browser/VisibilityWindowAdapter.java
+SHA1-Digest: VmLETeHrs+o2gpQbOQQvWH8Eqs4=
+
+Name: org/eclipse/swt/internal/win32/ACCEL.java
+SHA1-Digest: 3BU+eCcRxdUsed8Dbht8pLSj+C4=
+
+Name: org/eclipse/swt/internal/win32/LVCOLUMN.java
+SHA1-Digest: t4MgSsAOlVdu5C4kmdQI68pyuzo=
+
+Name: org/eclipse/swt/dnd/Transfer.java
+SHA1-Digest: RhlwNq0ODoFl0p5ZBF9CTwJn9tU=
+
+Name: org/eclipse/swt/custom/CTabItem.java
+SHA1-Digest: qElhsbprTtKMTWsDOucGy/vIqpw=
+
+Name: org/eclipse/swt/widgets/List.java
+SHA1-Digest: YkfLInAUmdr5UwbE0EoPSuryJT4=
+
+Name: org/eclipse/swt/internal/ole/win32/CONTROLINFO.java
+SHA1-Digest: eWbt3AV91dQfx0wGDYSzoSnashA=
+
+Name: org/eclipse/swt/events/DragDetectListener.java
+SHA1-Digest: 53ZeDMxcdGOQyEjnci72o14P2D4=
+
+Name: org/eclipse/swt/internal/win32/OSVERSIONINFO.java
+SHA1-Digest: 9jUPsIVLDskli0jnZSE/5gLTXwE=
+
+Name: org/eclipse/swt/events/ArmListener.java
+SHA1-Digest: 7FkqZEs5QZ5iPHRLjHskjerk1LU=
+
+Name: org/eclipse/swt/widgets/TouchSource.java
+SHA1-Digest: sgG+RiOVu+IRFy0BNDqxI84Mg6Q=
+
+Name: org/eclipse/swt/events/ArmEvent.java
+SHA1-Digest: NEPDCV3A4qdEx5uXFW9CDSHESog=
+
+Name: org/eclipse/swt/browser/Download.java
+SHA1-Digest: HPkjcpSdZEntNPo3n0HfhpQR5Dw=
+
+Name: org/eclipse/swt/SWT.java
+SHA1-Digest: rAzttD0QTojNhF4slCRuYeFyNm0=
+
+Name: webkit_win32_stats.cpp
+SHA1-Digest: BlbXk9e61zGP+5iyLXCV9ph8P6c=
+
+Name: build.bat
+SHA1-Digest: 1PMM+z+MkPRJo1bmlQtQ+Bu6i2o=
+
+Name: org/eclipse/swt/ole/win32/OLE.java
+SHA1-Digest: FIBdgYVIGQWkk4aZAXLvqy0LSus=
+
+Name: org/eclipse/swt/dnd/DND.java
+SHA1-Digest: w+MA16Ql+jBefYT/UzPFMMuxymU=
+
+Name: org/eclipse/swt/widgets/Decorations.java
+SHA1-Digest: rOQ2NGvfD/J8r9b/soi0JvUWilI=
+
+Name: org/eclipse/swt/internal/opengl/win32/LAYERPLANEDESCRIPTOR.java
+SHA1-Digest: kEiuOx6ZB6i+5FnOPd5oB/D+YZg=
+
+Name: org/eclipse/swt/widgets/DateTime.java
+SHA1-Digest: 37DledhBzo6HYS4oPpDBdbypw1k=
+
+Name: org/eclipse/swt/internal/mozilla/nsIWebBrowserChromeFocus.java
+SHA1-Digest: Kc7lzHp0wuJvR+wofBqw7kuLvZc=
+
+Name: org/eclipse/swt/internal/image/JPEGComment.java
+SHA1-Digest: uf/uMRM5NMWUjLdrHx0gAW8P9ps=
+
+Name: xpcominit_stats.h
+SHA1-Digest: 7uiD4NRw/L07+MvfO6tnF2trPgk=
+
+Name: org/eclipse/swt/events/VerifyEvent.java
+SHA1-Digest: hpm320MeOOFTLvX4Zp83fe4rTTk=
+
+Name: org/eclipse/swt/accessibility/AccessibleListener.java
+SHA1-Digest: dfMFpbqxgXwe6c5069FeYZQHiVY=
+
+Name: org/eclipse/swt/internal/win32/SCRIPT_CONTROL.java
+SHA1-Digest: GwReEvXAqOy/fBYdhRUZS6zFmFY=
+
+Name: org/eclipse/swt/internal/LONG.java
+SHA1-Digest: PvIOUUzSKtrXKusTTn3rqdI2QUs=
+
+Name: org/eclipse/swt/accessibility/AccessibleAttributeAdapter.java
+SHA1-Digest: TICy99pmvmiAScuh5vfhDNdCOYM=
+
+Name: org/eclipse/swt/internal/ole/win32/ISpecifyPropertyPages.java
+SHA1-Digest: iz4EC2Wg4pB6F6X+viIa0cdbh28=
+
+Name: org/eclipse/swt/internal/win32/TRIVERTEX.java
+SHA1-Digest: InF3kFC0NPjy6Lf7oAi9FEUaVSg=
+
+Name: org/eclipse/swt/custom/CCombo.java
+SHA1-Digest: Nf1VL1w+cGADEPpJF178pJN3LnQ=
+
+Name: org/eclipse/swt/internal/win32/SHFILEINFO.java
+SHA1-Digest: +KkUGTn3lTVub4++lD00So/EinU=
+
+Name: org/eclipse/swt/accessibility/Relation.java
+SHA1-Digest: vJDx4DL7OA8cASm30fwspUTWtWw=
+
+Name: org/eclipse/swt/events/MouseAdapter.java
+SHA1-Digest: 8bp2JNzcnGusag2u1f9skAMHl7I=
+
+Name: org/eclipse/swt/dnd/DropTargetAdapter.java
+SHA1-Digest: maER557EcmrQ/oWYf2Qr8y70vzA=
+
+Name: build-ce.bat
+SHA1-Digest: QbNaDK3iXYnUGn7g4QipXa/8qUo=
+
+Name: org/eclipse/swt/custom/DefaultContent.java
+SHA1-Digest: 6zWE0QM6QXbZsegcAeqLcGw8ZXI=
+
+Name: org/eclipse/swt/internal/win32/TBBUTTONINFO.java
+SHA1-Digest: s1ngEiOJwr7j628Ve01G8wLbBCE=
+
+Name: org/eclipse/swt/internal/image/WinICOFileFormat.java
+SHA1-Digest: KDsN3hAducOEhomBugE87ySdq4I=
+
+Name: org/eclipse/swt/graphics/LineAttributes.java
+SHA1-Digest: MoD2iJrA2+hFZ4/XuRf1XQN8ZT0=
+
+Name: org/eclipse/swt/widgets/ColorDialog.java
+SHA1-Digest: zIDQf02GhIoc4g4c4D9VmjtN0Xw=
+
+Name: org/eclipse/swt/internal/opengl/win32/PIXELFORMATDESCRIPTOR.java
+SHA1-Digest: Dv4rsXkjt+TUmPHK6lsgW2soswg=
+
+Name: org/eclipse/swt/printing/Printer.java
+SHA1-Digest: DjPOWxycLxvJN9FT8FXyirVMBzo=
+
+Name: org/eclipse/swt/internal/mozilla/nsIX509Cert.java
+SHA1-Digest: 4pjYRC/627Kzm2V2bBuH3oSzvM8=
+
+Name: org/eclipse/swt/internal/ole/win32/IMoniker.java
+SHA1-Digest: 7w20kvj0cq0XBtCByXEtWW4ucdg=
+
+Name: org/eclipse/swt/graphics/ImageDataLoader.java
+SHA1-Digest: g1Ok3PH0mo1LURoAHQhJsgP7xT8=
+
+Name: org/eclipse/swt/accessibility/AccessibleAdapter.java
+SHA1-Digest: 8K79PcSc/ShGnqkvKPixxkbMX6E=
+
+Name: org/eclipse/swt/internal/theme/Theme.java
+SHA1-Digest: orXn6gaFA27r5oh5MNqV77gOY1s=
+
+Name: org/eclipse/swt/graphics/Font.java
+SHA1-Digest: B5gRSDbb9tIuUCHenbEGC8gcah4=
+
+Name: org/eclipse/swt/graphics/Point.java
+SHA1-Digest: TxpVbY6eKWGJef/zSOfi0Ddtv6g=
+
+Name: org/eclipse/swt/internal/image/TIFFModifiedHuffmanCodec.java
+SHA1-Digest: giA2cpCyNmh5D5/euc+K/rXzyA4=
+
+Name: org/eclipse/swt/internal/win32/DWM_BLURBEHIND.java
+SHA1-Digest: fWB6XSIeqC8aLxMcamIV5vsqQtM=
+
+Name: org/eclipse/swt/internal/win32/SHMENUBARINFO.java
+SHA1-Digest: E8xwxoILHmkTq6yVNHsEozc+HIk=
+
+Name: org/eclipse/swt/internal/win32/LVHITTESTINFO.java
+SHA1-Digest: IoGn++LjVvGTK+AKU1oakhBculM=
+
+Name: org/eclipse/swt/internal/Platform.java
+SHA1-Digest: ulgiVJmdZR1czFSIqfUt/tKurQk=
+
+Name: org/eclipse/swt/custom/TableTreeItem.java
+SHA1-Digest: SXeeOJRRebyD+i/ZEVofiSZ7SXg=
+
+Name: org/eclipse/swt/internal/win32/DEVMODEW.java
+SHA1-Digest: z9AZjS/hfp3ZuctU4VDUfMWN+Uo=
+
+Name: org/eclipse/swt/internal/SerializableCompatibility.java
+SHA1-Digest: ehkJ12/7eiG9wvvzGFe6oOEhKj0=
+
+Name: org/eclipse/swt/custom/Bullet.java
+SHA1-Digest: UvMGLbEbwUolgj+rl7W8g2q+ym8=
+
+Name: org/eclipse/swt/browser/Download_1_8.java
+SHA1-Digest: hUWTet8lIVUuYe5jofMFlRPxKVk=
+
+Name: org/eclipse/swt/accessibility/AccessibleTextListener.java
+SHA1-Digest: abOb0W7lsvPQDyVKIbeIH97P9vE=
+
+Name: org/eclipse/swt/custom/BusyIndicator.java
+SHA1-Digest: qnR7eTAHrCiTMnYAYGHkz5qgXs0=
+
+Name: org/eclipse/swt/internal/win32/MCHITTESTINFO.java
+SHA1-Digest: CqdPXtqFkM0WN2gOodG0s0wvnzE=
+
+Name: org/eclipse/swt/internal/mozilla/nsIDocShell_1_8.java
+SHA1-Digest: RuWmSNfJocefqzxPxCM3kljxB3c=
+
+Name: org/eclipse/swt/accessibility/AccessibleAttributeEvent.java
+SHA1-Digest: 91GA7kB6dtcIBL40pYBzGRpz2Pg=
+
+Name: org/eclipse/swt/events/FocusEvent.java
+SHA1-Digest: S+iIj7y3uyDsZdPRd0ECVZTmpNM=
+
+Name: org/eclipse/swt/internal/win32/BITMAP.java
+SHA1-Digest: +EVMdJD25x1crM4Zbg1KnThWQYg=
+
+Name: org/eclipse/swt/internal/ole/win32/IOleCommandTarget.java
+SHA1-Digest: pjYb81noJNKtH+K2jGqGPsdklg4=
+
+Name: org/eclipse/swt/internal/win32/SCROLLBARINFO.java
+SHA1-Digest: 0wh0TBa3cFBIv99M2pCrv3sAIBQ=
+
+Name: xpcominit_structs.h
+SHA1-Digest: bt8hSr8dMFwq02tCW6AhhRYnYU0=
+
+Name: xpcom_custom.h
+SHA1-Digest: oIXaDvs5ZKrvUy6t6DK9EUrPXtI=
+
+Name: os_custom.c
+SHA1-Digest: L4ap8KkU9NoCxbtEDxdutk3obDI=
+
+Name: org/eclipse/swt/custom/ST.java
+SHA1-Digest: bv3h/fJu+evdgI0PEOM86NeO8FA=
+
+Name: org/eclipse/swt/browser/StatusTextListener.java
+SHA1-Digest: wvxNSI3qzFKdH7N5OAbZ8Kf0g4U=
+
+Name: os_custom.h
+SHA1-Digest: 2en7VzRBnQprvrRme8vVjixmeDc=
+
+Name: org/eclipse/swt/internal/win32/LOGBRUSH.java
+SHA1-Digest: RE1zu5IxONDi0dfhZExTdX9hJ+E=
+
+Name: org/eclipse/swt/internal/mozilla/XPCOMObject.java
+SHA1-Digest: jy69iVtKF61WRF88tuhNJyXPAJs=
+
+Name: org/eclipse/swt/browser/HelperAppLauncherDialogFactory.java
+SHA1-Digest: ibVu6nldTRUEJx22duN0iiNP/dM=
+
+Name: nsIScriptGlobalObject.h
+SHA1-Digest: VZ5/4AyULMd+5khNdf3/rI8E4fk=
+
+Name: org/eclipse/swt/internal/image/TIFFDirectory.java
+SHA1-Digest: 7zY7KZ8uttB/lhr0B3Id/xRlp+g=
+
+Name: wgl_stats.c
+SHA1-Digest: FXaB/qHJhTVwn3DDLKmiev1rzFQ=
+
+Name: org/eclipse/swt/internal/win32/FILETIME.java
+SHA1-Digest: 5xeljSNn5VP4QDytZSq6l//81uM=
+
+Name: org/eclipse/swt/widgets/Combo.java
+SHA1-Digest: 4hcJbEBDAoNIBgiejkx5n5YqLxs=
+
+Name: wgl_stats.h
+SHA1-Digest: /GXLM1F0vsbk+UsWi3tN9i64WZ0=
+
+Name: org/eclipse/swt/internal/mozilla/nsIFilePicker_1_8.java
+SHA1-Digest: pgrp4wDKlQffeat/nGgqVlKYALc=
+
+Name: org/eclipse/swt/internal/win32/CHOOSECOLOR.java
+SHA1-Digest: t2D0QiBQWoDER9ofyN07WfKy0Tk=
+
+Name: org/eclipse/swt/events/GestureEvent.java
+SHA1-Digest: tf/SC56mowB+1yvGMbBMPQPLuwI=
+
+Name: org/eclipse/swt/internal/win32/DOCINFO.java
+SHA1-Digest: Eu1VlYw0Iadi6b4iqxk3yw+XWLk=
+
+Name: org/eclipse/swt/internal/ole/win32/FUNCDESC.java
+SHA1-Digest: goioJvLdbgj9KQEz1FEJby4xF70=
+
+Name: org/eclipse/swt/internal/mozilla/nsIWeakReference.java
+SHA1-Digest: zXpdhP/djSEaJSL+h3bcprHPDjk=
+
+Name: javaw.exe.manifest
+SHA1-Digest: 9q081xUuS2SR6gV21a611ZhuSHk=
+
+Name: org/eclipse/swt/ole/win32/OleControlSite.java
+SHA1-Digest: +ETd8qR4GJMuDoBOw2LqyWjqcD8=
+
+Name: org/eclipse/swt/widgets/Tracker.java
+SHA1-Digest: +0BkUrsALu0Ms1busDnC0bxcynU=
+
+Name: org/eclipse/swt/browser/ExternalFactory.java
+SHA1-Digest: hNkYR5j64JMkdE1n8VjW6JR2myI=
+
+Name: org/eclipse/swt/internal/ole/win32/IPropertyBag.java
+SHA1-Digest: GJGpa7VQtTJYaDON+PF+4LiF5tg=
+
+Name: org/eclipse/swt/internal/mozilla/nsIWebBrowserFocus.java
+SHA1-Digest: 7w9npgXr84kC+07N3zE2I1LJtSw=
+
+Name: org/eclipse/swt/internal/mozilla/nsIBadCertListener2.java
+SHA1-Digest: xUrX/aiPjON1LY7uzTqsEShpk5E=
+
+Name: org/eclipse/swt/internal/image/JPEGFixedSizeSegment.java
+SHA1-Digest: m90V9JGhzfLcAUQKQOJePzUOcWY=
+
+Name: org/eclipse/swt/layout/FormAttachment.java
+SHA1-Digest: DzztBStuvy/a/bWfnvdwtU3C0P4=
+
+Name: org/eclipse/swt/internal/image/LEDataInputStream.java
+SHA1-Digest: P/kF1Nq8w7GMQwAygD+bc5uZfv4=
+
+Name: org/eclipse/swt/events/KeyListener.java
+SHA1-Digest: Md6pkz/XV9fHJTbl+nH6MnJjQxw=
+
+Name: org/eclipse/swt/custom/CTabFolderEvent.java
+SHA1-Digest: TRa8zzjwOePj77NbvC23fveg1b0=
+
+Name: org/eclipse/swt/internal/win32/TVITEM.java
+SHA1-Digest: 1OS4sHv4Jmd5c5c9FEv3XQVMVbA=
+
+Name: org/eclipse/swt/internal/gdip/GdiplusStartupInput.java
+SHA1-Digest: VPLCqRKorXcG48ptGaWdKPNDpKQ=
+
+Name: org/eclipse/swt/dnd/RTFTransfer.java
+SHA1-Digest: GBcXj1KqAM1wpMUohQeR1tIkeNg=
+
+Name: org/eclipse/swt/events/TraverseEvent.java
+SHA1-Digest: Jb9XOHE7LKJDj7reniHcjn+jtD8=
+
+Name: about.html
+SHA1-Digest: EsMKwWEG9gKzUShd7SmrUJ+CWWg=
+
+Name: org/eclipse/swt/widgets/ToolItem.java
+SHA1-Digest: VU8690bs2yCBBkU6DdYO94pyHjM=
+
+Name: org/eclipse/swt/internal/win32/SCRIPT_ANALYSIS.java
+SHA1-Digest: LEqNeA+Ie25mMNt3sp9Ka/gXRYw=
+
+Name: org/eclipse/swt/internal/theme/DrawData.java
+SHA1-Digest: HQYCSI8NazluIVQvS+DwY+dcw+U=
+
+Name: org/eclipse/swt/internal/webkit/IWebOpenPanelResultListener.java
+SHA1-Digest: C6xihhZeASuZBxgtituSFl2Q0dA=
+
+Name: org/eclipse/swt/internal/win32/SCRIPT_PROPERTIES.java
+SHA1-Digest: bjyOzigEfRTciWZeEf6KH5ik48c=
+
+Name: org/eclipse/swt/graphics/TextStyle.java
+SHA1-Digest: pr+YJV4kZot2rxHJEGMQ43uBHKA=
+
+Name: org/eclipse/swt/internal/win32/DOCHOSTUIINFO.java
+SHA1-Digest: RdI2oVbhv1VULTMh7FNOQ6ynTZM=
+
+Name: org/eclipse/swt/internal/mozilla/nsIPrefService.java
+SHA1-Digest: uxsQqhhPalAvUWaRlgsrWqRRRng=
+
+Name: org/eclipse/swt/widgets/ExpandBar.java
+SHA1-Digest: LIYF8a9FvHMiAXMfiApJD4fW5K4=
+
+Name: org/eclipse/swt/internal/win32/SHFILEINFOW.java
+SHA1-Digest: WOLn+WfhGXOK0e6XB1Js+YWwSF0=
+
+Name: org/eclipse/swt/graphics/Resource.java
+SHA1-Digest: dbPbHt6rtgDbnEuR2TfI5qEYbN8=
+
+Name: org/eclipse/swt/custom/TextChangedEvent.java
+SHA1-Digest: gu9ljHU0hcMSk5Ce+PxnWk+KupQ=
+
+Name: org/eclipse/swt/events/ExpandEvent.java
+SHA1-Digest: Hahbiv/OD+BZ1ImMjkIZOX0+aM4=
+
+Name: org/eclipse/swt/widgets/TrayItem.java
+SHA1-Digest: 6FtnyBajLTlLg8n3Dr4qdC8DL/I=
+
+Name: org/eclipse/swt/internal/win32/ICONINFO.java
+SHA1-Digest: 5u0/8b01XkP93rdSVPi+U3PRIAw=
+
+Name: org/eclipse/swt/graphics/GCData.java
+SHA1-Digest: zws5pknqItJH7XEcF+rPeVhZsLM=
+
+Name: org/eclipse/swt/internal/mozilla/nsICookieService_1_9.java
+SHA1-Digest: 8rHvbGAOiIy4OQND2LzgVvyZz88=
+
+Name: org/eclipse/swt/internal/ole/win32/IEnumVARIANT.java
+SHA1-Digest: zg9qQtvuLlmvp5cbcYLv4d3vCqQ=
+
+Name: org/eclipse/swt/internal/win32/MEASUREITEMSTRUCT.java
+SHA1-Digest: hHlhgJtlfVpSFfxkx278WQJLR0I=
+
+Name: org/eclipse/swt/internal/mozilla/init/GREProperty.java
+SHA1-Digest: k24DWjUuiL5vcV+ttfyWvQ+AnrI=
+
+Name: org/eclipse/swt/internal/webkit/IWebURLCredential.java
+SHA1-Digest: PtgP2mbLOINYRzjYrPJ06cdrYlc=
+
+Name: org/eclipse/swt/internal/image/PngDecodingDataStream.java
+SHA1-Digest: XtpPy3ExYub4NRYGAA9qSiKrlHI=
+
+Name: org/eclipse/swt/internal/ole/win32/IOleWindow.java
+SHA1-Digest: h4Gsx0+7bpF+kEtAuVgpulyaz80=
+
+Name: org/eclipse/swt/internal/win32/ACTCTX.java
+SHA1-Digest: D8ogok462kHSUSByMwyXcDPC98w=
+
+Name: org/eclipse/swt/dnd/TableDragSourceEffect.java
+SHA1-Digest: bn+0ffXhBHQynjIbhmnmPZucrUo=
+
+Name: org/eclipse/swt/internal/win32/NMTVDISPINFO.java
+SHA1-Digest: x3Bh95jM+MwZAD+vNbpADGnsvN4=
+
+Name: org/eclipse/swt/internal/gdip/BitmapData.java
+SHA1-Digest: OZUnXmuFSpjv6YQ4GWmpdhQM3D4=
+
+Name: swt_webkit.rc
+SHA1-Digest: MVfLBU1ERgWtvnmPFOJhYeaAB34=
+
+Name: org/eclipse/swt/internal/ole/win32/IViewObject2.java
+SHA1-Digest: bbd8z4bc5frB7/ih5XgaY7kNYK4=
+
+Name: org/eclipse/swt/events/DragDetectEvent.java
+SHA1-Digest: PbtHIwow3F0Sxnju8l9RpFe6pOA=
+
+Name: org/eclipse/swt/internal/ole/win32/IPersistStreamInit.java
+SHA1-Digest: i7q3Zhb2iVadxg8tnqdsLaic2ng=
+
+Name: xpcom.cpp
+SHA1-Digest: zBV5wKHSTwLUHYb08k3SxVEdXss=
+
+Name: org/eclipse/swt/events/ExpandListener.java
+SHA1-Digest: 31upaO7fGgB95esx+5YbaNiImJI=
+
+Name: org/eclipse/swt/internal/mozilla/nsIFilePicker.java
+SHA1-Digest: LJd0spy7V1+TOE7pGbBzxeuRKos=
+
+Name: org/eclipse/swt/custom/StackLayout.java
+SHA1-Digest: 6iocycgp5WL82380pDce+s30jPc=
+
+Name: org/eclipse/swt/events/ShellAdapter.java
+SHA1-Digest: U0f1hEbCb7yZGdIu89o7n/sDZdk=
+
+Name: org/eclipse/swt/accessibility/AccessibleEditableTextEvent.java
+SHA1-Digest: 8s9lMlHZymZuKOVuHm8Hlyw6vzw=
+
+Name: about_files/IJG_README
+SHA1-Digest: zYrTwlj+wl1kYzRSa3fOxOkPAfs=
+
+Name: org/eclipse/swt/internal/win32/TOUCHINPUT.java
+SHA1-Digest: 4zcWs3jIAKeffJKrb5GmarlyHlE=
+
+Name: org/eclipse/swt/widgets/Shell.java
+SHA1-Digest: Xy/FuVkDF5lgqGBoJX0tdsUoCDQ=
+
+Name: org/eclipse/swt/internal/mozilla/nsIInterfaceRequestor.java
+SHA1-Digest: X58LFzIPcrZc4+QLbSOQFAqZKFU=
+
+Name: org/eclipse/swt/internal/win32/CERT_PUBLIC_KEY_INFO.java
+SHA1-Digest: EmKcIBRINlj5TI6eYA+xsFY+H0I=
+
+Name: org/eclipse/swt/internal/win32/TF_DA_COLOR.java
+SHA1-Digest: azWpZ+SOWon2yJrJGxviCqvz3yY=
+
+Name: org/eclipse/swt/internal/image/LZWNode.java
+SHA1-Digest: GOXwaEc3r5bCN3+s+oZALRl5Knw=
+
+Name: org/eclipse/swt/internal/theme/ComboDrawData.java
+SHA1-Digest: rACfp1+Y5e0rm45/MOXUAUsOXzM=
+
+Name: org/eclipse/swt/internal/win32/SCRIPT_LOGATTR.java
+SHA1-Digest: a3fGeeJJDNmOv+vZHolRg+IjIho=
+
+Name: org/eclipse/swt/internal/win32/NMTTDISPINFOW.java
+SHA1-Digest: K+gHLdWTZ5kETeH5h/WcBv1aFlE=
+
+Name: org/eclipse/swt/internal/ole/win32/IClassFactory2.java
+SHA1-Digest: JcNd/erqJbA3AOMUt7ooek1bjLI=
+
+Name: org/eclipse/swt/internal/mozilla/nsISupportsWeakReference.java
+SHA1-Digest: 4uwSAAIrfjqQN/WpDQcHhc5hf6c=
+
+Name: org/eclipse/swt/internal/image/JPEGDecoder.java
+SHA1-Digest: B6HxnRRCna8V0TTMwuFK93oENa8=
+
+Name: org/eclipse/swt/internal/win32/CERT_CONTEXT.java
+SHA1-Digest: +EmTCHZKpAZgQnWZWG3tB4k3MM0=
+
+Name: org/eclipse/swt/dnd/DropTarget.java
+SHA1-Digest: OmFUIFceVm12rYNtQd5lxOBeJnE=
+
+Name: org/eclipse/swt/browser/FilePickerFactory.java
+SHA1-Digest: 3WIiY4GBZULx2Yf0Xa2yM8ygvWI=
+
+Name: org/eclipse/swt/graphics/Region.java
+SHA1-Digest: rssAyxDc1XTg+8ZQUMF6gERhD1g=
+
+Name: org/eclipse/swt/layout/FormData.java
+SHA1-Digest: w1JliU+nlTaSALEyfqv++9Pbm5A=
+
+Name: org/eclipse/swt/internal/win32/TVHITTESTINFO.java
+SHA1-Digest: JP+vFPiZh2VjR9V3n4OcvwnHesQ=
+
+Name: org/eclipse/swt/widgets/TaskBar.java
+SHA1-Digest: z7tumR9L0a7tckNHbEKdj8dDS7k=
+
+Name: org/eclipse/swt/widgets/Layout.java
+SHA1-Digest: h07vKCh+EjqZiUv+2yvSM4EJf4c=
+
+Name: org/eclipse/swt/accessibility/AccessibleValueListener.java
+SHA1-Digest: KDr2pfyR11x4l8zKZz5z0CSwWnM=
+
+Name: org/eclipse/swt/internal/win32/CERT_INFO.java
+SHA1-Digest: uEk3L5k331QxTR3dseM/Wq3LIjU=
+
+Name: org/eclipse/swt/internal/win32/OFNOTIFY.java
+SHA1-Digest: pWF9uE4zxoXKycWh1ccm7rrpDw8=
+
+Name: org/eclipse/swt/internal/win32/MARGINS.java
+SHA1-Digest: pwTpuXJgOHRy+InQ17cnj/ct3lk=
+
+Name: org/eclipse/swt/browser/AppFileLocProvider.java
+SHA1-Digest: utf+PaKS9o54Exfyz8VrbiGw+jI=
+
+Name: org/eclipse/swt/internal/mozilla/nsIPromptService.java
+SHA1-Digest: tojew5R0wQdTZg1d4QHEwRH/JFk=
+
+Name: org/eclipse/swt/internal/win32/PRINTDLG.java
+SHA1-Digest: tIJ10t6NLB435xOUTh1LdeErO4Y=
+
+Name: org/eclipse/swt/internal/win32/SAFEARRAYBOUND.java
+SHA1-Digest: OCS60UGiZa6a8AoHH+taa0413Ts=
+
+Name: org/eclipse/swt/graphics/FontMetrics.java
+SHA1-Digest: OOULfHCFk/1mNxhnEpgIoCk5zvA=
+
+Name: org/eclipse/swt/layout/FillLayout.java
+SHA1-Digest: KVDYtKFJWE+1fKwVBmVI+y4Rph4=
+
+Name: org/eclipse/swt/dnd/ImageTransfer.java
+SHA1-Digest: aa7QztbvzckRUJJGq5rj5MjW4Zk=
+
+Name: defines.h
+SHA1-Digest: geSrZHvqvMr9GeilYq55LvdXFjs=
+
+Name: com_stats.c
+SHA1-Digest: CkeI0CnRL2onNmYosMlc5ZNXxxA=
+
+Name: org/eclipse/swt/internal/win32/PANOSE.java
+SHA1-Digest: he5Q8kkzgGUo6pIaSGbeSWUANJo=
+
+Name: org/eclipse/swt/events/MenuListener.java
+SHA1-Digest: kEwxhFctvQ5l0SY8K/cdqKc8TG8=
+
+Name: org/eclipse/swt/widgets/MessageBox.java
+SHA1-Digest: 7nmsgfjF80hZHuZP5oyf5NCCKtc=
+
+Name: org/eclipse/swt/internal/win32/NMTREEVIEW.java
+SHA1-Digest: 2w5zHl9YykZbu9y7EnAFbhqBEGw=
+
+Name: com_stats.h
+SHA1-Digest: VPxmsvTPEMYOREpgeMqjuMKXlsA=
+
+Name: org/eclipse/swt/ole/win32/OlePropertyChangeSink.java
+SHA1-Digest: irtSbKq+ufqDDY5elYba+GwDNpk=
+
+Name: org/eclipse/swt/internal/win32/FLICK_DATA.java
+SHA1-Digest: Zkvd85Bg19nEMiX/IBp82AV+7t0=
+
+Name: org/eclipse/swt/graphics/ImageLoaderListener.java
+SHA1-Digest: 1OhJF2YJWnJ+OYRe5QlFFw98RRg=
+
+Name: org/eclipse/swt/events/MouseWheelListener.java
+SHA1-Digest: 2qUMxTJRewpjUPtTcUX/2RNeHl0=
+
+Name: org/eclipse/swt/widgets/Touch.java
+SHA1-Digest: D8pIN616TfFN2gOjayPOf8TMdsQ=
+
+Name: org/eclipse/swt/browser/LocationEvent.java
+SHA1-Digest: Mf32BygCrpRFNgiFF+4bj5g8vOk=
+
+Name: org/eclipse/swt/internal/win32/CERT_NAME_BLOB.java
+SHA1-Digest: 1KolJqstZA9i2jFMVXwHBPNPqbc=
+
+Name: org/eclipse/swt/internal/image/JPEGAppn.java
+SHA1-Digest: 4UQs9L9U5wymkIgvIxFU+p2f2Io=
+
+Name: org/eclipse/swt/internal/win32/NMLVFINDITEM.java
+SHA1-Digest: DEJ1o6xNo6WLs5/81kaFsDS6D9g=
+
+Name: org/eclipse/swt/accessibility/AccessibleAttributeListener.java
+SHA1-Digest: CAclsJslf5WjKf4jSusdURJVV3A=
+
+Name: org/eclipse/swt/internal/mozilla/nsIPromptService2.java
+SHA1-Digest: BkDxnznAKyA+g3mCsWR5v3fmAx4=
+
+Name: org/eclipse/swt/internal/ole/win32/TYPEATTR.java
+SHA1-Digest: 9fs3miRrU8i3f5gY5cIsJEuZmlw=
+
+Name: org/eclipse/swt/events/MouseTrackListener.java
+SHA1-Digest: zAA0yPxZmIq0um5NFA0rkpPSAB4=
+
+Name: org/eclipse/swt/dnd/HTMLTransfer.java
+SHA1-Digest: IIADHKTtR8vk4Ma3TawpWzcQPOA=
+
+Name: org/eclipse/swt/accessibility/AccessibleTextAdapter.java
+SHA1-Digest: RQB6GIxoudktcIr5lSSBs5jnHyk=
+
+Name: webkit_win32.h
+SHA1-Digest: qmIHLjRQlkH5d2dMJJwXmhftZOk=
+
+Name: org/eclipse/swt/internal/win32/NOTIFYICONDATAW.java
+SHA1-Digest: JjRy8DbEdMuV36gdVHRvgGylBQQ=
+
+Name: org/eclipse/swt/events/TreeListener.java
+SHA1-Digest: inA0boKyg8WTD4AAecrXd0Q+wy8=
+
+Name: org/eclipse/swt/events/VerifyListener.java
+SHA1-Digest: QRbYwVNVWoKy0seWV1BOLoSikJQ=
+
+Name: org/eclipse/swt/internal/win32/NMLINK.java
+SHA1-Digest: ds7jKOA3U6ouJ5bk88PXYHaEywg=
+
+Name: org/eclipse/swt/widgets/Control.java
+SHA1-Digest: ooigiUeIchhp82WDYvJcaVxb9Zw=
+
+Name: org/eclipse/swt/internal/win32/LITEM.java
+SHA1-Digest: +VWpyW2OLeqLvxuFVIGn2HOjpiI=
+
+Name: org/eclipse/swt/graphics/GlyphMetrics.java
+SHA1-Digest: MuQHYzCCBiQ+cbRJKkrVtEdU/zs=
+
+Name: org/eclipse/swt/internal/win32/GESTUREINFO.java
+SHA1-Digest: WshvjtnlI5uohHQl7AcY1U2d2Cs=
+
+Name: xpcominit.cpp
+SHA1-Digest: ctVlE4Jj1Hv7bWjFzLffPPJPzS4=
+
+Name: swt_wgl.rc
+SHA1-Digest: hx9xn9p1eOGOEzwORL+jq3bRCg4=
+
+Name: org/eclipse/swt/accessibility/AccessibleHyperlinkEvent.java
+SHA1-Digest: jOU+RmAvBFrgJzuof2/ZOG2YKT8=
+
+Name: org/eclipse/swt/internal/mozilla/nsICancelable.java
+SHA1-Digest: N0ZlgYtPNNvPZU4x9tnlb/gHrmQ=
+
+Name: org/eclipse/swt/internal/mozilla/nsIDownload_1_8.java
+SHA1-Digest: zhbpVrPb259V2n1bdWD2JEh9Ob4=
+
+Name: org/eclipse/swt/internal/mozilla/nsITransfer.java
+SHA1-Digest: 0ieq9OAA7vu1uXKF+Uaqax1o6VU=
+
+Name: org/eclipse/swt/accessibility/AccessibleTableAdapter.java
+SHA1-Digest: JB/jMDLSbmh4XHGyT7ABnNXp/54=
+
+Name: org/eclipse/swt/internal/win32/OSVERSIONINFOW.java
+SHA1-Digest: E0CEJ6erD2NjWLUEKeZRukACJkA=
+
+Name: org/eclipse/swt/accessibility/AccessibleTableCellAdapter.java
+SHA1-Digest: 7aDMqGTEr42/E1h7Kz0D8//QQFo=
+
+Name: org/eclipse/swt/internal/mozilla/nsIVariant.java
+SHA1-Digest: N0UMJkLueNx5JcdyX5ld+c3Fpc4=
+
+Name: org/eclipse/swt/internal/image/OS2BMPFileFormat.java
+SHA1-Digest: JhiGdb5aEO8649knKvZV1AMN0T8=
+
+Name: org/eclipse/swt/graphics/ImageLoader.java
+SHA1-Digest: F9hhOc+Tq2n3321AnGG/VOz93lg=
+
+Name: org/eclipse/swt/events/MenuDetectListener.java
+SHA1-Digest: Jjay/NTMruC9OXzoIKVa7zRNVTk=
+
+Name: org/eclipse/swt/internal/win32/HDLAYOUT.java
+SHA1-Digest: C4oKsSUTFOBTFUeV+WMnr9OLGzA=
+
+Name: org/eclipse/swt/events/KeyAdapter.java
+SHA1-Digest: f6cAgdYjNxW1tGKOTnsc4gMxMs8=
+
+Name: org/eclipse/swt/widgets/TabFolder.java
+SHA1-Digest: jYnJ+vcMVXvKQlRlBU6HnCySI8k=
+
+Name: org/eclipse/swt/events/ExpandAdapter.java
+SHA1-Digest: K6yQyBgqjB7dH2VMQGCj3ztnV48=
+
+Name: org/eclipse/swt/events/TreeAdapter.java
+SHA1-Digest: RXvjXH8zYddAOioAUsIUmUVGxYc=
+
+Name: org/eclipse/swt/internal/win32/MSG.java
+SHA1-Digest: YIAQWWbc9ukLuyg3lqcZeL1F61s=
+
+Name: org/eclipse/swt/browser/DownloadFactory.java
+SHA1-Digest: Bck9GJMoDooomGK/wWSWbMruEP0=
+
+Name: org/eclipse/swt/internal/C.java
+SHA1-Digest: hjJyryL+m8ody2ot8ev59aEhq78=
+
+Name: org/eclipse/swt/internal/win32/GRADIENT_RECT.java
+SHA1-Digest: l8RdDMuj+GidsYGZ5S0Kdc3OsVw=
+
+Name: org/eclipse/swt/internal/mozilla/nsIDocShell.java
+SHA1-Digest: CUm9Dk16CfXXt2pT8MV/jYcmDqc=
+
+Name: org/eclipse/swt/widgets/Dialog.java
+SHA1-Digest: N9jseIeobmKuGZYHOxzm1IiYvjA=
+
+Name: org/eclipse/swt/events/TreeEvent.java
+SHA1-Digest: wzGApLZ1tTlKvPWvQqVleIIOJB4=
+
+Name: org/eclipse/swt/internal/image/PngHuffmanTable.java
+SHA1-Digest: jIamI9WU1yGEwiS0MPJ6T5c0F8k=
+
+Name: org/eclipse/swt/dnd/TreeDropTargetEffect.java
+SHA1-Digest: bfQyFvbtTTUs7sl++/59todqstU=
+
+Name: org/eclipse/swt/internal/ole/win32/DVTARGETDEVICE.java
+SHA1-Digest: 88OK2i/evrb+mh7BJJLw4pQIk5w=
+
+Name: org/eclipse/swt/internal/ole/win32/IEnum.java
+SHA1-Digest: tpOKRzy6oJ3BdO3mKycxBdiuNUE=
+
+Name: org/eclipse/swt/internal/mozilla/nsIDOMEventTarget.java
+SHA1-Digest: r30WANlohwK4fcinqGLbE6A3CoI=
+
+Name: META-INF/eclipse.inf
+SHA1-Digest: SAqY+5ITAL0mkdYeijlSRhyIaZk=
+
+Name: org/eclipse/swt/widgets/Link.java
+SHA1-Digest: Xe1R/0n4W2VBP0DIfggn7hv22F4=
+
+Name: org/eclipse/swt/internal/win32/LOGPEN.java
+SHA1-Digest: x2w4dR5rVtDY5J3w5i7Yjc8hqU8=
+
+Name: org/eclipse/swt/internal/webkit/IWebViewPrivate.java
+SHA1-Digest: nJcgCEosn/+StUwn3nynoixaFro=
+
+Name: org/eclipse/swt/internal/win32/TEXTMETRICW.java
+SHA1-Digest: pIwurqxM53M/3Q5LNvUHqgptGJw=
+
+Name: org/eclipse/swt/internal/image/JPEGEndOfImage.java
+SHA1-Digest: 8Ng0of2Ey8GsZU/3RpC1yc7NA8w=
+
+Name: org/eclipse/swt/internal/win32/CREATESTRUCT.java
+SHA1-Digest: FsgI+oz6Ti9tkHNjjvrkPOvwb2c=
+
+Name: org/eclipse/swt/internal/image/JPEGStartOfImage.java
+SHA1-Digest: LF4ENVixsDyesC4sxOiWrfkJDxU=
+
+Name: org/eclipse/swt/internal/CloneableCompatibility.java
+SHA1-Digest: hCSchN5XwwcLk5+09v5LP0d4eHI=
+
+Name: org/eclipse/swt/browser/Mozilla.java
+SHA1-Digest: CIwxrZUefanpesMIX7AMk+5Ypms=
+
+Name: org/eclipse/swt/events/MenuAdapter.java
+SHA1-Digest: q+I9ecNgQGhbP1RvlnedOqbC40k=
+
+Name: org/eclipse/swt/internal/win32/TRACKMOUSEEVENT.java
+SHA1-Digest: wkwAqtE7PZ4Tk4mR4UJNeV0mbtM=
+
+Name: org/eclipse/swt/graphics/Cursor.java
+SHA1-Digest: rmVCr13UN4+6Bl932B1nNRSJEvw=
+
+Name: org/eclipse/swt/internal/mozilla/nsIWebBrowserSetup.java
+SHA1-Digest: 8WiQbkDNXKj19m3+0gKScx8zUcs=
+
+Name: org/eclipse/swt/internal/win32/CRYPT_INTEGER_BLOB.java
+SHA1-Digest: n4tH3oKXCgLk2YnTHpLIfCXVTPM=
+
+Name: org/eclipse/swt/internal/mozilla/nsIHelperAppLauncherDialog_1_9.
+ java
+SHA1-Digest: VVca3g/yIHRG80UcRzjoLHM++OU=
+
+Name: org/eclipse/swt/accessibility/AccessibleActionEvent.java
+SHA1-Digest: CBtRPKZVCx82Lu2pWgp1MSQZ7qQ=
+
+Name: org/eclipse/swt/internal/ole/win32/IDispatchEx.java
+SHA1-Digest: qM/ekl8NFQm+Qe3DyZ9YAbA0wH4=
+
+Name: org/eclipse/swt/widgets/Composite.java
+SHA1-Digest: 5SD8MK7ivF+Ge/X6jMZVxguetCk=
+
+Name: org/eclipse/swt/internal/ole/win32/IPersistStorage.java
+SHA1-Digest: MVLWRGMaRpSNEjeRPUfRV6A36ic=
+
+Name: org/eclipse/swt/internal/win32/BLENDFUNCTION.java
+SHA1-Digest: CI8vyOvHgqQa5O2P/au118z9xSU=
+
+Name: org/eclipse/swt/browser/WindowEvent.java
+SHA1-Digest: MMuzYLL891qP1+5uadEDgmGvJlk=
+
+Name: org/eclipse/swt/widgets/CoolItem.java
+SHA1-Digest: WIiwi5EntUsXzoTB60qDu2SMvjU=
+
+Name: org/eclipse/swt/internal/webkit/IWebMutableURLRequest.java
+SHA1-Digest: 0dPyGnaJrOlG24DEcvT6dVqUPUM=
+
+Name: org/eclipse/swt/widgets/Group.java
+SHA1-Digest: 8bJs24dtgfil3tdDJPXrX4shq/Y=
+
+Name: org/eclipse/swt/custom/TableTreeEditor.java
+SHA1-Digest: NQov6olXyjEUdeQr2iptLQ0vpCc=
+
+Name: org/eclipse/swt/internal/win32/OUTLINETEXTMETRIC.java
+SHA1-Digest: UWydmIMquCfXR9B7BX3v9H9SB1c=
+
+Name: org/eclipse/swt/events/TraverseListener.java
+SHA1-Digest: lTxVd2XZ8Dr5coe12pgiY0c7JnY=
+
+Name: org/eclipse/swt/custom/CTabFolder2Adapter.java
+SHA1-Digest: 2eVfJ+CGIeReeKWt9XM+johcS8E=
+
+Name: org/eclipse/swt/widgets/Button.java
+SHA1-Digest: ptsHwi2cqDdZ7zzrtbMsR5BriLg=
+
+Name: org/eclipse/swt/internal/ole/win32/IEnumSTATSTG.java
+SHA1-Digest: AITGhp5NzbfKWlL5lBYWxOXk780=
+
+Name: org/eclipse/swt/internal/mozilla/nsIAuthInformation.java
+SHA1-Digest: t3xrvYN7SO/scFOn2bZkatJaXcA=
+
+Name: org/eclipse/swt/custom/TreeEditor.java
+SHA1-Digest: jNTCIy7AerdvHEKIeR84Q72A5As=
+
+Name: org/eclipse/swt/graphics/ImageData.java
+SHA1-Digest: 7+FGXbq/loTHPoEtYjL4EzSuQwg=
+
+Name: org/eclipse/swt/graphics/Color.java
+SHA1-Digest: 7zjvyac/eRR1x+8D+KW6wmjzqho=
+
+Name: org/eclipse/swt/internal/gdip/Gdip.java
+SHA1-Digest: yqaNRdPkqFGnEAhmhavazKk4Up8=
+
+Name: org/eclipse/swt/browser/WindowCreator2.java
+SHA1-Digest: iyAiZowB+b0K3mZ/BHsPM5Mt0Bw=
+
+Name: org/eclipse/swt/internal/ole/win32/IStream.java
+SHA1-Digest: g3Uj5x8I8H0oUJzQU/ip8JeyOS0=
+
+Name: swt_awt.c
+SHA1-Digest: iYJxH+oXkWhUNPQaUr16AMOu/UI=
+
+Name: org/eclipse/swt/internal/mozilla/nsICookieService.java
+SHA1-Digest: +ywC2sgZf6UrtS6CsXSn1n/FBeI=
+
+Name: org/eclipse/swt/widgets/ToolBar.java
+SHA1-Digest: bF1WE6ge4CagV/jCS/8RlwtgCpU=
+
+Name: org/eclipse/swt/widgets/Spinner.java
+SHA1-Digest: KwqKymmZ0nL1DglD9fWAwG3oCYU=
+
+Name: org/eclipse/swt/internal/gdip/PointF.java
+SHA1-Digest: NPIdRzyfP0x+dWxF9RYUxPtxeAI=
+
+Name: org/eclipse/swt/internal/webkit/IWebPreferences.java
+SHA1-Digest: 38yYrIIUmMEdQGaQDqjeeA0puko=
+
+Name: org/eclipse/swt/custom/MovementEvent.java
+SHA1-Digest: DVQLhnIL3ZB5ee96X2sVa+XDias=
+
+Name: org/eclipse/swt/internal/win32/COMBOBOXINFO.java
+SHA1-Digest: fGoa6q2fGXuyDmavz/kFZrdQMo0=
+
+Name: org/eclipse/swt/internal/win32/GUITHREADINFO.java
+SHA1-Digest: zGEgk6KjIIFH7fES1QY/XYvMW0M=
+
+Name: org/eclipse/swt/custom/CLabel.java
+SHA1-Digest: wSPEELWpAbvz5zpF+vMVrRf4pKo=
+
+Name: org/eclipse/swt/internal/webkit/IWebView.java
+SHA1-Digest: txwWmqWB5508J86LLVn18dAxrm4=
+
+Name: org/eclipse/swt/internal/mozilla/nsISimpleEnumerator.java
+SHA1-Digest: HSHYBd1TYHtX+6H3ylh/cHW0o9E=
+
+Name: org/eclipse/swt/internal/mozilla/nsIWebBrowserStream.java
+SHA1-Digest: PdLE4VolPcL9QCLyRT36g0UMFBc=
+
+Name: org/eclipse/swt/internal/win32/LOGFONTW.java
+SHA1-Digest: t662H2egNABGUwx4XAL9k431Kb0=
+
+Name: org/eclipse/swt/widgets/Widget.java
+SHA1-Digest: s0fNoyEV+r69aNW5IKYz2zmGx24=
+
+Name: org/eclipse/swt/widgets/Sash.java
+SHA1-Digest: aZZaizMl53LIbr5EVCKIK7ZRLk0=
+
+Name: org/eclipse/swt/layout/RowData.java
+SHA1-Digest: s617hoOAm6YpmWXXRr6VAcly1CQ=
+
+Name: org/eclipse/swt/internal/win32/NMUPDOWN.java
+SHA1-Digest: sZJtiItNrmn7qOstE6x4dYfFTZ4=
+
+Name: org/eclipse/swt/custom/StyledTextRenderer.java
+SHA1-Digest: 6M8+C/K9i2HRgZJJRJmB4OEgh9A=
+
+Name: org/eclipse/swt/custom/MovementListener.java
+SHA1-Digest: 8D7NRyxECZXG/PmwcKeVjAMUpb0=
+
+Name: org/eclipse/swt/internal/ole/win32/IDragSourceHelper.java
+SHA1-Digest: mVfXZsunevV+caCuwD8ofJNhG4o=
+
+Name: org/eclipse/swt/browser/WebDownloadDelegate.java
+SHA1-Digest: Gtym8lboyvHpPWG4H/veZ3kMlhg=
+
+Name: org/eclipse/swt/internal/mozilla/nsIBaseWindow.java
+SHA1-Digest: ow1iiltWQF8+su1/QYkSJbp6E1c=
+
+Name: org/eclipse/swt/widgets/Listener.java
+SHA1-Digest: FXZen6rpuDKpVlgW8QAWzdWm7N4=
+
+Name: org/eclipse/swt/internal/mozilla/nsIPrefLocalizedString.java
+SHA1-Digest: BBOSC/zOP4flvB5XAN04+hAMvRY=
+
+Name: xpcominit_stats.cpp
+SHA1-Digest: dl7S3yDJKG5WEY3TvwZL5JFTH7c=
+
+Name: org/eclipse/swt/internal/win32/OSVERSIONINFOEX.java
+SHA1-Digest: FlQ4vJiTB82jOkxw5jctsql7OoY=
+
+Name: org/eclipse/swt/widgets/ExpandItem.java
+SHA1-Digest: ZdLH6Ywbo98yb6LqUinBrqQuplo=
+
+Name: org/eclipse/swt/internal/mozilla/nsIObserverService.java
+SHA1-Digest: Idu24b8ZENIVrgg+6tXqOOMt1Js=
+
+Name: org/eclipse/swt/internal/ole/win32/COSERVERINFO.java
+SHA1-Digest: inDBa/jHYD4RlwpYHwhCN1beh1s=
+
+Name: org/eclipse/swt/internal/win32/PROPERTYKEY.java
+SHA1-Digest: QU2GC8GLS2GZfnyueC99Ai9PHz4=
+
+Name: org/eclipse/swt/internal/image/PngTrnsChunk.java
+SHA1-Digest: CWpJYQM/hSIEe4qQUF5Il/m4ShM=
+
+Name: org/eclipse/swt/internal/mozilla/nsIComponentRegistrar.java
+SHA1-Digest: Jhqkn/57CIxNJ9p6l5UMOB0PFNg=
+
+Name: org/eclipse/swt/internal/ole/win32/CAUUID.java
+SHA1-Digest: 7vNzUOe2ykBhJ4hmyO6RscxieWQ=
+
+Name: org/eclipse/swt/ole/win32/OleListener.java
+SHA1-Digest: MGu8t4sM9T7pJcLRdWl8L/YBwTw=
+
+Name: org/eclipse/swt/internal/ole/win32/IOleInPlaceActiveObject.java
+SHA1-Digest: hLt83WdsI3XotWi/vPHnlLt/m8M=
+
+Name: xpcom.h
+SHA1-Digest: dNz1W8VuYtv1AEkkHsqvmm6FnsQ=
+
+Name: org/eclipse/swt/internal/image/PngIdatChunk.java
+SHA1-Digest: UwzO3mcFQmZa7wzRYb/4RPLYvUE=
+
+Name: org/eclipse/swt/internal/win32/DEVMODEA.java
+SHA1-Digest: WkPuA1keOsWWi+3Hv3go2qwAkl0=
+
+Name: org/eclipse/swt/internal/webkit/IWebDataSource.java
+SHA1-Digest: BWRq5GULaeiWqS6rdTHUEw9Lrwc=
+
+Name: org/eclipse/swt/browser/BrowserFactory.java
+SHA1-Digest: L95KQJfvUU768hg3b1fmygZvPRY=
+
+Name: org/eclipse/swt/internal/ole/win32/OLECMDTEXT.java
+SHA1-Digest: IUUQ/MumDmqcQi9iab8RgWIy8Zw=
+
+Name: webkit_win32_stats.h
+SHA1-Digest: qaTPL2g13qQE72bBRf++pUb1g0E=
+
+Name: org/eclipse/swt/custom/TextChangingEvent.java
+SHA1-Digest: mXPGoFMcI4QdsMA4zyK3Vt7+JLQ=
+
+Name: org/eclipse/swt/internal/mozilla/nsITooltipListener.java
+SHA1-Digest: D3lJdVCKtqaXlgpHyGHwaJF0R20=
+
+Name: org/eclipse/swt/internal/win32/LVITEM.java
+SHA1-Digest: LVSBxGAfKpiFladUL1Twx8eok6M=
+
+Name: org/eclipse/swt/browser/VisibilityWindowListener.java
+SHA1-Digest: nvDD9pF+RBTULojap7dHAnHVVqU=
+
+Name: org/eclipse/swt/widgets/IME.java
+SHA1-Digest: TXLkvdovxOPoRj/uy6JH1Gh0PqE=
+
+Name: org/eclipse/swt/internal/mozilla/nsICategoryManager.java
+SHA1-Digest: kZkGwWHh1GpVt+tKU6vgZHQK6fU=
+
+Name: org/eclipse/swt/internal/mozilla/nsIScriptSecurityManager_1_9.ja
+ va
+SHA1-Digest: Y1EbdBDeavElLEFBI12aKS5ixNA=
+
+Name: org/eclipse/swt/internal/win32/NMTTCUSTOMDRAW.java
+SHA1-Digest: iOZaGLwH1+Zft7k0SUmUIrSaE8Q=
+
+Name: org/eclipse/swt/internal/mozilla/nsIProgressDialog_1_8.java
+SHA1-Digest: BrgM1xCQVueySHrf3MMgo+U7uHg=
+
+Name: org/eclipse/swt/browser/FilePicker.java
+SHA1-Digest: zzygRsLsbnbxgvHSmC7yUZyUL9U=
+
+Name: org/eclipse/swt/internal/win32/EXTLOGPEN.java
+SHA1-Digest: PQ7BHd4w1v+iJ9vl76lI4si35vM=
+
+Name: org/eclipse/swt/internal/mozilla/nsILocalFile.java
+SHA1-Digest: 12EIkbiZbo+AfS+RCGMam83B5fk=
+
+Name: org/eclipse/swt/custom/LineBackgroundListener.java
+SHA1-Digest: is+ijtgq1jINABs/ORNEiYs9Jdo=
+
+Name: org/eclipse/swt/internal/win32/MENUINFO.java
+SHA1-Digest: CTKkW4FXRxHE2xAqDs9Z328lCjY=
+
+Name: org/eclipse/swt/internal/mozilla/nsIDirectoryServiceProvider.jav
+ a
+SHA1-Digest: K1uYuUzuYtj9gil3pzLjAFWOX4c=
+
+Name: org/eclipse/swt/internal/ole/win32/VARDESC.java
+SHA1-Digest: Z8ifM/pMdNd5Kw4gsJNdzqWCOx8=
+
+Name: org/eclipse/swt/graphics/Rectangle.java
+SHA1-Digest: R9IcwYfpipXeEzyqYM32ei516AM=
+
+Name: org/eclipse/swt/widgets/RunnableLock.java
+SHA1-Digest: ULWUpmBrJhOVDcn4mWxXgH59zms=
+
+Name: org/eclipse/swt/internal/win32/OS.java
+SHA1-Digest: MqMW5MxaqjJzSC987GigCJETt70=
+
+Name: org/eclipse/swt/internal/mozilla/nsIWindowCreator.java
+SHA1-Digest: Kez/DIi68mzsXlI5T2QvePVItss=
+
+Name: gdip.cpp
+SHA1-Digest: ejgILtxM+O/qslGqTgngjxtqElQ=
+
+Name: os_stats.c
+SHA1-Digest: q+U6Q2ZL5KDjiIgWHESaThj0urM=
+
+Name: org/eclipse/swt/ole/win32/OleAutomation.java
+SHA1-Digest: pepblbZ9uPdKIV4L7SspyHawt+Q=
+
+Name: os_stats.h
+SHA1-Digest: BsI1LmvkGwtVLOFVu392XoQ+CYU=
+
+Name: org/eclipse/swt/widgets/ToolTip.java
+SHA1-Digest: /JtC8OMjfJGMaizoq+2lqzQWZC0=
+
+Name: org/eclipse/swt/browser/Browser.java
+SHA1-Digest: 8LA9xmuBOvvt16QcPrelclOvANY=
+
+Name: org/eclipse/swt/events/TouchListener.java
+SHA1-Digest: 5AAEYw7o0PH/NarZDDbk0R+s38I=
+
+Name: org/eclipse/swt/printing/PrintDialog.java
+SHA1-Digest: eq5mLe0Rg3ciWS3LuqSpjrikQw0=
+
+Name: swt_xpcom.rc
+SHA1-Digest: pN61RzPuWfqJjj/YJz8L8dMd7CA=
+
+Name: org/eclipse/swt/accessibility/AccessibleValueAdapter.java
+SHA1-Digest: lddwPqkb3uwiIoX+fTSBouhMgdU=
+
+Name: org/eclipse/swt/internal/image/PngIendChunk.java
+SHA1-Digest: /ZuFlzc9KEO+8GFz8A+mh4Wy82E=
+
+Name: org/eclipse/swt/events/MouseTrackAdapter.java
+SHA1-Digest: nCbmAmuA0PKYeDN2/62aGQECMIA=
+
+Name: org/eclipse/swt/widgets/Label.java
+SHA1-Digest: LLiS98XGquL1/e6NkDXgVIEklJs=
+
+Name: fragment.properties
+SHA1-Digest: /dRItVTqzRDVP0D/K0xRuqsivmU=
+
+Name: org/eclipse/swt/internal/image/JPEGFrameHeader.java
+SHA1-Digest: QfJkwdEQ3YltAgbsz5+E+jie6qg=
+
+Name: make_wince.mak
+SHA1-Digest: pV66pb867KUnbNCdlQqIaxxQUU8=
+
+Name: org/eclipse/swt/graphics/Transform.java
+SHA1-Digest: nAnBEEZkygeNQj3er5Lg4DB2hzw=
+
+Name: org/eclipse/swt/internal/image/JPEGVariableSizeSegment.java
+SHA1-Digest: SnjoW5xTGAYOKLNxvF7qIwvpSos=
+
+Name: org/eclipse/swt/internal/mozilla/nsICertificateDialogs.java
+SHA1-Digest: 7/rUJKbNDbnIYkBECYoUC2L8Dbo=
+
+Name: org/eclipse/swt/internal/win32/NMTVITEMCHANGE.java
+SHA1-Digest: cn71vb2mCB1ltVFcYSqmQ2R8twI=
+
+Name: nsIScriptContext.h
+SHA1-Digest: PiYDTDGmasetJ8pB5cFuZenTxlU=
+
+Name: org/eclipse/swt/internal/win32/SCRIPT_ITEM.java
+SHA1-Digest: X7DbY9Qg83APjYrwqdIAD8GeaDs=
+
+Name: org/eclipse/swt/custom/SashForm.java
+SHA1-Digest: j+Izvn7SaxGr3Mc42FLw7hUSWXE=
+
+Name: org/eclipse/swt/ole/win32/OleEventSink.java
+SHA1-Digest: yL0wj7ebQw5PoGELDcZQyJHZu5s=
+
+Name: org/eclipse/swt/internal/theme/ScaleDrawData.java
+SHA1-Digest: +WmwzhDaQkpCrFAfvM87mVW03KE=
+
+Name: org/eclipse/swt/events/ModifyListener.java
+SHA1-Digest: J2lz6ozdpTdfS/0VI0VeG+ra7GY=
+
+Name: org/eclipse/swt/internal/ole/win32/EXCEPINFO.java
+SHA1-Digest: mGqtdyxemyMqdKAtoFGs7e8ekNw=
+
+Name: org/eclipse/swt/custom/VerifyKeyListener.java
+SHA1-Digest: 0YQk2kMl+CTu3mOwOMo/G2MtlDU=
+
+Name: org/eclipse/swt/internal/win32/BROWSEINFO.java
+SHA1-Digest: fj31wP1dgAGoak0FfD72/XPaLvk=
+
+Name: org/eclipse/swt/internal/win32/SHACTIVATEINFO.java
+SHA1-Digest: 8zWOzKorGdEwhOToRajEOOm/bWY=
+
+Name: org/eclipse/swt/internal/mozilla/nsIInputStream.java
+SHA1-Digest: BQHWpbg6Qtwg0ope4eVCezGxCvE=
+
+Name: org/eclipse/swt/internal/theme/ToolBarDrawData.java
+SHA1-Digest: dDC4j7bDRmUpIim0vv2kwIgAoj0=
+
+Name: org/eclipse/swt/internal/ole/win32/STGMEDIUM.java
+SHA1-Digest: jJkepPcVy+1bDv6d+faewphSdP0=
+
+Name: org/eclipse/swt/events/ModifyEvent.java
+SHA1-Digest: qH2c8MbjDM/AyWqK2TCOicYzHFQ=
+
+Name: org/eclipse/swt/accessibility/AccessibleControlAdapter.java
+SHA1-Digest: KxfzKfpoojYcDbgUHBW93MO0sHQ=
+
+Name: org/eclipse/swt/internal/ole/win32/IOleObject.java
+SHA1-Digest: rxfdIQe6+vzNvnZmC8dAIZd6Ng8=
+
+Name: org/eclipse/swt/internal/webkit/IWebFrame.java
+SHA1-Digest: dK18Nvm9BJyW1+xqHTv9TjtdAks=
+
+Name: org/eclipse/swt/accessibility/AccessibleEditableTextAdapter.java
+SHA1-Digest: H/BzqaKZAETCjkPczExU560tQbk=
+
+Name: org/eclipse/swt/browser/SimpleEnumerator.java
+SHA1-Digest: JOM5VxKv4UWDA0hW2sRpAe7FuN4=
+
+Name: org/eclipse/swt/program/Program.java
+SHA1-Digest: 7nKQnPqksYxYSsfthVmh8frpvec=
+
+Name: org/eclipse/swt/widgets/TreeColumn.java
+SHA1-Digest: 5nJHlPC0NWViO7bWxje8CKkG45o=
+
+Name: org/eclipse/swt/internal/win32/LVINSERTMARK.java
+SHA1-Digest: wGf4VoXVlHIcnrj44pY9HbcAMHY=
+
+Name: org/eclipse/swt/internal/webkit/IWebPolicyDecisionListener.java
+SHA1-Digest: YwNRAjXpUje2KWDdLObLTSrAbYc=
+
+Name: org/eclipse/swt/events/MouseListener.java
+SHA1-Digest: ylcjrU0+XQngoprKhasUCx4+p94=
+
+Name: org/eclipse/swt/events/MenuDetectEvent.java
+SHA1-Digest: z5NhnQY9SDlUPWQLQYHp0VlYUO0=
+
+Name: org/eclipse/swt/internal/win32/TEXTMETRIC.java
+SHA1-Digest: xHCSLQID5f9qPIvuM3Uw8Erby7M=
+
+Name: org/eclipse/swt/internal/theme/TabItemDrawData.java
+SHA1-Digest: 8KmTB2H7OveYOKFbqf3IbhntA00=
+
+Name: org/eclipse/swt/internal/image/WinBMPFileFormat.java
+SHA1-Digest: HURXJoSHGwzFwfRUEz2HHaxbL8g=
+
+Name: org/eclipse/swt/internal/gdip/Rect.java
+SHA1-Digest: SnxF4YJqEKbgchQhKOELzuKgD3c=
+
+Name: org/eclipse/swt/internal/win32/SHFILEINFOA.java
+SHA1-Digest: jUOOcd+tnYEbDjrlaCVjpADm8/g=
+
+Name: org/eclipse/swt/internal/mozilla/nsIDownload.java
+SHA1-Digest: F/xe0zSEn+WT63VbUMBk/u3BR+o=
+
+Name: org/eclipse/swt/graphics/FontData.java
+SHA1-Digest: Z75OBjB7FPUv701Mu3ng2fl3+p4=
+
+Name: org/eclipse/swt/internal/mozilla/nsIDataType.java
+SHA1-Digest: fYTNiTPB3a/uB0X8KeXRmRQzNk4=
+
+Name: org/eclipse/swt/internal/mozilla/nsIWindowWatcher.java
+SHA1-Digest: BA1Tfw41oOydNOXYNmW8qvpQxx8=
+
+Name: org/eclipse/swt/custom/PaintObjectListener.java
+SHA1-Digest: oUZL3JJ+ThjMbTegug+yEcMpEF0=
+
+Name: org/eclipse/swt/browser/StatusTextEvent.java
+SHA1-Digest: K6zPQpmBwD3VqNC7/gTZLq14vrM=
+
+Name: org/eclipse/swt/dnd/TransferData.java
+SHA1-Digest: 5hXJzcfo90ZGJWOB3kSJqpHSs6Y=
+
+Name: org/eclipse/swt/internal/mozilla/nsIWebBrowser.java
+SHA1-Digest: xvgZ50cjmCu9TpAwU/icpQJ8KoQ=
+
+Name: org/eclipse/swt/internal/win32/DLLVERSIONINFO.java
+SHA1-Digest: UKkaG4Lx4a8/OKO6j5teHtTwiok=
+
+Name: org/eclipse/swt/internal/webkit/IWebMutableURLRequestPrivate.jav
+ a
+SHA1-Digest: voGgYcfxlgilcYAbfXyjpb8k0oQ=
+
+Name: org/eclipse/swt/custom/ExtendedModifyListener.java
+SHA1-Digest: vml4IoKIEFMPO0PLgL1ztt9EAiw=
+
+Name: org/eclipse/swt/ole/win32/OleFrame.java
+SHA1-Digest: iDIiOhatFJS4+l1qVQP93fl/E48=
+

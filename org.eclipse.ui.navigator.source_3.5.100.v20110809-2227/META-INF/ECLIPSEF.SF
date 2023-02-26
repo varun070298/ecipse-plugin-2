@@ -1,0 +1,551 @@
+Signature-Version: 1.0
+SHA1-Digest-Manifest: QeSLYZCM8WAzleGIbHwIO10RfEI=
+Created-By: 1.6.0 (IBM Corporation)
+SHA1-Digest-Manifest-Main-Attributes: 730XwQe5O1W4RQO6GaSpP0k+41A=
+
+Name: org/eclipse/ui/navigator/INavigatorViewerDescriptor.java
+SHA1-Digest: MKpL9nFejy8YEaSUGd2JVUyxnqo=
+
+Name: org/eclipse/ui/internal/navigator/extensions/SkeletonLinkHelper.
+ java
+SHA1-Digest: 2cXzaamHstMURd7FiSbi+HXEyLU=
+
+Name: org/eclipse/ui/internal/navigator/NavigatorSaveablesService.java
+SHA1-Digest: d46kWq6YC0bl2LbKPFlnSrLPFC0=
+
+Name: org/eclipse/ui/internal/navigator/wizards/CommonWizardDescriptor
+ .java
+SHA1-Digest: JLrPj4On+Pk8eEhMnFEu2sWFQU4=
+
+Name: org/eclipse/ui/navigator/IExtensionStateModel.java
+SHA1-Digest: EbnKAagFa9M25g8Tr6Cea06Cnmw=
+
+Name: org/eclipse/ui/internal/navigator/filters/SkeletonViewerFilter.j
+ ava
+SHA1-Digest: INk23seWBOK0VipxCoZztqq90Hg=
+
+Name: org/eclipse/ui/internal/navigator/dnd/CommonDropDescriptorManage
+ r.java
+SHA1-Digest: 6h1CMaM2KyelLA7dF9beYj1miuY=
+
+Name: org/eclipse/ui/internal/navigator/CommonViewerSiteDelegate.java
+SHA1-Digest: wsA9b3MxCbUi12kSqBA7dLAmlVI=
+
+Name: org/eclipse/ui/internal/navigator/framelist/TreeFrame.java
+SHA1-Digest: x7WRjb9iVclgu5tqKoyNkSnmfQo=
+
+Name: org/eclipse/ui/internal/navigator/NavigatorFilterService.java
+SHA1-Digest: toln39YqrPG77ajLd9c+mXOYKJU=
+
+Name: org/eclipse/ui/navigator/INavigatorSaveablesService.java
+SHA1-Digest: Fo36vSiDH6E8yUt6GZPbcEYuepQ=
+
+Name: org/eclipse/ui/internal/navigator/NavigatorDecoratingLabelProvid
+ er.java
+SHA1-Digest: SKC/Hb9Oqx2wlJEvP+lpU9Rn4ko=
+
+Name: org/eclipse/ui/internal/navigator/extensions/SkeletonTreeContent
+ Provider.java
+SHA1-Digest: DRGeth7PWznzljbpOUXWphAVcKk=
+
+Name: org/eclipse/ui/navigator/INavigatorPipelineService.java
+SHA1-Digest: Ec2At4BdfIAguhqKz3POlcCEqbo=
+
+Name: org/eclipse/ui/internal/navigator/extensions/CommonExtensionSite
+ .java
+SHA1-Digest: F9QecdBYx82I20nfikLQUL3xrH8=
+
+Name: org/eclipse/ui/internal/navigator/AdaptabilityUtility.java
+SHA1-Digest: AVcQBzWKQ70jxpHgScrPEy0jRUA=
+
+Name: org/eclipse/ui/navigator/CommonNavigatorManager.java
+SHA1-Digest: o+rt7KFZ6CO81e3tSZ4pXxgv28M=
+
+Name: org/eclipse/ui/navigator/WizardActionGroup.java
+SHA1-Digest: 3QeOGYzNtAAzYSq7mi4KWBzkJQU=
+
+Name: org/eclipse/ui/navigator/CommonViewer.java
+SHA1-Digest: zQ5/N+P7tlW3OIn5eu6a4X9C3iA=
+
+Name: org/eclipse/ui/navigator/ICommonActionExtensionSite.java
+SHA1-Digest: xVj92OPISxts97F6iZqpmmd9xOw=
+
+Name: org/eclipse/ui/internal/navigator/filters/CommonFilterSelectionD
+ ialog.java
+SHA1-Digest: VvaJOVkTvLU5zcxgHIW+3Yga+lY=
+
+Name: org/eclipse/ui/internal/navigator/extensions/SkeletonCommonDragA
+ ssistant.java
+SHA1-Digest: sPC2X7TyUb0pBt2W668yRflfDtE=
+
+Name: org/eclipse/ui/internal/navigator/actions/CollapseAllAction.java
+SHA1-Digest: pum75PoPSBY8sLBGTSKKGAZjmsU=
+
+Name: org/eclipse/ui/internal/navigator/extensions/LinkHelperDescripto
+ r.java
+SHA1-Digest: YN0Vg5dOIuKkyxnO8dL2mXXW4iY=
+
+Name: org/eclipse/ui/internal/navigator/filters/UpdateActiveExtensions
+ Operation.java
+SHA1-Digest: nkbO66SonvAj8NyvBooQ5qXgiHQ=
+
+Name: org/eclipse/ui/internal/navigator/NavigatorExtensionStateService
+ .java
+SHA1-Digest: UPStCe1sOjOO9iJ5orpCsIhMRd0=
+
+Name: org/eclipse/ui/internal/navigator/dnd/CommonDropAdapterDescripto
+ r.java
+SHA1-Digest: V4nUf4wgsGFxm8b08mjb9a0qdZI=
+
+Name: org/eclipse/ui/internal/navigator/NavigatorActivationService.jav
+ a
+SHA1-Digest: 79YejIbsSkL10qrQhlr2bKyGKkQ=
+
+Name: org/eclipse/ui/internal/navigator/filters/CoreExpressionFilter.j
+ ava
+SHA1-Digest: MiYR7EmFDV5N+vizndzE7JyHGtw=
+
+Name: org/eclipse/ui/internal/navigator/extensions/SkeletonLabelProvid
+ er.java
+SHA1-Digest: V26T10KKCgEdGdxZgPOeSnJ+8+c=
+
+Name: org/eclipse/ui/internal/navigator/CommonNavigatorFrameSource.jav
+ a
+SHA1-Digest: Hc8xj3b7oaX6Rm2ksH7HeC/y8E4=
+
+Name: org/eclipse/ui/navigator/INavigatorContentServiceListener.java
+SHA1-Digest: BkuyKNSpQjX0+AiI9QHwqsnn8L0=
+
+Name: schema/viewer.exsd
+SHA1-Digest: HfqP8DKGnFJ0Gn6AreiNsNVvAGI=
+
+Name: org/eclipse/ui/navigator/INavigatorSorterService.java
+SHA1-Digest: 4U9v6dqG2412l09cI0sCFUxANcs=
+
+Name: org/eclipse/ui/internal/navigator/filters/ToggleFilterAction.jav
+ a
+SHA1-Digest: IL4yIWROGRryRj7lAObp7OW8IWE=
+
+Name: org/eclipse/ui/internal/navigator/filters/CustomizationTab.java
+SHA1-Digest: E5uAEtu2gSsERQ99+z7Ez23LnGk=
+
+Name: org/eclipse/ui/internal/navigator/filters/CommonFilterContentPro
+ vider.java
+SHA1-Digest: UOzJClJ1S4G9Vmi+KiNIxzrN090=
+
+Name: org/eclipse/ui/internal/navigator/actions/LinkEditorAction.java
+SHA1-Digest: VN86sXAW63OrLv+P8jYmNruMF70=
+
+Name: org/eclipse/ui/navigator/CommonDragAdapter.java
+SHA1-Digest: +N4JWQMLriGk2J6tnW9/oJ2oqfM=
+
+Name: org/eclipse/ui/internal/navigator/CommonViewerSiteIEditorPartSit
+ eDelegate.java
+SHA1-Digest: vPKSqKHFSr944qYhDbWZ83KAMbo=
+
+Name: org/eclipse/ui/internal/navigator/extensions/NavigatorViewerDesc
+ riptorManager.java
+SHA1-Digest: sP5RyL3DBnd2VefHUADJdlzeC70=
+
+Name: org/eclipse/ui/internal/navigator/sorters/CommonSorterDescriptor
+ .java
+SHA1-Digest: QRr8zgesW+xCNjzjTh5rNKY7vSM=
+
+Name: org/eclipse/ui/internal/navigator/extensions/LinkHelperManager.j
+ ava
+SHA1-Digest: 5dmJBHgsCesyg9zAyybp63qOGy4=
+
+Name: org/eclipse/ui/internal/navigator/extensions/Binding.java
+SHA1-Digest: JnSSGZveFYuW7WgQVFjPT2xg5Go=
+
+Name: org/eclipse/ui/navigator/NavigatorActionService.java
+SHA1-Digest: SWvKaw6m7RYELtAtbDQnZTg/alU=
+
+Name: org/eclipse/ui/internal/navigator/framelist/FrameList.java
+SHA1-Digest: Lpw/UoNgSqPE1zFxVOvpN4mJgNU=
+
+Name: org/eclipse/ui/internal/navigator/extensions/NavigatorContentExt
+ ension.java
+SHA1-Digest: 7TrJ1JGaxQd+QexVvuS2V/kGAK8=
+
+Name: org/eclipse/ui/navigator/IPipelinedTreeContentProvider2.java
+SHA1-Digest: iM9OlgRYjRKgXBngaPpnRUsWg8Y=
+
+Name: org/eclipse/ui/internal/navigator/StringMatcher.java
+SHA1-Digest: ykBJjsz/kUSZiJXyXneg10/q7+E=
+
+Name: org/eclipse/ui/internal/navigator/filters/SelectFiltersAction.ja
+ va
+SHA1-Digest: rxpw9Q/+VUQ3q+2t25QHpG4kxfM=
+
+Name: org/eclipse/ui/internal/navigator/CommonViewerSiteIPageSiteDeleg
+ ate.java
+SHA1-Digest: RcQ18cA331WPIkj0tXe+hxGZGHY=
+
+Name: org/eclipse/ui/navigator/PipelinedViewerUpdate.java
+SHA1-Digest: kkgBOdzxnlGZdqIlzjItyL0myJ8=
+
+Name: org/eclipse/ui/internal/navigator/sorters/NavigatorSorterService
+ .java
+SHA1-Digest: vgMnNn71Q+yuIatYvAPx0pgUCko=
+
+Name: org/eclipse/ui/internal/navigator/filters/ContentDescriptorConte
+ ntProvider.java
+SHA1-Digest: aNWkRJYC9zVoTHP/pUilRYCOQc8=
+
+Name: org/eclipse/ui/navigator/ICommonContentProvider.java
+SHA1-Digest: bXGiC/5GoPZGI6gwjgHXesqDcbE=
+
+Name: org/eclipse/ui/internal/navigator/ReusableViewerLabel.java
+SHA1-Digest: rY1prt/grl46kQVpwuJR2B2yN48=
+
+Name: org/eclipse/ui/internal/navigator/Policy.java
+SHA1-Digest: 6cRVSm/9lXcZgPwFQpQCtBGEtAc=
+
+Name: org/eclipse/ui/internal/navigator/sorters/SkeletonViewerSorter.j
+ ava
+SHA1-Digest: tRSIyDQC+KLWHgR6BpNqjHeYGkE=
+
+Name: org/eclipse/ui/internal/navigator/framelist/FrameListMessages.ja
+ va
+SHA1-Digest: zX3ogy+tBxaEKfYwMEhD4X1LPiQ=
+
+Name: org/eclipse/ui/navigator/INavigatorFilterService.java
+SHA1-Digest: 1S07aLg3jXezkirgWhaRr9kP06A=
+
+Name: org/eclipse/ui/internal/navigator/extensions/SafeDelegateCommonL
+ abelProvider.java
+SHA1-Digest: Z5GaNp6KX/NdQi5J2Y4EVvtX43c=
+
+Name: org/eclipse/ui/navigator/CommonDragAdapterAssistant.java
+SHA1-Digest: OkUAEsR0Rwc2LcmCuEEoY/Zort0=
+
+Name: org/eclipse/ui/internal/navigator/extensions/SkeletonActionProvi
+ der.java
+SHA1-Digest: 8Ab0HzrcXwcS9XSzCz3G//2KYLY=
+
+Name: org/eclipse/ui/internal/navigator/extensions/EvalutationReferenc
+ e.java
+SHA1-Digest: UH6HbUvGbq9zy3vKUWRBEQ63fe4=
+
+Name: org/eclipse/ui/internal/navigator/filters/CommonFilterDescriptor
+ .java
+SHA1-Digest: 9YF6Vw82VphBwB5kxT4jCyvouOI=
+
+Name: org/eclipse/ui/navigator/ICommonViewerMapper.java
+SHA1-Digest: Iuj1vqzdHks0EYoMjZHhnNa1ydU=
+
+Name: org/eclipse/ui/internal/navigator/dnd/NavigatorContentServiceTra
+ nsfer.java
+SHA1-Digest: iIu63+Rji5MF6fjSP3vRLOsEF+k=
+
+Name: org/eclipse/ui/internal/navigator/framelist/IFrameSource.java
+SHA1-Digest: N9rTelu36zE8ZpTqP7BjeWWEfW0=
+
+Name: org/eclipse/ui/navigator/IDescriptionProvider.java
+SHA1-Digest: nCCksrNz8nUV0D8hpbrZ0+WR+6w=
+
+Name: about.html
+SHA1-Digest: M+fykt9heyWoEv1LNiIEeBhi/2Q=
+
+Name: org/eclipse/ui/internal/navigator/framelist/BackAction.java
+SHA1-Digest: Txowzksk3GEfeZDWaN4CV4hvpzc=
+
+Name: org/eclipse/ui/navigator/ICommonContentExtensionSite.java
+SHA1-Digest: JIaoLW8ifxiL7LFOJSB8L5NDaU0=
+
+Name: org/eclipse/ui/internal/navigator/extensions/SafeDelegateTreeCon
+ tentProvider.java
+SHA1-Digest: sgkdeZzg+HGwR9skgbdpXRXqlwI=
+
+Name: org/eclipse/ui/navigator/MenuInsertionPoint.java
+SHA1-Digest: 4VecN/P9+qV8ewvOcEVBkkVqLPQ=
+
+Name: org/eclipse/ui/navigator/IExtensionActivationListener.java
+SHA1-Digest: SCuZ7rSiSgQ7A9S8sDpuXAe8Suc=
+
+Name: org/eclipse/ui/navigator/ICommonViewerWorkbenchSite.java
+SHA1-Digest: n9bUkwRoA0VdRZbvS6wkMWCq0qE=
+
+Name: org/eclipse/ui/internal/navigator/NavigatorSafeRunnable.java
+SHA1-Digest: rtxf46G8RLZZSPjc74qJFLB+DRc=
+
+Name: org/eclipse/ui/navigator/OverridePolicy.java
+SHA1-Digest: OjuTSYZcNKV1CymmJS5Mo58y8V0=
+
+Name: org/eclipse/ui/internal/navigator/framelist/FrameAction.java
+SHA1-Digest: G1/NVeQS3/F2Kuy5yf+Hn1pSmEw=
+
+Name: org/eclipse/ui/internal/navigator/extensions/INavigatorContentEx
+ tPtConstants.java
+SHA1-Digest: bHTV33yLFTe9l62dIWjhynBDHAs=
+
+Name: org/eclipse/ui/internal/navigator/filters/FilterActionGroup.java
+SHA1-Digest: 1HHyFbpbqZeSnle7KtRiyV3ufmo=
+
+Name: org/eclipse/ui/internal/navigator/extensions/RegistryReader.java
+SHA1-Digest: stIy6W32yTwt1qVlBwhqC8RxpOM=
+
+Name: org/eclipse/ui/internal/navigator/dnd/NavigatorPluginDropAction.
+ java
+SHA1-Digest: 1FHaYfV9f++q/I4+zP0L0DzrhTA=
+
+Name: org/eclipse/ui/navigator/CommonDropAdapter.java
+SHA1-Digest: e3AovQdyTll1UxptiLv4B1hiMCI=
+
+Name: org/eclipse/ui/navigator/INavigatorContentExtension.java
+SHA1-Digest: FwDWKPG0RcczvPPukZtDxGCHGsY=
+
+Name: org/eclipse/ui/internal/navigator/NavigatorContentServiceLabelPr
+ ovider.java
+SHA1-Digest: 7pRU4FRkSu8axgZ19RN+FV/tmmk=
+
+Name: org/eclipse/ui/internal/navigator/extensions/StructuredViewerMan
+ ager.java
+SHA1-Digest: eR6M8nGZ5ufZnRmNi2WvbvkXseY=
+
+Name: org/eclipse/ui/internal/navigator/extensions/IViewerExtPtConstan
+ ts.java
+SHA1-Digest: YVJUQTR+BwixzlpQ8KAUt3w8uXI=
+
+Name: org/eclipse/ui/navigator/INavigatorContentService.java
+SHA1-Digest: XTXkQ9no7Kqwd0qpojE7fHbUk94=
+
+Name: org/eclipse/ui/navigator/INavigatorDnDService.java
+SHA1-Digest: Ye2RAawdoZ35oCllatnuU2sbRZA=
+
+Name: org/eclipse/ui/navigator/CommonDropAdapterAssistant.java
+SHA1-Digest: NFbqaLjSiq1hEL02jzXgAlMcTvY=
+
+Name: org/eclipse/ui/internal/navigator/extensions/ExtensionSequenceNu
+ mberComparator.java
+SHA1-Digest: IwGQd5wTcfuztxdsqOveHx4PfeM=
+
+Name: org/eclipse/ui/navigator/ICommonActionConstants.java
+SHA1-Digest: Ckuflj66dRwci76K1osTrcqiLOc=
+
+Name: org/eclipse/ui/internal/navigator/extensions/ILinkHelperExtPtCon
+ stants.java
+SHA1-Digest: Hss3wE4Ja+O21Bks5zC6hN9m+WA=
+
+Name: org/eclipse/ui/internal/navigator/dnd/NavigatorDnDService.java
+SHA1-Digest: 5An4zklDo959/u+A7ZZJyGbUAwk=
+
+Name: org/eclipse/ui/internal/navigator/INavigatorHelpContextIds.java
+SHA1-Digest: EGV6OYtmtp4Gvs5HFCLXLzV5jtk=
+
+Name: org/eclipse/ui/navigator/INavigatorContentDescriptor.java
+SHA1-Digest: zzwGvl7tSuVbQUhham3r23+N79A=
+
+Name: org/eclipse/ui/internal/navigator/framelist/ForwardAction.java
+SHA1-Digest: Mvkq4bZenv9g71NgGSOZ6jfWCP8=
+
+Name: org/eclipse/ui/internal/navigator/framelist/TreeViewerFrameSourc
+ e.java
+SHA1-Digest: BCacE0l7SPuEy+0/u1aE7ucqgew=
+
+Name: org/eclipse/ui/internal/navigator/filters/UpdateActiveFiltersOpe
+ ration.java
+SHA1-Digest: 9KuusMTYjivtN9sPyVJZRtajogI=
+
+Name: org/eclipse/ui/internal/navigator/extensions/CommonContentExtens
+ ionSite.java
+SHA1-Digest: LeQWRRy/51+YwioT6MNDMpYlrvA=
+
+Name: schema/navigatorContent.exsd
+SHA1-Digest: aBQvdZGGQBc17e4eDCkXW7Zq1QU=
+
+Name: org/eclipse/ui/navigator/ICommonViewerSite.java
+SHA1-Digest: 9JFhiKhKP8J+5AgAg2IYyyHfYT0=
+
+Name: org/eclipse/ui/navigator/LinkHelperService.java
+SHA1-Digest: kMeQ7HQOAuPUMKi3HfNHWAiF+Po=
+
+Name: org/eclipse/ui/navigator/CommonNavigator.java
+SHA1-Digest: 8LwRIyBbZfiuqOCq+NfsePaNBIE=
+
+Name: META-INF/eclipse.inf
+SHA1-Digest: SAqY+5ITAL0mkdYeijlSRhyIaZk=
+
+Name: org/eclipse/ui/internal/navigator/VisibilityAssistant.java
+SHA1-Digest: sUwPoMo3fM2idfafMN9Sx4ZSQw8=
+
+Name: org/eclipse/ui/internal/navigator/NavigatorSiteEditor.java
+SHA1-Digest: TB0DmmK2z6FmqICg5EKIXzBuWvo=
+
+Name: org/eclipse/ui/navigator/Priority.java
+SHA1-Digest: ZM3qzkmhNa+wFToo+Lwesykz0nA=
+
+Name: org/eclipse/ui/internal/navigator/extensions/NavigatorContentDes
+ criptorManager.java
+SHA1-Digest: vHuV4QPtvDCZ4UWXij/0rIozNvU=
+
+Name: org/eclipse/ui/internal/navigator/sorters/CommonSorterDescriptor
+ Manager.java
+SHA1-Digest: okp2uF4zk0gAk0qlOV6rP5z+CQM=
+
+Name: org/eclipse/ui/internal/navigator/NavigatorContentServiceDescrip
+ tionProvider.java
+SHA1-Digest: 4w7VcDoVFQNCZSvGhxC5+5T20q4=
+
+Name: org/eclipse/ui/internal/navigator/extensions/INavigatorSiteEdito
+ r.java
+SHA1-Digest: NTFw8b5A0RQE0zQUN26UD5/XIw8=
+
+Name: org/eclipse/ui/navigator/PipelinedShapeModification.java
+SHA1-Digest: ATDKJVVaP9a4xf97rRiW/SIR+BA=
+
+Name: org/eclipse/ui/internal/navigator/framelist/UpAction.java
+SHA1-Digest: aothFRT9RA2ZID5R8UcpyziA9h4=
+
+Name: org/eclipse/ui/internal/navigator/actions/CommonActionProviderDe
+ scriptor.java
+SHA1-Digest: 4ivj7Oj8h35W9+iy9SfsRmFS/CU=
+
+Name: schema/linkHelper.exsd
+SHA1-Digest: NXqJnmy+Blcs2ivY1UlwsSvAVZ8=
+
+Name: org/eclipse/ui/internal/navigator/framelist/IFrameListHelpContex
+ tIds.java
+SHA1-Digest: RnZLplIDUvDt5IKhn5gKoEBMeu0=
+
+Name: org/eclipse/ui/internal/navigator/NavigatorContentService.java
+SHA1-Digest: bI5STXUCbOxh3ymKmUeRU1IYQSc=
+
+Name: org/eclipse/ui/navigator/ICommonLabelProvider.java
+SHA1-Digest: /S1bm4/MWAmqWyrWOI4CzkgXGDo=
+
+Name: org/eclipse/ui/internal/navigator/NavigatorImages.java
+SHA1-Digest: dAGP1hFS0/2KQ40voRz+f3JZGO4=
+
+Name: org/eclipse/ui/internal/navigator/filters/FilterDialogSelectionL
+ istener.java
+SHA1-Digest: ascRuczQGApL+E7ex4I8IcOlMwI=
+
+Name: org/eclipse/ui/internal/navigator/extensions/NavigatorContentDes
+ criptor.java
+SHA1-Digest: aQDOYqFYcGPACUAtzkjW4Pk09LU=
+
+Name: org/eclipse/ui/internal/navigator/actions/CommonActionDescriptor
+ Manager.java
+SHA1-Digest: GQ2VQtmSoDF1O81vXi0bHFDtNUg=
+
+Name: org/eclipse/ui/navigator/CommonViewerSorter.java
+SHA1-Digest: lRUYScbNkWeMG/NBBBsiJOFnUI4=
+
+Name: org/eclipse/ui/internal/navigator/framelist/Frame.java
+SHA1-Digest: dXq31ZbL2jZWnMYM+FthIDtuxfY=
+
+Name: org/eclipse/ui/internal/navigator/filters/CommonFilterDescriptor
+ Manager.java
+SHA1-Digest: tMMaeFNsJM2D0hZ32pggQTIK7LQ=
+
+Name: org/eclipse/ui/internal/navigator/framelist/GoIntoAction.java
+SHA1-Digest: LC+LwGdWXLA321fDcZLVisy7AfI=
+
+Name: plugin.properties
+SHA1-Digest: ssvpJLbTdCONuV2ljlGlbRDOUoo=
+
+Name: org/eclipse/ui/internal/navigator/dnd/SkeletonCommonDropAssistan
+ t.java
+SHA1-Digest: Tj4WzpeyvnA0PqlldJt0h1XK5Ew=
+
+Name: org/eclipse/ui/internal/navigator/extensions/NavigatorViewerDesc
+ riptor.java
+SHA1-Digest: 8V8tKaBMSTC8D/70zqjiHAXnG94=
+
+Name: org/eclipse/ui/internal/navigator/CommonNavigatorActionGroup.jav
+ a
+SHA1-Digest: xoKtGk5Ff9OooN55vnn+nlS/K8A=
+
+Name: org/eclipse/ui/internal/navigator/filters/ContentExtensionsTab.j
+ ava
+SHA1-Digest: 9JQMFDYIsRXv/+hpw9r1sFswGk0=
+
+Name: org/eclipse/ui/internal/navigator/extensions/ExtensionStateModel
+ .java
+SHA1-Digest: XZNvjoP1WfhZlK5x+c1SsIDyTuE=
+
+Name: org/eclipse/ui/navigator/ICommonFilterDescriptor.java
+SHA1-Digest: /MlJVkCyhr+zCUT69imU02x93NY=
+
+Name: org/eclipse/ui/internal/navigator/NavigatorContentServiceContent
+ Provider.java
+SHA1-Digest: wnk2nsx1FY2FnPGPKm2fEZr8tmY=
+
+Name: org/eclipse/ui/navigator/NavigatorContentServiceFactory.java
+SHA1-Digest: 3y7prrZNF0l2KZdyj0WJRVVKhno=
+
+Name: org/eclipse/ui/navigator/ILinkHelper.java
+SHA1-Digest: b7/iCqQDKoTEnpNHmp+d9aGLCko=
+
+Name: org/eclipse/ui/internal/navigator/wizards/WizardShortcutAction.j
+ ava
+SHA1-Digest: CUija+uiVTV47VMBY1f28lXSfEg=
+
+Name: org/eclipse/ui/navigator/IMementoAware.java
+SHA1-Digest: iboxcYaNsU2iczUcKvxohO9rS7U=
+
+Name: org/eclipse/ui/navigator/SaveablesProvider.java
+SHA1-Digest: stV14Nxko+zdY6uvggPsi1WfFBw=
+
+Name: org/eclipse/ui/internal/navigator/filters/CommonFilterLabelProvi
+ der.java
+SHA1-Digest: gup4RW2GikK+mmHNq4kSJDuCS8M=
+
+Name: org/eclipse/ui/internal/navigator/extensions/CommonActionExtensi
+ onSite.java
+SHA1-Digest: Nhd9OnaG8cuGKKoDuRs/XK16S64=
+
+Name: org/eclipse/ui/internal/navigator/NavigatorPlugin.java
+SHA1-Digest: kqIXk0UY+7acG9i0/RyJsELPq+Q=
+
+Name: org/eclipse/ui/navigator/CommonViewerSiteFactory.java
+SHA1-Digest: 63d8QctWCcwkXHd6IJrwNWaaS5g=
+
+Name: org/eclipse/ui/internal/navigator/TextActionHandler.java
+SHA1-Digest: 8GHLPDRXPIYA2wplOin2e0J2LKg=
+
+Name: org/eclipse/ui/internal/navigator/wizards/CommonWizardDescriptor
+ Manager.java
+SHA1-Digest: 9hvBMf6zEBuDyr1dcly8h9pBL6o=
+
+Name: org/eclipse/ui/internal/navigator/NavigatorPipelineService.java
+SHA1-Digest: +TGWsQGe2KJBsNyEi+x+kP812wk=
+
+Name: org/eclipse/ui/internal/navigator/CustomAndExpression.java
+SHA1-Digest: 4BzJ6B2+rLf9NNJHGiN89WweDgs=
+
+Name: org/eclipse/ui/navigator/ICommonMenuConstants.java
+SHA1-Digest: PVZ7aXzdyDUf/SlHR4BFZAl8uyI=
+
+Name: org/eclipse/ui/internal/navigator/filters/CommonFiltersTab.java
+SHA1-Digest: HTmOJmN5W126Jm2QXNxZzdlIloA=
+
+Name: org/eclipse/ui/internal/navigator/extensions/NavigatorContentReg
+ istryReader.java
+SHA1-Digest: M1djc/S1KbwZaE0RK8ZYjiG960k=
+
+Name: org/eclipse/ui/internal/navigator/CommonNavigatorMessages.java
+SHA1-Digest: slK2MEmu995uUWagINugc4KXTrE=
+
+Name: org/eclipse/ui/internal/navigator/extensions/CommonDragAssistant
+ Descriptor.java
+SHA1-Digest: tuFQAIDT48BLYu93W/OrB3TykzM=
+
+Name: org/eclipse/ui/internal/navigator/CommonViewerSiteIViewSiteDeleg
+ ate.java
+SHA1-Digest: rec05re0NTK3TRdkeiB4SWqFJH4=
+
+Name: org/eclipse/ui/navigator/IPipelinedTreeContentProvider.java
+SHA1-Digest: RvxAsbaDESV/iFsunKwBmu0ZjxQ=
+
+Name: org/eclipse/ui/internal/navigator/ContributorTrackingSet.java
+SHA1-Digest: CvJa1SnrYtkMuGavMAo1c0ImiVQ=
+
+Name: org/eclipse/ui/navigator/CommonActionProvider.java
+SHA1-Digest: mAjGaHdsDln2Z38bkMvRhgdbSGk=
+
+Name: org/eclipse/ui/navigator/INavigatorActivationService.java
+SHA1-Digest: N8Blcx4jppR2pU0k4lhrPlaDlbQ=
+

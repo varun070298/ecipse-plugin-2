@@ -1,0 +1,26 @@
+Manifest-Version: 1.0
+Eclipse-PlatformFilter: (osgi.ws=win32)
+Eclipse-SourceBundle: org.eclipse.ui.win32;version="3.2.200.I20100509-
+ 0800";roots:="."
+Bundle-Vendor: %providerName
+Bundle-Localization: fragment-win32
+Bundle-Name: %fragmentName
+Bundle-SymbolicName: org.eclipse.ui.win32.source
+Bundle-Version: 3.2.200.I20100509-0800
+Bundle-ManifestVersion: 2
+
+Name: fragment-win32.properties
+SHA1-Digest: hHTMzqC1iDxzzSKi0qq8yVcFR8k=
+
+Name: META-INF/eclipse.inf
+SHA1-Digest: KyT9FF7C7t86NoBoa2kZT3ZJBfw=
+
+Name: org/eclipse/ui/internal/editorsupport/win32/OleEditor.java
+SHA1-Digest: 8uS/NDE/RiqifW8nBhivhD0psfA=
+
+Name: org/eclipse/ui/internal/editorsupport/win32/OleMessages.java
+SHA1-Digest: /0VuBgwaX8GNnmNWYq87QLqmE6Y=
+
+Name: about.html
+SHA1-Digest: ejOZra0kypGLQQ2bJtGTX+LI8tU=
+

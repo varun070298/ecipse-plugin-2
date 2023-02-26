@@ -1,0 +1,137 @@
+Manifest-Version: 1.0
+Eclipse-SourceBundle: org.eclipse.pde.launching;version="3.6.0.v201105
+ 06";roots:="."
+Bundle-Vendor: %provider-name
+Bundle-Localization: plugin
+Bundle-Name: %name
+Bundle-SymbolicName: org.eclipse.pde.launching.source
+Bundle-Version: 3.6.0.v20110506
+Bundle-ManifestVersion: 2
+
+Name: org/eclipse/pde/internal/launching/launcher/PDEMigrationDelegate
+ .java
+SHA1-Digest: wT50+A5+aWyUYInplXzJt8uQ72U=
+
+Name: org/eclipse/pde/internal/launching/ILaunchingPreferenceConstants
+ .java
+SHA1-Digest: f1ThR+pN/dM5mhKsGE/GlSB5d84=
+
+Name: org/eclipse/pde/internal/launching/launcher/LaunchValidationOper
+ ation.java
+SHA1-Digest: i+7THHr7bBhBwlGwi0nBHdMrttY=
+
+Name: schema/osgiFrameworks.exsd
+SHA1-Digest: 6CCVM7c8dwH/Z4ipAAqE7SzRg5s=
+
+Name: org/eclipse/pde/internal/launching/PreferenceInitializer.java
+SHA1-Digest: zQtdS4cOjlBcjLdChVTfn7goz30=
+
+Name: org/eclipse/pde/launching/AbstractPDELaunchConfiguration.java
+SHA1-Digest: 0f9yq0dcft1jyMkjXLaj08X7AqA=
+
+Name: org/eclipse/pde/internal/launching/launcher/LaunchArgumentsHelpe
+ r.java
+SHA1-Digest: q9RUVmoEAm9ich4zpRhXv8RWI2Q=
+
+Name: org/eclipse/pde/internal/launching/launcher/LauncherUtils.java
+SHA1-Digest: 6uQLXgKGy9djaGvHepCHSzmm7DY=
+
+Name: org/eclipse/pde/internal/launching/launcher/EclipsePluginValidat
+ ionOperation.java
+SHA1-Digest: FzUb5O7ERj/BBseNfrb7DIpkYzY=
+
+Name: plugin.properties
+SHA1-Digest: y77AbxgbobIY077xMCwq5920r4E=
+
+Name: org/eclipse/pde/internal/launching/sourcelookup/PDESourceLookupQ
+ uery.java
+SHA1-Digest: i9TcDzMJoS+7bOGseYMAMsI4mAA=
+
+Name: org/eclipse/pde/internal/launching/launcher/OSGiValidationOperat
+ ion.java
+SHA1-Digest: 2tmhpRD7b6wN2fAHnGNzTEGWaLI=
+
+Name: org/eclipse/pde/internal/launching/sourcelookup/PDESourceLookupD
+ irector.java
+SHA1-Digest: W5sa/bIrt/MsKO5or0c2I5cLkgY=
+
+Name: org/eclipse/pde/internal/launching/launcher/EquinoxInitializer.j
+ ava
+SHA1-Digest: IKSjcT/h0E0mtDgzVrGk8KFjuDs=
+
+Name: org/eclipse/pde/launching/IPDELauncherConstants.java
+SHA1-Digest: nYtfN4CrGxrMS6aeGglSXBonUrc=
+
+Name: org/eclipse/pde/internal/launching/launcher/LaunchListener.java
+SHA1-Digest: BDu70PIPkhfA+gydluhKtcbmkl4=
+
+Name: org/eclipse/pde/launching/PDESourcePathProvider.java
+SHA1-Digest: zRplyYi8KzmE0uP609U3pJ1iCmM=
+
+Name: org/eclipse/pde/launching/OSGiLaunchConfigurationDelegate.java
+SHA1-Digest: RMGBoXl9cl4MH6famTHUAomUtEg=
+
+Name: org/eclipse/pde/internal/launching/launcher/ProductValidationOpe
+ ration.java
+SHA1-Digest: GfkHFYK2Cevp2M3/KwDnkAilNmI=
+
+Name: META-INF/eclipse.inf
+SHA1-Digest: KyT9FF7C7t86NoBoa2kZT3ZJBfw=
+
+Name: org/eclipse/pde/launching/JUnitLaunchConfigurationDelegate.java
+SHA1-Digest: UDB/lEu4zdrUTDlcZzz8O3/a5S0=
+
+Name: org/eclipse/pde/launching/EclipseApplicationLaunchConfiguration.
+ java
+SHA1-Digest: Drgu+Adf6hTXyYdPEL3RJuBjYtU=
+
+Name: org/eclipse/pde/internal/launching/launcher/LaunchConfigurationL
+ istener.java
+SHA1-Digest: 1GZBcxhpSvIqZ86RjlF2xGuXdpU=
+
+Name: org/eclipse/pde/internal/launching/IPDEConstants.java
+SHA1-Digest: E7gP5jXAB12c3Fp1G1s1Mkrmb9E=
+
+Name: about.html
+SHA1-Digest: ejOZra0kypGLQQ2bJtGTX+LI8tU=
+
+Name: org/eclipse/pde/internal/launching/launcher/LaunchConfigurationH
+ elper.java
+SHA1-Digest: YVI7/lPl6o6nZm9EQXFUmidARQE=
+
+Name: org/eclipse/pde/internal/launching/launcher/OSGiFrameworkManager
+ .java
+SHA1-Digest: 0c2YODicLUdLw7mndoYTHdjdU10=
+
+Name: org/eclipse/pde/internal/launching/launcher/RequirementHelper.ja
+ va
+SHA1-Digest: RxiYPX7CMi/Aj/qeocDI1bJz7Zk=
+
+Name: org/eclipse/pde/internal/launching/launcher/OSGiMigrationDelegat
+ e.java
+SHA1-Digest: ZOA4uH8R3lowW72EWR/p2y+2Rno=
+
+Name: org/eclipse/pde/internal/launching/launcher/BundleLauncherHelper
+ .java
+SHA1-Digest: 7ik6OBVxpRDqRkrsbLQozf37wGU=
+
+Name: org/eclipse/pde/internal/launching/launcher/LaunchPluginValidato
+ r.java
+SHA1-Digest: LkB7e0X8z2QMvAli6u2pkDnMPPo=
+
+Name: org/eclipse/pde/launching/EquinoxLaunchConfiguration.java
+SHA1-Digest: uZC72+0Q8e/SsX0uS0+srdVDAoc=
+
+Name: org/eclipse/pde/internal/launching/PDEMessages.java
+SHA1-Digest: Ajty2Y0kl3FfGJSz+tmktmGM2mo=
+
+Name: org/eclipse/pde/launching/OSGiLaunchConfigurationInitializer.jav
+ a
+SHA1-Digest: Ckm/bEEMoQjKdvO6i+m2KarBuVc=
+
+Name: org/eclipse/pde/internal/launching/launcher/VMHelper.java
+SHA1-Digest: UZKCHqYVplFWlvinpBwlq0BtePc=
+
+Name: org/eclipse/pde/internal/launching/PDELaunchingPlugin.java
+SHA1-Digest: ujYEE8TMTReXamrc2BP7iGHXfVE=
+

@@ -1,0 +1,543 @@
+Manifest-Version: 1.0
+Eclipse-SourceBundle: org.eclipse.ltk.core.refactoring;version="3.5.20
+ 1.r371_v20110824-0800";roots:="."
+Bundle-Vendor: %providerName
+Bundle-Localization: plugin
+Bundle-Name: %pluginName
+Bundle-SymbolicName: org.eclipse.ltk.core.refactoring.source
+Bundle-Version: 3.5.201.r371_v20110824-0800
+Bundle-ManifestVersion: 2
+
+Name: org/eclipse/ltk/core/refactoring/participants/ReorgExecutionLog.
+ java
+SHA1-Digest: SlzWgii8X3jEo8cL8qi1Zq4rnUE=
+
+Name: org/eclipse/ltk/core/refactoring/DocumentChange.java
+SHA1-Digest: Xt+e8GFFTjgWgwk12297hef9opg=
+
+Name: org/eclipse/ltk/core/refactoring/resource/DeleteResourcesDescrip
+ tor.java
+SHA1-Digest: wjBji74F25A3bEFu1eAVr1ygFck=
+
+Name: org/eclipse/ltk/core/refactoring/history/RefactoringExecutionEve
+ nt.java
+SHA1-Digest: ab15sENTHN8OgwfscWjWhnTvbcs=
+
+Name: org/eclipse/ltk/core/refactoring/IValidationCheckResultQueryFact
+ ory.java
+SHA1-Digest: +bjp2Fpy2VDxAUI5KzcuAUiMPFI=
+
+Name: org/eclipse/ltk/core/refactoring/participants/RefactoringProcess
+ or.java
+SHA1-Digest: d8XurgzdW1U0shOAHA27Y9F3neE=
+
+Name: org/eclipse/ltk/core/refactoring/RefactoringCore.java
+SHA1-Digest: zYzk8ZrpPO5t+ScfYuj6x6ws1UY=
+
+Name: schema/moveParticipants.exsd
+SHA1-Digest: H4zGpfL1Eq9jd24+uv1+o4YTHXY=
+
+Name: org/eclipse/ltk/internal/core/refactoring/resource/undostates/Fi
+ leUndoState.java
+SHA1-Digest: 4HxdQjcnA1jqTxqfu56WXatQxh8=
+
+Name: org/eclipse/ltk/core/refactoring/RefactoringStatusContext.java
+SHA1-Digest: zNSsFL63twAzS3BVWdKsK6CI71o=
+
+Name: org/eclipse/ltk/core/refactoring/resource/RenameResourceChange.j
+ ava
+SHA1-Digest: Y9OX7Kz4IiWwNiu33msVU6R+s/A=
+
+Name: org/eclipse/ltk/core/refactoring/participants/DeleteArguments.ja
+ va
+SHA1-Digest: OrUBetS3CByx0jkW/jOFshBisHc=
+
+Name: org/eclipse/ltk/core/refactoring/TextFileChange.java
+SHA1-Digest: UguhD92GX0aTaBh0gWvwXAQjlU4=
+
+Name: org/eclipse/ltk/core/refactoring/model/AbstractRefactoringDescri
+ ptorResourceMapping.java
+SHA1-Digest: KpXSecZIgQoPIm7Q2syPS8BdfxY=
+
+Name: org/eclipse/ltk/internal/core/refactoring/MultiStateUndoChange.j
+ ava
+SHA1-Digest: cll/BZzZBva8IU0JV8fiIH5gSsU=
+
+Name: org/eclipse/ltk/core/refactoring/IResourceMapper.java
+SHA1-Digest: ulurV0U36/6vwlGL5gW8j+b1O18=
+
+Name: org/eclipse/ltk/internal/core/refactoring/NonDeletingPositionUpd
+ ater.java
+SHA1-Digest: hj9ubTSXubOO1oG8qFzjyvwNExQ=
+
+Name: org/eclipse/ltk/core/refactoring/CompositeChange.java
+SHA1-Digest: cj0x8yIaMhV1s3ByMmIeh3u1vb4=
+
+Name: org/eclipse/ltk/core/refactoring/NullChange.java
+SHA1-Digest: 2LVFeGW2XvhXyUoN/HMGR2IWagY=
+
+Name: org/eclipse/ltk/internal/core/refactoring/ParticipantDescriptor.
+ java
+SHA1-Digest: FOOH6m5GHFmIqRZX7eMz+xXQbUg=
+
+Name: org/eclipse/ltk/internal/core/refactoring/history/DefaultRefacto
+ ringDescriptor.java
+SHA1-Digest: Cx+FnuYPvcXpiT8zEZ3pmouGYxE=
+
+Name: org/eclipse/ltk/core/refactoring/participants/CopyArguments.java
+SHA1-Digest: vtnggYLku31zvjb0cWjb19UigVI=
+
+Name: org/eclipse/ltk/internal/core/refactoring/resource/RenameResourc
+ eProcessor.java
+SHA1-Digest: cCnNdpoOZF7CbegPNKZV5h93TCw=
+
+Name: org/eclipse/ltk/core/refactoring/MultiStateTextFileChange.java
+SHA1-Digest: WxnCVVNFb/gISe3GuLKAZ5HCr9k=
+
+Name: org/eclipse/ltk/internal/core/refactoring/history/IRefactoringDe
+ scriptorDeleteQuery.java
+SHA1-Digest: jTc/zNk4dsXy7hau9V0xcyjJEyA=
+
+Name: org/eclipse/ltk/core/refactoring/Change.java
+SHA1-Digest: h7M4xLevzwVsVaIwAUEZsEc+8z4=
+
+Name: org/eclipse/ltk/internal/core/refactoring/resource/RenameResourc
+ eRefactoringContribution.java
+SHA1-Digest: XSm1xfAYM7Sqi8eBQHRa5t+tdyU=
+
+Name: org/eclipse/ltk/internal/core/refactoring/resource/undostates/Re
+ sourceUndoState.java
+SHA1-Digest: zE9k2SvG74jkCKg+H4rLiCqjKZU=
+
+Name: org/eclipse/ltk/internal/core/refactoring/UndoableOperation2Chan
+ geAdapter.java
+SHA1-Digest: Nh+KTfszAjdPUUobgJ/G5yiLok0=
+
+Name: org/eclipse/ltk/internal/core/refactoring/history/RefactoringDes
+ criptorProxyAdapter.java
+SHA1-Digest: z3vrz2ZK1gPrrPdfrZz4Z37n8zU=
+
+Name: org/eclipse/ltk/core/refactoring/participants/CreateParticipant.
+ java
+SHA1-Digest: 2qv+WxgJRFfMBRoj8y0XJ8K/cDY=
+
+Name: org/eclipse/ltk/internal/core/refactoring/resource/ResourceProce
+ ssors.java
+SHA1-Digest: uzapMNyDAoz6H1nUex9v7e2lZwM=
+
+Name: org/eclipse/ltk/core/refactoring/FileStatusContext.java
+SHA1-Digest: Q44eY9tBGCEpWuUKF4noLKXD2Qk=
+
+Name: org/eclipse/ltk/internal/core/refactoring/RefactoringCoreMessage
+ s.java
+SHA1-Digest: TGcEQQdEnVGl7ncfBxRM4VgkXXw=
+
+Name: org/eclipse/ltk/core/refactoring/CategorizedTextEditGroup.java
+SHA1-Digest: 0gIrNr7zMB0Utpp2rqSCWn/n1Yc=
+
+Name: org/eclipse/ltk/core/refactoring/resource/RenameResourceDescript
+ or.java
+SHA1-Digest: 54E/nCMw6BETJ5UzdKe5fwwnq4w=
+
+Name: org/eclipse/ltk/core/refactoring/participants/ParticipantExtensi
+ onPoint.java
+SHA1-Digest: k4RcUtq67hHOxe68qQ4TJH4fQkU=
+
+Name: org/eclipse/ltk/internal/core/refactoring/resource/undostates/IF
+ ileContentDescription.java
+SHA1-Digest: ot2FROHAt97534rt3l8vuuy6bdM=
+
+Name: org/eclipse/ltk/internal/core/refactoring/resource/MoveResources
+ Processor.java
+SHA1-Digest: WHcCX8y+VeDY13wlsrlE9awChlg=
+
+Name: org/eclipse/ltk/core/refactoring/RefactoringContribution.java
+SHA1-Digest: fKHid+97sdUbUQRQPzxTzfoAUKo=
+
+Name: org/eclipse/ltk/core/refactoring/RefactoringDescriptor.java
+SHA1-Digest: cD4bNNLiHKrP7PFc59ntawiTd9k=
+
+Name: org/eclipse/ltk/core/refactoring/history/RefactoringHistoryEvent
+ .java
+SHA1-Digest: um9P+QaWz/yJj6FELuy5a47ZsDY=
+
+Name: org/eclipse/ltk/core/refactoring/ContentStamp.java
+SHA1-Digest: ToDqB6O3mFwDNdxAAfGd2Rpkd34=
+
+Name: org/eclipse/ltk/internal/core/refactoring/resource/undostates/Pr
+ ojectUndoState.java
+SHA1-Digest: kfj0PleApNjAUWlOUynoPjemVRU=
+
+Name: org/eclipse/ltk/internal/core/refactoring/resource/undostates/Ma
+ rkerUndoState.java
+SHA1-Digest: wQ9OIqtsAGKkCdEWZtybjkH9tBE=
+
+Name: org/eclipse/ltk/core/refactoring/participants/CheckConditionsCon
+ text.java
+SHA1-Digest: 8relcuJKX6LtqI261v8BEP3Vjmk=
+
+Name: org/eclipse/ltk/core/refactoring/GroupCategory.java
+SHA1-Digest: g8+Yh5sBdm8UC/08KejgijE4EWM=
+
+Name: org/eclipse/ltk/core/refactoring/participants/CopyRefactoring.ja
+ va
+SHA1-Digest: 1qe0kwlkmEvRoZVguCf32vr58vM=
+
+Name: org/eclipse/ltk/internal/core/refactoring/history/RefactoringHis
+ toryService.java
+SHA1-Digest: C8igYB1EWUpiY6Q1VSSpavPFY3Y=
+
+Name: org/eclipse/ltk/core/refactoring/participants/DeleteProcessor.ja
+ va
+SHA1-Digest: b94zXbdh5L6Ep5Fiop2GrNthwO0=
+
+Name: org/eclipse/ltk/core/refactoring/history/IRefactoringHistoryList
+ ener.java
+SHA1-Digest: 0Fla3RIinaYFc2UxrNfyzZMsdts=
+
+Name: org/eclipse/ltk/core/refactoring/participants/RenameRefactoring.
+ java
+SHA1-Digest: 5Cz130J+UjancHrXfzgAQ3q7SVc=
+
+Name: org/eclipse/ltk/internal/core/refactoring/history/RefactoringHis
+ toryManager.java
+SHA1-Digest: M8L6LacmZEp6TKObKIJTTihTNJw=
+
+Name: org/eclipse/ltk/core/refactoring/participants/ProcessorBasedRefa
+ ctoring.java
+SHA1-Digest: xomDsf7rWZTiuX8gnbY4OzVS9BY=
+
+Name: org/eclipse/ltk/core/refactoring/resource/MoveResourceChange.jav
+ a
+SHA1-Digest: 8QhkuILG8MGeQqdYrDGtA4M7XoA=
+
+Name: org/eclipse/ltk/core/refactoring/participants/CopyParticipant.ja
+ va
+SHA1-Digest: eOCmBEf+cKTxXNya9DAJMXOc1c8=
+
+Name: org/eclipse/ltk/core/refactoring/RefactoringTickProvider.java
+SHA1-Digest: ccHTTHq04nwVhneIlvl/N+TGPuE=
+
+Name: org/eclipse/ltk/core/refactoring/participants/CopyProcessor.java
+SHA1-Digest: JrS/4G7jR+AXRibscSGzWOgAbkc=
+
+Name: org/eclipse/ltk/internal/core/refactoring/resource/DeleteResourc
+ esProcessor.java
+SHA1-Digest: jM2Kx5wARGlkjj2YBjLQGD6kPNs=
+
+Name: org/eclipse/ltk/core/refactoring/TextEditBasedChange.java
+SHA1-Digest: KqFO4pKpVmoV3RHNj9XyXvSXEm8=
+
+Name: org/eclipse/ltk/internal/core/refactoring/resource/DeleteResourc
+ esRefactoringContribution.java
+SHA1-Digest: O8EhzjbfxOjfEWH3WVq2cTjSCJQ=
+
+Name: org/eclipse/ltk/core/refactoring/participants/ParticipantManager
+ .java
+SHA1-Digest: L8Hz0CAkvp3uc3GahjKIuUWKm3g=
+
+Name: org/eclipse/ltk/core/refactoring/participants/RenameArguments.ja
+ va
+SHA1-Digest: mj3hycE/zMgtd05iDR5qgeTixjo=
+
+Name: org/eclipse/ltk/core/refactoring/participants/RenameParticipant.
+ java
+SHA1-Digest: 7THNga6ERNXlaRJl/nwZGAJ+orc=
+
+Name: org/eclipse/ltk/core/refactoring/participants/ValidateEditChecke
+ r.java
+SHA1-Digest: DIoVjaxsZDSNbE0+T7+cW7rjpJY=
+
+Name: org/eclipse/ltk/internal/core/refactoring/RefactoringSessionRead
+ er.java
+SHA1-Digest: aCRyNI/ijQrZ6+8qmmN6UMgUZis=
+
+Name: org/eclipse/ltk/core/refactoring/GroupCategorySet.java
+SHA1-Digest: /n5ZJ0S4+g6a/QwXB9s7Men5eGY=
+
+Name: org/eclipse/ltk/internal/core/refactoring/history/RefactoringCon
+ tributionManager.java
+SHA1-Digest: T2lbL0+UdwCsFvEH2dAFD4V8m+I=
+
+Name: about.html
+SHA1-Digest: ejOZra0kypGLQQ2bJtGTX+LI8tU=
+
+Name: org/eclipse/ltk/core/refactoring/resource/MoveResourcesDescripto
+ r.java
+SHA1-Digest: eDuWr5/ubOBJ9VM5sNoL1vbhwWA=
+
+Name: org/eclipse/ltk/core/refactoring/Refactoring.java
+SHA1-Digest: E1XkopRRoHHOihctX4i0OoAR5wE=
+
+Name: org/eclipse/ltk/core/refactoring/RefactoringDescriptorProxy.java
+SHA1-Digest: EZAnLQmYXcs9k9s4+Qh8T8SCPzs=
+
+Name: org/eclipse/ltk/core/refactoring/RefactoringChangeDescriptor.jav
+ a
+SHA1-Digest: 0qh/1AAyzNww0LVjPp1+sPUtHYQ=
+
+Name: org/eclipse/ltk/core/refactoring/resource/ResourceChange.java
+SHA1-Digest: 9UmcsQl42ZrIF8f8ephMr4jfL+A=
+
+Name: org/eclipse/ltk/internal/core/refactoring/Messages.java
+SHA1-Digest: 5qVjNlYoIsNpVD73/t8odQxTGk0=
+
+Name: org/eclipse/ltk/core/refactoring/TextEditChangeGroup.java
+SHA1-Digest: MSPO2gBV6C+39sEcBp9ZLaD3EWY=
+
+Name: org/eclipse/ltk/internal/core/refactoring/RefactoringUndoContext
+ .java
+SHA1-Digest: sB9hihkCS46/Y83TIWOPw3vnX14=
+
+Name: org/eclipse/ltk/core/refactoring/participants/MoveArguments.java
+SHA1-Digest: UqPWlVk76+Q9d3/2RyBLZapvQq0=
+
+Name: org/eclipse/ltk/core/refactoring/IUndoManagerListener.java
+SHA1-Digest: hjAiqw4XL6z/yd/1n12E+zVywzw=
+
+Name: org/eclipse/ltk/core/refactoring/PerformRefactoringHistoryOperat
+ ion.java
+SHA1-Digest: wG9PNX7lmg4rAbXI3JF7o2kNcjM=
+
+Name: schema/refactoringContributions.exsd
+SHA1-Digest: 0c+U/Pm4tvE/iRpK6OyqdS/3+rI=
+
+Name: org/eclipse/ltk/core/refactoring/participants/SharableParticipan
+ ts.java
+SHA1-Digest: 85s+wQM2NFIWaRApXfD6/vE9bsY=
+
+Name: org/eclipse/ltk/internal/core/refactoring/history/RefactoringHis
+ torySerializer.java
+SHA1-Digest: DDGGzxTos66ZssN2XYR5rWeEEO8=
+
+Name: org/eclipse/ltk/internal/core/refactoring/resource/undostates/Fo
+ lderUndoState.java
+SHA1-Digest: bTsgNYrseM0v38YqUpgEfpTOQWc=
+
+Name: org/eclipse/ltk/core/refactoring/resource/DeleteResourceChange.j
+ ava
+SHA1-Digest: AkoSyxD8Sw2QDTRHn3FK1A6UQe8=
+
+Name: org/eclipse/ltk/core/refactoring/IValidationCheckResultQuery.jav
+ a
+SHA1-Digest: tbymeAOfG9qNgHWG59CpgU9aSCI=
+
+Name: org/eclipse/ltk/core/refactoring/model/AbstractRefactoringHistor
+ yResourceMapping.java
+SHA1-Digest: u0unZSkrU+SFDEwv/MgdpoUWN5E=
+
+Name: org/eclipse/ltk/internal/core/refactoring/resource/UndoDeleteRes
+ ourceChange.java
+SHA1-Digest: TA6JQEBiPUEjZVEDEV34+QU74A0=
+
+Name: org/eclipse/ltk/internal/core/refactoring/RefactoringPreferenceC
+ onstants.java
+SHA1-Digest: 0nPE1VcJzhJ/g3dxH4wko2ls9LE=
+
+Name: org/eclipse/ltk/core/refactoring/participants/IParticipantDescri
+ ptorFilter.java
+SHA1-Digest: m3JRx8/jtjVGhkiT7SUH8LpbXZo=
+
+Name: org/eclipse/ltk/core/refactoring/IRefactoringStatusEntryComparat
+ or.java
+SHA1-Digest: LoL+MB88YbQakRGbwbxAxm3VOeo=
+
+Name: org/eclipse/ltk/core/refactoring/IRefactoringCoreStatusCodes.jav
+ a
+SHA1-Digest: dYpRCerONK4jGD3CzyiW5IB/pLU=
+
+Name: org/eclipse/ltk/core/refactoring/UndoTextFileChange.java
+SHA1-Digest: YmWtwcI1IFUVfKJMZXLoA1J/KXo=
+
+Name: org/eclipse/ltk/internal/core/refactoring/ContentStamps.java
+SHA1-Digest: 5zgykfyxaPnGJFEurNQzkXccE4U=
+
+Name: org/eclipse/ltk/internal/core/refactoring/RefactoringSessionTran
+ sformer.java
+SHA1-Digest: 06DdPXZCncAqOWN7O8DFISa32A8=
+
+Name: org/eclipse/ltk/core/refactoring/PerformChangeOperation.java
+SHA1-Digest: PwQiXxG44OVJ8SvktH55pdZt/7M=
+
+Name: org/eclipse/ltk/core/refactoring/participants/IConditionChecker.
+ java
+SHA1-Digest: qtjFOOlBRiEtY9oWdPAHRAok70A=
+
+Name: org/eclipse/ltk/internal/core/refactoring/NotCancelableProgressM
+ onitor.java
+SHA1-Digest: Xw5w6Xv1zj+FecS+LSBWZC05m5s=
+
+Name: org/eclipse/ltk/core/refactoring/RefactoringStatus.java
+SHA1-Digest: 6ndRTLDBX7DGLtVlK7qHYWpmcug=
+
+Name: META-INF/eclipse.inf
+SHA1-Digest: KyT9FF7C7t86NoBoa2kZT3ZJBfw=
+
+Name: org/eclipse/ltk/internal/core/refactoring/BufferValidationState.
+ java
+SHA1-Digest: EMSPSyIFMGcsrIoQQWIzzjKBLtQ=
+
+Name: org/eclipse/ltk/core/refactoring/participants/CreateArguments.ja
+ va
+SHA1-Digest: vtctyPOHbrLH3HRURq6NItpS6oI=
+
+Name: org/eclipse/ltk/core/refactoring/UndoManagerAdapter.java
+SHA1-Digest: gTlJc1DD1rmqmYxSYM/+U4VYo+Q=
+
+Name: org/eclipse/ltk/core/refactoring/participants/RenameProcessor.ja
+ va
+SHA1-Digest: TL8+OkzSZSzJS5IvBx9tO+yKnyU=
+
+Name: org/eclipse/ltk/internal/core/refactoring/IRefactoringSerializat
+ ionConstants.java
+SHA1-Digest: IA5SYzDqb+tQlm6CN8Qd1Ymoaxk=
+
+Name: org/eclipse/ltk/internal/core/refactoring/resource/undostates/Co
+ ntainerUndoState.java
+SHA1-Digest: ycEj/m/2xo07Xe5TbxIV7BKkNNk=
+
+Name: org/eclipse/ltk/core/refactoring/RefactoringStatusEntry.java
+SHA1-Digest: cM9SihpDwEFcY0u7fL0jhw7tYmk=
+
+Name: org/eclipse/ltk/core/refactoring/participants/MoveRefactoring.ja
+ va
+SHA1-Digest: qYLB+9XE+51D1ij2cDRwjMcP/JY=
+
+Name: org/eclipse/ltk/core/refactoring/TextChange.java
+SHA1-Digest: tIS/m0fZG6i/Xnw8QMb0SypwqrY=
+
+Name: org/eclipse/ltk/core/refactoring/CreateChangeOperation.java
+SHA1-Digest: jOrcEuaVJ8cgYbGNXNT8MwXtBQI=
+
+Name: org/eclipse/ltk/internal/core/refactoring/UndoManager2.java
+SHA1-Digest: XmqbreEi0ZaHB5WGly122DKqbaI=
+
+Name: org/eclipse/ltk/core/refactoring/history/IRefactoringHistoryServ
+ ice.java
+SHA1-Digest: swb4P7uNuUNHF89WxyNhIbwuJlA=
+
+Name: org/eclipse/ltk/core/refactoring/TextEditBasedChangeGroup.java
+SHA1-Digest: QDM8Lqmn8SUN3dQVEtvavAwrDTs=
+
+Name: org/eclipse/ltk/core/refactoring/participants/MoveParticipant.ja
+ va
+SHA1-Digest: zvngR7DSAcG7RR36toLMs/z7bnc=
+
+Name: org/eclipse/ltk/core/refactoring/participants/MoveProcessor.java
+SHA1-Digest: 1hsz3a+Nq0IFT7j2mDuR1sf1JXA=
+
+Name: org/eclipse/ltk/internal/core/refactoring/resource/MoveResources
+ RefactoringContribution.java
+SHA1-Digest: Fj7bz+mdkayHeJpHc7aJ1tBu0zU=
+
+Name: org/eclipse/ltk/core/refactoring/history/RefactoringHistory.java
+SHA1-Digest: N5bmXUsfqSBTOfcXQYciNBV8tts=
+
+Name: schema/renameParticipants.exsd
+SHA1-Digest: EJzxGxBGiT62czvKLXxJbcH/pf0=
+
+Name: org/eclipse/ltk/internal/core/refactoring/TextChanges.java
+SHA1-Digest: +hlOt9IZuC4f6lCxEMPwY4TGtRo=
+
+Name: schema/createParticipants.exsd
+SHA1-Digest: +xeOVPiGWmFxYRkgXp6Cwn7/mcQ=
+
+Name: org/eclipse/ltk/core/refactoring/participants/ResourceChangeChec
+ ker.java
+SHA1-Digest: 9Rc9VoYkNHWIeqnpGiudLQTQG34=
+
+Name: org/eclipse/ltk/core/refactoring/CheckConditionsOperation.java
+SHA1-Digest: ProxxVqQ+KVJ4zF2NTiRvTfly1Y=
+
+Name: org/eclipse/ltk/core/refactoring/participants/DeleteRefactoring.
+ java
+SHA1-Digest: osZOJlsb6a5sQa/2yhEVKIUz5aM=
+
+Name: org/eclipse/ltk/core/refactoring/RefactoringSessionDescriptor.ja
+ va
+SHA1-Digest: GLjEjBodInonkNn0GAacXCuQlEY=
+
+Name: org/eclipse/ltk/core/refactoring/participants/RefactoringArgumen
+ ts.java
+SHA1-Digest: 4MVJsMlfaVX9huh4cZZwkcjdwVY=
+
+Name: plugin.properties
+SHA1-Digest: OD4M3axGgqSaStsEYQM/X92fxvc=
+
+Name: org/eclipse/ltk/core/refactoring/participants/RefactoringPartici
+ pant.java
+SHA1-Digest: HMsUT8XnZ4puPYtE4NXEbo7o0I8=
+
+Name: org/eclipse/ltk/core/refactoring/IUndoManager.java
+SHA1-Digest: jcDUR63UrKlnblWsJ0wI1ejH5Co=
+
+Name: org/eclipse/ltk/core/refactoring/history/IRefactoringExecutionLi
+ stener.java
+SHA1-Digest: nP1C9N2wr/XCImbmrY6vx6ZqNAw=
+
+Name: org/eclipse/ltk/internal/core/refactoring/history/DefaultRefacto
+ ringDescriptorProxy.java
+SHA1-Digest: HkghOT2ZW9S7elu/OK1l8mzgYfc=
+
+Name: org/eclipse/ltk/internal/core/refactoring/Resources.java
+SHA1-Digest: +3u7FsyO8A8COp6XXMLkZlIJvrU=
+
+Name: org/eclipse/ltk/core/refactoring/participants/DeleteParticipant.
+ java
+SHA1-Digest: hMipbNju0z+nkHYUaAhaICykCh4=
+
+Name: org/eclipse/ltk/core/refactoring/participants/ISharableParticipa
+ nt.java
+SHA1-Digest: AAgV6GBIOdQJqspISJJ5CyBRjH8=
+
+Name: org/eclipse/ltk/internal/core/refactoring/BasicElementLabels.jav
+ a
+SHA1-Digest: oBAxqGWiKZAk3i+vgw6jIWAaUho=
+
+Name: org/eclipse/ltk/internal/core/refactoring/history/RefactoringDes
+ criptorChange.java
+SHA1-Digest: rNCI6SOQqVzEOEu6JnG/cochJWI=
+
+Name: org/eclipse/ltk/internal/core/refactoring/resource/ResourceModif
+ ications.java
+SHA1-Digest: JL1y9xY7opaHzfWzxf+QCZogIVo=
+
+Name: org/eclipse/ltk/internal/core/refactoring/history/RefactoringHis
+ toryImplementation.java
+SHA1-Digest: BqtcuBh0a50+ZxNf6zOpr2TkgIk=
+
+Name: org/eclipse/ltk/internal/core/refactoring/history/UnknownRefacto
+ ringDescriptor.java
+SHA1-Digest: C02aXqANf0hvRDMHy7yf3kjoovc=
+
+Name: org/eclipse/ltk/internal/core/refactoring/resource/undostates/Ab
+ stractResourceUndoState.java
+SHA1-Digest: DSagGKmgUMa3taCf0cBazbGwdsM=
+
+Name: org/eclipse/ltk/core/refactoring/PerformRefactoringOperation.jav
+ a
+SHA1-Digest: HCSiyn9D23XBsjY9s+2kgk6IKOQ=
+
+Name: org/eclipse/ltk/internal/core/refactoring/RefactoringCorePlugin.
+ java
+SHA1-Digest: YS4hLststVP9LfpQz/s5Vp/zQL4=
+
+Name: schema/copyParticipants.exsd
+SHA1-Digest: JTWrqRypNtxfS/UyZ6AQX18PewI=
+
+Name: org/eclipse/ltk/core/refactoring/ChangeDescriptor.java
+SHA1-Digest: 5dcuJSW6zz0iJre3APoVe9rIV78=
+
+Name: org/eclipse/ltk/internal/core/refactoring/UndoDocumentChange.jav
+ a
+SHA1-Digest: kniLCZQU32l6UVQIvd3cwP6m/A4=
+
+Name: schema/deleteParticipants.exsd
+SHA1-Digest: 5C22tqgLZPPzUggo4bL3O82LLEc=
+
+Name: org/eclipse/ltk/internal/core/refactoring/Changes.java
+SHA1-Digest: 4suQpl5n8vbtPaRXXz8qm+EBHEg=
+
+Name: org/eclipse/ltk/internal/core/refactoring/Lock.java
+SHA1-Digest: WKrcSm/KU4W5b2odw18ef9IVb8U=
+

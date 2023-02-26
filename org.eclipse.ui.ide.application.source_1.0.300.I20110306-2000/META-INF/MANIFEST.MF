@@ -1,0 +1,47 @@
+Manifest-Version: 1.0
+Eclipse-SourceBundle: org.eclipse.ui.ide.application;version="1.0.300.
+ I20110306-2000";roots:="."
+Bundle-Vendor: %Plugin.providerName
+Bundle-Localization: plugin
+Bundle-Name: %Plugin.name
+Bundle-SymbolicName: org.eclipse.ui.ide.application.source
+Bundle-Version: 1.0.300.I20110306-2000
+Bundle-ManifestVersion: 2
+
+Name: org/eclipse/ui/internal/ide/application/ResourcePerspective.java
+SHA1-Digest: SN30vwnUKs1UMyIZDkYYvf/xsuQ=
+
+Name: org/eclipse/ui/internal/ide/application/dialogs/IDEStartupPrefer
+ encePage.java
+SHA1-Digest: Vwl0dXNE+Xm402EyQViv3sz13iE=
+
+Name: org/eclipse/ui/internal/ide/application/IDEIdleHelper.java
+SHA1-Digest: XBpuH6zNXOUCn7UQK0ziWft5XZg=
+
+Name: org/eclipse/ui/internal/ide/application/IDEWorkbenchWindowAdviso
+ r.java
+SHA1-Digest: 5bNsR72I2O7KXDvqrjP9Uxno7yE=
+
+Name: org/eclipse/ui/internal/ide/application/IDEWorkbenchAdvisor.java
+SHA1-Digest: D51jqOrY0spzKLnOGY2KD684nmQ=
+
+Name: META-INF/eclipse.inf
+SHA1-Digest: KyT9FF7C7t86NoBoa2kZT3ZJBfw=
+
+Name: org/eclipse/ui/internal/ide/application/dialogs/RecentWorkspaces
+ PreferencePage.java
+SHA1-Digest: Ig4/s+lfzpbLL9PZroJyUMKi5nY=
+
+Name: org/eclipse/ui/internal/ide/application/DelayedEventsProcessor.j
+ ava
+SHA1-Digest: 9nEljqLvy1vzw+tX3HbTUG2oGAk=
+
+Name: org/eclipse/ui/internal/ide/application/IDEApplication.java
+SHA1-Digest: f4zBzuckOMyB4VMivMudjhmG3uk=
+
+Name: about.html
+SHA1-Digest: ejOZra0kypGLQQ2bJtGTX+LI8tU=
+
+Name: plugin.properties
+SHA1-Digest: g9yhfnH7/0Rh8qdtSVUKQ0l9mLI=
+

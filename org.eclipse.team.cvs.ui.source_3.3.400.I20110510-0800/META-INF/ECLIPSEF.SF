@@ -1,0 +1,1176 @@
+Signature-Version: 1.0
+SHA1-Digest-Manifest: REw2yQz+In00ymDVcau/es+RAB8=
+Created-By: 1.6.0 (IBM Corporation)
+SHA1-Digest-Manifest-Main-Attributes: Hyp7t1fczrzGvIZbaXfAd9Ahdxc=
+
+Name: org/eclipse/team/internal/ccvs/ui/mappings/OpenChangeSetAction.j
+ ava
+SHA1-Digest: E+31d4j8JS6sljwTjFCn2X9LHD8=
+
+Name: org/eclipse/team/internal/ccvs/ui/wizards/ConfigurationWizardAut
+ oconnectPage.java
+SHA1-Digest: nNQAXF/VeqETtI8FSGIwhkccyug=
+
+Name: org/eclipse/team/internal/ccvs/ui/KeyboardInteractiveDialog.java
+SHA1-Digest: /n2EziAfEhpJ/7YyA8gjEWkK0HQ=
+
+Name: org/eclipse/team/internal/ccvs/ui/operations/TagInRepositoryOper
+ ation.java
+SHA1-Digest: SiScdWp7+Crc3RprWD+4EUuH/QI=
+
+Name: org/eclipse/team/internal/ccvs/ui/operations/DisconnectOperation
+ .java
+SHA1-Digest: lYcLaSo7uZcXEzEoWZOZfJavXUk=
+
+Name: org/eclipse/team/internal/ccvs/ui/mappings/WorkspaceChangeSetCap
+ ability.java
+SHA1-Digest: LjcWkTsacIYeFuD42fuD38K8vA0=
+
+Name: org/eclipse/team/internal/ccvs/ui/operations/FileDiffOperation.j
+ ava
+SHA1-Digest: 7Zk6M6+l8fmNgdJH7KC/iCLm2cQ=
+
+Name: org/eclipse/team/internal/ccvs/ui/mappings/ApplyPatchAction.java
+SHA1-Digest: eDCOPOPgC1jNbSQZn6Y30oKqaYE=
+
+Name: org/eclipse/team/internal/ccvs/ui/operations/BranchOperation.jav
+ a
+SHA1-Digest: kRJRW8ZVzTGNMOuW2cBNH174vzA=
+
+Name: org/eclipse/team/internal/ccvs/ui/wizards/NewLocationWizard.java
+SHA1-Digest: ZvPhPBpDfhtbG8ueI5EPWwMhBKA=
+
+Name: org/eclipse/team/internal/ccvs/ui/repo/RemoveDateTagAction.java
+SHA1-Digest: bIdOhh1BRiAL1b8p4Trqyx0tUHY=
+
+Name: org/eclipse/team/internal/ccvs/ui/CVSCompareEditorInput.java
+SHA1-Digest: iq+LT0kIN38RaNqwSxiEG/wHw0o=
+
+Name: org/eclipse/team/internal/ccvs/ui/actions/CheckoutAsAction.java
+SHA1-Digest: wsHn7rjqPZcNpjbLo9aKGsLK0Jo=
+
+Name: org/eclipse/team/internal/ccvs/ui/tags/TagSource.java
+SHA1-Digest: v8Xw5j9Wo5TmEd12QxdkkYSVuKE=
+
+Name: org/eclipse/team/internal/ccvs/ui/model/CVSAdapterFactory.java
+SHA1-Digest: pX6hXkffM6hFhXC8aqVVpecrwIY=
+
+Name: org/eclipse/team/internal/ccvs/ui/CVSPerspective.java
+SHA1-Digest: t94vGzvQwZTSKkMH780ntvY+H14=
+
+Name: org/eclipse/team/internal/ccvs/ui/repo/RepositoriesFilterAction.
+ java
+SHA1-Digest: zWs8iROfJUQRU5UyWo+GbrKt7cw=
+
+Name: org/eclipse/team/internal/ccvs/ui/subscriber/ToolTipMessageDialo
+ g.java
+SHA1-Digest: ztfuzMcCffsI+scQQQbqtiQ7BNc=
+
+Name: org/eclipse/team/internal/ccvs/ui/ResourceEditionNode.java
+SHA1-Digest: Q+dVIFHgvKAvKdHxfB5zaxJiuNE=
+
+Name: org/eclipse/team/internal/ccvs/ui/subscriber/MergeUpdateOperatio
+ n.java
+SHA1-Digest: dalpIP6ZIGa6C7/9zoVX1vEg7Ks=
+
+Name: org/eclipse/team/internal/ccvs/ui/operations/RemoteLogOperation.
+ java
+SHA1-Digest: 1uKgW6hMaFOgiRUBja9LgZpllRw=
+
+Name: org/eclipse/team/internal/ccvs/ui/subscriber/MergeSynchronizePar
+ ticipant.java
+SHA1-Digest: ZVUsvKe6jY4u7ZPepImUvrAN/ZI=
+
+Name: org/eclipse/team/internal/ccvs/ui/mappings/ChangeSetSorter.java
+SHA1-Digest: yW9oyq4EgTkPZQc5jJiwdETuqt0=
+
+Name: org/eclipse/team/internal/ccvs/ui/IEditorInputTester.java
+SHA1-Digest: +Vibek4oWFjTpaOtqM2FfB/EZD4=
+
+Name: org/eclipse/team/internal/ccvs/ui/wizards/SharingWizardSyncPage.
+ java
+SHA1-Digest: hnXbo7g9lLgZYZukFz+MS5aDyGY=
+
+Name: org/eclipse/team/internal/ccvs/ui/wizards/CVSScmUrlImportWizardP
+ age.java
+SHA1-Digest: 63KkTvWRa7D2+OYEpnC2F7WnuZ4=
+
+Name: org/eclipse/team/internal/ccvs/ui/subscriber/WorkspaceSynchroniz
+ eParticipant.java
+SHA1-Digest: Vw/oEu8nhR2W48UPJ8Z4btMt6Do=
+
+Name: org/eclipse/team/internal/ccvs/ui/actions/CompareRemoteWithTagAc
+ tion.java
+SHA1-Digest: DwAk4FpTy8J1sUzxbpjYHNssosg=
+
+Name: org/eclipse/team/internal/ccvs/ui/CVSTeamStateDescription.java
+SHA1-Digest: dJ5pVZv5vJyYWzWo8tRbDWpWOXY=
+
+Name: org/eclipse/team/internal/ccvs/ui/mappings/ChangeSetActionProvid
+ er.java
+SHA1-Digest: k4wNp+dYDSzo4+fIOLKx+p0ZiIo=
+
+Name: org/eclipse/team/internal/ccvs/ui/actions/CVSAction.java
+SHA1-Digest: DFjf6iRDX6uDO+x/+WCEEcZUcD8=
+
+Name: org/eclipse/team/internal/ccvs/ui/CVSHistoryFilter.java
+SHA1-Digest: 7BzRnyTf/+388O5mLjSmDRXN7hU=
+
+Name: org/eclipse/team/internal/ccvs/ui/actions/UneditAction.java
+SHA1-Digest: xfpG0fOHCa+9FBx/mStk9L/NQco=
+
+Name: org/eclipse/team/internal/ccvs/ui/wizards/ConfigurationWizardMai
+ nPage.java
+SHA1-Digest: w4XcLg/+kS9J87y2is0xHfbn8Rs=
+
+Name: org/eclipse/team/internal/ccvs/ui/CVSPropertiesPage.java
+SHA1-Digest: vKiMHNrNW5F4h/GekTH07srWQrY=
+
+Name: org/eclipse/team/internal/ccvs/ui/model/CVSTagElement.java
+SHA1-Digest: 0P27iaYAhpp+2URtgNufANF09c0=
+
+Name: org/eclipse/team/internal/ccvs/ui/CVSProjectSetSerializer.java
+SHA1-Digest: T5nmQS5ULNjDP3WgAOziAVyQfkQ=
+
+Name: org/eclipse/team/internal/ccvs/ui/tags/TagConfigurationDialog.ja
+ va
+SHA1-Digest: mNLvlJss7Df579xZfcLug3W+wj0=
+
+Name: org/eclipse/team/internal/ccvs/ui/console/ConsoleDocument.java
+SHA1-Digest: ruS4BHNwRQbcvMDqXYJzXljco7k=
+
+Name: org/eclipse/team/internal/ccvs/ui/operations/SingleProjectSubscr
+ iberContext.java
+SHA1-Digest: LIbleTWQUofkDToN7herJlcPbD0=
+
+Name: org/eclipse/team/internal/ccvs/ui/tags/CVSFileElement.java
+SHA1-Digest: BupFhxQG/RxdqimhXMbaZtHEk9E=
+
+Name: org/eclipse/team/internal/ccvs/ui/actions/GenerateDiffFileAction
+ .java
+SHA1-Digest: Wznhc5sFQndQMyYl5q4Krs639vc=
+
+Name: org/eclipse/team/internal/ccvs/ui/subscriber/ConfirmMergedAction
+ .java
+SHA1-Digest: T8X3BVK4JvuJy2YaWUVDGT+NT7Q=
+
+Name: org/eclipse/team/internal/ccvs/ui/model/TagCategory.java
+SHA1-Digest: OOdhZsjAO2YTekjvWbmOKgn4PVg=
+
+Name: org/eclipse/team/internal/ccvs/ui/operations/CheckoutMultiplePro
+ jectsOperation.java
+SHA1-Digest: XBWcLQJKLS/MP2rkfxG6rwvgXss=
+
+Name: org/eclipse/team/internal/ccvs/ui/ResourcePropertiesPage.java
+SHA1-Digest: GFHxiuC4TmSMG8jjnc5GgAEIajA=
+
+Name: org/eclipse/team/internal/ccvs/ui/model/AllRootsElement.java
+SHA1-Digest: lykB5naKPRafKQ1p2eyR6vFrDo0=
+
+Name: org/eclipse/team/internal/ccvs/ui/mappings/ModelCompareParticipa
+ nt.java
+SHA1-Digest: jv91rNe6sWuM/VLkPNXKvHbCzVI=
+
+Name: org/eclipse/team/internal/ccvs/ui/repo/RepositoriesFilterDialog.
+ java
+SHA1-Digest: lof3ZmBO0h2C5SRcvgYYaHe5CvE=
+
+Name: org/eclipse/team/internal/ccvs/ui/console/ConsolePreferencesPage
+ .java
+SHA1-Digest: JCwkUCwhm/rBGIhGqyUubmmAQgc=
+
+Name: org/eclipse/team/internal/ccvs/ui/operations/UpdateOnlyMergableO
+ peration.java
+SHA1-Digest: G0+w87QsIMVwLROuU/GjgioJibw=
+
+Name: org/eclipse/team/internal/ccvs/ui/mappings/ModelUpdateOperation.
+ java
+SHA1-Digest: cNUOxuc8LY1wUymshzZMr301UJA=
+
+Name: org/eclipse/team/internal/ccvs/ui/operations/RepositoryLocationO
+ peration.java
+SHA1-Digest: zDjejUGHxIHBB7TzAZZlaOa9Ktk=
+
+Name: org/eclipse/team/internal/ccvs/ui/mappings/CVSModelProviderActio
+ n.java
+SHA1-Digest: VtGOXlsq0MNXb8On3Qdm5hSqUaE=
+
+Name: org/eclipse/team/internal/ccvs/ui/console/ConsoleRemoveAction.ja
+ va
+SHA1-Digest: jN0qrsd4DKYqGbmHwxc3PEpAGNk=
+
+Name: org/eclipse/team/internal/ccvs/ui/actions/WorkspaceAction.java
+SHA1-Digest: eEonC8AbT45PMDqh0EbIGh813mQ=
+
+Name: org/eclipse/team/internal/ccvs/ui/console/CVSConsolePageParticip
+ ant.java
+SHA1-Digest: DyKUeZRHIA6bxHUvXAv9AJRcbuM=
+
+Name: org/eclipse/team/internal/ccvs/ui/subscriber/CreatePatchAction.j
+ ava
+SHA1-Digest: gHqVILtQeam4SIkRPeQFIg9Qx/o=
+
+Name: org/eclipse/team/internal/ccvs/ui/wizards/UpdateWizard.java
+SHA1-Digest: tfa2Vh4SWmTf/fNhr5Lw+URsvqo=
+
+Name: org/eclipse/team/internal/ccvs/ui/subscriber/OverrideAndUpdateSu
+ bscriberOperation.java
+SHA1-Digest: amfNEQv9/IC0zUoZRwcdqhG/P1Q=
+
+Name: org/eclipse/team/internal/ccvs/ui/operations/TagOperation.java
+SHA1-Digest: iJHTTmqS3IvmU+b29Y5d/XHb24o=
+
+Name: org/eclipse/team/internal/ccvs/ui/model/CVSRepositoryRootElement
+ .java
+SHA1-Digest: a+YiAHBmlfh/9eXcTi0chFAe1K4=
+
+Name: org/eclipse/team/internal/ccvs/ui/mappings/ModelParticipantChang
+ eSetCapability.java
+SHA1-Digest: wWUeIRXrn0egtrAoar800Na6II4=
+
+Name: org/eclipse/team/internal/ccvs/ui/operations/ITagOperation.java
+SHA1-Digest: +CSf1dWXYjOtOTRjSAEJSfpNLNc=
+
+Name: org/eclipse/team/internal/ccvs/ui/wizards/MergeWizardPage.java
+SHA1-Digest: 1X1G6E+cAO8aERGSm6gQ95z5Z8o=
+
+Name: org/eclipse/team/internal/ccvs/ui/Policy.java
+SHA1-Digest: mmJ5UcLKTLfEjZlHz0+u/+rosAo=
+
+Name: org/eclipse/team/internal/ccvs/ui/actions/EditAction.java
+SHA1-Digest: y6ZBJbvEAb76JG2pxWRyh16zLMM=
+
+Name: org/eclipse/team/internal/ccvs/ui/operations/CacheRemoteContents
+ Operation.java
+SHA1-Digest: 6oYaZ7Hln62T4IpJKKZoy2Jy3bw=
+
+Name: org/eclipse/team/internal/ccvs/ui/mappings/ModelMergeOperation.j
+ ava
+SHA1-Digest: RZr1SLjKVN4ymJisvuHuI/nmRHw=
+
+Name: org/eclipse/team/internal/ccvs/ui/subscriber/CVSSubscriberOperat
+ ion.java
+SHA1-Digest: N+hOy3XN1lOhYkrOqNJjDLeOmiM=
+
+Name: org/eclipse/team/internal/ccvs/ui/wizards/AddWizard.java
+SHA1-Digest: W5FuRkVvH/NhPelLnksVJivQp14=
+
+Name: org/eclipse/team/internal/ccvs/ui/wizards/ICVSWizard.java
+SHA1-Digest: 9BtnL8TEFuHPx+i6400t+KZzrtU=
+
+Name: org/eclipse/team/internal/ccvs/ui/subscriber/CVSActionDelegateWr
+ apper.java
+SHA1-Digest: y5tudMRyV+zRxrq9SP0Dg27FQFU=
+
+Name: org/eclipse/team/internal/ccvs/ui/ListSelectionArea.java
+SHA1-Digest: v8h9asojwNBXjDG1I6j55UHXvFk=
+
+Name: org/eclipse/team/internal/ccvs/ui/operations/WorkspaceResourceMa
+ pper.java
+SHA1-Digest: qg/3rmX1fz65DiKSYJu3DTu8yXA=
+
+Name: org/eclipse/team/internal/ccvs/ui/operations/CheckoutProjectOper
+ ation.java
+SHA1-Digest: zJs4CpkDT+ZVOc1z++3L0Zkv4y0=
+
+Name: org/eclipse/team/internal/ccvs/ui/operations/CacheTreeContentsOp
+ eration.java
+SHA1-Digest: QbUCc+ZS3rlLCRbsOQ//TTWDtw0=
+
+Name: org/eclipse/team/internal/ccvs/ui/subscriber/CVSParticipantActio
+ n.java
+SHA1-Digest: PmYT41KpkYJ16KRhPaflBwgBxGk=
+
+Name: org/eclipse/team/internal/ccvs/ui/wizards/CheckoutWizard.java
+SHA1-Digest: bFRUwHXKQg8xta0Vf4Ag/cU8+dg=
+
+Name: org/eclipse/team/internal/ccvs/ui/operations/ClipboardDiffOperat
+ ion.java
+SHA1-Digest: 0LeL2mptOyJsJQRjA4Q/uUqE+3Y=
+
+Name: org/eclipse/team/internal/ccvs/ui/actions/CompareWithTagAction.j
+ ava
+SHA1-Digest: jqoOjG7NKiz8QCjDAkvL6lCqmVQ=
+
+Name: org/eclipse/team/internal/ccvs/ui/mappings/CVSSubscriberMergeCon
+ text.java
+SHA1-Digest: 445l2XezN8H/DIE6JzR2Ewvok70=
+
+Name: org/eclipse/team/internal/ccvs/ui/wizards/ModeWizard.java
+SHA1-Digest: 3TaZ6+QLuVx8A4ZwCfWM1LZsT/4=
+
+Name: org/eclipse/team/internal/ccvs/ui/operations/RemoteCompareOperat
+ ion.java
+SHA1-Digest: M9mN2dwO2/uUem+AH7akp+IKw0Q=
+
+Name: org/eclipse/team/internal/ccvs/ui/actions/CompareWithRevisionAct
+ ion.java
+SHA1-Digest: 08O6kUEkMrNL0P3ec2stuDsMD3M=
+
+Name: org/eclipse/team/internal/ccvs/ui/repo/CommentTemplatesContentHa
+ ndler.java
+SHA1-Digest: th3E3EioV32Had3bMYXOE2q6Enc=
+
+Name: org/eclipse/team/internal/ccvs/ui/operations/CheckoutToRemoteFol
+ derOperation.java
+SHA1-Digest: oVHdavmxodqTBj8yliXScl/rPDM=
+
+Name: org/eclipse/team/internal/ccvs/ui/actions/MoveRemoteTagAction.ja
+ va
+SHA1-Digest: bjyzCx89Y6Czm5+aKGfL7ibHXzs=
+
+Name: org/eclipse/team/internal/ccvs/ui/subscriber/WorkspaceUpdateActi
+ on.java
+SHA1-Digest: 4Qki9uIyyZchvsaQffX56ZRCUyQ=
+
+Name: org/eclipse/team/internal/ccvs/ui/HistoryTableProvider.java
+SHA1-Digest: 7uYGGh1q8sG83mpBcNOPLIPHmLA=
+
+Name: org/eclipse/team/internal/ccvs/ui/model/RemoteResourceElement.ja
+ va
+SHA1-Digest: GNNZFGXacZhpgUGwrLplZH40ojY=
+
+Name: org/eclipse/team/internal/ccvs/ui/subscriber/ConfirmMergedOperat
+ ion.java
+SHA1-Digest: wX/Lw2NCzYS7zpXKUH5PJ5w36uE=
+
+Name: org/eclipse/team/internal/ccvs/ui/WorkbenchUserAuthenticator.jav
+ a
+SHA1-Digest: SHs86tTQ0Q4KvEtnODrQ712ZacE=
+
+Name: org/eclipse/team/internal/ccvs/ui/actions/ReplaceWithTagAction.j
+ ava
+SHA1-Digest: Hx76dJ+KJIqj6U1lvFQimMDEfPI=
+
+Name: org/eclipse/team/internal/ccvs/ui/repo/NewCVSRepositoryAction.ja
+ va
+SHA1-Digest: g/2B0bTVS/J5F8tnqh1EZQOKGfE=
+
+Name: org/eclipse/team/internal/ccvs/ui/CommentTemplatesPreferencePage
+ .java
+SHA1-Digest: udpwxuX5bAFj57QLLZqNHHpZybU=
+
+Name: org/eclipse/team/internal/ccvs/ui/repo/RemoteViewPart.java
+SHA1-Digest: j87Q1Q/ESpMEwda4ww7RCQDJvMk=
+
+Name: org/eclipse/team/internal/ccvs/ui/subscriber/CVSParticipant.java
+SHA1-Digest: XN9jKFGJWX/DWGVJZSc8s34JFwE=
+
+Name: org/eclipse/team/internal/ccvs/ui/wizards/CheckoutAsProjectSelec
+ tionPage.java
+SHA1-Digest: FXL3AVq26chJJDY5amg3kRP0Exc=
+
+Name: org/eclipse/team/internal/ccvs/ui/UpdateMergePreferencePage.java
+SHA1-Digest: fwbHqF/gJ3XE7pYuB7BRIJP4pRE=
+
+Name: org/eclipse/team/internal/ccvs/ui/actions/CommitAction.java
+SHA1-Digest: BX2FKpX/Rznsr4Vuy6utjT923eg=
+
+Name: org/eclipse/team/internal/ccvs/ui/operations/OverrideAndUpdateOp
+ eration.java
+SHA1-Digest: 6DwPWwA2Ut4O3Ygx1Dfy1UG6ZNE=
+
+Name: org/eclipse/team/internal/ccvs/ui/mappings/CVSModelSynchronizePa
+ rticipant.java
+SHA1-Digest: tB9eVPMX2L/dSHaFlXwfjM9BO+g=
+
+Name: org/eclipse/team/internal/ccvs/ui/subscriber/CompareParticipant.
+ java
+SHA1-Digest: O6w+rj+ixsT3yG2rIMDEPnRNAfY=
+
+Name: org/eclipse/team/internal/ccvs/ui/subscriber/RefreshDirtyStateOp
+ eration.java
+SHA1-Digest: H58MRBK/RvNwTD6kaj1hRFn45kg=
+
+Name: org/eclipse/team/internal/ccvs/ui/tags/SingleFileTagSource.java
+SHA1-Digest: VPTdH+Y+O94WfhgLDfFn1oy6Ips=
+
+Name: org/eclipse/team/internal/ccvs/ui/operations/ProjectMetaFileOper
+ ation.java
+SHA1-Digest: XQgbscBrc8R2MdaLd8PacFZvJTQ=
+
+Name: org/eclipse/team/internal/ccvs/ui/CVSDecoration.java
+SHA1-Digest: U8CyC9Wd7LnJyhWe0ozpTIGiY8Y=
+
+Name: org/eclipse/team/internal/ccvs/ui/actions/ShowAnnotationAction.j
+ ava
+SHA1-Digest: OaoHO3qlm0hO+hst0J6KO1M5Ods=
+
+Name: org/eclipse/team/internal/ccvs/ui/model/CVSResourceElement.java
+SHA1-Digest: PqTjtjOjCJKCpXITsHk7YD3FNag=
+
+Name: org/eclipse/team/internal/ccvs/ui/wizards/RepositorySelectionPag
+ e.java
+SHA1-Digest: UqzXYAMxSMlIoKdUHxyzUZ55DnI=
+
+Name: org/eclipse/team/internal/ccvs/ui/repo/RepositoriesView.java
+SHA1-Digest: HOtkKMMzp0vgMCEEeckKrLM2dvQ=
+
+Name: org/eclipse/team/internal/ccvs/ui/XMLWriter.java
+SHA1-Digest: GXHQqFLDgsRi6hNM++SG3N1q3t0=
+
+Name: org/eclipse/team/internal/ccvs/ui/mappings/ModelReplaceOperation
+ .java
+SHA1-Digest: Rq10IxXtUxWFEIbdioXt1uaJtE4=
+
+Name: org/eclipse/team/internal/ccvs/ui/operations/CVSOperation.java
+SHA1-Digest: AY9LnrDSiHOIyo2skyk6XXB1zoU=
+
+Name: org/eclipse/team/internal/ccvs/ui/repo/RepositoryRoot.java
+SHA1-Digest: wWFoVFCt2qzbIuhJz6hpSZjcGGE=
+
+Name: META-INF/eclipse.inf
+SHA1-Digest: SAqY+5ITAL0mkdYeijlSRhyIaZk=
+
+Name: org/eclipse/team/internal/ccvs/ui/wizards/CommitWizardCommitPage
+ .java
+SHA1-Digest: 5jh5fj9fD3toxFYmH1YVFEP//O4=
+
+Name: org/eclipse/team/internal/ccvs/ui/actions/CheckoutAction.java
+SHA1-Digest: m3v4HIZwW6KJsKT0c027yz63/rc=
+
+Name: org/eclipse/team/internal/ccvs/ui/tags/CVSFolderElement.java
+SHA1-Digest: vLtS0+dCSjdacj2unQ+qs8juS2g=
+
+Name: org/eclipse/team/internal/ccvs/ui/mappings/AbstractModelMergeOpe
+ ration.java
+SHA1-Digest: tkKpFluyVgKirkDsyE1EJp+pH/Q=
+
+Name: org/eclipse/team/internal/ccvs/ui/subscriber/CreatePatchWizardPa
+ rticipant.java
+SHA1-Digest: NNT6nJGp6iZd7pCGxCaC1Puujlk=
+
+Name: org/eclipse/team/internal/ccvs/ui/RemoteRevisionQuickDiffProvide
+ r.java
+SHA1-Digest: vBjT6qBQEaZ+UHlERj1JjhYXHqU=
+
+Name: org/eclipse/team/internal/ccvs/ui/repo/RepositoryManager.java
+SHA1-Digest: sTlMsTIIkh+E53KdzfLJTr79blI=
+
+Name: org/eclipse/team/internal/ccvs/ui/actions/TagAction.java
+SHA1-Digest: stc2Nmc2iVt0AvzauY3+PlHasls=
+
+Name: org/eclipse/team/internal/ccvs/ui/model/BranchCategory.java
+SHA1-Digest: CQrc0w6aBFRwMMZURBXxpRvKmn0=
+
+Name: org/eclipse/team/internal/ccvs/ui/CVSTeamStateProvider.java
+SHA1-Digest: Ni7v+QJr8LUBD1kSdJMKqgMS+wQ=
+
+Name: org/eclipse/team/internal/ccvs/ui/subscriber/OverrideAndUpdateAc
+ tion.java
+SHA1-Digest: XfvPDJGhX4InVNXgwXrh1YP77h8=
+
+Name: org/eclipse/team/internal/ccvs/ui/tags/TagSelectionArea.java
+SHA1-Digest: bXCNRA4F4k5ibi16feqjupaMkP8=
+
+Name: org/eclipse/team/internal/ccvs/ui/model/VersionCategory.java
+SHA1-Digest: V0IT1lQx2yYtTKehsgdMwqRhUYs=
+
+Name: org/eclipse/team/internal/ccvs/ui/wizards/KSubstWizardCommitComm
+ entPage.java
+SHA1-Digest: 6xBedI84T7GMyhCzrVE2uR7LFXs=
+
+Name: org/eclipse/team/internal/ccvs/ui/repo/AddToBranchAction.java
+SHA1-Digest: SEzLpvPWSqVfniZjJKXDEY5j/IY=
+
+Name: org/eclipse/team/internal/ccvs/ui/ConfigureRepositoryLocationsDi
+ alog.java
+SHA1-Digest: u0hf8AFPIFjSG1/WAVhd6mUStZk=
+
+Name: org/eclipse/team/internal/ccvs/ui/model/CVSModelElement.java
+SHA1-Digest: XBpaoLGFnZIAFynvkL5QvM8Q2Vs=
+
+Name: org/eclipse/team/internal/ccvs/ui/wizards/ModuleSelectionPage.ja
+ va
+SHA1-Digest: w6UJySEXp//FrwPfzBCCHoBGy8g=
+
+Name: org/eclipse/team/internal/ccvs/ui/subscriber/MergeUpdateAction.j
+ ava
+SHA1-Digest: RNoxeKZ1cLiGXPMJ7gVBU0OtG5U=
+
+Name: org/eclipse/team/internal/ccvs/ui/subscriber/CVSChangeSetActionG
+ roup.java
+SHA1-Digest: skY6fq8izBXWy5bxaCqGT9sjP5U=
+
+Name: org/eclipse/team/internal/ccvs/ui/actions/ShowResourceInHistoryA
+ ction.java
+SHA1-Digest: NcD42F4SaEcoP0p2VVMHvNXHrJk=
+
+Name: org/eclipse/team/internal/ccvs/ui/IRepositoryListener.java
+SHA1-Digest: f3TUlPQZRQrEo5OMg0ePvsl2kWE=
+
+Name: org/eclipse/team/internal/ccvs/ui/tags/MultiFolderTagSource.java
+SHA1-Digest: qwS6yF7CCScOzbVbSTvJ0zMcH+M=
+
+Name: org/eclipse/team/internal/ccvs/ui/tags/BranchPromptDialog.java
+SHA1-Digest: U/qHlgQDtnl3CvDdS8n5BVcQh8s=
+
+Name: org/eclipse/team/internal/ccvs/ui/repo/CommentHistoryContentHand
+ ler.java
+SHA1-Digest: AP0gLsV/7pwtw6y/71isUZJM+mM=
+
+Name: org/eclipse/team/internal/ccvs/ui/WatchEditPreferencePage.java
+SHA1-Digest: TW3turc96QbSXti+ReOgazjygeE=
+
+Name: org/eclipse/team/internal/ccvs/ui/mappings/ChangeSetContentProvi
+ der.java
+SHA1-Digest: xezga2OaFqfsTt0e4nof+cGce5E=
+
+Name: org/eclipse/team/internal/ccvs/ui/operations/CheckoutSingleProje
+ ctOperation.java
+SHA1-Digest: 0cI2JbesZTHI0MZ43aSQZGPHYec=
+
+Name: plugin.properties
+SHA1-Digest: 8/DM19XD63q+50CYF6Of8hVJ6vE=
+
+Name: org/eclipse/team/internal/ccvs/ui/repo/RemoveRootAction.java
+SHA1-Digest: UO/Dj006DTPYH1Zx/fvH9v4iimY=
+
+Name: org/eclipse/team/internal/ccvs/ui/subscriber/SyncInfoSetDetailsD
+ ialog.java
+SHA1-Digest: q8uGJ6de6Z/Wv49R9smKS5PEIX4=
+
+Name: org/eclipse/team/internal/ccvs/ui/DateTagDialog.java
+SHA1-Digest: JKpP97upYF9aFfDu65ZBxlFkyF8=
+
+Name: org/eclipse/team/internal/ccvs/ui/CVSProjectPropertiesPage.java
+SHA1-Digest: DwDTGYge+CpA+FuBv4Db8DWAHn8=
+
+Name: org/eclipse/team/internal/ccvs/ui/mappings/ModelMergeParticipant
+ .java
+SHA1-Digest: bjybYZ0LqYNISVy43vzMFVEALFo=
+
+Name: org/eclipse/team/internal/ccvs/ui/AdaptableHierarchicalResourceL
+ ist.java
+SHA1-Digest: GIjCYHK80aBHVvNR2JFlsStyQqk=
+
+Name: org/eclipse/team/internal/ccvs/ui/ComparePreferencePage.java
+SHA1-Digest: GzNht9FUoCKgr7hwXyRyR9kfO9g=
+
+Name: org/eclipse/team/internal/ccvs/ui/actions/TagInRepositoryAction.
+ java
+SHA1-Digest: w5xGvZb/kKl1nmetKN+14qB+X9E=
+
+Name: org/eclipse/team/internal/ccvs/ui/mappings/WorkspaceModelPartici
+ pant.java
+SHA1-Digest: H5/o6qWlANt7v1zlfpMglLlTZ1Q=
+
+Name: org/eclipse/team/internal/ccvs/ui/tags/TagContentAssistProcessor
+ .java
+SHA1-Digest: MgLs2/eZpST7Enz6t3hD0fcNTGE=
+
+Name: org/eclipse/team/internal/ccvs/ui/model/CVSRemoteFilePropertySou
+ rce.java
+SHA1-Digest: uirVmbYMDOB044sVLYd1IeiGIik=
+
+Name: org/eclipse/team/internal/ccvs/ui/tags/TagAsVersionDialog.java
+SHA1-Digest: 164f59GpKYvH8jMVBhgs5pl/zUc=
+
+Name: org/eclipse/team/internal/ccvs/ui/wizards/RestoreFromRepositoryW
+ izard.java
+SHA1-Digest: utmU2IM1RKFsCrctDdczTkzKeBg=
+
+Name: org/eclipse/team/internal/ccvs/ui/AlternateUserValidationDialog.
+ java
+SHA1-Digest: 0bQJb2n4bh/K8F9AKCb7acgmqUQ=
+
+Name: org/eclipse/team/internal/ccvs/ui/subscriber/CompareRevertOperat
+ ion.java
+SHA1-Digest: HmiER4fEyqlBRPUDIXcyDHsrWhQ=
+
+Name: org/eclipse/team/internal/ccvs/ui/operations/CommitOperation.jav
+ a
+SHA1-Digest: 5M3AvVo9o3xpTQQpH6ejBcftVhs=
+
+Name: org/eclipse/team/internal/ccvs/ui/subscriber/CommitSetDialog.jav
+ a
+SHA1-Digest: yLlMk/DB5MbNWfXTjVeYgKJcuLA=
+
+Name: org/eclipse/team/internal/ccvs/ui/model/RemoteFolderElement.java
+SHA1-Digest: meszLTO1795KpLV6H8Sfq3lodBY=
+
+Name: org/eclipse/team/internal/ccvs/ui/subscriber/RefreshDirtyStateAc
+ tion.java
+SHA1-Digest: C7/5zc5k0/1Xa51UuIK2wyp9c58=
+
+Name: org/eclipse/team/internal/ccvs/ui/operations/DiffOperation.java
+SHA1-Digest: NpU0IUyjnOA3HpMsS61uZk2sZU0=
+
+Name: org/eclipse/team/internal/ccvs/ui/mappings/ChangeSetComparator.j
+ ava
+SHA1-Digest: b2t/t5ylKeg4/vxfZLn1eLEq7Hk=
+
+Name: org/eclipse/team/internal/ccvs/ui/model/RemoteProjectsElement.ja
+ va
+SHA1-Digest: 9IQx+MB6bGB3BVVqR+8h/ora2g8=
+
+Name: org/eclipse/team/internal/ccvs/ui/operations/CheckoutIntoOperati
+ on.java
+SHA1-Digest: G50XxyQ+Hh/ZWSb3u9PJ53i+SoY=
+
+Name: org/eclipse/team/internal/ccvs/ui/operations/CheckoutOperation.j
+ ava
+SHA1-Digest: PPzyW9paIYpdZhXGw525kymKFk0=
+
+Name: org/eclipse/team/internal/ccvs/ui/mappings/CheckedInChangeSetCol
+ lector.java
+SHA1-Digest: 4ubxKnsRcQMpw45NIKXEEL0Hq/s=
+
+Name: org/eclipse/team/internal/ccvs/ui/model/RemoteFileElement.java
+SHA1-Digest: rNvSlUdtfhqKJ/T4RLgn36Tx/nE=
+
+Name: org/eclipse/team/internal/ccvs/ui/operations/UpdateOperation.jav
+ a
+SHA1-Digest: +Ecyd91fzClLWk/hvENom1uH6h4=
+
+Name: org/eclipse/team/internal/ccvs/ui/subscriber/CompareRevertAction
+ .java
+SHA1-Digest: ZWnqmNG6cuRKvSo37NI77ef33Xc=
+
+Name: org/eclipse/team/internal/ccvs/ui/EditorsDialog.java
+SHA1-Digest: guzcePSrXCEJB3HKowEYN159dLs=
+
+Name: org/eclipse/team/internal/ccvs/ui/actions/RestoreFromRepositoryA
+ ction.java
+SHA1-Digest: PW8VJEEIyfMlJ0aV/YCdKyc77sE=
+
+Name: org/eclipse/team/internal/ccvs/ui/model/DateTagCategory.java
+SHA1-Digest: YGHNAMwctSzJus+kXsPafOOGTO8=
+
+Name: org/eclipse/team/internal/ccvs/ui/wizards/GenerateDiffFileWizard
+ .java
+SHA1-Digest: uSUwzaUiBApK/gY2n/ndelnYbNw=
+
+Name: org/eclipse/team/internal/ccvs/ui/CVSFilePropertiesPage.java
+SHA1-Digest: Qtj/XMiG1n9Q61b6/BEXbOyPkFg=
+
+Name: org/eclipse/team/internal/ccvs/ui/repo/CopyRepositoryNameAction.
+ java
+SHA1-Digest: 5ANdhK9s45Y0RQLSJrvo4+FA0hM=
+
+Name: org/eclipse/team/internal/ccvs/ui/mappings/WorkspaceSubscriberCo
+ ntext.java
+SHA1-Digest: Bwyzs1NqO5CLWwtw8jjeTF+O264=
+
+Name: org/eclipse/team/internal/ccvs/ui/repo/RepositoriesViewContentHa
+ ndler.java
+SHA1-Digest: almy4VnNRF1kVzZDccad6tcIlGM=
+
+Name: org/eclipse/team/internal/ccvs/ui/IgnoreResourcesDialog.java
+SHA1-Digest: qGCDAKEWrWvC1ZlCoeblmVCq+B4=
+
+Name: org/eclipse/team/internal/ccvs/ui/actions/CompareRemoteResources
+ Action.java
+SHA1-Digest: aORBBHSLPCNA3sjfH+cQO9MPQxA=
+
+Name: org/eclipse/team/internal/ccvs/ui/FileModificationValidator.java
+SHA1-Digest: +yc/NJwJgz+V88/TnRysOrDW7ls=
+
+Name: org/eclipse/team/internal/ccvs/ui/CommitCommentArea.java
+SHA1-Digest: BQaUQlrgJuzbaT4hYfbDzPAWF1w=
+
+Name: org/eclipse/team/internal/ccvs/ui/actions/CVSActionSelectionProp
+ erties.java
+SHA1-Digest: Id4Sw2repfwrkNZQgyRmouEGunE=
+
+Name: org/eclipse/team/internal/ccvs/ui/actions/IgnoreAction.java
+SHA1-Digest: kFE/9hnBIIIqmOPDLFlxB9ag9yI=
+
+Name: org/eclipse/team/internal/ccvs/ui/actions/TagLocalAction.java
+SHA1-Digest: SR5UNRYSIDy0LsWj+D/ETSLHbVo=
+
+Name: org/eclipse/team/internal/ccvs/ui/actions/EditorsAction.java
+SHA1-Digest: AIIk7SyF3yjylHlPYYcRcg0i0ZY=
+
+Name: org/eclipse/team/internal/ccvs/ui/operations/AddOperation.java
+SHA1-Digest: +hHfuE76LjxArBK+mWWTuTuG9kc=
+
+Name: org/eclipse/team/internal/ccvs/ui/repo/CVSRepoViewAction.java
+SHA1-Digest: MWZMcC0j9I/vehabQZD+kZEYfqk=
+
+Name: org/eclipse/team/internal/ccvs/ui/wizards/CommitWizardFileTypePa
+ ge.java
+SHA1-Digest: QNF3MlUNK1SfAimdMsYD13TwpTk=
+
+Name: org/eclipse/team/internal/ccvs/ui/repo/RefreshTagsAction.java
+SHA1-Digest: emHtBfFjkhkZmeTdH5mzyY/YHVs=
+
+Name: org/eclipse/team/internal/ccvs/ui/tags/FilteredTagList.java
+SHA1-Digest: QiG3/V5GNZ08KBFMDcJ+9mUGGKA=
+
+Name: org/eclipse/team/internal/ccvs/ui/wizards/CheckoutAsWizard.java
+SHA1-Digest: SXvVEgX/q+VYb+ULsiivJsRd1J8=
+
+Name: org/eclipse/team/internal/ccvs/ui/wizards/CommitWizard.java
+SHA1-Digest: mT5b/CPZ66b3elChovd+qlY0HjA=
+
+Name: org/eclipse/team/internal/ccvs/ui/SelectionPropertyTester.java
+SHA1-Digest: 2WZlh5Mod3/Aez8ep136UOB5Xtg=
+
+Name: org/eclipse/team/internal/ccvs/ui/mappings/ChangeSetLabelProvide
+ r.java
+SHA1-Digest: V0NhcIxorP7GBjwemdGzN2eZSNw=
+
+Name: org/eclipse/team/internal/ccvs/ui/console/CVSConsoleFactory.java
+SHA1-Digest: OLyTJdek6kBw/8gPdS2kypCnduk=
+
+Name: org/eclipse/team/internal/ccvs/ui/actions/SyncAction.java
+SHA1-Digest: TX0Ky3oLnWJ+2NFywbyS++AfTz4=
+
+Name: org/eclipse/team/internal/ccvs/ui/actions/ConfigureTagsFromRepoV
+ iewOnFolder.java
+SHA1-Digest: qN8ouz45Y5RUM0MrQAb3TdRHw+M=
+
+Name: org/eclipse/team/internal/ccvs/ui/mappings/AbstractCommitAction.
+ java
+SHA1-Digest: fF01rRVsAhYjxTeOqOnbtLPlWTg=
+
+Name: org/eclipse/team/internal/ccvs/ui/mappings/CommitAction.java
+SHA1-Digest: Ypmn2fNsBrCbZmlqseFvL2HSNHA=
+
+Name: org/eclipse/team/internal/ccvs/ui/IHelpContextIds.java
+SHA1-Digest: MkGws4PNO+Hm9OdsQ9/XXN2ovdg=
+
+Name: org/eclipse/team/internal/ccvs/ui/actions/CheckoutWizardAction.j
+ ava
+SHA1-Digest: eMObGCfrSU8SnXrdaHZtz+DRbT8=
+
+Name: org/eclipse/team/internal/ccvs/ui/mappings/WorkspaceCommitAction
+ .java
+SHA1-Digest: pOfwdqmDWzd2Ma+njEny3XeCedI=
+
+Name: org/eclipse/team/internal/ccvs/ui/ExtMethodPreferencePage.java
+SHA1-Digest: 3JIfvimibzNd4bi8pPluXLAAxzE=
+
+Name: org/eclipse/team/internal/ccvs/ui/EditorsView.java
+SHA1-Digest: kgsHEc2QL1eQKTszLrVms/wqG2A=
+
+Name: org/eclipse/team/internal/ccvs/ui/repo/RepositoriesSortingAction
+ Group.java
+SHA1-Digest: UkOvvxN0ClQF4QID2pHuVfTQ2H0=
+
+Name: org/eclipse/team/internal/ccvs/ui/AddToVersionControlDialog.java
+SHA1-Digest: Dcx0wWFsmjwQqptdGQPkkbMjEqY=
+
+Name: org/eclipse/team/internal/ccvs/ui/repo/CVSRepositoryPropertiesPa
+ ge.java
+SHA1-Digest: C4ipNjUAWg+FzBA4XD1TK3kSu9w=
+
+Name: org/eclipse/team/internal/ccvs/ui/wizards/ModeWizardSelectionPag
+ e.java
+SHA1-Digest: zWwCgTB1wWql3Xdqz3uM3GbT2yI=
+
+Name: org/eclipse/team/internal/ccvs/ui/actions/AddAction.java
+SHA1-Digest: LrK+AKZUog3OMLWTHq3oqJBOJgI=
+
+Name: org/eclipse/team/internal/ccvs/ui/actions/BranchAction.java
+SHA1-Digest: EVx/04blJ3KpGHzpksJkVwuZFhI=
+
+Name: org/eclipse/team/internal/ccvs/ui/tags/TagSourceResourceAdapter.
+ java
+SHA1-Digest: lJato5zGQZH1ilWAUll73SPmmlk=
+
+Name: org/eclipse/team/internal/ccvs/ui/operations/SingleProjectScopeM
+ anager.java
+SHA1-Digest: 6qqh7CTa1ATTOfimbaRYqpav4os=
+
+Name: org/eclipse/team/internal/ccvs/ui/repo/NewDateTagAction.java
+SHA1-Digest: RJXbPL8MjdKO/inp+Ep1AvMgkic=
+
+Name: org/eclipse/team/internal/ccvs/ui/actions/ShowHistoryAction.java
+SHA1-Digest: vnlyFapEVqqeI+k4lfGkdJS3/jk=
+
+Name: org/eclipse/team/internal/ccvs/ui/SimpleContentProvider.java
+SHA1-Digest: D3mq0JsS5Bh6j8+jixcmaBSBcq8=
+
+Name: org/eclipse/team/internal/ccvs/ui/CVSHistoryPageSource.java
+SHA1-Digest: tWuUTp0IdnvF2x7BsqjTiU5ZwxA=
+
+Name: org/eclipse/team/internal/ccvs/ui/operations/WorkspaceFileDiffOp
+ eration.java
+SHA1-Digest: xASvQv+xvJuq8tWcBZmm1yJEx9o=
+
+Name: org/eclipse/team/internal/ccvs/ui/subscriber/WorkspaceCommitActi
+ on.java
+SHA1-Digest: irocPVnIoEq/ZME8DU/VOnYQh3E=
+
+Name: org/eclipse/team/internal/ccvs/ui/subscriber/OpenChangeSetAction
+ .java
+SHA1-Digest: A9/BLF4f0wAIIaI41HW6BmUn5hg=
+
+Name: org/eclipse/team/internal/ccvs/ui/CVSHistorySearchFilter.java
+SHA1-Digest: 0DiE6h4XQIJJgNrD0gOMVv5GjqA=
+
+Name: org/eclipse/team/internal/ccvs/ui/wizards/CommitWizardParticipan
+ t.java
+SHA1-Digest: mPg+cL3IkcnEtEnZsf5I0lA/05I=
+
+Name: org/eclipse/team/internal/ccvs/ui/AdaptableResourceList.java
+SHA1-Digest: ucvWQajdTDVXOR52rwfhuDqMlC8=
+
+Name: org/eclipse/team/internal/ccvs/ui/tags/TagSourceWorkbenchAdapter
+ .java
+SHA1-Digest: OKtVFAja3+lPu/UB595eyKV94oU=
+
+Name: org/eclipse/team/internal/ccvs/ui/operations/ShareProjectOperati
+ on.java
+SHA1-Digest: +lYz3Upsrj88yP3tKGD+SoNibjs=
+
+Name: org/eclipse/team/internal/ccvs/ui/subscriber/WorkspaceCommitOper
+ ation.java
+SHA1-Digest: Xx0r3A2n8qNbjyrU/OGiq52n4bA=
+
+Name: org/eclipse/team/internal/ccvs/ui/CVSUIMessages.java
+SHA1-Digest: je/jxwH1voxbRGW+NiCQcmSwD3c=
+
+Name: about.html
+SHA1-Digest: M+fykt9heyWoEv1LNiIEeBhi/2Q=
+
+Name: org/eclipse/team/internal/ccvs/ui/repo/RefreshRemoteProjectWizar
+ d.java
+SHA1-Digest: iz9zdE/0NMy08VZ0YMdG8V2PRis=
+
+Name: org/eclipse/team/internal/ccvs/ui/actions/UpdateSilentAction.jav
+ a
+SHA1-Digest: bouHwau8EfuoYKTbSrG1ffFC9nk=
+
+Name: org/eclipse/team/internal/ccvs/ui/repo/RefreshRemoteProjectSelec
+ tionPage.java
+SHA1-Digest: uUuwufwTUuLg1rd89xqqvFHbVlc=
+
+Name: org/eclipse/team/internal/ccvs/ui/operations/FetchMembersOperati
+ on.java
+SHA1-Digest: CzAvxzQGvhCH9L+NCjIqIsqBN5E=
+
+Name: org/eclipse/team/internal/ccvs/ui/operations/CacheBaseContentsOp
+ eration.java
+SHA1-Digest: 6p9V+DyxV1PGLUW19OLUNVOyjt8=
+
+Name: org/eclipse/team/internal/ccvs/ui/repo/RepositoryComparator.java
+SHA1-Digest: 6CmCdhfKvIzjf2duv5JBqeq4FDw=
+
+Name: org/eclipse/team/internal/ccvs/ui/mappings/ModelSynchronizeWizar
+ d.java
+SHA1-Digest: 7203NEx/8fXBpRkaOcKqqNI3Scg=
+
+Name: org/eclipse/team/internal/ccvs/ui/CVSHistoryPage.java
+SHA1-Digest: HDE8H3NYPBw0x/kwXqfd7ff/tq4=
+
+Name: org/eclipse/team/internal/ccvs/ui/mappings/MergeSubscriberContex
+ t.java
+SHA1-Digest: hzIVNij6fvRPIsqLtUYwH0bS+S0=
+
+Name: org/eclipse/team/internal/ccvs/ui/actions/ShowCVSPerspectiveActi
+ on.java
+SHA1-Digest: MZn95TABeio3OdlonOjgENEvKF0=
+
+Name: org/eclipse/team/internal/ccvs/ui/operations/ReplaceOperation.ja
+ va
+SHA1-Digest: RObF0dZFrAKSOv7R8uRE/kSwP4I=
+
+Name: org/eclipse/team/internal/ccvs/ui/tags/TagRefreshButtonArea.java
+SHA1-Digest: nkoxjowTAYHJi4aW5x4c6iXUdBc=
+
+Name: org/eclipse/team/internal/ccvs/ui/repo/PasteConnectionStringActi
+ on.java
+SHA1-Digest: dn0V0UruZ6XoLoS3MQonsU9rd+g=
+
+Name: org/eclipse/team/internal/ccvs/ui/subscriber/WorkspaceUpdateOper
+ ation.java
+SHA1-Digest: nJ/veo33n0NAQfsF58bVWZpKmE8=
+
+Name: org/eclipse/team/internal/ccvs/ui/operations/CommitterColors.jav
+ a
+SHA1-Digest: nIE5A5Nsp6Mk/g6B3JXSI9COr8w=
+
+Name: org/eclipse/team/internal/ccvs/ui/CVSHistoryTableProvider.java
+SHA1-Digest: GKXvaI7e7GX7QdxEygeM1CNyivE=
+
+Name: org/eclipse/team/internal/ccvs/ui/actions/ReplaceWithSelectableT
+ agAction.java
+SHA1-Digest: Vzy0ONGxAkOeTCJiuyjlfw7IN3I=
+
+Name: org/eclipse/team/internal/ccvs/ui/model/CVSRepositoryLocationPro
+ pertySource.java
+SHA1-Digest: LD55f/S2ET8lyeEACaWhtrfJS00=
+
+Name: org/eclipse/team/internal/ccvs/ui/CVSFieldEditorPreferencePage.j
+ ava
+SHA1-Digest: NeY6eCa8HDa1MQQ5ZVW0LHQQwjU=
+
+Name: org/eclipse/team/internal/ccvs/ui/subscriber/OverrideAndCommitAc
+ tion.java
+SHA1-Digest: MBXqh7EWEy2v5CyxoV9BrbZv/hU=
+
+Name: org/eclipse/team/internal/ccvs/ui/WorkingSetSelectionArea.java
+SHA1-Digest: GVpYBUDDmfpdhTu2VBEcILG+puU=
+
+Name: org/eclipse/team/internal/ccvs/ui/wizards/CheckoutAsLocationSele
+ ctionPage.java
+SHA1-Digest: hBD819+8GrjVm8oyzT2xoEkKW+o=
+
+Name: org/eclipse/team/internal/ccvs/ui/actions/ReplaceWithRemoteActio
+ n.java
+SHA1-Digest: MkKul6FOs/DPATuM4Kjro50UXHc=
+
+Name: org/eclipse/team/internal/ccvs/ui/operations/RepositoryProviderO
+ peration.java
+SHA1-Digest: rL2sDHC5GRJe3Xfpu0CE5HJP1qM=
+
+Name: org/eclipse/team/internal/ccvs/ui/tags/SingleFolderTagSource.jav
+ a
+SHA1-Digest: BoHn/s2wilXlZwMZ+Y3acM9GPow=
+
+Name: org/eclipse/team/internal/ccvs/ui/CVSPreferencesPage.java
+SHA1-Digest: wgLQztpyFoXfA+CPsC5QS9JdatE=
+
+Name: org/eclipse/team/internal/ccvs/ui/wizards/CheckoutAsMainPage.jav
+ a
+SHA1-Digest: xXBjJRHPNYZq4U3O6mQFU+3Wd6M=
+
+Name: org/eclipse/team/internal/ccvs/ui/model/RemoteContentProvider.ja
+ va
+SHA1-Digest: AcOgCy+bGsCAqdY/SN+/W6OLjVg=
+
+Name: org/eclipse/team/internal/ccvs/ui/CVSHistoryFilterAction.java
+SHA1-Digest: GGfNiMHNOMnpdn1eYsud3vJt9TQ=
+
+Name: org/eclipse/team/internal/ccvs/ui/ReleaseCommentDialog.java
+SHA1-Digest: Mq+CWCrwHVqqCL7366f6WZ5q54M=
+
+Name: org/eclipse/team/internal/ccvs/ui/AnnotatePreferencePage.java
+SHA1-Digest: pbIGyROIGMT9P3ntYJxmgQNpfa4=
+
+Name: org/eclipse/team/internal/ccvs/ui/model/RepositoryLocationSchedu
+ lingRule.java
+SHA1-Digest: lDMeZnTrGTj6Yf/Q0croM1Z3FAs=
+
+Name: org/eclipse/team/internal/ccvs/ui/CVSLightweightDecorator.java
+SHA1-Digest: JBVOzCCaSlxzITjwiFOPS1H4vqo=
+
+Name: org/eclipse/team/internal/ccvs/ui/actions/OutgoingChangesDialog.
+ java
+SHA1-Digest: /deIUOX4VSwEsV8amv1aaoz4ob8=
+
+Name: org/eclipse/team/internal/ccvs/ui/mappings/ChangeSetCompareAdapt
+ er.java
+SHA1-Digest: p//wISXBwXRCelRPwKNucqdZbMY=
+
+Name: org/eclipse/team/internal/ccvs/ui/CVSResourceDropAdapter.java
+SHA1-Digest: zXGKfQnlUMUshUM9Um0ahUGZvhY=
+
+Name: org/eclipse/team/internal/ccvs/ui/operations/SingleCommandOperat
+ ion.java
+SHA1-Digest: NM2nFO8PnQtBsm40y+/1QL+IYa4=
+
+Name: org/eclipse/team/internal/ccvs/ui/subscriber/SafeUpdateOperation
+ .java
+SHA1-Digest: 8+pvYLWY1m6+bVpNXYibpwR3aw8=
+
+Name: org/eclipse/team/internal/ccvs/ui/subscriber/CVSParticipantLabel
+ Decorator.java
+SHA1-Digest: H3f9WmJJiWnvtfu/b1Z/6I0jIRI=
+
+Name: org/eclipse/team/internal/ccvs/ui/model/CVSRemoteFolderPropertyS
+ ource.java
+SHA1-Digest: DXKUd6BJF9fa70EGJxw3K0WLw18=
+
+Name: org/eclipse/team/internal/ccvs/ui/actions/UnmanageAction.java
+SHA1-Digest: co8Y1FUuEyWC0WJh7WZCjjN48po=
+
+Name: org/eclipse/team/internal/ccvs/ui/ResizableWizardDialog.java
+SHA1-Digest: 7MaXFMzjwn6C71CT2KOGye3JoKk=
+
+Name: org/eclipse/team/internal/ccvs/ui/repo/RepositoryEncodingPropert
+ yPage.java
+SHA1-Digest: 2pAL9xWNJzIHOchWHVaL6WAenPs=
+
+Name: org/eclipse/team/internal/ccvs/ui/wizards/MergeWizard.java
+SHA1-Digest: GNVmh2rndbh+6pF6YjMKDBFksdw=
+
+Name: org/eclipse/team/internal/ccvs/ui/CVSDecoratorConfiguration.java
+SHA1-Digest: oY3aRuYqwwqnLyDmSjifFFahEwo=
+
+Name: org/eclipse/team/internal/ccvs/ui/actions/OpenLogEntryAction.jav
+ a
+SHA1-Digest: KMCOICFlb+r9CEl/vPrTEOar6js=
+
+Name: org/eclipse/team/internal/ccvs/ui/TableViewerAction.java
+SHA1-Digest: xSsX5TYw++QIG/LkD79xEtvFIqQ=
+
+Name: org/eclipse/team/internal/ccvs/ui/actions/FetchAllMembersAction.
+ java
+SHA1-Digest: y/p5yPBTNYshzVb28dRApyLHImA=
+
+Name: org/eclipse/team/internal/ccvs/ui/operations/RemoteOperation.jav
+ a
+SHA1-Digest: pxLTfy6ivJnRG6KPyNMKz1qfTjM=
+
+Name: org/eclipse/team/internal/ccvs/ui/operations/RemoteProjectFolder
+ .java
+SHA1-Digest: 47IMP9L/t7RxIat5F4tLBN1ymmU=
+
+Name: org/eclipse/team/internal/ccvs/ui/mappings/CreatePatchAction.jav
+ a
+SHA1-Digest: wnWcwW04PGIjkAsXRnQABDf+bSg=
+
+Name: org/eclipse/team/internal/ccvs/ui/actions/NewRepositoryAction.ja
+ va
+SHA1-Digest: FNkuvr+4mNF2zaS5UKaQnTt5Muk=
+
+Name: org/eclipse/team/internal/ccvs/ui/TextViewerAction.java
+SHA1-Digest: 8+TKtj4+e5A3Q9b5LvzyRx0Ec8g=
+
+Name: org/eclipse/team/internal/ccvs/ui/CVSHistoryFilterDialog.java
+SHA1-Digest: NEhiq7eNb9mUSbioYgSfVJ+tlKc=
+
+Name: org/eclipse/team/internal/ccvs/ui/actions/UpdateAction.java
+SHA1-Digest: e7AdaOXws0qyQLZ+wZhK42wzZFo=
+
+Name: org/eclipse/team/internal/ccvs/ui/console/CVSOutputConsole.java
+SHA1-Digest: Q0relX5OHdkiNa8rvEi7mWdu1Ag=
+
+Name: org/eclipse/team/internal/ccvs/ui/ICVSUIConstants.java
+SHA1-Digest: 4MLgZvAZVKeHV2TSfXay476tZwE=
+
+Name: org/eclipse/team/internal/ccvs/ui/UserValidationDialog.java
+SHA1-Digest: PPU/w7WhNMVPL5cGns7kCnWSYiE=
+
+Name: org/eclipse/team/internal/ccvs/ui/tags/TagSelectionWizardPage.ja
+ va
+SHA1-Digest: t+zPAT7AZIITyP+EudhWUTtTU0g=
+
+Name: org/eclipse/team/internal/ccvs/ui/ConfigureRepositoryLocationsTa
+ ble.java
+SHA1-Digest: V+0VJduOwZgImI8BIUwYPYWEAJs=
+
+Name: org/eclipse/team/internal/ccvs/ui/actions/ReplaceWithLatestRevis
+ ionAction.java
+SHA1-Digest: G1LVYnM2BqE/FqVFHuB43sJ6OMU=
+
+Name: org/eclipse/team/internal/ccvs/ui/wizards/SharingWizard.java
+SHA1-Digest: EnUdbbogWHcF6NdO7ttfxu2l2fo=
+
+Name: org/eclipse/team/internal/ccvs/ui/actions/MergeAction.java
+SHA1-Digest: opBdUbzFJw9GiVSne9fho92mmL4=
+
+Name: org/eclipse/team/internal/ccvs/ui/wizards/RestoreFromRepositoryF
+ ileSelectionPage.java
+SHA1-Digest: 6AQu5Ccyd/bDkrI1uEhYOIp3gAA=
+
+Name: org/eclipse/team/internal/ccvs/ui/VersionCollator.java
+SHA1-Digest: UD5eM5OaZvC6Q8P5O8b+GJ9USJQ=
+
+Name: org/eclipse/team/internal/ccvs/ui/actions/ReplaceWithRevisionAct
+ ion.java
+SHA1-Digest: tg7S3fVzu4Ro5QPlVr8fH+zmOic=
+
+Name: org/eclipse/team/internal/ccvs/ui/CVSResourceTransfer.java
+SHA1-Digest: eS1vb2L01ubqEhAZJhkLcVopwio=
+
+Name: org/eclipse/team/internal/ccvs/ui/operations/FetchAllMembersOper
+ ation.java
+SHA1-Digest: hcwhiQoBUA1qPNvYfnm4dRVi5b0=
+
+Name: org/eclipse/team/internal/ccvs/ui/subscriber/UpdateDialog.java
+SHA1-Digest: KvO5dyBfep5hGTC6isSRZvpEk+0=
+
+Name: org/eclipse/team/internal/ccvs/ui/tags/TagElement.java
+SHA1-Digest: u34HgwWfDJQHeLjAbqnY+dx6Cuo=
+
+Name: org/eclipse/team/internal/ccvs/ui/subscriber/ApplyPatchAction.ja
+ va
+SHA1-Digest: 4L3FbqpjnyKzyAhZkELTDxdAGjo=
+
+Name: org/eclipse/team/internal/ccvs/ui/tags/TagRootElement.java
+SHA1-Digest: AXUisM/e4JGG3heV+K9sHYrMD48=
+
+Name: org/eclipse/team/internal/ccvs/ui/wizards/SharingWizardPageActio
+ nGroup.java
+SHA1-Digest: OAcrsfxkIcLTwb2ImkZCI+DCXmQ=
+
+Name: org/eclipse/team/internal/ccvs/ui/operations/ReconcileProjectOpe
+ ration.java
+SHA1-Digest: 0hwiNtnwcGOP1VFmsACrBJtglK8=
+
+Name: org/eclipse/team/internal/ccvs/ui/subscriber/CVSChangeSetCapabil
+ ity.java
+SHA1-Digest: PiWJrPaogQ1Px+tL5sZgezrlIL0=
+
+Name: org/eclipse/team/internal/ccvs/ui/model/RemoteModule.java
+SHA1-Digest: fNWJqsMbAqYhsJ26Uo912HYqwJo=
+
+Name: org/eclipse/team/internal/ccvs/ui/CVSFolderPropertiesPage.java
+SHA1-Digest: O7WSBPIk/33BQnsExHH6CXhF91U=
+
+Name: org/eclipse/team/internal/ccvs/ui/tags/TagSelectionDialog.java
+SHA1-Digest: jPX3KrEyE+dkUSZYUEQDl8CKScw=
+
+Name: org/eclipse/team/internal/ccvs/ui/wizards/ResizableWizard.java
+SHA1-Digest: q2Db8yaL9b6KcXNeX5kNwExiqs0=
+
+Name: org/eclipse/team/internal/ccvs/ui/mappings/CompareSubscriberCont
+ ext.java
+SHA1-Digest: 8vxqzzUpKdZEk216qsLJMm+dfS4=
+
+Name: org/eclipse/team/internal/ccvs/ui/CVSDecoratorPreferencesPage.ja
+ va
+SHA1-Digest: mPwPlNG+/hLwM6VHBlhkKqf8slI=
+
+Name: org/eclipse/team/internal/ccvs/ui/actions/OpenRemoteFileAction.j
+ ava
+SHA1-Digest: 3n0cnO68ip0dgL3IUhXPtZHL6ek=
+
+Name: org/eclipse/team/internal/ccvs/ui/subscriber/CVSChangeSetCollect
+ or.java
+SHA1-Digest: XiaUz9Hdc1QQxfqvgH8O6mYifHA=
+
+Name: org/eclipse/team/internal/ccvs/ui/CommentTemplateEditDialog.java
+SHA1-Digest: HZCcEmK/5ozC17sFXpCHJexsXEY=
+
+Name: org/eclipse/team/internal/ccvs/ui/actions/WorkspaceTraversalActi
+ on.java
+SHA1-Digest: /JfWJxGhipEBKa68dygIZXR4z7c=
+
+Name: org/eclipse/team/internal/ccvs/ui/tags/LocalProjectTagSource.jav
+ a
+SHA1-Digest: kL+nIMhjFaFRBfrTKKZZuG3C4bw=
+
+Name: org/eclipse/team/internal/ccvs/ui/CVSUIPlugin.java
+SHA1-Digest: OlnK3YlEr+kBVeBHQegwwffGeL0=
+
+Name: org/eclipse/team/internal/ccvs/ui/RemoteAnnotationStorage.java
+SHA1-Digest: Zqq3RLSZIYbm63Pi1fgP/ghncwg=
+
+Name: org/eclipse/team/internal/ccvs/ui/wizards/AlternativeLocationWiz
+ ard.java
+SHA1-Digest: QW7i6/371nV+mVqZ7HBCzARMz94=
+
+Name: org/eclipse/team/internal/ccvs/ui/actions/SetKeywordSubstitution
+ Action.java
+SHA1-Digest: qiM8uJNAorYcD6wyHU4eGsDz/vE=
+
+Name: org/eclipse/team/internal/ccvs/ui/repo/RepositoriesFilter.java
+SHA1-Digest: SzVYqvPummBRGDia8RdFB79UDVU=
+
+Name: org/eclipse/team/internal/ccvs/ui/actions/CompareWithRemoteActio
+ n.java
+SHA1-Digest: nIr98lMl7BXxRgMh397r5UWGJtk=
+
+Name: org/eclipse/team/internal/ccvs/ui/subscriber/LogEntryCacheUpdate
+ Handler.java
+SHA1-Digest: ZV9NaNu2uTyw74klDFAanohCkFc=
+
+Name: org/eclipse/team/internal/ccvs/ui/wizards/CVSWizardPage.java
+SHA1-Digest: XSyqwes4LbT32Z4DNyuasCLImcA=
+
+Name: org/eclipse/team/internal/ccvs/ui/operations/ShowAnnotationOpera
+ tion.java
+SHA1-Digest: fIefZsL0z+yjC2kuyNQmlFWA11w=
+
+Name: org/eclipse/team/internal/ccvs/ui/wizards/ImportWizard.java
+SHA1-Digest: 5ryVBYFXnf+YUXDYV7U56WwkoBQ=
+
+Name: org/eclipse/team/internal/ccvs/ui/actions/ShowEditorsAction.java
+SHA1-Digest: PR1nAVKZHJfs4E5OwtCtas+89L0=
+

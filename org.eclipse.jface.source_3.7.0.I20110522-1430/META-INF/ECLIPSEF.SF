@@ -1,0 +1,1172 @@
+Signature-Version: 1.0
+SHA1-Digest-Manifest: J37Hly3h78+vHW1TMkQwN2YuBiY=
+Created-By: 1.6.0 (IBM Corporation)
+SHA1-Digest-Manifest-Main-Attributes: TGj7uE8YIJdG302zG7DzfdoXYpk=
+
+Name: org/eclipse/jface/viewers/LabelDecorator.java
+SHA1-Digest: lDfER+nVAGE2FFxI2bc1TnQDFUY=
+
+Name: org/eclipse/jface/viewers/deferred/SetModel.java
+SHA1-Digest: WSSPWcXyidNJlw93mYXOKtv9Sdc=
+
+Name: org/eclipse/jface/viewers/ITableFontProvider.java
+SHA1-Digest: f5LpSMWLEmQexyY14Qzfsf7UkXA=
+
+Name: org/eclipse/jface/preference/FieldEditor.java
+SHA1-Digest: WM7JQlbmLlrTsJfOsUerv/8uGpI=
+
+Name: org/eclipse/jface/operation/IRunnableContext.java
+SHA1-Digest: jIMfz5KAshU0ViRU114RWWOxX+E=
+
+Name: org/eclipse/jface/viewers/TreePathViewerSorter.java
+SHA1-Digest: /WXbOcDX8NHpHVA1igvkVhzLO80=
+
+Name: org/eclipse/jface/util/ConfigureColumns.java
+SHA1-Digest: GI2pYxG86bNi1pFT4fMEoH4QeU4=
+
+Name: org/eclipse/jface/viewers/ColumnViewerEditorActivationListener.j
+ ava
+SHA1-Digest: 82aGqAeJEs1lKIOW58mH2Lmzg3Q=
+
+Name: org/eclipse/jface/layout/TreeColumnLayout.java
+SHA1-Digest: JNgfbkNUXmfdYN1tyPO//UswYuI=
+
+Name: org/eclipse/jface/internal/InternalPolicy.java
+SHA1-Digest: 47i64ROosZ8C/t46NE4YEqGt0nk=
+
+Name: org/eclipse/jface/operation/ModalContext.java
+SHA1-Digest: l2OzUBW6go9v1wUFGYqlZ9oH0+Y=
+
+Name: org/eclipse/jface/viewers/ColumnViewerEditorDeactivationEvent.ja
+ va
+SHA1-Digest: l6AxdAeuCOxdBW779ubzaXm5lqY=
+
+Name: org/eclipse/jface/dialogs/ControlAnimator.java
+SHA1-Digest: CrGJRwPgeZRl3Fy9H45XKJofCes=
+
+Name: org/eclipse/jface/preference/ListEditor.java
+SHA1-Digest: gl19TZtOdvrYShEUFe7qwv9xB3M=
+
+Name: org/eclipse/jface/dialogs/ProgressIndicator.java
+SHA1-Digest: IS64DtxjxcHykEyRx+sSINg3soY=
+
+Name: org/eclipse/jface/action/IMenuCreator.java
+SHA1-Digest: cBUtxFqjAMuZwy42bzufPL9upcY=
+
+Name: org/eclipse/jface/dialogs/PageChangingEvent.java
+SHA1-Digest: bkbw1XlCnUSCc4+elHDoUhKnfg4=
+
+Name: org/eclipse/jface/viewers/IDecorationContext.java
+SHA1-Digest: Zn9fwuGnb6oidscqbieVOy5GlG8=
+
+Name: org/eclipse/jface/bindings/keys/SWTKeyLookup.java
+SHA1-Digest: Hn7UyXeZ3PNQTXmkArZUtqIhEU0=
+
+Name: org/eclipse/jface/viewers/ISelectionProvider.java
+SHA1-Digest: ndzykk+foLIDdCpJ/ecpXu7dgKo=
+
+Name: org/eclipse/jface/action/IStatusLineManager.java
+SHA1-Digest: /fMNEYY5UvMZ19HhtO70Cqm3hbM=
+
+Name: org/eclipse/jface/window/IShellProvider.java
+SHA1-Digest: QVYbuxFVU9iBl29CCLkaQTgvQXk=
+
+Name: org/eclipse/jface/resource/DeviceResourceDescriptor.java
+SHA1-Digest: k52g23UtKSE+d6PWWNJQWDm1aN8=
+
+Name: org/eclipse/jface/wizard/IWizardContainer.java
+SHA1-Digest: 8hln6K2A2qWlWOiJtd6As9mEkbU=
+
+Name: org/eclipse/jface/viewers/CheckboxTableViewer.java
+SHA1-Digest: 9KavpfJhtttVTkVvM2GvJTtZyh8=
+
+Name: org/eclipse/jface/dialogs/IInputValidator.java
+SHA1-Digest: gBpKa14YzCUBqaaMDnQGHbv27HU=
+
+Name: org/eclipse/jface/resource/FontRegistry.java
+SHA1-Digest: M4GKg8XnoOPohxsYZj4PRUFocRU=
+
+Name: org/eclipse/jface/util/TransferDropTargetListener.java
+SHA1-Digest: kNKOMqr7V1PAqNmcRuzoYERZVaY=
+
+Name: org/eclipse/jface/util/ISafeRunnableRunner.java
+SHA1-Digest: Ai3LKyejBELzoRANolvY2DSuntE=
+
+Name: org/eclipse/jface/viewers/deferred/IConcurrentModel.java
+SHA1-Digest: nDn76GzFU2CzJ/Ko7Ej1qHq1TAE=
+
+Name: org/eclipse/jface/action/ToolBarManager.java
+SHA1-Digest: DBjJ5/aGCHmGuRliUm9ezxAotIU=
+
+Name: org/eclipse/jface/bindings/keys/formatting/FormalKeyFormatter.ja
+ va
+SHA1-Digest: xRH74Ry7JPW0M/LqutNTC6Eyd4s=
+
+Name: org/eclipse/jface/menus/TextState.java
+SHA1-Digest: TKu4Hejbm1cdVt0QK4EsQXGBBjk=
+
+Name: org/eclipse/jface/viewers/IBasicPropertyConstants.java
+SHA1-Digest: MMWa+QhQU7CiVhkxjhY2JH3ozgU=
+
+Name: org/eclipse/jface/resource/ColorDescriptor.java
+SHA1-Digest: 5egLLoXHvdj0o2s1CI4n3FxQbe8=
+
+Name: org/eclipse/jface/preference/PathEditor.java
+SHA1-Digest: lspTOvYcWBtqjWVWqMaQOTtTt8c=
+
+Name: org/eclipse/jface/preference/RadioGroupFieldEditor.java
+SHA1-Digest: H/9UAFzbcDbukulUR+p1QgzHkNs=
+
+Name: org/eclipse/jface/util/DelegatingDragAdapter.java
+SHA1-Digest: UUPW+Pll0odSLuLbsCXT7vGZ+lw=
+
+Name: org/eclipse/jface/internal/provisional/action/ToolBarContributio
+ nItem2.java
+SHA1-Digest: MfM0o9YLclgh7EF0hemBvLJ6KNs=
+
+Name: org/eclipse/jface/viewers/deferred/IntHashMap.java
+SHA1-Digest: ZaUQzM4Dm5u7kE7DFzDDqwLk7V8=
+
+Name: org/eclipse/jface/action/SubStatusLineManager.java
+SHA1-Digest: r6OBMbRFVXDvLGMrTxGBYneK3ag=
+
+Name: org/eclipse/jface/layout/PixelConverter.java
+SHA1-Digest: qJ3JraI2x61PlJw1b/jDtczCIfQ=
+
+Name: org/eclipse/jface/action/ToolBarContributionItem.java
+SHA1-Digest: +0JH3ksLmRJyNZ6pA5JarnYTE1I=
+
+Name: org/eclipse/jface/bindings/Binding.java
+SHA1-Digest: oebPuKevOiu4wBDQKs0C9u2bFU4=
+
+Name: org/eclipse/jface/viewers/ISelectionChangedListener.java
+SHA1-Digest: bR4rHUaBL5SAhbrctQ3k/CBnH0Y=
+
+Name: org/eclipse/jface/viewers/CheckboxTreeViewer.java
+SHA1-Digest: toATy6EKSvAYU1wygjfby2y5gq8=
+
+Name: org/eclipse/jface/internal/provisional/action/CoolBarManager2.ja
+ va
+SHA1-Digest: iYNuLhgKwciEwwsGtAEBCD3K0CM=
+
+Name: org/eclipse/jface/viewers/FocusCellOwnerDrawHighlighter.java
+SHA1-Digest: IRw3UX14jZDpVt0KDxLsCuIXEwE=
+
+Name: org/eclipse/jface/window/WindowManager.java
+SHA1-Digest: ecDubgKvQS+Jbp21ZN3ZDHfzxgo=
+
+Name: org/eclipse/jface/viewers/WrappedViewerLabelProvider.java
+SHA1-Digest: TWG/B3V9Mm7TCm2hGHlw7uVgOi8=
+
+Name: org/eclipse/jface/fieldassist/IContentProposalListener2.java
+SHA1-Digest: Vu5wxOFle7OfsThnc9XQl5/hu/M=
+
+Name: org/eclipse/jface/action/Action.java
+SHA1-Digest: 3DcJjN1IGYgULMomJst0l/uwWTY=
+
+Name: org/eclipse/jface/dialogs/PageChangedEvent.java
+SHA1-Digest: 0pewfCJlQyOD71JxpGdb3Ji756o=
+
+Name: org/eclipse/jface/fieldassist/ContentProposalAdapter.java
+SHA1-Digest: 5eyr9QRigtPP18ciq68IMFXQyUk=
+
+Name: org/eclipse/jface/dialogs/MessageDialogWithToggle.java
+SHA1-Digest: +3Ql0Yr8i1wT22KuaMUTKy8gQ40=
+
+Name: org/eclipse/jface/viewers/IContentProvider.java
+SHA1-Digest: ABTEvbgkTqgbWi26IsGKIiOM5JM=
+
+Name: org/eclipse/jface/viewers/ColorCellEditor.java
+SHA1-Digest: aZlKVXeU0f5NEfLeJjcW4XQ+nxc=
+
+Name: org/eclipse/jface/window/DefaultToolTip.java
+SHA1-Digest: qgkC8M87CVR12JEaLdlZmR3vDuM=
+
+Name: org/eclipse/jface/viewers/TextCellEditor.java
+SHA1-Digest: EyKTyX0yZR4VDBR39MmJTUGtvvQ=
+
+Name: org/eclipse/jface/action/CoolBarManager.java
+SHA1-Digest: 2OcIvJORvC0oBHsp3LLLOLvzl38=
+
+Name: org/eclipse/jface/viewers/ColumnWeightData.java
+SHA1-Digest: cnbhtBnVZv0tMTFBGH8v7869VP0=
+
+Name: org/eclipse/jface/viewers/TreeViewerRow.java
+SHA1-Digest: aL23fj+SUzKceuum3sZF8Vofkkk=
+
+Name: org/eclipse/jface/viewers/ColumnViewerEditor.java
+SHA1-Digest: ZauHRT8pdqFduaSDkUO34U9pqLQ=
+
+Name: org/eclipse/jface/window/ApplicationWindow.java
+SHA1-Digest: qIiucZTNOGSa+DgWgCgxewv05Zs=
+
+Name: org/eclipse/jface/dialogs/IPageChangingListener.java
+SHA1-Digest: jAAW5C805j12HeD1C5hyfNIacEU=
+
+Name: org/eclipse/jface/viewers/ICellModifier.java
+SHA1-Digest: bGyl42tw0W8vP0BaadifHBY+Hx8=
+
+Name: org/eclipse/jface/viewers/ILabelProviderListener.java
+SHA1-Digest: 0kgmGiq+e3LMIk7sfI6BVaCi/VQ=
+
+Name: org/eclipse/jface/viewers/CheckStateChangedEvent.java
+SHA1-Digest: B68q3IGH1nRMika8CHSwpHDsBWA=
+
+Name: org/eclipse/jface/dialogs/ErrorSupportProvider.java
+SHA1-Digest: mFCaVPHAp+MgHeW49/qXu14QeLU=
+
+Name: org/eclipse/jface/preference/ScaleFieldEditor.java
+SHA1-Digest: utjdnGk4zBg12hob1+kpuFi17W4=
+
+Name: org/eclipse/jface/viewers/ILightweightLabelDecorator.java
+SHA1-Digest: gBI1KROETEKHrfS03jPl1aMao+I=
+
+Name: org/eclipse/jface/viewers/IBaseLabelProvider.java
+SHA1-Digest: Zw5nzO6HLXGZhFFlnxVae0de6NA=
+
+Name: org/eclipse/jface/bindings/keys/ParseException.java
+SHA1-Digest: zppvwNweWUUisWxGs2ZVAdxFxGA=
+
+Name: org/eclipse/jface/commands/ToggleState.java
+SHA1-Digest: ghMECIFeLcVs4kVcobtrN/T6Z30=
+
+Name: org/eclipse/jface/viewers/IDecoration.java
+SHA1-Digest: Y5TqS5EPXNxCyD1uv4+zjprXJWg=
+
+Name: org/eclipse/jface/dialogs/TitleAreaDialog.java
+SHA1-Digest: oBha7r5KY8NGSCyvqT4HaY+Utpk=
+
+Name: org/eclipse/jface/action/IContributionItem.java
+SHA1-Digest: +mPGPxBIljSVOpHIGC21qBblFzU=
+
+Name: org/eclipse/jface/viewers/IFontDecorator.java
+SHA1-Digest: T2mF4kBJwrR8FvmfyeSjCxkBh6c=
+
+Name: org/eclipse/jface/viewers/deferred/AbstractVirtualTable.java
+SHA1-Digest: n+fh+Q4eZ3xnt6Rvm3zrqh7BoSA=
+
+Name: org/eclipse/jface/fieldassist/AutoCompleteField.java
+SHA1-Digest: 0lWZE8yoCZx4T5Th2eHriD+Qgwo=
+
+Name: org/eclipse/jface/bindings/keys/SWTKeySupport.java
+SHA1-Digest: hlnHd1ufM2BTnTKLQV+eRIXT5Zo=
+
+Name: org/eclipse/jface/viewers/IDoubleClickListener.java
+SHA1-Digest: shxqFZ9sqK4096Lni3UE/mvamFc=
+
+Name: org/eclipse/jface/wizard/IWizard.java
+SHA1-Digest: 9NTtyf2fFgEAmzywhaIFA5w9bX0=
+
+Name: org/eclipse/jface/preference/IPreferencePageContainer.java
+SHA1-Digest: COoJmMpfJlMF25xYkVJv2xUM5Sg=
+
+Name: org/eclipse/jface/action/StatusLine.java
+SHA1-Digest: axI+PfFoqd4sulrDDb64xgky9qA=
+
+Name: org/eclipse/jface/viewers/ICheckable.java
+SHA1-Digest: n8DJMCEtKKLeHi8zB/w3g2DXBa0=
+
+Name: org/eclipse/jface/fieldassist/FieldDecorationRegistry.java
+SHA1-Digest: kUzwOWedYGO8OJfaJ/hMvNKFLMs=
+
+Name: org/eclipse/jface/bindings/keys/formatting/EmacsKeyFormatter.jav
+ a
+SHA1-Digest: mP7nVpMNAjXbGju2ohIDgILADjk=
+
+Name: org/eclipse/jface/action/LegacyActionTools.java
+SHA1-Digest: V9vD8WSahxqh0DlMVoqS7C85lOE=
+
+Name: org/eclipse/jface/preference/ColorFieldEditor.java
+SHA1-Digest: SdKZeRdMW7qU0KXdOvJ/0EWEDQo=
+
+Name: org/eclipse/jface/action/IToolBarManager.java
+SHA1-Digest: sojaijVI0zQBf4s8izT4yd2CwcI=
+
+Name: org/eclipse/jface/dialogs/DialogTray.java
+SHA1-Digest: atYuMgP0z60aY7ZNFQoTL1LF448=
+
+Name: org/eclipse/jface/wizard/WizardDialog.java
+SHA1-Digest: XEIkcrMzynkcdnMNmZkT82GC0JM=
+
+Name: org/eclipse/jface/dialogs/StatusDialog.java
+SHA1-Digest: 6AZ+sRz82C3k4KmDF+B+7h1U7ZA=
+
+Name: org/eclipse/jface/viewers/ListViewer.java
+SHA1-Digest: QE1xCRBg3hUoF53nd4eE/knht6Y=
+
+Name: org/eclipse/jface/viewers/DecorationContext.java
+SHA1-Digest: 0Vc2sU09obY6KaNz7GHJO1L0IK4=
+
+Name: org/eclipse/jface/viewers/AbstractTableViewer.java
+SHA1-Digest: rWS6hHH1KgxT+yUHhTLdospCJqg=
+
+Name: org/eclipse/jface/viewers/TreeViewerColumn.java
+SHA1-Digest: I6MazeIIHxt1tk/eCX1fQIWHx8o=
+
+Name: org/eclipse/jface/internal/provisional/action/ToolBarManager2.ja
+ va
+SHA1-Digest: hOYbFq84ZYDGys85QxA+4TeZs7w=
+
+Name: org/eclipse/jface/action/SubMenuManager.java
+SHA1-Digest: W+vz68FnP/tE2KlZrrq2QIOW4Xg=
+
+Name: org/eclipse/jface/viewers/AcceptAllFilter.java
+SHA1-Digest: eJzYu0nbAV7CZQkFJMN/XeC2alg=
+
+Name: org/eclipse/jface/viewers/OpenEvent.java
+SHA1-Digest: MfusnYKOJ4hecGBKroOpYsYH8GM=
+
+Name: org/eclipse/jface/dialogs/Dialog.java
+SHA1-Digest: M33/zHz4dOQXWThZksEHrj1BBzc=
+
+Name: org/eclipse/jface/viewers/CustomHashtable.java
+SHA1-Digest: MJb2AeUYio4Fq1ro+lZN+1KEcLI=
+
+Name: org/eclipse/jface/util/ListenerList.java
+SHA1-Digest: cv4lxbKmooaGewzSYyY8zfquugw=
+
+Name: org/eclipse/jface/util/Geometry.java
+SHA1-Digest: i6ykGpt1Znxi8HEsJSMWu4kxVJc=
+
+Name: org/eclipse/jface/resource/JFaceResources.java
+SHA1-Digest: TVi4Z7/yiUMc9ynpu0HquRSUw3U=
+
+Name: org/eclipse/jface/wizard/WizardPage.java
+SHA1-Digest: Ywb0oEmNTX3yOx4EUbYw80hZKYU=
+
+Name: org/eclipse/jface/preference/IntegerFieldEditor.java
+SHA1-Digest: Y4gkptu/D606MG15Y2EWEEEWwDk=
+
+Name: org/eclipse/jface/viewers/EditingSupport.java
+SHA1-Digest: dixcPlULRTU7VsPzHCNHW42DAiQ=
+
+Name: org/eclipse/jface/layout/LayoutGenerator.java
+SHA1-Digest: 0+wmAnqSv5Xpw2dMd+xV6aAHNgs=
+
+Name: org/eclipse/jface/menus/AbstractTrimWidget.java
+SHA1-Digest: 7zUcfbAjV+iJaPhs+ALcMosnlik=
+
+Name: org/eclipse/jface/viewers/LabelProvider.java
+SHA1-Digest: Kimpjl8qcJrzsAoX+b3Tzr3X8Qw=
+
+Name: org/eclipse/jface/bindings/ISchemeListener.java
+SHA1-Digest: /Ho5EHsbruPOaNPmhKOKIPH5CWk=
+
+Name: org/eclipse/jface/viewers/IInputProvider.java
+SHA1-Digest: 2AIFZ/i+TfXCpf8dCGQMvXbPrVA=
+
+Name: org/eclipse/jface/wizard/IWizardPage.java
+SHA1-Digest: jfF8PYevYu58iQzyyC1LAovtKBA=
+
+Name: org/eclipse/jface/dialogs/IPageChangeProvider.java
+SHA1-Digest: jASWx8/jVQBZvXa+QEaziXfqdFQ=
+
+Name: org/eclipse/jface/preference/BooleanPropertyAction.java
+SHA1-Digest: AbNejeWUKpULy0W71EDPLogkec0=
+
+Name: org/eclipse/jface/viewers/ILazyTreeContentProvider.java
+SHA1-Digest: Y9ecrCoyhN8OUSWpDOPL4uBOoZ8=
+
+Name: org/eclipse/jface/viewers/IFilter.java
+SHA1-Digest: bULuQfX278BJZiP48pZZn96LRxE=
+
+Name: org/eclipse/jface/preference/FieldEditorPreferencePage.java
+SHA1-Digest: RR5vfEiTpo8VwbzVXblcq+lkU8k=
+
+Name: org/eclipse/jface/menus/IWidget.java
+SHA1-Digest: NpfCs3GzhRG/sjDryUmxZSb3Qig=
+
+Name: org/eclipse/jface/viewers/deferred/LazySortedCollection.java
+SHA1-Digest: C0MTybYXnOtXnFnCDpfC1OrSqx8=
+
+Name: org/eclipse/jface/preference/IPreferenceStore.java
+SHA1-Digest: EtD+wbWMmr7NSdmZ7yKSJyl43yA=
+
+Name: org/eclipse/jface/viewers/ComboBoxCellEditor.java
+SHA1-Digest: TLS8sNnPoHCX1Zw3kiAXqomeglg=
+
+Name: org/eclipse/jface/resource/DerivedImageDescriptor.java
+SHA1-Digest: 0xnzHk6nQlqV8Ijup9BB42int34=
+
+Name: org/eclipse/jface/preference/ComboFieldEditor.java
+SHA1-Digest: n1bgkBNZSUiSdVQIaXFtPpBrXY8=
+
+Name: org/eclipse/jface/action/MenuManager.java
+SHA1-Digest: 8s33mz9vpkwBbHSB129SmtLJ88U=
+
+Name: org/eclipse/jface/layout/GridLayoutFactory.java
+SHA1-Digest: EuG13dkY1KXCG8bi1OGuM4f+G3s=
+
+Name: org/eclipse/jface/action/ICoolBarManager.java
+SHA1-Digest: 9nTdrX2V0cUeRcxxEtloaJKQhCA=
+
+Name: org/eclipse/jface/action/ExternalActionManager.java
+SHA1-Digest: dFeXiLvov0hfW59/1xsRA/632Ng=
+
+Name: META-INF/eclipse.inf
+SHA1-Digest: SAqY+5ITAL0mkdYeijlSRhyIaZk=
+
+Name: org/eclipse/jface/viewers/StructuredViewer.java
+SHA1-Digest: JjZ13xAGkUxVXlNKu3Hi7/avtxI=
+
+Name: org/eclipse/jface/viewers/IIndexableLazyContentProvider.java
+SHA1-Digest: G9ZB58KGqkxVneb/ViZLW10YUkA=
+
+Name: org/eclipse/jface/fieldassist/DecoratedField.java
+SHA1-Digest: DW75tfwppbsXJ7u3XiDWKhDk5F0=
+
+Name: org/eclipse/jface/viewers/ComboBoxViewerCellEditor.java
+SHA1-Digest: CNmZh4EJ0gy6Ln0ihQHfgMLWnis=
+
+Name: org/eclipse/jface/viewers/ColumnViewerEditorActivationStrategy.j
+ ava
+SHA1-Digest: 0EyJ0q89kCAXuJl/Wzl8WRVg6ok=
+
+Name: org/eclipse/jface/dialogs/AnimatorFactory.java
+SHA1-Digest: Jr8KOxKgd+YZDwMP5ocBvnsjzGM=
+
+Name: org/eclipse/jface/resource/DeviceResourceManager.java
+SHA1-Digest: MYlsjAYQO0SsArPtbSv0pl1+vxc=
+
+Name: org/eclipse/jface/contexts/IContextIds.java
+SHA1-Digest: AOH9Y8pwtLv8ADE9Cvs2nEpyIwo=
+
+Name: org/eclipse/jface/window/ToolTip.java
+SHA1-Digest: D9J9rG1H43ihmlHYovERlyjX/2g=
+
+Name: org/eclipse/jface/bindings/IBindingManagerListener.java
+SHA1-Digest: iZ7dX4GTiCO10kL9jtUALIwCXFU=
+
+Name: org/eclipse/jface/viewers/IOpenListener.java
+SHA1-Digest: SX+lOaIXUbkDKzsybWKfrkPSk1w=
+
+Name: org/eclipse/jface/viewers/ViewerCell.java
+SHA1-Digest: nDBYcN1hXHKBfch6vY6o0wPk2bo=
+
+Name: org/eclipse/jface/viewers/ArrayContentProvider.java
+SHA1-Digest: eOJIqTF3Y1CIgYzzBVNCBbP0zBE=
+
+Name: org/eclipse/jface/fieldassist/IContentProposalProvider.java
+SHA1-Digest: 2lI/2sLXIyLctT6yvgoo4XDmDtQ=
+
+Name: org/eclipse/jface/viewers/CellEditor.java
+SHA1-Digest: Vg0OZoAanVlujfDGWUqBfLAyPRI=
+
+Name: org/eclipse/jface/action/ActionContributionItem.java
+SHA1-Digest: 21h+KNCT8MXgMNakojRlryXiyoA=
+
+Name: org/eclipse/jface/dialogs/DialogPage.java
+SHA1-Digest: +pU+AI+4mgq2RJkZTpDI9TG74tM=
+
+Name: org/eclipse/jface/action/AbstractAction.java
+SHA1-Digest: yL/FyO4vCsdDdFox2JSXCtmIidg=
+
+Name: org/eclipse/jface/dialogs/ProgressMonitorDialog.java
+SHA1-Digest: qgS6Mdd5U2eaL4gEgkJ7JLPjiwY=
+
+Name: org/eclipse/jface/viewers/FocusCellHighlighter.java
+SHA1-Digest: wzcc9eV3BL87qQZsPsq7GWBZjo4=
+
+Name: org/eclipse/jface/dialogs/ControlEnableState.java
+SHA1-Digest: Y0qAb7ibai/eAL7kT57zXNIIqQg=
+
+Name: org/eclipse/jface/viewers/ITreeSelection.java
+SHA1-Digest: bPARhlL8lQXdrCZNM4BrnyZpfJc=
+
+Name: org/eclipse/jface/viewers/TableViewerColumn.java
+SHA1-Digest: XEncFFbXcygkJSjAvdGwDBlst6E=
+
+Name: org/eclipse/jface/viewers/StyledString.java
+SHA1-Digest: F/UhW5KA8XzWofxJ40IjjpbDtRs=
+
+Name: org/eclipse/jface/viewers/DoubleClickEvent.java
+SHA1-Digest: AKoJZfMx7At4vuRxywu908yX/Xo=
+
+Name: org/eclipse/jface/viewers/BaseLabelProvider.java
+SHA1-Digest: tdIVDZoQbB16lFcvJ5POJa97eEs=
+
+Name: org/eclipse/jface/viewers/deferred/AbstractConcurrentModel.java
+SHA1-Digest: ENgFNEuvEfFmAgI6jwTN6i/zGCY=
+
+Name: org/eclipse/jface/viewers/SelectionChangedEvent.java
+SHA1-Digest: YpdKo1VC++mFOEfuRAuFzegeYrM=
+
+Name: org/eclipse/jface/resource/DataFormatException.java
+SHA1-Digest: TFuU8LcyR7fgBmjaRcsjqKX3lNo=
+
+Name: org/eclipse/jface/viewers/TreeViewerEditor.java
+SHA1-Digest: PzBTDO1FP2/+9WWHqqqeTS8HT8E=
+
+Name: org/eclipse/jface/viewers/ViewerDropAdapter.java
+SHA1-Digest: FkgbQRMyw0P+/A4Wuh9J0lc3/RQ=
+
+Name: org/eclipse/jface/bindings/CachedBindingSet.java
+SHA1-Digest: b7CRt6p2Z11Pidb4VchUhVc5Z8s=
+
+Name: org/eclipse/jface/internal/JFaceActivator.java
+SHA1-Digest: 8twUmOc/NfUQ8hBorBOPqcQH5qQ=
+
+Name: org/eclipse/jface/resource/DeviceResourceException.java
+SHA1-Digest: Kyg5fn/26pz9s6YsHE4EfMBI6ro=
+
+Name: org/eclipse/jface/viewers/ICellEditorValidator.java
+SHA1-Digest: YkusT6stn0dUTBiJ8hgo+Coj3dY=
+
+Name: plugin.properties
+SHA1-Digest: 2WJvVTXGmmSP2OI5AZ+hlmE3TnE=
+
+Name: org/eclipse/jface/viewers/TreeNodeContentProvider.java
+SHA1-Digest: NOCqLlq+hWl+Sifuwtgy7dj5nWA=
+
+Name: org/eclipse/jface/action/ContributionItem.java
+SHA1-Digest: vXqwoJPeZl4iC5c4SWFMWRPFIGY=
+
+Name: org/eclipse/jface/viewers/IPostSelectionProvider.java
+SHA1-Digest: ApIKFiAjCgYUId9aX4S0XKpkYZM=
+
+Name: org/eclipse/jface/wizard/IWizardContainer2.java
+SHA1-Digest: /3eFosfyIHUdQ/kxkDbhQ1Bq1uA=
+
+Name: org/eclipse/jface/resource/ColorRegistry.java
+SHA1-Digest: 5vsw/kzXEZUy/XdKNTVVhokoPoQ=
+
+Name: org/eclipse/jface/preference/PreferenceManager.java
+SHA1-Digest: hjHJytWbwbqiVGCm3fTS8pxbE70=
+
+Name: org/eclipse/jface/bindings/Trigger.java
+SHA1-Digest: /u8o0ywqLP741+EeARpFTa/gJD0=
+
+Name: org/eclipse/jface/fieldassist/IControlCreator.java
+SHA1-Digest: QEHIV6WM2uNM4o9GLIRRiVJNn+4=
+
+Name: org/eclipse/jface/util/IPropertyChangeListener.java
+SHA1-Digest: 7qgpR3zJyTh8PxX6JvOaGcfGDN8=
+
+Name: org/eclipse/jface/viewers/NamedHandleObjectLabelProvider.java
+SHA1-Digest: 17wmrXEafDc+V83TktAezXDTZPA=
+
+Name: org/eclipse/jface/resource/StringConverter.java
+SHA1-Digest: vQL5gmCl898UyjEzO830rBnPOXI=
+
+Name: org/eclipse/jface/action/Separator.java
+SHA1-Digest: nuc9bKUyER/KwfOHSKNV9/HsNGk=
+
+Name: org/eclipse/jface/action/StatusLineContributionItem.java
+SHA1-Digest: ppTH8/KGHzu+vJfd8J/zQ2/7GLg=
+
+Name: org/eclipse/jface/bindings/keys/IKeyLookup.java
+SHA1-Digest: Hx6P1adbGO9aKUfquNyfGvW1Uxc=
+
+Name: org/eclipse/jface/layout/TableColumnLayout.java
+SHA1-Digest: fTKQoQvASxJwPxoINdfDeymGvfQ=
+
+Name: org/eclipse/jface/bindings/keys/KeyStroke.java
+SHA1-Digest: toa1dmn19LocMMU01IIw3m+2cpY=
+
+Name: org/eclipse/jface/action/IMenuListener.java
+SHA1-Digest: qOuAIAaV7wuCWgnCwiAMaFws6GU=
+
+Name: org/eclipse/jface/viewers/ICheckStateListener.java
+SHA1-Digest: TC4+X2wg7k6i0dCgdQp64C1nA7o=
+
+Name: org/eclipse/jface/dialogs/TrayDialog.java
+SHA1-Digest: MJMB7Lv3HZWVkcK3bf3Y4wVTWy8=
+
+Name: org/eclipse/jface/viewers/AbstractListViewer.java
+SHA1-Digest: KXUHzAjJSUk+BRtdrIwKksvwKWw=
+
+Name: org/eclipse/jface/viewers/SWTFocusCellManager.java
+SHA1-Digest: HR3WKwlLJ3fXcRRZbl5SodSYRNU=
+
+Name: org/eclipse/jface/internal/provisional/action/ICoolBarManager2.j
+ ava
+SHA1-Digest: tEZp7Tlg1NI0qz+uABBUEw5lo1Y=
+
+Name: org/eclipse/jface/bindings/keys/formatting/NativeKeyFormatter.ja
+ va
+SHA1-Digest: q9NRuSkTvdhr/yHnGv3RLQxCZAM=
+
+Name: org/eclipse/jface/resource/AbstractResourceManager.java
+SHA1-Digest: VbaqnpZ9N/bb45/gZ5+RSAwZtgQ=
+
+Name: org/eclipse/jface/operation/IRunnableWithProgress.java
+SHA1-Digest: swsM9W48fxARhKs0X5nr8vNgrXM=
+
+Name: org/eclipse/jface/dialogs/IDialogLabelKeys.java
+SHA1-Digest: 7c8H3NK2gaBrPQrIleKjYH52LBU=
+
+Name: org/eclipse/jface/viewers/TreeColumnViewerLabelProvider.java
+SHA1-Digest: KpHh73RyKEgYozBJl1VrNz/CbCo=
+
+Name: org/eclipse/jface/action/IMenuListener2.java
+SHA1-Digest: 6sKxlQVEvUpejC1iDU5bPd9K2Ig=
+
+Name: org/eclipse/jface/dialogs/ErrorDialog.java
+SHA1-Digest: gIP+xcc6e+7oFLa2UP9SrjRkCOg=
+
+Name: org/eclipse/jface/viewers/ColumnViewer.java
+SHA1-Digest: qPJ+YEOcpfrq7Ra06VShyou72ow=
+
+Name: org/eclipse/jface/viewers/DecorationOverlayIcon.java
+SHA1-Digest: tODb6zl+ZthcHAexlKOVwhvgp18=
+
+Name: org/eclipse/jface/util/OpenStrategy.java
+SHA1-Digest: n9Sv3I7Q3G46rh8QXgjzgRPK82E=
+
+Name: org/eclipse/jface/wizard/IWizardNode.java
+SHA1-Digest: iX+MY47rdAarLJv29kVXXjy3Usc=
+
+Name: org/eclipse/jface/layout/AbstractColumnLayout.java
+SHA1-Digest: nzNLlBVaZqvRzy2TtkOI1JR1gEs=
+
+Name: org/eclipse/jface/viewers/ITreeContentProvider.java
+SHA1-Digest: oCXVVcwLGtEzm1yKMvW1f4qbalQ=
+
+Name: org/eclipse/jface/viewers/StructuredViewerInternals.java
+SHA1-Digest: ewer6ecLiDK6ikI5UrzMrB9qNGI=
+
+Name: org/eclipse/jface/viewers/TableViewerFocusCellManager.java
+SHA1-Digest: sVrHRdgG3vdr3wMCW9FpK1ZT7YI=
+
+Name: org/eclipse/jface/viewers/StyledCellLabelProvider.java
+SHA1-Digest: ZVYlmGrymfzSMGAsPAtn/z4H0Uk=
+
+Name: org/eclipse/jface/wizard/WizardSelectionPage.java
+SHA1-Digest: ZiWU2+RW1XpGAE8B9FYZ7stS5DU=
+
+Name: org/eclipse/jface/fieldassist/ContentProposal.java
+SHA1-Digest: 4Khz1XnsVarw61+4lOOWjPeRjps=
+
+Name: org/eclipse/jface/viewers/TableViewerEditor.java
+SHA1-Digest: 696YJGDGtdRTfotFBCqVAHj9Q8A=
+
+Name: org/eclipse/jface/viewers/TreeExpansionEvent.java
+SHA1-Digest: YFU3hkdh2Mlbd0kUERzh4kJEmDQ=
+
+Name: org/eclipse/jface/viewers/DialogCellEditor.java
+SHA1-Digest: WHClAY44BtImM52rh3AOKp+VX+g=
+
+Name: org/eclipse/jface/dialogs/IDialogConstants.java
+SHA1-Digest: h43LvDBtjp2FkWlZ5mGP4HYP4qU=
+
+Name: org/eclipse/jface/viewers/CellLabelProvider.java
+SHA1-Digest: mbhazwOPSHJD6i9+wiI2KxB64bA=
+
+Name: org/eclipse/jface/viewers/AbstractComboBoxCellEditor.java
+SHA1-Digest: EVt4Iru5zvLpBf04jakGM4I9KNA=
+
+Name: org/eclipse/jface/window/SameShellProvider.java
+SHA1-Digest: ARrns23msmfWsk0Mty79wqT/0ac=
+
+Name: org/eclipse/jface/preference/PreferenceContentProvider.java
+SHA1-Digest: Enl5YnYfVkOQmjmawticwfpfIqw=
+
+Name: org/eclipse/jface/dialogs/IDialogSettings.java
+SHA1-Digest: u0UbH/RhFe8iY4h4Cgualdr9YM8=
+
+Name: org/eclipse/jface/viewers/ViewerFilter.java
+SHA1-Digest: zwB+QjzTcO4R1kXwMiIU4U8wlK4=
+
+Name: org/eclipse/jface/preference/FileFieldEditor.java
+SHA1-Digest: XoB3+EeR8Z8tz+Mj/xDGdaFhZTs=
+
+Name: org/eclipse/jface/layout/RowLayoutFactory.java
+SHA1-Digest: F+eNECk5qxBUeValkIYqjNS+NJM=
+
+Name: org/eclipse/jface/layout/GridDataFactory.java
+SHA1-Digest: qMMaO/v3NLlKJ0f9gaTU+YGUAIQ=
+
+Name: org/eclipse/jface/viewers/TableLayout.java
+SHA1-Digest: +k9ht0LGrc/ShIzbj5VMemBK6LU=
+
+Name: org/eclipse/jface/viewers/deferred/ConcurrentTableUpdator.java
+SHA1-Digest: xEql2GDHRspTyXybVN152bPe6fE=
+
+Name: org/eclipse/jface/preference/PreferenceStore.java
+SHA1-Digest: H8FDpwYH3+rqhHXR7euxZX+2lLg=
+
+Name: org/eclipse/jface/dialogs/DialogSettings.java
+SHA1-Digest: sFUHyOhePAQ4z9SAFYYtTXOagoI=
+
+Name: org/eclipse/jface/fieldassist/IContentProposal.java
+SHA1-Digest: xPaydRUjN1ypplRHaIirrUgOujA=
+
+Name: org/eclipse/jface/commands/ActionHandler.java
+SHA1-Digest: YGErF/IyNixUkyqGhnytIdfUZXM=
+
+Name: org/eclipse/jface/fieldassist/ControlDecoration.java
+SHA1-Digest: YycbbjWGoP3qKgNU8vzFdWwj6bY=
+
+Name: org/eclipse/jface/operation/IThreadListener.java
+SHA1-Digest: tl3hEMCZXt7v9neIKJoKL6uCUaQ=
+
+Name: org/eclipse/jface/resource/ImageDescriptor.java
+SHA1-Digest: Ohw9q9t5UUkTZ7MZO4ZSLZ96HPA=
+
+Name: org/eclipse/jface/viewers/deferred/DeferredContentProvider.java
+SHA1-Digest: SDlgFLgcZrREpHlDBntlr0JnfM8=
+
+Name: org/eclipse/jface/fieldassist/SimpleContentProposalProvider.java
+SHA1-Digest: hIbj0ZBtVUwOnRmy5Y2KGPnoQQ0=
+
+Name: org/eclipse/jface/action/IMenuManager.java
+SHA1-Digest: H016NsRJSTt00ONNjdCVNlviiXc=
+
+Name: org/eclipse/jface/dialogs/IDialogPage.java
+SHA1-Digest: u2FQqykJMunSdSLEWjoAM9VoWb4=
+
+Name: org/eclipse/jface/util/SafeRunnable.java
+SHA1-Digest: 88rTZYy78g/lPBVcJBnB7i4jMTw=
+
+Name: org/eclipse/jface/action/GroupMarker.java
+SHA1-Digest: BFk/U+/mzFjbilUT/b3/w00Syk4=
+
+Name: org/eclipse/jface/viewers/IStructuredSelection.java
+SHA1-Digest: 1t/TNzvGcjR8ZBshGlZkgFbQyn4=
+
+Name: org/eclipse/jface/preference/IPreferencePage.java
+SHA1-Digest: 8phDVQj7YvJN4BsKqbxX2sByeXY=
+
+Name: org/eclipse/jface/viewers/IStructuredContentProvider.java
+SHA1-Digest: LJUmSBwKLZM4dO/UIuhzHUCBffA=
+
+Name: org/eclipse/jface/viewers/TableViewer.java
+SHA1-Digest: xZk45GOXibVmZo7RDpnr6F3516I=
+
+Name: org/eclipse/jface/viewers/TableTreeViewer.java
+SHA1-Digest: sdkz2gZvdbhWImVPKD2k4woMY8g=
+
+Name: org/eclipse/jface/viewers/deferred/BackgroundContentProvider.jav
+ a
+SHA1-Digest: HjLLg6pqIKUXG5/OHqPrOGyVomo=
+
+Name: org/eclipse/jface/viewers/CellNavigationStrategy.java
+SHA1-Digest: t4f7FXlspc7EPscdsgNUI7LiCoE=
+
+Name: org/eclipse/jface/resource/JFaceColors.java
+SHA1-Digest: +IgHRjothr4uLvElM5fh8Cpxls0=
+
+Name: org/eclipse/jface/action/ControlContribution.java
+SHA1-Digest: ZMvBon0Wo6d+JzyZyBi7T5MtUZI=
+
+Name: org/eclipse/jface/dialogs/IPageChangedListener.java
+SHA1-Digest: xC59iYnDNunAtut0koxWH3X+acM=
+
+Name: org/eclipse/jface/util/IOpenEventListener.java
+SHA1-Digest: 7llBGybQz4P6U9l/+8a8oqdFeks=
+
+Name: org/eclipse/jface/viewers/TreeViewerFocusCellManager.java
+SHA1-Digest: FB2eOAs3sYTAYKCr7nwW3pa6hzk=
+
+Name: org/eclipse/jface/preference/StringButtonFieldEditor.java
+SHA1-Digest: YC+SzcG1YowWCP6K2sR5NIM2IOI=
+
+Name: org/eclipse/jface/resource/RGBColorDescriptor.java
+SHA1-Digest: b95cHAR3yiDTYHMQ1n3Fpy55DXA=
+
+Name: org/eclipse/jface/internal/provisional/action/IToolBarManager2.j
+ ava
+SHA1-Digest: GUP76/482DAbZmVhUVEpXzP9f7w=
+
+Name: org/eclipse/jface/fieldassist/TextContentAdapter.java
+SHA1-Digest: jK5i/wkAk9c96AMotjCJ9diPgWc=
+
+Name: org/eclipse/jface/preference/ColorSelector.java
+SHA1-Digest: hDzZrTRAh//MMsAlHIyeUbPk0/8=
+
+Name: org/eclipse/jface/action/StatusLineManager.java
+SHA1-Digest: 51v/BJIl5iHJ/n8tGc+ePBhvxgQ=
+
+Name: org/eclipse/jface/util/Policy.java
+SHA1-Digest: Q0ADeYiZRPW4ASaclgKshCocaq8=
+
+Name: org/eclipse/jface/viewers/TableViewerRow.java
+SHA1-Digest: A7FmPurdNBTVrOmjtX+55Rx9xhE=
+
+Name: org/eclipse/jface/util/LocalSelectionTransfer.java
+SHA1-Digest: FFKQY5BD8Bx//X33+lZmA3ogTeg=
+
+Name: org/eclipse/jface/dialogs/ImageAndMessageArea.java
+SHA1-Digest: 5ZXWZrdW87kioCzV9QCrNjJWGIY=
+
+Name: org/eclipse/jface/viewers/OwnerDrawLabelProvider.java
+SHA1-Digest: UHj7VBvcZmdCGFY/1TcDNYCZFK4=
+
+Name: org/eclipse/jface/action/IContributionManagerOverrides.java
+SHA1-Digest: l0oGXJvjz2wLWnqaSVlBKhC8V44=
+
+Name: org/eclipse/jface/viewers/ILazyTreePathContentProvider.java
+SHA1-Digest: F6S9R5vKfPxgSFRenWD9Uh40fvc=
+
+Name: org/eclipse/jface/viewers/IViewerLabelProvider.java
+SHA1-Digest: unSasdk2CebXDOHjbkdqh21Q9lQ=
+
+Name: org/eclipse/jface/action/IContributionManager.java
+SHA1-Digest: /mFRB7mVEtXKB8q5McK1xwxyGJs=
+
+Name: org/eclipse/jface/viewers/StructuredSelection.java
+SHA1-Digest: AcKBTcKIob7i2xXDhcVZZEMF5fc=
+
+Name: org/eclipse/jface/util/DelegatingDropAdapter.java
+SHA1-Digest: WR6LGVlwKF2pxvyMjcaLmZjDrCE=
+
+Name: org/eclipse/jface/bindings/keys/formatting/KeyFormatterFactory.j
+ ava
+SHA1-Digest: 29xHUxlbZ8Peq+2o69VxdHFhnD4=
+
+Name: org/eclipse/jface/resource/MissingImageDescriptor.java
+SHA1-Digest: t8AJqZ3Z024cN0Kl6oDRFIIWv3s=
+
+Name: org/eclipse/jface/util/ILogger.java
+SHA1-Digest: 96QJAKP78FbRFQFrCzL6cNXS/6c=
+
+Name: org/eclipse/jface/action/SubContributionItem.java
+SHA1-Digest: DBQSF8hnakvNj6UpX+5VR1aCthI=
+
+Name: org/eclipse/jface/resource/FontDescriptor.java
+SHA1-Digest: TBTbWjMqzLf/oBS8hcoGrMFYswY=
+
+Name: about.html
+SHA1-Digest: M+fykt9heyWoEv1LNiIEeBhi/2Q=
+
+Name: org/eclipse/jface/viewers/ITreeViewerListener.java
+SHA1-Digest: fvtfjWJZQv6HJ/aOW0QaENrngvg=
+
+Name: org/eclipse/jface/fieldassist/TextControlCreator.java
+SHA1-Digest: E+moIIWYxEhMRHxtC6eWXOvbWV4=
+
+Name: org/eclipse/jface/viewers/ContentViewer.java
+SHA1-Digest: jJXsZWBml++7dl2J+9rtTMTUF0Q=
+
+Name: org/eclipse/jface/util/TransferDragSourceListener.java
+SHA1-Digest: 4BJtYML7xNvfRD8IZAguia06SAo=
+
+Name: org/eclipse/jface/bindings/keys/formatting/IKeyFormatter.java
+SHA1-Digest: 2Ts08RhN1mSg3tvNcaH9hxdvQcg=
+
+Name: org/eclipse/jface/preference/StringFieldEditor.java
+SHA1-Digest: iwRWQD06kFllUTX9YCNwcV5y/1U=
+
+Name: org/eclipse/jface/viewers/DecoratingStyledCellLabelProvider.java
+SHA1-Digest: ZJE6CpUle3IEcqKpu24RVN4ml8o=
+
+Name: org/eclipse/jface/preference/PreferenceDialog.java
+SHA1-Digest: XV6HGlLJUAtfkiY3hsU9r9b2X9M=
+
+Name: org/eclipse/jface/viewers/CheckboxCellEditor.java
+SHA1-Digest: iKNQeOPP2Z/lKAZ6QrpvIR/EWIc=
+
+Name: org/eclipse/jface/viewers/Viewer.java
+SHA1-Digest: o0V3PF0Prv6o21C9l39scBChw4A=
+
+Name: org/eclipse/jface/menus/IMenuStateIds.java
+SHA1-Digest: iA7yYKbXLUe57qtSe9sRtN8w1eM=
+
+Name: org/eclipse/jface/action/AbstractGroupMarker.java
+SHA1-Digest: zdcaz0dPj4Ip6ohJPfj6kDs9fXw=
+
+Name: org/eclipse/jface/viewers/TreeViewer.java
+SHA1-Digest: dyUV804r5aTlDLAAbMGqfv0gbpQ=
+
+Name: org/eclipse/jface/preference/BooleanFieldEditor.java
+SHA1-Digest: eYxgTmxwaYYPyjwseXNxAo7Srbw=
+
+Name: org/eclipse/jface/viewers/ComboViewer.java
+SHA1-Digest: rcnCPjBEJhwds25waMiFtp1pp4w=
+
+Name: org/eclipse/jface/window/Window.java
+SHA1-Digest: PYNMWfyylXqacicSitdPHmLakmo=
+
+Name: org/eclipse/jface/viewers/DecoratingLabelProvider.java
+SHA1-Digest: p6scKEcQv1swE4XaUy08jQaXcJ8=
+
+Name: org/eclipse/jface/preference/PreferenceLabelProvider.java
+SHA1-Digest: CCKm2p8l5mCBzIvrVz5s1ecKpBQ=
+
+Name: org/eclipse/jface/dialogs/IconAndMessageDialog.java
+SHA1-Digest: yF/QZWDCNi+ik4DtDUF3mygpcYQ=
+
+Name: org/eclipse/jface/dialogs/IMessageProvider.java
+SHA1-Digest: 0cvJcoKayE/ENrXlbikCubX2E10=
+
+Name: org/eclipse/jface/fieldassist/FieldAssistColors.java
+SHA1-Digest: 5vZXU9hwkQ8Gk+GraIRkI2iUKk8=
+
+Name: org/eclipse/jface/viewers/ISelection.java
+SHA1-Digest: GQ6Sl16WW11JHwAi1uSM2LUI3ps=
+
+Name: org/eclipse/jface/viewers/TreePath.java
+SHA1-Digest: 32wf8+OULsgYC2DEbF9SYvUmGbU=
+
+Name: org/eclipse/jface/bindings/keys/KeySequence.java
+SHA1-Digest: 15DkKuKWff30O/M0sCsEgBiKT34=
+
+Name: org/eclipse/jface/resource/CompositeImageDescriptor.java
+SHA1-Digest: daDH8aC9dArD3YG07fF707MiJlc=
+
+Name: org/eclipse/jface/viewers/IDelayedLabelDecorator.java
+SHA1-Digest: GzmtykukAI4euSIHRAilFSGTthM=
+
+Name: org/eclipse/jface/bindings/keys/KeyLookupFactory.java
+SHA1-Digest: QhUzvqOsYh7DxxdAL5YTLfcmnNk=
+
+Name: org/eclipse/jface/viewers/ColumnViewerEditorActivationEvent.java
+SHA1-Digest: cxr0EmEEQlHxhwQ6W5t6I0bI2rE=
+
+Name: org/eclipse/jface/viewers/ITableColorProvider.java
+SHA1-Digest: lEl9P/ZoH5U+xqi/vOGahAmb+NA=
+
+Name: org/eclipse/jface/preference/PreferencePage.java
+SHA1-Digest: juug13FrprzSc/uDgz/qzdiPXW8=
+
+Name: org/eclipse/jface/util/PropertyChangeEvent.java
+SHA1-Digest: WNGltoVQJ2qqvl2u2GeMlaWQlaE=
+
+Name: org/eclipse/jface/bindings/keys/formatting/AbstractKeyFormatter.
+ java
+SHA1-Digest: d1hclE27K28zvEO6IXJXSjz/EWg=
+
+Name: org/eclipse/jface/action/IAction.java
+SHA1-Digest: gNYZzYb27OOjvDnSStzwdB8CVV4=
+
+Name: org/eclipse/jface/viewers/ViewerRow.java
+SHA1-Digest: O5Pv4DvPPmN3lddR2omb4cpNkeU=
+
+Name: org/eclipse/jface/layout/LayoutConstants.java
+SHA1-Digest: 1gsMzTqByIfEDiQUwZ/0gQd6hic=
+
+Name: org/eclipse/jface/viewers/ITableLabelProvider.java
+SHA1-Digest: 3rUcM6fA13B49g6Gw6MZb3Lf82c=
+
+Name: org/eclipse/jface/wizard/ProgressMonitorPart.java
+SHA1-Digest: vAo/CeRFUi6FoKKt+1+jn9eb9Y0=
+
+Name: org/eclipse/jface/viewers/IColorProvider.java
+SHA1-Digest: ZVR02aCM6yXfRxjW8x/4MhGXXso=
+
+Name: org/eclipse/jface/bindings/TriggerSequence.java
+SHA1-Digest: 59MVWqwMXoRFKW25GWtSPZbk7nU=
+
+Name: org/eclipse/jface/resource/ArrayFontDescriptor.java
+SHA1-Digest: PwmmaLlsLnUSFRtwNIezOvAq8Ww=
+
+Name: org/eclipse/jface/viewers/deferred/FastProgressReporter.java
+SHA1-Digest: Kp9iI4hVcNBCxtQmUU/OM2Z9wW0=
+
+Name: org/eclipse/jface/layout/RowDataFactory.java
+SHA1-Digest: j5evw0Ntv67BWOUqqIRLcBZWjTg=
+
+Name: org/eclipse/jface/preference/IPreferenceNode.java
+SHA1-Digest: 0OorUa/umSrT5QDFf3VQ5GIgdGA=
+
+Name: org/eclipse/jface/resource/ImageDataImageDescriptor.java
+SHA1-Digest: EhEtqHxbI2VzMPqOB4Gf9ntFEXI=
+
+Name: org/eclipse/jface/preference/JFacePreferences.java
+SHA1-Digest: 8DuSqtaIUrIadfH89P5hsbZAiMA=
+
+Name: org/eclipse/jface/util/StatusHandler.java
+SHA1-Digest: MiJUiNZaj3Mrv0SHP19MsgkXyuA=
+
+Name: org/eclipse/jface/viewers/ViewerSorter.java
+SHA1-Digest: Ni+9Q4/ulVrznuZtO4LsU0ocSis=
+
+Name: org/eclipse/jface/viewers/ILabelProvider.java
+SHA1-Digest: GZpUzH4ASCSmEuRRB8m60x8yDoc=
+
+Name: org/eclipse/jface/viewers/TreeSelection.java
+SHA1-Digest: X1cePoKOwHwmpZAxY8AfSI1KLEM=
+
+Name: org/eclipse/jface/fieldassist/FieldDecoration.java
+SHA1-Digest: BO0deD4GNLIA4p95gfIgHQjW7f0=
+
+Name: org/eclipse/jface/viewers/ICellEditorListener.java
+SHA1-Digest: i58LGZtyLSMylH3MDh/dqKIUJa8=
+
+Name: org/eclipse/jface/commands/RadioState.java
+SHA1-Digest: 42izf2gndZk158MabV/opzAb9/Q=
+
+Name: org/eclipse/jface/fieldassist/IControlContentAdapter2.java
+SHA1-Digest: usKL+8PJ7bEE6xUx+2pnbZ2Fpwk=
+
+Name: org/eclipse/jface/viewers/IFontProvider.java
+SHA1-Digest: +CtbDXDGPh4lRhCb2eert2Oe9qI=
+
+Name: org/eclipse/jface/viewers/ColumnViewerToolTipSupport.java
+SHA1-Digest: F4Jmn/Fmrzg9SF8JRE3D715xrbI=
+
+Name: org/eclipse/jface/action/SubContributionManager.java
+SHA1-Digest: vT81nc7tqyzB8KuJXiELHcAt2XY=
+
+Name: org/eclipse/jface/resource/ResourceManager.java
+SHA1-Digest: x47e091P5xPlXJFBbS64aTl+lXc=
+
+Name: org/eclipse/jface/util/Assert.java
+SHA1-Digest: RvIKl4IJjhZlnHDOOo2FGNuIgJI=
+
+Name: org/eclipse/jface/action/SubToolBarManager.java
+SHA1-Digest: pUZYRI8QoOQwB7w929GdTDWmUq8=
+
+Name: org/eclipse/jface/resource/ResourceRegistry.java
+SHA1-Digest: B5HH+PPIGYJKznX0GUd2cJBuFjs=
+
+Name: org/eclipse/jface/bindings/SchemeEvent.java
+SHA1-Digest: P59sqz1A0B0WX85DMHd7xRHkqrM=
+
+Name: org/eclipse/jface/preference/PreferenceConverter.java
+SHA1-Digest: KV6r1R0FRmlo+Vz/hob6HBWeHhk=
+
+Name: org/eclipse/jface/bindings/BindingManagerEvent.java
+SHA1-Digest: o9sQlIjatAghZl5FiR+h3IgzF64=
+
+Name: org/eclipse/jface/bindings/Scheme.java
+SHA1-Digest: Lc7aSIWoq+4OagSmklX2JwpIkZY=
+
+Name: org/eclipse/jface/viewers/TreeNode.java
+SHA1-Digest: bbhzycVzDnRze0Ij4vp7UIeSNI8=
+
+Name: org/eclipse/jface/resource/FileImageDescriptor.java
+SHA1-Digest: 1gBxm7e1kJYKTzkdKFzVaPwSu3c=
+
+Name: org/eclipse/jface/viewers/ILabelDecorator.java
+SHA1-Digest: CcnJJzrD90UB7lNz2LldfhmmhRs=
+
+Name: org/eclipse/jface/viewers/ITreePathContentProvider.java
+SHA1-Digest: ULWMnGZAX4eyW7SWZdPTnFXgJRw=
+
+Name: org/eclipse/jface/viewers/ColumnLabelProvider.java
+SHA1-Digest: wc4TGwZTQWC8Oc9tiS3MWMTHR0w=
+
+Name: org/eclipse/jface/util/SafeRunnableDialog.java
+SHA1-Digest: KLeJcJUP6iP2qg7/D6qmchuteGI=
+
+Name: org/eclipse/jface/viewers/deferred/IConcurrentModelListener.java
+SHA1-Digest: T8eL5CU6RCMB3K67qrMvDNA6Pgk=
+
+Name: org/eclipse/jface/preference/IPersistentPreferenceStore.java
+SHA1-Digest: /cQp6+8qoQx4EiuW4ddm4zR+p7M=
+
+Name: org/eclipse/jface/action/ContributionManager.java
+SHA1-Digest: ze+DKqdynetOHVCIUMOwmG0KCiQ=
+
+Name: org/eclipse/jface/fieldassist/IContentProposalListener.java
+SHA1-Digest: Zb0cWcT1qPiYI3seN/gbfHtLOsI=
+
+Name: org/eclipse/jface/bindings/keys/KeyBinding.java
+SHA1-Digest: X4N9HvpZ6D+uIXvdPl/OKOEXBzs=
+
+Name: org/eclipse/jface/viewers/ICheckStateProvider.java
+SHA1-Digest: mKFmBG6Xpnr1Id8OAHj9NBKD9/U=
+
+Name: org/eclipse/jface/viewers/deferred/ChangeQueue.java
+SHA1-Digest: OIHUqr/N2fycYlC26eZLKC8RzSw=
+
+Name: org/eclipse/jface/action/StatusLineLayoutData.java
+SHA1-Digest: d+0jWgGDsROQO99OMzUiHW7G1WI=
+
+Name: org/eclipse/jface/bindings/keys/KeySequenceText.java
+SHA1-Digest: hHICLyd+s9dy8RehgS7skS8k+jY=
+
+Name: org/eclipse/jface/viewers/ILazyContentProvider.java
+SHA1-Digest: hh62Si73rZJTWlLAXz4rUjHSJXg=
+
+Name: org/eclipse/jface/dialogs/PopupDialog.java
+SHA1-Digest: txoM2RLK94/YI34NrS/+0jItUNA=
+
+Name: org/eclipse/jface/wizard/Wizard.java
+SHA1-Digest: d49nj1DtxgjKUu9E3qrUALbsn9c=
+
+Name: org/eclipse/jface/viewers/ColumnLayoutData.java
+SHA1-Digest: Ahwb2HQSYSQyb7H7H/ZNsvai8j0=
+
+Name: org/eclipse/jface/resource/ImageRegistry.java
+SHA1-Digest: f4nH37owUP7oi+im63qJ2tB7y9w=
+
+Name: org/eclipse/jface/fieldassist/IControlContentAdapter.java
+SHA1-Digest: XKDhxEfk3Byxk2KmWa+zKcOCLRE=
+
+Name: org/eclipse/jface/viewers/ColumnPixelData.java
+SHA1-Digest: GJwyuHhy+Efk+ZP0TPSJD0gl//w=
+
+Name: org/eclipse/jface/dialogs/IDialogBlockedHandler.java
+SHA1-Digest: CZkNhYHP4El0sHzKRi0MfC71gu0=
+
+Name: org/eclipse/jface/dialogs/MessageDialog.java
+SHA1-Digest: MUSkjWgWs1ZZj8SKqB0gpsoZ6MY=
+
+Name: org/eclipse/jface/bindings/BindingManager.java
+SHA1-Digest: OMrDuZSTBEGshW7D5ngxSI+ankY=
+
+Name: org/eclipse/jface/commands/PersistentState.java
+SHA1-Digest: D1QfcJUtou7sDQKdF2Dz9GIQIpU=
+
+Name: org/eclipse/jface/dialogs/DialogMessageArea.java
+SHA1-Digest: 7b314otBGT+Mq2CD9CS1PeIZF1I=
+
+Name: org/eclipse/jface/operation/AccumulatingProgressMonitor.java
+SHA1-Digest: v0Hn1xxmk1XBaQEsjb96rxKPiqQ=
+
+Name: org/eclipse/jface/viewers/IElementComparer.java
+SHA1-Digest: /9w/TFnMTmwW893OZX66jMqFqHw=
+
+Name: org/eclipse/jface/internal/provisional/action/IToolBarContributi
+ onItem.java
+SHA1-Digest: /SZ8tx/GoBrxLSSdc/imna+SgOc=
+
+Name: org/eclipse/jface/action/SubCoolBarManager.java
+SHA1-Digest: CcJClpDWlSHXFTQPTPUUvlPbktw=
+
+Name: org/eclipse/jface/viewers/DelegatingStyledCellLabelProvider.java
+SHA1-Digest: KZJBE/bFRUcqoK4Rs9k6HDJW2IU=
+
+Name: org/eclipse/jface/viewers/ITreePathLabelProvider.java
+SHA1-Digest: xFWwR9n6tDi509OP6FLwDjD81Hc=
+
+Name: org/eclipse/jface/viewers/LabelProviderChangedEvent.java
+SHA1-Digest: 1h3jv0fIbOb+9VK2/wJg/H8aZ/A=
+
+Name: org/eclipse/jface/resource/URLImageDescriptor.java
+SHA1-Digest: Geh074ZfSdXOXTK8Dv90xiUsJl8=
+
+Name: org/eclipse/jface/preference/FontFieldEditor.java
+SHA1-Digest: uBNIarW6asVly47oEx1fykt8S9M=
+
+Name: org/eclipse/jface/fieldassist/ComboContentAdapter.java
+SHA1-Digest: Lp4BEDdT6llkpLnJ2OOHA5imcjg=
+
+Name: org/eclipse/jface/viewers/AbstractTreeViewer.java
+SHA1-Digest: yv2WD3PP5zJU3RTS5Ta+UbTxADo=
+
+Name: org/eclipse/jface/resource/LocalResourceManager.java
+SHA1-Digest: BIv3EJf1uvsjnOcJH6X8ByWs/uw=
+
+Name: org/eclipse/jface/viewers/ViewerLabel.java
+SHA1-Digest: eXmgCqAU38Xak7NhAxO7Z1QcTW4=
+
+Name: org/eclipse/jface/viewers/IColorDecorator.java
+SHA1-Digest: XAi6nUr/pn3Z1JnWDbrgMPH09BM=
+
+Name: org/eclipse/jface/viewers/TableColumnViewerLabelProvider.java
+SHA1-Digest: RW90kzNm81B7TeODdvAsiZAm02I=
+
+Name: org/eclipse/jface/preference/PreferenceNode.java
+SHA1-Digest: tgGLP/CfH+2nJoikEct0Zo2Ao5U=
+
+Name: org/eclipse/jface/util/Util.java
+SHA1-Digest: hLSLzC9UnbbFf8fDxzgTX8C36Xk=
+
+Name: org/eclipse/jface/preference/DirectoryFieldEditor.java
+SHA1-Digest: euVMZKqvt2KHpkqPu565prtJEJI=
+
+Name: org/eclipse/jface/dialogs/InputDialog.java
+SHA1-Digest: 5JdtVV2hhNrFNvFOxzcoMoLEDHo=
+
+Name: org/eclipse/jface/viewers/IInputSelectionProvider.java
+SHA1-Digest: jSC/CXG4307MLNqOAa7Dd5Bwcwc=
+
+Name: org/eclipse/jface/viewers/ViewerColumn.java
+SHA1-Digest: t854dqopkx8QEbfZwYlBWFT3XMQ=
+
+Name: org/eclipse/jface/viewers/ViewerComparator.java
+SHA1-Digest: EOOUuL6g1o0Gt5lcC5iagbSfYXg=
+

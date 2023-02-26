@@ -1,0 +1,55 @@
+Manifest-Version: 1.0
+Eclipse-SourceBundle: org.eclipse.osgi.util;version="3.2.200.v20110110
+ ";roots:="."
+Bundle-Vendor: %eclipse.org
+Bundle-Localization: plugin
+Bundle-Name: %osgiUtil
+Bundle-SymbolicName: org.eclipse.osgi.util.source
+Bundle-Version: 3.2.200.v20110110
+Bundle-ManifestVersion: 2
+
+Name: about_files/LICENSE-2.0.txt
+SHA1-Digest: K4uBUimqimHkg/tLoFiLi2xJGJA=
+
+Name: org/osgi/util/measurement/State.java
+SHA1-Digest: nm3JM88VOpZ2bH/MPvoqIFaLdvM=
+
+Name: META-INF/eclipse.inf
+SHA1-Digest: KyT9FF7C7t86NoBoa2kZT3ZJBfw=
+
+Name: org/osgi/util/position/package-info.java
+SHA1-Digest: /6JZkBEjxmpepHpyKh/bLCiBo/o=
+
+Name: org/osgi/util/measurement/Unit.java
+SHA1-Digest: f9hu3BL2vGz74NTWbRWSGN78vDU=
+
+Name: org/osgi/util/xml/XMLParserActivator.java
+SHA1-Digest: /SzVLE4lN+7Ti24yKa6IdzdSFNo=
+
+Name: about.html
+SHA1-Digest: WdkPJgl6V4ScODcKNB7cDjJKsmU=
+
+Name: org/osgi/util/xml/packageinfo
+SHA1-Digest: +evdBkKRmsgKjkFemflB3D+DoVU=
+
+Name: plugin.properties
+SHA1-Digest: hpfCnNGfD7i960vfgy91oYsnXKo=
+
+Name: org/osgi/util/position/Position.java
+SHA1-Digest: T6ZwNsGKAUsxAQg5UXW3OLWNGyM=
+
+Name: org/osgi/util/measurement/packageinfo
+SHA1-Digest: +evdBkKRmsgKjkFemflB3D+DoVU=
+
+Name: org/osgi/util/xml/package-info.java
+SHA1-Digest: CCSoZw0BmML5hTGhBiIFrU60l4E=
+
+Name: org/osgi/util/measurement/Measurement.java
+SHA1-Digest: JbKTzMiPP3C3ws+JtKYnmsZqY+s=
+
+Name: org/osgi/util/measurement/package-info.java
+SHA1-Digest: VswbOde4QVhhkPbV1kcszyudLVI=
+
+Name: org/osgi/util/position/packageinfo
+SHA1-Digest: +evdBkKRmsgKjkFemflB3D+DoVU=
+

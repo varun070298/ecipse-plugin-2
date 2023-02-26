@@ -1,0 +1,891 @@
+Signature-Version: 1.0
+SHA1-Digest-Manifest: u0xMvg3teXU0vl5yaSV3Ej1cJVs=
+Created-By: 1.6.0 (IBM Corporation)
+SHA1-Digest-Manifest-Main-Attributes: v3Jfg47deld6s/BMf31T/5EGOW4=
+
+Name: org/eclipse/update/internal/model/DefaultPluginParser.java
+SHA1-Digest: dxjUNrkWmanb/5KYvzM7gljOkvc=
+
+Name: org/eclipse/update/operations/IReplaceFeatureVersionOperation.ja
+ va
+SHA1-Digest: cAdMy2y91rz3JBAqHPYwgpZoy3w=
+
+Name: org/eclipse/update/internal/core/connection/ConnectionThreadMana
+ ger.java
+SHA1-Digest: QBPIcThOmWTHplRGdl8V17bAiXw=
+
+Name: org/eclipse/update/search/IUpdateSearchCategory.java
+SHA1-Digest: HpWDTtMmG2aY+Gc6ndvvP/Rxwjs=
+
+Name: org/eclipse/update/internal/security/KeyStores.java
+SHA1-Digest: 3oKVs3ePTPu+dgojBrepBuoqZJc=
+
+Name: org/eclipse/update/standalone/UninstallCommand.java
+SHA1-Digest: 9j7li/GkeBJspQ6OJwSil03zft0=
+
+Name: org/eclipse/update/search/BaseFilter.java
+SHA1-Digest: xkK5QUVTR89uMVvImgBf2Q8vfCI=
+
+Name: org/eclipse/update/internal/core/Messages.java
+SHA1-Digest: m320Pp78fK85b295dVPHE3UH5QM=
+
+Name: org/eclipse/update/internal/operations/JobRoot.java
+SHA1-Digest: Ry/Z/DgN8WhTLqTBoWmgL2h2lbE=
+
+Name: org/eclipse/update/configuration/IInstallConfiguration.java
+SHA1-Digest: aP9uhxP+m7o3KGSTeFtbhXm2w50=
+
+Name: org/eclipse/update/internal/core/SiteFileFactory.java
+SHA1-Digest: WN7WkTpnP35UwsAyznq6pfnodL0=
+
+Name: org/eclipse/update/configuration/ILocalSite.java
+SHA1-Digest: otWmXGcElDSVbGlyMbSH59JvyYM=
+
+Name: org/eclipse/update/internal/core/ConfigurationActivity.java
+SHA1-Digest: W8ZINDWMMzvfhGyKiBAZmjiFE6w=
+
+Name: org/eclipse/update/search/IUpdateSearchResultCollectorFromMirror
+ .java
+SHA1-Digest: JnPODEIuqWukyqEPY1kmIBWfbYM=
+
+Name: org/eclipse/update/internal/core/UpdateSiteIncludedFeatureRefere
+ nce.java
+SHA1-Digest: z6uJxoCIkHFXCR63e5IPPPLtM6E=
+
+Name: org/eclipse/update/internal/core/connection/OtherResponse.java
+SHA1-Digest: P3NgmMGAXP5swYquMcHO1MGe5/8=
+
+Name: org/eclipse/update/core/model/FeatureReferenceModel.java
+SHA1-Digest: 0BBcX0z+FWS4d20wx1ZA+u55wKc=
+
+Name: org/eclipse/update/internal/jarprocessor/PackUnpackStep.java
+SHA1-Digest: sIIqv1eM+yOyXjg3QPnsxNcnaOk=
+
+Name: org/eclipse/update/internal/core/connection/ConnectionFactory.ja
+ va
+SHA1-Digest: bN0UlFMAQaZrFCukJbHQEf93hNA=
+
+Name: org/eclipse/update/standalone/SearchCommand.java
+SHA1-Digest: joF2pOrsv1QnB/S2HF8E4zp7SF8=
+
+Name: org/eclipse/update/internal/jarprocessor/IProcessStep.java
+SHA1-Digest: GjjN8zZWIbFZOn47Km1lfPJEU5s=
+
+Name: org/eclipse/update/search/IUpdateSearchResultCollector.java
+SHA1-Digest: aV/HN9xN5Yq+L6UoeE1wYxpRfug=
+
+Name: org/eclipse/update/internal/model/SiteWithTimestamp.java
+SHA1-Digest: 86HrGF/ksbdFFgsr1H66stRzZlc=
+
+Name: org/eclipse/update/core/Site.java
+SHA1-Digest: C42QWTH5Gv9E/Hqw7hRvqbiy+4k=
+
+Name: org/eclipse/update/internal/core/FeatureDownloadException.java
+SHA1-Digest: wQXLxUPSlYcAYTG/7b8SmvoBYkk=
+
+Name: org/eclipse/update/internal/jarprocessor/SignCommandStep.java
+SHA1-Digest: 4R2v7Fjf8eQexFR9h0GTXNF16bs=
+
+Name: org/eclipse/update/internal/core/JarDeltaInstallHandler.java
+SHA1-Digest: CDShmUDduuqvdbW9DgAa9xQzQh4=
+
+Name: org/eclipse/update/core/SiteFeatureReference.java
+SHA1-Digest: ovxxrNNMDwB1QFxnMswCs1BiPgo=
+
+Name: org/eclipse/update/core/model/FeatureModelFactory.java
+SHA1-Digest: J9UTmzJ8kOnIIzUy798XVf2goFQ=
+
+Name: org/eclipse/update/internal/model/ITimestamp.java
+SHA1-Digest: b0Oz7ue1Ojr5PGRWv/ye1YGxF1U=
+
+Name: org/eclipse/update/operations/OperationsManager.java
+SHA1-Digest: Am3boCl8qxHj/MYOTPuf6Tm210I=
+
+Name: org/eclipse/update/internal/core/ExtendedSite.java
+SHA1-Digest: //AAlzAGvKZN3McqNdUGt3GNxeY=
+
+Name: org/eclipse/update/core/JarContentReference.java
+SHA1-Digest: tn5ukxIMxyTXJAzPWCLkkx5qq8w=
+
+Name: org/eclipse/update/internal/jarprocessor/JarProcessor.java
+SHA1-Digest: sSnlTKo5j/ytFd8VUhtcuwFDaCw=
+
+Name: org/eclipse/update/internal/core/InstallHandlerProxy.java
+SHA1-Digest: 7htmCPeKNe29ctg6VcdaK/lfUME=
+
+Name: org/eclipse/update/core/model/InstallHandlerEntryModel.java
+SHA1-Digest: lcoYNQdjxObnHFJnDFFQWz0iOws=
+
+Name: org/eclipse/update/internal/operations/ConfigureFeaturesOperatio
+ n.java
+SHA1-Digest: x+JmAcRsmUaZ7NSRMTvJurOarPY=
+
+Name: org/eclipse/update/operations/IOperationValidator.java
+SHA1-Digest: mwvD7PhmVTFdX3eyQHXg72d/M+Q=
+
+Name: org/eclipse/update/operations/IOperationListener.java
+SHA1-Digest: vy60aOVypy/Ux1qc8Qzj/4HS+TM=
+
+Name: org/eclipse/update/internal/operations/BatchInstallOperation.jav
+ a
+SHA1-Digest: phtY7C6f43SAYczLCXujPmjQhIw=
+
+Name: org/eclipse/update/search/IUpdateSearchFilter.java
+SHA1-Digest: GXDyvSY15j9V+f2VgXsBqVSbYMI=
+
+Name: org/eclipse/update/core/IIncludedFeatureReference.java
+SHA1-Digest: c7twhq3cxAgH5PdneIUdFFG927E=
+
+Name: org/eclipse/update/core/model/InvalidSiteTypeException.java
+SHA1-Digest: 6ryEngdwxlJdAPO4XyW8dIxBDjU=
+
+Name: org/eclipse/update/internal/core/Digest.java
+SHA1-Digest: z8DtDSsE/TdPx/f7X5R5LZzFrgk=
+
+Name: org/eclipse/update/internal/core/SiteFile.java
+SHA1-Digest: pCpeJcGVOjkC4XB/2GcPFJLqunE=
+
+Name: org/eclipse/update/configuration/IInstallDeltaHandler.java
+SHA1-Digest: JPTu2TSrcOrN/ny9Txf08d9H+u4=
+
+Name: org/eclipse/update/internal/operations/OperationValidator.java
+SHA1-Digest: W5hY+j5MY1kunfS247uB+iA5CHQ=
+
+Name: org/eclipse/update/core/IncludedFeatureReference.java
+SHA1-Digest: zAOPMrCH/KAPsKDmelVi2NEUaxA=
+
+Name: org/eclipse/update/search/IUpdateSearchSite.java
+SHA1-Digest: N5oX1bE7mOTFzrroGUs3Gfm/b9k=
+
+Name: org/eclipse/update/core/model/SiteModelFactory.java
+SHA1-Digest: gWf6L13N2xhHcOlO5xblD98l+4g=
+
+Name: org/eclipse/update/operations/IFeatureOperation.java
+SHA1-Digest: 4xbg+0OvZF5LqD+cn5VPBZjxKQ8=
+
+Name: org/eclipse/update/standalone/ScriptedCommand.java
+SHA1-Digest: okRkFkwBM88mCUSV034fxNimwGc=
+
+Name: org/eclipse/update/internal/model/InstallConfigurationModel.java
+SHA1-Digest: ujdJ0fC5ZbjpJJa098TLBirma+g=
+
+Name: org/eclipse/update/internal/core/connection/HttpResponse.java
+SHA1-Digest: vt0LrEWPAoJPfQyDr+Fhbz8stV4=
+
+Name: org/eclipse/update/internal/operations/IConfigureFeaturesOperati
+ on.java
+SHA1-Digest: qB9su+SVheXOIDuwXFilD2oCLvw=
+
+Name: org/eclipse/update/standalone/RemoveSiteCommand.java
+SHA1-Digest: nIRL4Lbx1y5MeIcagCnLxVaVdEY=
+
+Name: org/eclipse/update/internal/operations/BatchFeatureOperation.jav
+ a
+SHA1-Digest: r8Hba4aOy1TmikjhMVqFBxySiXg=
+
+Name: org/eclipse/update/internal/operations/OperationFactory.java
+SHA1-Digest: 1fdbMAuFpCe+mWU4mMiYG3G6was=
+
+Name: org/eclipse/update/core/IFeatureContentConsumer.java
+SHA1-Digest: q/xlpQCH+zRUExi+AgGXjdOxy5Q=
+
+Name: org/eclipse/update/internal/operations/FeatureStatus.java
+SHA1-Digest: sTFOonNnPkM9jXefUi7vZSg4/xU=
+
+Name: org/eclipse/update/core/IContentConsumer.java
+SHA1-Digest: d6mZ7zD78mpRaj6t0uMmhX7I2Ww=
+
+Name: org/eclipse/update/core/IVerifier.java
+SHA1-Digest: /RZTpajeHUjwhIkPXxX5fpjsxoQ=
+
+Name: org/eclipse/update/search/BackLevelFilter.java
+SHA1-Digest: sEKbcpNzA3DoKVCkdBCtlO5fk14=
+
+Name: org/eclipse/update/core/model/SiteModel.java
+SHA1-Digest: irkIU8YgCmlfZZju9Yk72728Lm8=
+
+Name: org/eclipse/update/internal/core/connection/TooManyOpenConnectio
+ nsException.java
+SHA1-Digest: Mb9TefUqcdvZU+Sr0aQG0BazcbE=
+
+Name: org/eclipse/update/search/EnvironmentFilter.java
+SHA1-Digest: wSg0nRnEZH3SbLXhvhNYSbx5tPI=
+
+Name: org/eclipse/update/internal/core/UpdateSiteFeatureReference.java
+SHA1-Digest: WpA6hYncbAG7kMODXgaxi8zD10s=
+
+Name: org/eclipse/update/core/model/FeatureModel.java
+SHA1-Digest: 53jMNBAAEpgShAl1KiqIzGCFpL0=
+
+Name: org/eclipse/update/core/IArchiveReference.java
+SHA1-Digest: rv1fwy0CrX6KhbEagMQf0ORPjh4=
+
+Name: schema/installHandlers.exsd
+SHA1-Digest: BByA3oiZC9ezMfxAZ+jAjeYJIIo=
+
+Name: org/eclipse/update/core/Verifier.java
+SHA1-Digest: pQPaFC40cGnTHmmAw3FbVQMx6NE=
+
+Name: org/eclipse/update/internal/core/NullContentReference.java
+SHA1-Digest: rCBX21NeD7K2yTiVLHbx+YhPFwc=
+
+Name: org/eclipse/update/core/InstallHandlerEntry.java
+SHA1-Digest: /3TnufpzczkdLypRY/tqrMiV5W0=
+
+Name: org/eclipse/update/internal/operations/UpdateUtils.java
+SHA1-Digest: cxs+pF01eapWbJAHqaSz8aON4lQ=
+
+Name: org/eclipse/update/internal/core/SiteFileNonPluginContentConsume
+ r.java
+SHA1-Digest: fLQUcdy0TXPzrJf3czdlLN0IWKo=
+
+Name: org/eclipse/update/core/BaseFeatureFactory.java
+SHA1-Digest: t9rg9D27S4EiBKRTwLiW2Moilyw=
+
+Name: org/eclipse/update/core/PluginEntry.java
+SHA1-Digest: PnzVOkgX/R0lAr92tebvdP7pR3Y=
+
+Name: org/eclipse/update/internal/core/LocalSite.java
+SHA1-Digest: F2AvXUWTrKczu+0pFtVUlwMD3Hg=
+
+Name: org/eclipse/update/core/model/ImportModel.java
+SHA1-Digest: GGxIzyKw3Fc50fnc8vcWRfEZiuo=
+
+Name: org/eclipse/update/internal/operations/DuplicateConflictsValidat
+ or.java
+SHA1-Digest: vXaAI8DortSHMmVN+ZrnQSI7q2c=
+
+Name: org/eclipse/update/internal/mirror/MirrorSite.java
+SHA1-Digest: ogzMNnxL6hgkh7QnRl13JxW1mg0=
+
+Name: org/eclipse/update/internal/core/ConfigurationPolicy.java
+SHA1-Digest: pktYoKka+GrZjeqvtZt481CenhU=
+
+Name: org/eclipse/update/internal/operations/IUnconfigureAndUninstallF
+ eaturesOperation.java
+SHA1-Digest: MG529QGyPQ5ODzCfJAFPe4CnTrQ=
+
+Name: org/eclipse/update/internal/operations/ReplaceFeatureVersionOper
+ ation.java
+SHA1-Digest: o9TCl/dVDqWL4Mmqef9pupA7QnU=
+
+Name: org/eclipse/update/internal/search/SiteSearchCategory.java
+SHA1-Digest: 3SZkqxH6e7rYnLq8EgeO8pjWfEo=
+
+Name: org/eclipse/update/internal/core/SiteURLFactory.java
+SHA1-Digest: F+gqzADGA8Ah/RbsnhOHMs6gH60=
+
+Name: org/eclipse/update/core/ISite.java
+SHA1-Digest: sMwbo59DyEOMM4/z8bQ+LV5446U=
+
+Name: org/eclipse/update/operations/IInstallFeatureOperation.java
+SHA1-Digest: GEIP03hk8XZE4PJeeI2tpaixrww=
+
+Name: org/eclipse/update/internal/core/SiteStatusAnalyzer.java
+SHA1-Digest: 63Z5RocqLqqTNKeqQydWveo+UPk=
+
+Name: org/eclipse/update/internal/core/ISiteContentConsumer.java
+SHA1-Digest: 03bVIb3GnsH9Q0b2jWNoEfLkBvY=
+
+Name: org/eclipse/update/core/NonPluginEntry.java
+SHA1-Digest: PHUZlBrEOfZmZCLjXrmWtxoiZ7Y=
+
+Name: org/eclipse/update/operations/IOperation.java
+SHA1-Digest: IEVS2m0lP7yyVRp8SMyLdIOWJlY=
+
+Name: org/eclipse/update/core/Utilities.java
+SHA1-Digest: ruXHqBaB0EISCUDoN5COUJaW4JE=
+
+Name: org/eclipse/update/search/IQueryUpdateSiteAdapter.java
+SHA1-Digest: gqrc+ossdfmpqyZbqH8TrYpdTjE=
+
+Name: META-INF/eclipse.inf
+SHA1-Digest: SAqY+5ITAL0mkdYeijlSRhyIaZk=
+
+Name: org/eclipse/update/core/ISiteFeatureReference.java
+SHA1-Digest: t0QU2m7mCM91g53rycDNVIbdd4A=
+
+Name: org/eclipse/update/internal/security/JarVerificationResult.java
+SHA1-Digest: RopQq+UJl6RdzRu+KqGkRCKpVmM=
+
+Name: org/eclipse/update/internal/core/FeatureExecutableContentConsume
+ r.java
+SHA1-Digest: 3D08E39khq/QXTeDq4WpseHfKS0=
+
+Name: org/eclipse/update/search/VersionedIdentifiersFilter.java
+SHA1-Digest: fX9E0wctQJkqyJtNMbPzsUXfZCE=
+
+Name: org/eclipse/update/internal/jarprocessor/PackStep.java
+SHA1-Digest: T7K42HwiWR43d5S7VuZRUYVxqyg=
+
+Name: org/eclipse/update/internal/core/UpdateSession.java
+SHA1-Digest: +NxjaU/MZ+vFRi1dPrYJmTSYh/E=
+
+Name: org/eclipse/update/core/IInstallHandler.java
+SHA1-Digest: z8I/31zInFDQZBJK6FsUfsnUej4=
+
+Name: org/eclipse/update/internal/core/SiteFileContentConsumer.java
+SHA1-Digest: o3ZihEB2bI2vmBCdPl2fMhLCcWQ=
+
+Name: org/eclipse/update/internal/mirror/MirrorCommand.java
+SHA1-Digest: BzkY/t/BbRD65kruQRMhK6lvvM8=
+
+Name: org/eclipse/update/internal/core/InstallLogParser.java
+SHA1-Digest: d6zu3ol0Op3AKBP5ZrJpXB0BIS8=
+
+Name: org/eclipse/update/configuration/IVolume.java
+SHA1-Digest: QwDmKrOIkxBU22FbgO9o0xcdbK8=
+
+Name: org/eclipse/update/core/ISiteFactory.java
+SHA1-Digest: UHMyAv8kE2wUP//gOjzjEvKTZc8=
+
+Name: org/eclipse/update/internal/operations/UnconfigureAndUninstallFe
+ aturesOperation.java
+SHA1-Digest: fX8eNz0xPePwpXc0Jt0CGeYCOWM=
+
+Name: org/eclipse/update/internal/core/DeltaInstallHandler.java
+SHA1-Digest: ioSC73CyohB2tSnwwpTFiQZ07hQ=
+
+Name: org/eclipse/update/core/BaseSiteFactory.java
+SHA1-Digest: H2bDQKDyfTMK6nokotbzcTYdVX0=
+
+Name: org/eclipse/update/configuration/ILocalSiteChangedListener.java
+SHA1-Digest: EtZPHZv8tZk+Bca3zF16gh691QY=
+
+Name: org/eclipse/update/core/FeatureReference.java
+SHA1-Digest: aczPZx4EIFVmm5uw6FB375R/mwI=
+
+Name: org/eclipse/update/core/model/PluginEntryModel.java
+SHA1-Digest: nfpZoNitsy+EtbkfG+15pqzsBKI=
+
+Name: org/eclipse/update/standalone/StandaloneUpdateApplication.java
+SHA1-Digest: dP8azrvi1cIz+SaGkfWQ6BFd7wI=
+
+Name: org/eclipse/update/internal/core/Volume.java
+SHA1-Digest: mADAG771iFKYtwZIu77K4eauKKs=
+
+Name: org/eclipse/update/internal/jarprocessor/ZipProcessor.java
+SHA1-Digest: bgD739OAnEK3z+5RiYVAuVyWk6Y=
+
+Name: org/eclipse/update/internal/core/BaseSiteLocalFactory.java
+SHA1-Digest: UCDy+b174f4vjBVTwNIyH7O8RuU=
+
+Name: org/eclipse/update/search/IUpdateSearchQuery.java
+SHA1-Digest: xBO/xiHWVuZjVdFHLUvq8xCTc9s=
+
+Name: plugin.properties
+SHA1-Digest: /qmrCKmwgi7C3HtQm5/cZieahQk=
+
+Name: org/eclipse/update/internal/search/BaseSearchCategory.java
+SHA1-Digest: asumohrvIWZ2I3kgzc+YWVHEa7g=
+
+Name: org/eclipse/update/configuration/ILocalSystemInfoListener.java
+SHA1-Digest: X77y1WzU0SNmlex4+Njos0kNjbg=
+
+Name: org/eclipse/update/internal/core/UpdateManagerUtils.java
+SHA1-Digest: 6ZaUfR164CzLh/0HOBuqzNsgP6g=
+
+Name: org/eclipse/update/internal/jarprocessor/CommandStep.java
+SHA1-Digest: /E6rAc2VR5Aa2wk5rkTFT0PfAqU=
+
+Name: org/eclipse/update/core/model/ArchiveReferenceModel.java
+SHA1-Digest: trkoW5dYrzUxSStKKhljn7x//oc=
+
+Name: org/eclipse/update/internal/core/SiteTypeFactory.java
+SHA1-Digest: DeS9lkCx0snXafKA1BmBkPJYA6M=
+
+Name: org/eclipse/update/internal/search/OptionalFeatureSearchCategory
+ .java
+SHA1-Digest: dp0QLPHnpiaE+xhV/vRfB168LKQ=
+
+Name: org/eclipse/update/internal/core/LiteFeatureFactory.java
+SHA1-Digest: COGu313i2LqgaZezowPL0u2XOlQ=
+
+Name: org/eclipse/update/internal/operations/UnconfigOperation.java
+SHA1-Digest: ZA7Q2BpGgDmFJTJO56Hm+HXyq1w=
+
+Name: org/eclipse/update/internal/core/FeaturePackagedFactory.java
+SHA1-Digest: 7YZOjo5KhH6rkrCRTxTIbEfSvG8=
+
+Name: org/eclipse/update/internal/operations/IBatchFeatureOperation.ja
+ va
+SHA1-Digest: M/S8FxRQb5dtNT6YkhGsG99GFDE=
+
+Name: org/eclipse/update/internal/core/UpdateManagerLogWriter.java
+SHA1-Digest: RNF5+UOvJnopXSEo1xde2w5xdp4=
+
+Name: org/eclipse/update/internal/operations/Operation.java
+SHA1-Digest: Y9FVv7YNQGeM6LJ5MUO7kO86JI4=
+
+Name: org/eclipse/update/core/model/URLEntryModel.java
+SHA1-Digest: EBP+sjDU7bIrtgesgOnw05gAGRs=
+
+Name: org/eclipse/update/internal/security/JarVerifier.java
+SHA1-Digest: UQiDhiAnWTuENh8OgwkomJzxZsg=
+
+Name: org/eclipse/update/internal/model/SiteLocalParser.java
+SHA1-Digest: QoZVO8TyEuFDXvxQCb7eC4U7O9U=
+
+Name: org/eclipse/update/core/IVerificationListener.java
+SHA1-Digest: L4L0Jry7zuTWwgG/3m0OAhwGAxI=
+
+Name: org/eclipse/update/internal/operations/FeatureHierarchyElement.j
+ ava
+SHA1-Digest: tdERh+9HdtZ+B8CFbDTMVrQEjOs=
+
+Name: org/eclipse/update/internal/jarprocessor/StreamProcessor.java
+SHA1-Digest: 5n/laa0jDfTFtnI6ldA0IgsuT8A=
+
+Name: org/eclipse/update/internal/core/ErrorRecoveryLog.java
+SHA1-Digest: Ku6CQhU4A8OI6XtmOQgRYGZK13w=
+
+Name: org/eclipse/update/internal/core/LiteFeature.java
+SHA1-Digest: rziSf/GPVVwQDc1kcYZRVnMN1AM=
+
+Name: org/eclipse/update/internal/jarprocessor/UnpackStep.java
+SHA1-Digest: Hc+1jFWwXeJ7+4qYEyaS8iS6zPU=
+
+Name: org/eclipse/update/internal/verifier/CertVerificationResult.java
+SHA1-Digest: 14nNR+RBTAJ32Om9/k1o4UkKWzg=
+
+Name: org/eclipse/update/core/model/IncludedFeatureReferenceModel.java
+SHA1-Digest: HD0GfsSBquAnXu3jE5f4qH8bGXo=
+
+Name: org/eclipse/update/core/IPlatformEnvironment.java
+SHA1-Digest: Ps5t+T9UkgCmPLB89uWF++DTok4=
+
+Name: org/eclipse/update/operations/IToggleSiteOperation.java
+SHA1-Digest: 3M3liEeAOIxuNKIhJs8lNtY4zuU=
+
+Name: org/eclipse/update/core/IPluginEntry.java
+SHA1-Digest: RM9De2TaCuxY1wfKvH8MbqFc2Ps=
+
+Name: org/eclipse/update/core/ContentReference.java
+SHA1-Digest: ugDr9awm1hGi69A0BAwkYDowFuQ=
+
+Name: org/eclipse/update/operations/IConfigFeatureOperation.java
+SHA1-Digest: cjOANuFnwXv9Pm3D33PKSHHVnYw=
+
+Name: org/eclipse/update/internal/core/NonPluginEntryContentConsumer.j
+ ava
+SHA1-Digest: tTQEwmHjjqjipWOh2uXsCS72GUU=
+
+Name: org/eclipse/update/internal/search/UpdatesSearchCategory.java
+SHA1-Digest: FKmm0PFhbTuRuBR/2Pu3QVjp+3Y=
+
+Name: org/eclipse/update/operations/IUnconfigFeatureOperation.java
+SHA1-Digest: CJnyFS2+tyCGeunhXj3orbyFkmw=
+
+Name: org/eclipse/update/internal/core/connection/AbstractResponse.jav
+ a
+SHA1-Digest: T1uM4CSYd0dMPB6ktVXr4K4ZnU0=
+
+Name: org/eclipse/update/configuration/IConfiguredSite.java
+SHA1-Digest: eUT9sgrzMauR40kI+nEIGCzeNKk=
+
+Name: org/eclipse/update/operations/IOperationFactory.java
+SHA1-Digest: eI34Ms05YyvDzLxXV0hP7To+LE4=
+
+Name: org/eclipse/update/internal/core/FeatureExecutableFactory.java
+SHA1-Digest: Ypqhwz+CtMIar7YZpLuuuxbdEL0=
+
+Name: org/eclipse/update/internal/core/UpdateCore.java
+SHA1-Digest: LaObF/RnF63R4iUQswVjTKcCDaE=
+
+Name: org/eclipse/update/internal/search/UpdateSiteAdapter.java
+SHA1-Digest: 6fc34D2M+vfohkmvGGlhJlDYvYA=
+
+Name: org/eclipse/update/internal/core/SiteContentConsumer.java
+SHA1-Digest: htoFa+IB9259QPnKvCOIyUoQPvk=
+
+Name: org/eclipse/update/internal/core/ConfiguredSite.java
+SHA1-Digest: RoQt/eXiJH9LL/ULcfkwm0JeDgQ=
+
+Name: org/eclipse/update/internal/model/BundleManifest.java
+SHA1-Digest: 5DtzWtGM6jAOmL+wI5pSPL9+tbk=
+
+Name: org/eclipse/update/standalone/CmdLineArgs.java
+SHA1-Digest: NroRM62DVyzNtLd/l+fWy4IU9Fo=
+
+Name: org/eclipse/update/internal/core/TargetFeature.java
+SHA1-Digest: OPg9uHyFgRnXpSWFnY4ANrCbSpA=
+
+Name: org/eclipse/update/internal/core/SiteURLContentProvider.java
+SHA1-Digest: xgnh7WI0mDGeUOvGz1+ot8ZV5YE=
+
+Name: org/eclipse/update/core/FeatureContentProvider.java
+SHA1-Digest: dR39HdeMqhpF6GhnyYQ6NRMQkvc=
+
+Name: org/eclipse/update/configuration/IInstallConfigurationChangedLis
+ tener.java
+SHA1-Digest: GETkl5dWSQC1s1tGhfS1CNS4Z28=
+
+Name: org/eclipse/update/internal/core/SiteFilePackedPluginContentCons
+ umer.java
+SHA1-Digest: LVRx4FFDCX24yLPUGQuB8Xb6CzQ=
+
+Name: org/eclipse/update/core/IURLEntry.java
+SHA1-Digest: dpXk6umyGAtFSh4cOJDf3p8XdXY=
+
+Name: org/eclipse/update/core/model/ContentEntryModel.java
+SHA1-Digest: vhlegmZIYvRGtCskxTwDVksrZ7s=
+
+Name: org/eclipse/update/configuration/IActivity.java
+SHA1-Digest: Rp4dr/enUgeVaBs9AMeOVB4zByc=
+
+Name: org/eclipse/update/internal/core/InstallConfiguration.java
+SHA1-Digest: jgJ/snX1TOOakoWi+j4FSzUmGPw=
+
+Name: org/eclipse/update/internal/core/InternalFeatureParser.java
+SHA1-Digest: BF0gggW2BAEBXWb3zjx4DGNo8jw=
+
+Name: org/eclipse/update/core/JarEntryContentReference.java
+SHA1-Digest: 56BbdgZ1MCrpM9cIHMJfLBP49TQ=
+
+Name: org/eclipse/update/internal/jarprocessor/JarProcessorExecutor.ja
+ va
+SHA1-Digest: lG+9Qt+8C9K/wOmo/KCGqUCOAZk=
+
+Name: org/eclipse/update/internal/core/URLKey.java
+SHA1-Digest: HocA+9dBGdmL9Fulqb6C3pN6aWU=
+
+Name: org/eclipse/update/core/URLEntry.java
+SHA1-Digest: W0l99X5rajM4TekfuNz86s8Piw8=
+
+Name: org/eclipse/update/internal/search/QueryUpdateSiteAdapter.java
+SHA1-Digest: ZNfV+RU+B25YJixuYVEgAaMGRcQ=
+
+Name: org/eclipse/update/internal/model/ConfiguredSiteModel.java
+SHA1-Digest: eNihDq/C21nyaFP0y48C4aRHUTc=
+
+Name: org/eclipse/update/internal/operations/RevertConfigurationOperat
+ ion.java
+SHA1-Digest: 8h398H5mVi0g+a59WuzFWNjos8w=
+
+Name: org/eclipse/update/core/IInstallHandlerWithFilter.java
+SHA1-Digest: ECTSnUGfJzC4hWqwQq0O6QoXB04=
+
+Name: org/eclipse/update/core/ISiteContentProvider.java
+SHA1-Digest: Gc3TqeyMRHrFiNnVOKeFu6KKH2I=
+
+Name: org/eclipse/update/internal/core/DigestParser.java
+SHA1-Digest: UcfbO0cyV2S2QkQEkJRJIwdnHjI=
+
+Name: org/eclipse/update/internal/mirror/MirrorSiteFactory.java
+SHA1-Digest: Bm1VLRPJdLm/n6GDdI0iADd6lMM=
+
+Name: schema/featureTypes.exsd
+SHA1-Digest: REXS/Rb/zKcO9tipF9X67IhpvHw=
+
+Name: org/eclipse/update/internal/operations/UninstallFeaturesOperatio
+ n.java
+SHA1-Digest: EmZ7LaJmU2ldNmiLzODzxo5EdWU=
+
+Name: org/eclipse/update/search/UpdateSearchRequest.java
+SHA1-Digest: nU/0hRVCXdt1rDunAxNidPkjG2A=
+
+Name: org/eclipse/update/core/ICategory.java
+SHA1-Digest: oejKS6dRBnMbcUWLgOxlcotqWik=
+
+Name: org/eclipse/update/internal/model/SiteLocalModel.java
+SHA1-Digest: tiMRflvJ2fyHrfp2OFU5RDm30h8=
+
+Name: org/eclipse/update/internal/model/ConfigurationActivityModel.jav
+ a
+SHA1-Digest: 5N188kjLJWGquuEpa8oYOwoqex4=
+
+Name: org/eclipse/update/core/ISiteFactoryExtension.java
+SHA1-Digest: /jSiza/OL255Pb6eoqkhxgCXtKE=
+
+Name: org/eclipse/update/core/model/DefaultSiteParser.java
+SHA1-Digest: Wji7MHQKZKxIDrXyoys/U2LmuIs=
+
+Name: org/eclipse/update/internal/core/UpdatePreferencesInitializer.ja
+ va
+SHA1-Digest: hzT9EKG1rhsz/tC9lKfr4dP+XuQ=
+
+Name: org/eclipse/update/core/IFeatureContentProvider.java
+SHA1-Digest: P8qWY+jpPqO0QOf/mer8GUjnxGM=
+
+Name: org/eclipse/update/internal/core/DefaultInstallHandler.java
+SHA1-Digest: h71i9aE0XTp5W3kl9vBpBd76eA0=
+
+Name: org/eclipse/update/core/Category.java
+SHA1-Digest: 2JckGHrwYtTGsG7xzNm9y8MOpcs=
+
+Name: org/eclipse/update/standalone/DisableCommand.java
+SHA1-Digest: 3fRY7DZxeWNp8idC1UAMWgRrwfw=
+
+Name: org/eclipse/update/internal/core/FragmentEntry.java
+SHA1-Digest: ZyITJqToHsbKqCLmqypXotxDxhs=
+
+Name: org/eclipse/update/core/SiteFeatureReferenceModel.java
+SHA1-Digest: 1ZswKpOkqm2BGnHKY5UDGz0ga64=
+
+Name: org/eclipse/update/operations/IRevertConfigurationOperation.java
+SHA1-Digest: vkjkEF9z8y7E4PyyM821sA9JBws=
+
+Name: org/eclipse/update/internal/operations/IUninstallFeaturesOperati
+ on.java
+SHA1-Digest: yo3X53tWGcFuTjyZ0+mr7EYLy00=
+
+Name: org/eclipse/update/internal/core/connection/IResponse.java
+SHA1-Digest: l+PPZR18AQUxmnLMU7NlDwaoUmM=
+
+Name: org/eclipse/update/core/IFeature.java
+SHA1-Digest: RUrcAJg5GQ8BuRLZU32nplIB02o=
+
+Name: org/eclipse/update/internal/core/FeaturePackagedContentProvider.
+ java
+SHA1-Digest: EFK2nzOzFQZy7d93WRWz60qUzaQ=
+
+Name: org/eclipse/update/configuration/IConfiguredSiteChangedListener.
+ java
+SHA1-Digest: VkEg3auEpR56sqWgmSZlhuNy7Yk=
+
+Name: org/eclipse/update/operations/IBatchOperation.java
+SHA1-Digest: N5ryokuRVuQoIKzt27b/eC7T6fQ=
+
+Name: about.html
+SHA1-Digest: M+fykt9heyWoEv1LNiIEeBhi/2Q=
+
+Name: org/eclipse/update/core/IVerificationResult.java
+SHA1-Digest: MZMXFya0gW5gaSxmylNS81NYNkM=
+
+Name: schema/siteTypes.exsd
+SHA1-Digest: qF7iFMPL5U66FREhKKR01NXfoZA=
+
+Name: org/eclipse/update/core/BaseInstallHandler.java
+SHA1-Digest: JzOKF4VPqlXaYFTW+FAgsA9H0pk=
+
+Name: org/eclipse/update/configuration/LocalSystemInfo.java
+SHA1-Digest: DSEOCwjpyUNbIz8AlRFgHSoaQA0=
+
+Name: org/eclipse/update/core/InstallMonitor.java
+SHA1-Digest: j7Bzt/eAel9zhUTsi3y3vKBUUbc=
+
+Name: org/eclipse/update/operations/IUninstallFeatureOperation.java
+SHA1-Digest: 1in2OQlbYfX1llYbSTRV5H8H3zE=
+
+Name: org/eclipse/update/core/Feature.java
+SHA1-Digest: 0iBUxIyPeVE3s5yFuKnDTm2aoaU=
+
+Name: org/eclipse/update/internal/verifier/CertVerifier.java
+SHA1-Digest: 7XvYb6N4IDwuxSTEljGUvA0T8h4=
+
+Name: org/eclipse/update/internal/jarprocessor/Main.java
+SHA1-Digest: Iv/8EirrXMSDU37iw3S0iMOSmfk=
+
+Name: org/eclipse/update/standalone/EnableCommand.java
+SHA1-Digest: 9JWvWAwyS7kAnsnWS0pXlus7a8M=
+
+Name: org/eclipse/update/internal/core/FeatureContentConsumer.java
+SHA1-Digest: j3Bey274tlSseNXMniD1J3Lptss=
+
+Name: org/eclipse/update/core/SiteManager.java
+SHA1-Digest: rPeUoCWkna7274xDVe0THJ23EKE=
+
+Name: org/eclipse/update/internal/core/SiteFilePluginContentConsumer.j
+ ava
+SHA1-Digest: uL+sqIGrTqau/i3HlftCCZ0aIlI=
+
+Name: org/eclipse/update/internal/operations/ToggleSiteOperation.java
+SHA1-Digest: hLs4mlldgHgX88hGjvvZLk9Buyc=
+
+Name: org/eclipse/update/standalone/InstallCommand.java
+SHA1-Digest: T/xb8q0OJDHTVLvFSBDl8XbZHDw=
+
+Name: org/eclipse/update/core/ArchiveReference.java
+SHA1-Digest: 1uwIWVh8HHVJ+VD7ZhVuu/91+34=
+
+Name: org/eclipse/update/internal/core/connection/ConnectionThreadMana
+ gerFactory.java
+SHA1-Digest: FvFB7a9uhzIRyAg2QVip/QE5W3s=
+
+Name: org/eclipse/update/internal/operations/UnconfigureAndUninstallFe
+ atureOperation.java
+SHA1-Digest: 4rJdOgi8++mN3vgAiHv+/JpnuJI=
+
+Name: org/eclipse/update/internal/core/PluginEntryContentConsumer.java
+SHA1-Digest: J2D00Ozgf250vWEJJkQ5tRiR2LE=
+
+Name: org/eclipse/update/internal/operations/UnconfigureFeaturesOperat
+ ion.java
+SHA1-Digest: M1jOTTTmrAzYe6hp/dZUEdLEk+M=
+
+Name: org/eclipse/update/operations/IUpdateModelChangedListener.java
+SHA1-Digest: d/W+Y+UnN+DLwMG2QCNNfP57nDk=
+
+Name: org/eclipse/update/internal/core/URLEncoder.java
+SHA1-Digest: y5nDKwLXO6ygp84GBKr42nOYsL8=
+
+Name: org/eclipse/update/internal/core/FeatureExecutableContentProvide
+ r.java
+SHA1-Digest: JQ2DLuaxWIGehyjGhIL186X4weo=
+
+Name: org/eclipse/update/internal/core/InternalSiteManager.java
+SHA1-Digest: 7Hnj0k1J7QzMUJgMsYqveYkPq+Y=
+
+Name: org/eclipse/update/internal/core/SiteFileContentProvider.java
+SHA1-Digest: PEphOZGnkCogeJqGTtkxK7+bfXM=
+
+Name: org/eclipse/update/core/model/NonPluginEntryModel.java
+SHA1-Digest: jbznfgYLO2PHdOk47GGXb0t2GMI=
+
+Name: org/eclipse/update/internal/operations/PatchCleaner.java
+SHA1-Digest: NM23PpmTYyCJ0HveXQC12LpHP2A=
+
+Name: org/eclipse/update/internal/core/LockManager.java
+SHA1-Digest: Ci8vCXoEFD22Kgm3st84HmZrNuc=
+
+Name: org/eclipse/update/internal/operations/InstallOperation.java
+SHA1-Digest: 4V6YjbVmX9sHUWOYb0aDMNHEOr4=
+
+Name: org/eclipse/update/internal/provisional/SiteOptimizerApplication
+ .java
+SHA1-Digest: OLAEuakCElyRP0NIuWOlHbPbH7Y=
+
+Name: org/eclipse/update/internal/core/ExtendedSiteURLFactory.java
+SHA1-Digest: s4NP69bcqSTNpqjDXhA7lPHqCsI=
+
+Name: org/eclipse/update/internal/operations/UninstallOperation.java
+SHA1-Digest: nc2/kJSq2Ue8S2/tF/mnJMEUXM0=
+
+Name: org/eclipse/update/core/VersionedIdentifier.java
+SHA1-Digest: ziPhT3rZtuAuyws9mpWR4Qagqko=
+
+Name: org/eclipse/update/core/IFeatureReference.java
+SHA1-Digest: qshEiSv3Qcp/9f4G7H2MzYMRZu4=
+
+Name: org/eclipse/update/internal/core/EmptyDirectoryException.java
+SHA1-Digest: i5lxF+i4gquH+dtHteC96EHpcg4=
+
+Name: org/eclipse/update/internal/core/ContentConsumer.java
+SHA1-Digest: f8THM/lAa2kT5nRF7Xao3EsaMUI=
+
+Name: org/eclipse/update/standalone/ListFeaturesCommand.java
+SHA1-Digest: EuHMYmuxyQ4FJJ8OV2k+Nu++OEg=
+
+Name: org/eclipse/update/internal/core/FatalIOException.java
+SHA1-Digest: tGJDQBCHKDxVPe4GFmqU1W3Ai6Y=
+
+Name: org/eclipse/update/internal/core/DigestContentProvider.java
+SHA1-Digest: PQQJfqdlv13LSROt/uH9ThoLf14=
+
+Name: org/eclipse/update/internal/operations/FeatureOperation.java
+SHA1-Digest: XF5LDmLTtylslAqChQydVzz+BW0=
+
+Name: org/eclipse/update/internal/core/FeatureTypeFactory.java
+SHA1-Digest: C3Wqb9Kkz0hMGcLRo1rUs/39V3o=
+
+Name: org/eclipse/update/standalone/UpdateCommand.java
+SHA1-Digest: mlcEXxenUnW56oB533Qx15vhx4E=
+
+Name: org/eclipse/update/search/IUpdateSiteAdapter.java
+SHA1-Digest: eKoyVV5zDGrcHLcr7i2f4+u0M28=
+
+Name: org/eclipse/update/configuration/IProblemHandler.java
+SHA1-Digest: ILfsGmGU3w5SH/mmuob3D+l3kQw=
+
+Name: org/eclipse/update/core/SiteContentProvider.java
+SHA1-Digest: XPAd1x6oyWFS4hz64Y0J+yqU+gA=
+
+Name: org/eclipse/update/core/model/ModelObject.java
+SHA1-Digest: YA34/pFlxfH8p5pwJcQWdHDILrk=
+
+Name: org/eclipse/update/internal/operations/IUnconfigureAndUninstallF
+ eatureOperation.java
+SHA1-Digest: 2u1EesY/Y0RF0rMTX5lGDHL4EpY=
+
+Name: org/eclipse/update/core/Import.java
+SHA1-Digest: gVHIvqjZv6/2N3YG2g/Iu5smNjI=
+
+Name: org/eclipse/update/internal/core/CoreExceptionWithRootCause.java
+SHA1-Digest: +TaaVffcbqjdWQ/1YyRq/1dOdws=
+
+Name: org/eclipse/update/internal/operations/ConfigOperation.java
+SHA1-Digest: gzHpE4jVsQU9Gr1OxeBHSyVt0FU=
+
+Name: org/eclipse/update/core/IFeatureFactory.java
+SHA1-Digest: meBIv5xNgApQlRHhgfwZn11+4t8=
+
+Name: org/eclipse/update/configuration/ISessionDelta.java
+SHA1-Digest: SJg6EJdfCDWV2MZwOlyfDuGWzoE=
+
+Name: org/eclipse/update/core/INonPluginEntry.java
+SHA1-Digest: jyoCvdalJxBkOtRMzO/sywMglrk=
+
+Name: org/eclipse/update/core/ISiteWithMirrors.java
+SHA1-Digest: wDYwlQ5unbmCfujca77175IGnXo=
+
+Name: org/eclipse/update/core/IUpdateConstants.java
+SHA1-Digest: mf3oDkYO1fPbkzyfID/h0pxgKrc=
+
+Name: org/eclipse/update/internal/security/KeystoreHandle.java
+SHA1-Digest: JoX7sB8t7XfS6L8Gt3A8w7c1djQ=
+
+Name: org/eclipse/update/internal/jarprocessor/Utils.java
+SHA1-Digest: 3CgOQOoqnLaKKue3jQ9fHFpg8mI=
+
+Name: org/eclipse/update/internal/core/ProductProvider.java
+SHA1-Digest: G+xjC+kYaMVbnjjZ1qh1DD+R7pI=
+
+Name: org/eclipse/update/search/UpdateSearchScope.java
+SHA1-Digest: P+LOkJrmpLBEfL3kCicfWrAmHp8=
+
+Name: org/eclipse/update/core/model/CategoryModel.java
+SHA1-Digest: OnxuuuJU8P9yaTO9cA8zZjtW7uU=
+
+Name: org/eclipse/update/internal/core/InstallRegistry.java
+SHA1-Digest: leuw8UYOFpFCWje0eTadwLJm67E=
+
+Name: org/eclipse/update/internal/model/ConfigurationPolicyModel.java
+SHA1-Digest: /YtkAxO338MBp5kZ4hyuvr9sBRg=
+
+Name: org/eclipse/update/internal/core/FeatureEntryWrapper.java
+SHA1-Digest: vG4VIgweTJAHUdiedw7BBgG9KRA=
+
+Name: org/eclipse/update/internal/search/UpdatePolicy.java
+SHA1-Digest: OL8pDzuDRFjs9VTymvvYKeFuMcI=
+
+Name: org/eclipse/update/internal/operations/IUnconfigureFeaturesOpera
+ tion.java
+SHA1-Digest: YGuCnUGZpcXhUyvEjVHDqjnLjY8=
+
+Name: org/eclipse/update/internal/security/CertificatePair.java
+SHA1-Digest: 6F2GmyzEBJpL4oiruPgeYCBXeIY=
+
+Name: org/eclipse/update/internal/core/PatchedFeature.java
+SHA1-Digest: zjPUrgjullRaifpc1+VKZPP0nkQ=
+
+Name: org/eclipse/update/internal/model/InstallConfigurationParser.jav
+ a
+SHA1-Digest: K8GyZ4tw0wMDW2Web9Mp5FLglLw=
+
+Name: org/eclipse/update/internal/core/connection/FileResponse.java
+SHA1-Digest: JP7tDmh1XU8iORtaOwaH4PStkjM=
+
+Name: org/eclipse/update/internal/core/FileFragment.java
+SHA1-Digest: rWPvHRQjLbhzvL2+o9BItBfFQV8=
+
+Name: org/eclipse/update/internal/core/SiteReconciler.java
+SHA1-Digest: BLx+lBiTU9Ymf85o0TvDBug+E9M=
+
+Name: org/eclipse/update/standalone/AddSiteCommand.java
+SHA1-Digest: e9iyFalvT1dNp0LPfTlBc4HLW3U=
+
+Name: org/eclipse/update/internal/core/FeaturePlugin.java
+SHA1-Digest: KLIjcFDZUoHUf8AEj44x2KPISmI=
+
+Name: org/eclipse/update/core/model/InstallAbortedException.java
+SHA1-Digest: 1MlvjWdVP3v5yzxZ2C4fpplaKGg=
+
+Name: org/eclipse/update/core/IInstallHandlerEntry.java
+SHA1-Digest: ayKvgGrUO+jdmJyP2ZQaIf1lZUg=
+
+Name: org/eclipse/update/core/model/DefaultFeatureParser.java
+SHA1-Digest: /9A8btppJDclwuVqGOSBXFpQRuI=
+
+Name: org/eclipse/update/core/IImport.java
+SHA1-Digest: jcpGr6FV7PWuavvfKLx5pUYxm5M=
+

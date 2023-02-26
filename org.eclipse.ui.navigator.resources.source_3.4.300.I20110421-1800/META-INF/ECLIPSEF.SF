@@ -1,0 +1,156 @@
+Signature-Version: 1.0
+SHA1-Digest-Manifest: CEf2CeDYymq3QCNL9o+ihO1eUFk=
+Created-By: 1.6.0 (IBM Corporation)
+SHA1-Digest-Manifest-Main-Attributes: QM+tB6ukiU9LPFdjTWzmLWN/Na8=
+
+Name: org/eclipse/ui/internal/navigator/resources/actions/EditActionPr
+ ovider.java
+SHA1-Digest: AwyybAfZV7TA02NF0YoEtZQQKtI=
+
+Name: org/eclipse/ui/internal/navigator/resources/actions/OpenActionPr
+ ovider.java
+SHA1-Digest: UG6Ik3jrZeC+xZSuc7t2pnftgbA=
+
+Name: org/eclipse/ui/navigator/resources/ProjectExplorer.java
+SHA1-Digest: ME81DKvBDhwobWC1Zoh9TNk0nMg=
+
+Name: org/eclipse/ui/internal/navigator/resources/ResourceToItemsMappe
+ r.java
+SHA1-Digest: 49wvD8rg77NzYl0wDCliQkWQ/fU=
+
+Name: org/eclipse/ui/internal/navigator/resources/actions/PasteAction.
+ java
+SHA1-Digest: hysYTP677h97BBOqrCezZAlQ29Q=
+
+Name: org/eclipse/ui/internal/navigator/resources/actions/GotoActionPr
+ ovider.java
+SHA1-Digest: 6+eYP+2Gmb72UAAevtK/wxFEfyQ=
+
+Name: org/eclipse/ui/internal/navigator/resources/actions/UndoRedoActi
+ onProvider.java
+SHA1-Digest: MGHB5+phGMriqFnwUoREfLV6d+Q=
+
+Name: org/eclipse/ui/internal/navigator/resources/actions/RefactorActi
+ onProvider.java
+SHA1-Digest: sZqEFt6xVPfLWH/bNEWCbuZMN9g=
+
+Name: org/eclipse/ui/internal/navigator/resources/workbench/TabbedProp
+ ertySheetTitleProvider.java
+SHA1-Digest: 2Dts7HS+5y3ul+x0E3wtPCv88vk=
+
+Name: org/eclipse/ui/internal/navigator/resources/actions/GotoResource
+ Action.java
+SHA1-Digest: K7hsSm5tVHCGyjO3UM96UtR2I/k=
+
+Name: plugin.properties
+SHA1-Digest: s/5aPZETYq6rEgVYWH7tekYEGXI=
+
+Name: org/eclipse/ui/internal/navigator/resources/workbench/ResourceEx
+ tensionSorter.java
+SHA1-Digest: H/9OGZRxaIE0iNkVbPuf4eW+L04=
+
+Name: org/eclipse/ui/internal/navigator/resources/plugin/WorkbenchNavi
+ gatorPlugin.java
+SHA1-Digest: H6nDwg2Kx+dtXllOKmCSk8s7LR8=
+
+Name: org/eclipse/ui/internal/navigator/resources/actions/WorkManageme
+ ntActionProvider.java
+SHA1-Digest: tyy2EZD0LuW2pZB7LI1IhCf1v7w=
+
+Name: org/eclipse/ui/navigator/resources/ResourceDropAdapterAssistant.
+ java
+SHA1-Digest: UQeTxg8og0dNnhtadnEcaCKspHA=
+
+Name: org/eclipse/ui/internal/navigator/resources/actions/WorkingSetRo
+ otModeActionGroup.java
+SHA1-Digest: EKCGcOIl8n5rDgQHrdpXtjWcf9U=
+
+Name: org/eclipse/ui/internal/navigator/resources/plugin/WorkbenchNavi
+ gatorMessages.java
+SHA1-Digest: fe5fjplvMdVXErBZClNKCOahGNs=
+
+Name: org/eclipse/ui/internal/navigator/workingsets/WorkingSetsLabelPr
+ ovider.java
+SHA1-Digest: dkmOKdaBR+bD0lDRROrWpNF2EzU=
+
+Name: org/eclipse/ui/internal/navigator/resources/workbench/ResourceLi
+ nkHelper.java
+SHA1-Digest: Yr37pw6DkY85TFRZyKtXJfoN1vU=
+
+Name: org/eclipse/ui/internal/navigator/resources/workbench/ResourceEx
+ tensionLabelProvider.java
+SHA1-Digest: Pq+qyT+qG950Cbs9MzWB0b1J1ks=
+
+Name: META-INF/eclipse.inf
+SHA1-Digest: SAqY+5ITAL0mkdYeijlSRhyIaZk=
+
+Name: org/eclipse/ui/internal/navigator/workingsets/WorkingSetSorter.j
+ ava
+SHA1-Digest: i8839cpuyo74eqGLWG2rKqXQOnY=
+
+Name: org/eclipse/ui/internal/navigator/resources/actions/PortingActio
+ nProvider.java
+SHA1-Digest: Vuqd2rIw7eRYZSdVSsrO7znKHxM=
+
+Name: org/eclipse/ui/internal/navigator/resources/actions/RefactorActi
+ onGroup.java
+SHA1-Digest: smpns0T/DKJNTCktCZLhotFpHJg=
+
+Name: org/eclipse/ui/internal/navigator/resources/actions/CopyAction.j
+ ava
+SHA1-Digest: mtqEqi6LaP/0pk/EKL2TYAiF9pI=
+
+Name: org/eclipse/ui/internal/navigator/resources/actions/NewActionPro
+ vider.java
+SHA1-Digest: Q8wix1GlckTkofT6l10LIE+CASg=
+
+Name: org/eclipse/ui/internal/navigator/resources/plugin/NavigatorUIPl
+ uginImages.java
+SHA1-Digest: 7H3oqM1L5VXJyHrOxl9hCSnNWtc=
+
+Name: org/eclipse/ui/internal/navigator/resources/workbench/TabbedProp
+ ertySheetProjectExplorerContributor.java
+SHA1-Digest: 6GlT1P2PRkHOLxmIQZRo/4jC6Ag=
+
+Name: about.html
+SHA1-Digest: M+fykt9heyWoEv1LNiIEeBhi/2Q=
+
+Name: org/eclipse/ui/internal/navigator/resources/actions/EditActionGr
+ oup.java
+SHA1-Digest: +OvSB1NlRZkJF5gHmfB3mqcDi9U=
+
+Name: org/eclipse/ui/internal/navigator/resources/workbench/TabbedProp
+ ertySheetAdapterFactory.java
+SHA1-Digest: dGbjDEjCqoO69Qd/khDpIRzrUpQ=
+
+Name: org/eclipse/ui/navigator/resources/ResourceDragAdapterAssistant.
+ java
+SHA1-Digest: IC2QpWd+b0TgMmtQ9dwHpC1cYP4=
+
+Name: org/eclipse/ui/navigator/resources/GoIntoActionProvider.java
+SHA1-Digest: DgxojOkV6dj3ljtaYfqMUgUf2q8=
+
+Name: org/eclipse/ui/internal/navigator/resources/actions/PropertiesAc
+ tionProvider.java
+SHA1-Digest: rpykRlr6EDUP0kpNdfvVuwKHeJQ=
+
+Name: org/eclipse/ui/internal/navigator/resources/actions/GotoResource
+ Dialog.java
+SHA1-Digest: 2ve5Idkv4A99iAKwWBsnrehrf2g=
+
+Name: org/eclipse/ui/internal/navigator/workingsets/WorkingSetsContent
+ Provider.java
+SHA1-Digest: QVhjdTvna0R3NnYBoFvaJJytG+4=
+
+Name: org/eclipse/ui/internal/navigator/resources/actions/WorkingSetAc
+ tionProvider.java
+SHA1-Digest: h7L2tLJ2Aqlex9Y4sXNGsSCJmRk=
+
+Name: org/eclipse/ui/internal/navigator/resources/workbench/ResourceEx
+ tensionContentProvider.java
+SHA1-Digest: UEwH6XwuGEp8jJ5fpDc7PS0gCYE=
+
+Name: org/eclipse/ui/internal/navigator/resources/actions/ResourceMgmt
+ ActionProvider.java
+SHA1-Digest: Xx8KLzRm0q32PbVaBVN/TvzsPf4=
+

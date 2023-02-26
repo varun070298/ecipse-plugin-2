@@ -1,0 +1,1249 @@
+Manifest-Version: 1.0
+Eclipse-SourceBundle: org.eclipse.team.ui;version="3.6.100.I20110525-0
+ 800";roots:="."
+Bundle-Vendor: %providerName
+Bundle-Localization: plugin
+Bundle-Name: %pluginName
+Bundle-SymbolicName: org.eclipse.team.ui.source
+Bundle-Version: 3.6.100.I20110525-0800
+Bundle-ManifestVersion: 2
+
+Name: org/eclipse/team/ui/mapping/ITeamContentProviderDescriptor.java
+SHA1-Digest: GEA/VvcNCeNNtMqL6LjSAJrShUA=
+
+Name: org/eclipse/team/internal/ui/wizards/ExportProjectSetLocationPag
+ e.java
+SHA1-Digest: uLC6IV0WL5DThMFNliSCMsNz9Q0=
+
+Name: org/eclipse/team/internal/ui/synchronize/actions/ChangeSetAction
+ Group.java
+SHA1-Digest: bgic337v8N3DuuyMNP0wXXNeJbc=
+
+Name: org/eclipse/team/internal/ui/synchronize/GlobalRefreshElementSel
+ ectionPage.java
+SHA1-Digest: 5DDVq7+4QEGrmp0hP1nIERbxxvY=
+
+Name: org/eclipse/team/internal/ui/synchronize/actions/DirectionFilter
+ ActionGroup.java
+SHA1-Digest: 7uVOXN1OpgXpKp0RSgH5NFIcwhM=
+
+Name: org/eclipse/team/internal/ui/registry/RegistryReader.java
+SHA1-Digest: 8Qg6nRygjFPjOVC9EaOiaSJINBE=
+
+Name: org/eclipse/team/internal/ui/mapping/ResourceMergeHandler.java
+SHA1-Digest: DKLqmTrkOZ0LsgMWoyhV540NACM=
+
+Name: org/eclipse/team/internal/ui/mapping/StreamMergerDelegate.java
+SHA1-Digest: ecfQA7dbI9sUzI0NdVXQAaBgi8w=
+
+Name: org/eclipse/team/internal/ui/wizards/GlobalRefreshWizardSelectio
+ nPage.java
+SHA1-Digest: QvQvqOuOta4pHowZMHsz5si3Ubg=
+
+Name: org/eclipse/team/internal/ui/wizards/PsfFilenameStore.java
+SHA1-Digest: lvPtSPu1BgDxJsHqXrdFPmuq3/U=
+
+Name: org/eclipse/team/internal/ui/mapping/ReversePatchAction.java
+SHA1-Digest: QSKt21qOkFG1y+nNC0w/YCXk//A=
+
+Name: org/eclipse/team/internal/ui/synchronize/SynchronizeViewWorkbenc
+ hPart.java
+SHA1-Digest: wktlgsh7MN8Gui2/POlihEOrNCA=
+
+Name: org/eclipse/team/internal/ui/mapping/CompareInputChangeNotifier.
+ java
+SHA1-Digest: yUxBYKdJ9O2K/T2EwmL9dDqku+M=
+
+Name: org/eclipse/team/internal/ui/history/CompareFileRevisionEditorIn
+ put.java
+SHA1-Digest: ut8YUzpjVexCjlEu8g2Qb2NjCg0=
+
+Name: org/eclipse/team/internal/ui/synchronize/patch/ApplyPatchSynchro
+ nizationWizard.java
+SHA1-Digest: UAZvj7XPW74fmryvzmk5xq2JcpE=
+
+Name: schema/synchronizeParticipants.exsd
+SHA1-Digest: 0iXQGoiyKF/JJFXZOvHRu/zqE+4=
+
+Name: org/eclipse/team/ui/synchronize/ParticipantPageCompareEditorInpu
+ t.java
+SHA1-Digest: lSXRdqsrlZWn9Tpbys4KFMMy6w0=
+
+Name: org/eclipse/team/internal/ui/synchronize/patch/ApplyPatchOperati
+ on.java
+SHA1-Digest: IUb8rkV2Ckf11QS5fYbb6WqX0bc=
+
+Name: org/eclipse/team/internal/ui/synchronize/ConfigureSynchronizeSch
+ eduleComposite.java
+SHA1-Digest: 4++o06Nai40L0pu6hMoxbqivKuw=
+
+Name: schema/scmUrlImportPages.exsd
+SHA1-Digest: jVKEiJV/lx2f/A6LfZdbWzYO+BA=
+
+Name: org/eclipse/team/internal/ui/history/IFileHistoryConstants.java
+SHA1-Digest: MwuncWQJT2/bPUp2yNTnl1k7Ryw=
+
+Name: org/eclipse/team/internal/ui/synchronize/CompressedFoldersModelP
+ rovider.java
+SHA1-Digest: q0kMqGbImOX66fDOa0DnUMlnjNI=
+
+Name: org/eclipse/team/internal/ui/history/LocalHistoryPage.java
+SHA1-Digest: DAgjkSAI3lpTy041okzLRmmdsMY=
+
+Name: org/eclipse/team/ui/mapping/MergeActionHandler.java
+SHA1-Digest: 6wljcqQmDCICpkOXHGxcpKrlVno=
+
+Name: org/eclipse/team/ui/mapping/ITeamStateProvider.java
+SHA1-Digest: QIeAZE67CMfS0IHdAl4BBHP0x4M=
+
+Name: org/eclipse/team/ui/synchronize/ISynchronizePageSite.java
+SHA1-Digest: y71La7jS8WRWqIV54pvLs6p3sfU=
+
+Name: org/eclipse/team/ui/synchronize/ISynchronizeModelElement.java
+SHA1-Digest: rCTxpOwvm+hK1X2IrSWwY19e0HY=
+
+Name: org/eclipse/team/internal/ui/wizards/ConfigureProjectWizardMainP
+ age.java
+SHA1-Digest: yH99ZWgh3k3SYz3+qE1kAGmBQLw=
+
+Name: org/eclipse/team/internal/ui/actions/OpenRevisionAction.java
+SHA1-Digest: ajxAFs46mMAY5KZVidyxrart9I4=
+
+Name: org/eclipse/team/internal/ui/synchronize/IRefreshSubscriberListe
+ ner.java
+SHA1-Digest: s8r6z0TbwYF7PtbNR/VaybJ7F3c=
+
+Name: org/eclipse/team/ui/synchronize/SynchronizeModelOperation.java
+SHA1-Digest: SxKEGmzehmhQJ8zDdVrGrbp8Wsg=
+
+Name: org/eclipse/team/internal/ui/synchronize/AbstractSynchronizeMode
+ lProvider.java
+SHA1-Digest: nBDyKx802naVpL6nZMtJ+sgioK8=
+
+Name: org/eclipse/team/internal/ui/synchronize/SynchronizeModelProvide
+ r.java
+SHA1-Digest: lUNSs5ocnMCaQHyueHYCYpwHBPE=
+
+Name: org/eclipse/team/internal/ui/synchronize/actions/PasteAction.jav
+ a
+SHA1-Digest: a9gBMb0jyXxIo5O9fz4X5UKKTII=
+
+Name: org/eclipse/team/ui/SaveablePartDialog.java
+SHA1-Digest: nfarlvd6ShlvSWmO/1SXc2dfFbI=
+
+Name: org/eclipse/team/internal/ui/synchronize/WorkbenchAction.java
+SHA1-Digest: Oy+GGFdXOr8rPweO6LQ9r2tNLUw=
+
+Name: org/eclipse/team/internal/ui/dialogs/ResourceMappingHierarchyAre
+ a.java
+SHA1-Digest: 8UJtmV1da/1HWIbW5Wpl6PPq2Wg=
+
+Name: org/eclipse/team/internal/ui/wizards/ConfigureProjectWizard.java
+SHA1-Digest: 3Bp/lJA4UgCWJfphHx+FM097OWk=
+
+Name: org/eclipse/team/ui/history/HistoryPage.java
+SHA1-Digest: yn22Sli5z48nudH92TLfJrAqhfk=
+
+Name: org/eclipse/team/internal/ui/history/CompareLocalHistory.java
+SHA1-Digest: loeqfcTIfYxnUwV6YS+ASd7a2PI=
+
+Name: org/eclipse/team/ui/mapping/SynchronizationContentProvider.java
+SHA1-Digest: mSa+kRV1C29MiSdWLsg7rnq9r/A=
+
+Name: org/eclipse/team/internal/ui/actions/CompareAction.java
+SHA1-Digest: j4rb+I4jfG++RqI4qQXQKql8l+Y=
+
+Name: org/eclipse/team/internal/ui/synchronize/actions/OpenWithActionG
+ roup.java
+SHA1-Digest: OLHHE0KEJnGzfDreFUl+uwG6H+I=
+
+Name: org/eclipse/team/internal/ui/synchronize/actions/NavigateAction.
+ java
+SHA1-Digest: OT6nRAcdixfixtF2bFvc+8CeX8k=
+
+Name: org/eclipse/team/internal/ui/wizards/PatchInaccessibleProjectsPa
+ ge.java
+SHA1-Digest: DyEnpLmTJzHsF+J/jS+E2h0rWhQ=
+
+Name: org/eclipse/team/internal/ui/history/ReplaceLocalHistory.java
+SHA1-Digest: zWDWab5N+30AJLwS5HvS2lAXbhI=
+
+Name: org/eclipse/team/internal/ui/synchronize/ScopableSubscriberParti
+ cipant.java
+SHA1-Digest: RF163bRQ7RjXYDs9C/JW2PqPuZ0=
+
+Name: org/eclipse/team/internal/ui/synchronize/TeamSynchronizingPerspe
+ ctive.java
+SHA1-Digest: wWqahD+UijvP8Dce/7oAo+wocqI=
+
+Name: org/eclipse/team/ui/synchronize/ModelParticipantWizard.java
+SHA1-Digest: Z9QPLBZJjtVnP6APBAAPbJcZK7c=
+
+Name: org/eclipse/team/internal/ui/registry/SynchronizeWizardRegistry.
+ java
+SHA1-Digest: dguqF/YLcWG1a5wd09YwlU1CmlA=
+
+Name: org/eclipse/team/ui/mapping/SynchronizationStateTester.java
+SHA1-Digest: PPN+4Z3z9zjMIJ2LX/VHSWzbGwk=
+
+Name: org/eclipse/team/internal/ui/history/FileRevisionTypedElement.ja
+ va
+SHA1-Digest: 1f0XLF3Fzk74S+ggTfKN9upSG6I=
+
+Name: org/eclipse/team/internal/ui/registry/SynchronizeParticipantRegi
+ stry.java
+SHA1-Digest: pmmdUQ2h1jK95ZgS++s3svPa8N8=
+
+Name: org/eclipse/team/internal/ui/wizards/GlobalSynchronizeWizard.jav
+ a
+SHA1-Digest: Oe+4AvPZkeBwZwADtZqKyzhsGs0=
+
+Name: org/eclipse/team/internal/ui/actions/OpenWithMenu.java
+SHA1-Digest: 6qtDRp23F+RleL2AZr23C1mvHMM=
+
+Name: org/eclipse/team/internal/ui/mapping/ResourceMarkAsMergedHandler
+ .java
+SHA1-Digest: eHkdNLGqUMpn6UDKPpo0ZsMqhR0=
+
+Name: org/eclipse/team/ui/synchronize/ISynchronizeView.java
+SHA1-Digest: Yt+QxfpuuCtOji4YuK9nqK3/ptY=
+
+Name: org/eclipse/team/internal/ui/synchronize/patch/ApplyPatchModelSy
+ nchronizeParticipant.java
+SHA1-Digest: iX1U8kDIYxqTHgZG3CtwIjgfWyo=
+
+Name: org/eclipse/team/internal/ui/synchronize/SubscriberRefreshSchedu
+ le.java
+SHA1-Digest: +qe2jISoVN1xBRjEiYYe9v0iCTQ=
+
+Name: org/eclipse/team/ui/mapping/SynchronizationLabelProvider.java
+SHA1-Digest: zCnnsjRwEgXJYd719E7l+Dp627M=
+
+Name: org/eclipse/team/internal/ui/synchronize/patch/PatchModelProvide
+ r.java
+SHA1-Digest: umBF/oVviL4SacoYBla3jg8v/d8=
+
+Name: org/eclipse/team/internal/ui/synchronize/actions/StatusLineCLabe
+ lContribution.java
+SHA1-Digest: jRX/D4kBnSaRrqPR803Ulw0BWjY=
+
+Name: org/eclipse/team/ui/mapping/ISynchronizationCompareAdapter.java
+SHA1-Digest: Y4TCR08QRMDEKL2nPKP2jPxozEM=
+
+Name: org/eclipse/team/internal/ui/actions/CompareRevisionAction.java
+SHA1-Digest: 6rS9GgFHBix69QQPZtBLRndzN3M=
+
+Name: org/eclipse/team/ui/synchronize/ModelParticipantAction.java
+SHA1-Digest: hnQLQDy7nqQWGni089889wsUdd4=
+
+Name: org/eclipse/team/internal/ui/synchronize/patch/PatchParsedPage.j
+ ava
+SHA1-Digest: T0vKTikuFQ37LwStTPvyJmz7ZZs=
+
+Name: org/eclipse/team/internal/ui/mapping/CommonMenuManager.java
+SHA1-Digest: T+jCzNAHqd3giyzWAmZXtukg2R4=
+
+Name: org/eclipse/team/internal/ui/mapping/ResourceModelParticipantAct
+ ion.java
+SHA1-Digest: NINECcUpPsqVIWG9AEeNa69ouNE=
+
+Name: org/eclipse/team/internal/ui/synchronize/DialogSynchronizePageSi
+ te.java
+SHA1-Digest: eKHaQW+/KwlDwVutIY3gAPSU484=
+
+Name: org/eclipse/team/internal/ui/synchronize/HierarchicalModelManage
+ r.java
+SHA1-Digest: I0qaUcY1OSMy2BSMybf3RJOAbeA=
+
+Name: org/eclipse/team/internal/ui/mapping/AbstractCompareInput.java
+SHA1-Digest: lc2B2Lke0Qb5E98oMBcvmyJHzF0=
+
+Name: org/eclipse/team/internal/ui/synchronize/ChangeSetModelManager.j
+ ava
+SHA1-Digest: 2ZKoPbohk6CRi8x3i3NMPRQUlAo=
+
+Name: org/eclipse/team/internal/ui/history/WorkbenchHistoryPageSite.ja
+ va
+SHA1-Digest: e01AAKtbcbSjHShH/56jXW/svpg=
+
+Name: org/eclipse/team/internal/ui/history/MessageHistoryCategory.java
+SHA1-Digest: TCUXQLrqGG+1oGFHg6vQp8HBjPw=
+
+Name: org/eclipse/team/ui/mapping/SynchronizationCompareAdapter.java
+SHA1-Digest: dmy3UXOuth/gsqgGdBCMis5Veoo=
+
+Name: org/eclipse/team/internal/ui/DefaultUIFileModificationValidator.
+ java
+SHA1-Digest: ZX2JcFRTA/ULDKdgt2W0ZofMNpk=
+
+Name: org/eclipse/team/internal/ui/synchronize/RemoteResourceTypedElem
+ ent.java
+SHA1-Digest: 6be9HNDsX9gGl6XAphJpHfEu0os=
+
+Name: org/eclipse/team/internal/ui/synchronize/SyncInfoSetChangeSetCol
+ lector.java
+SHA1-Digest: Rgn7cNrxYVvGU8fKEb7FfDwlXoY=
+
+Name: org/eclipse/team/ui/history/IHistoryCompareAdapter.java
+SHA1-Digest: goar9kmyrvenG+DVJbWzNwGDIRQ=
+
+Name: org/eclipse/team/ui/synchronize/ResourceScope.java
+SHA1-Digest: Nl2ll+gkFH0ycq47Pt87OZUIOdU=
+
+Name: org/eclipse/team/internal/ui/Utils.java
+SHA1-Digest: 4YapNosNoiYQ3q3n5LKl0hDclkI=
+
+Name: org/eclipse/team/internal/ui/synchronize/actions/RefreshActionCo
+ ntribution.java
+SHA1-Digest: 8OXelCNfmXGO7Vl7PcqQ6Y5zFkQ=
+
+Name: org/eclipse/team/ui/synchronize/ISynchronizeParticipantListener.
+ java
+SHA1-Digest: SBBOwBlfUksUoiGDc/pqjY0sj/A=
+
+Name: org/eclipse/team/internal/ui/mapping/TeamViewerSorter.java
+SHA1-Digest: odstAksgYRkEu7bLL63brbfzKuw=
+
+Name: org/eclipse/team/internal/ui/dialogs/DialogArea.java
+SHA1-Digest: 4es0b+9O/3Eh1kC/LN6Q2n9ZHDI=
+
+Name: org/eclipse/team/internal/ui/synchronize/IChangeSetProvider.java
+SHA1-Digest: vYtMyKiPWZjVoEFO6KQqoHwPaD0=
+
+Name: org/eclipse/team/internal/ui/mapping/TextStorageMerger.java
+SHA1-Digest: Y+DJgLXCXBwFuMPP7NZeIkaA+KQ=
+
+Name: org/eclipse/team/internal/ui/dialogs/DetailsDialogWithProjects.j
+ ava
+SHA1-Digest: 4vzcXJ9b5oMbHwk0x9+fjiR1TWk=
+
+Name: org/eclipse/team/internal/ui/dialogs/NoChangesDialog.java
+SHA1-Digest: WfHYmrmc9CI+mrxi1vGxv6IhnI0=
+
+Name: org/eclipse/team/internal/ui/synchronize/RefreshParticipantJob.j
+ ava
+SHA1-Digest: AcoboOwa6ENp8aMa9Lu2+u/63/k=
+
+Name: org/eclipse/team/internal/ui/dialogs/MultipleYesNoPrompter.java
+SHA1-Digest: VhH3fkzmEvcQJHWEpxSFtRo79Ok=
+
+Name: org/eclipse/team/internal/ui/synchronize/patch/DiffProjectResour
+ ceMapping.java
+SHA1-Digest: ugYUOe3Vv00FATGNON6B6/Bc1W8=
+
+Name: org/eclipse/team/internal/ui/synchronize/patch/ApplyPatchModelCo
+ mpareEditorInput.java
+SHA1-Digest: bwBhs0Mt7HNvOXCW7piNfe4vyuY=
+
+Name: org/eclipse/team/internal/ui/mapping/MergeAllOperation.java
+SHA1-Digest: o1E5g5dt68knA3w7TXsi+EE86mI=
+
+Name: org/eclipse/team/internal/ui/wizards/ExportProjectSetMainPage.ja
+ va
+SHA1-Digest: XiqGdjX5v695ZFZzKp7DZXRZuEY=
+
+Name: org/eclipse/team/internal/ui/dialogs/PreferencePageContainerDial
+ og.java
+SHA1-Digest: oMN/3fokvRDNMSf1gdPZi+ZpKDw=
+
+Name: org/eclipse/team/internal/ui/synchronize/SubscriberParticipantPa
+ ge.java
+SHA1-Digest: fpg8vcTLle4pMTvgKokk8ieO6xk=
+
+Name: org/eclipse/team/ui/synchronize/TeamStateChangeEvent.java
+SHA1-Digest: 7x73hooAKaxTRGOeS4GhqZL7YYk=
+
+Name: org/eclipse/team/internal/ui/history/OpenLocalFileAction.java
+SHA1-Digest: rdabz/LIOtNEsFtmqYaJI2FWwDg=
+
+Name: org/eclipse/team/ui/synchronize/ParticipantPageDialog.java
+SHA1-Digest: kk9Y630JKoRtOIzsCkKO4H4dPp8=
+
+Name: org/eclipse/team/internal/ui/synchronize/NavigationActionGroup.j
+ ava
+SHA1-Digest: 3YHo1pJH8/aJh4OurUa2oZV+JVk=
+
+Name: org/eclipse/team/ui/history/IHistoryPageSource.java
+SHA1-Digest: y0oKNwxsuj8RwM8+1o++e7BOYF4=
+
+Name: org/eclipse/team/ui/synchronize/ISynchronizeManager.java
+SHA1-Digest: ORRHD6Tp2h16mvTlyAHdMk3WqBE=
+
+Name: org/eclipse/team/ui/IConfigurationWizardExtension.java
+SHA1-Digest: NX4TTP+r63cuOWv0wdYqUJF1chg=
+
+Name: org/eclipse/team/internal/ui/history/GenericHistoryViewDefaultPa
+ ge.java
+SHA1-Digest: aCZjx4YngNZnWLZQTAbeClusuPA=
+
+Name: org/eclipse/team/internal/ui/synchronize/HierarchicalModelProvid
+ er.java
+SHA1-Digest: 2hkMlbo92/M028O+ajNZLXV5A+M=
+
+Name: org/eclipse/team/internal/ui/synchronize/ChangesSection.java
+SHA1-Digest: v2z6FoyHFpzBtDH8UGE7z9KOtFc=
+
+Name: org/eclipse/team/internal/ui/wizards/TeamWizardPage.java
+SHA1-Digest: omM96U7hj8bIRQ4Cq041pOgDlLU=
+
+Name: org/eclipse/team/internal/ui/mapping/SynchronizationResourceMapp
+ ingContext.java
+SHA1-Digest: 1m0STXa6iSt0EqP+Mt/Oypzs5gQ=
+
+Name: org/eclipse/team/ui/synchronize/TeamStateDescription.java
+SHA1-Digest: 7Zam/9c+NA59KoKgYKZXE9gLtsQ=
+
+Name: org/eclipse/team/internal/ui/synchronize/SyncInfoModelElement.ja
+ va
+SHA1-Digest: 2YDa1NxQKUsJmiL6wFgiZ1XmC4I=
+
+Name: org/eclipse/team/internal/ui/synchronize/IPageValidator.java
+SHA1-Digest: Il5pMpQ6q9QjugLRCXiMArvptXo=
+
+Name: org/eclipse/team/internal/ui/synchronize/GlobalRefreshResourceSe
+ lectionPage.java
+SHA1-Digest: B7zleWezWU4ZGZcAme0I2SiGZSk=
+
+Name: org/eclipse/team/internal/ui/dialogs/IPromptCondition.java
+SHA1-Digest: ZujIsYWnvMwWjBmh8+hqZxlBzjg=
+
+Name: org/eclipse/team/ui/history/IHistoryPageSite.java
+SHA1-Digest: nJIlroZYwvfafC31E5T1xAFjT4A=
+
+Name: org/eclipse/team/internal/ui/mapping/ResourceMergeActionHandler.
+ java
+SHA1-Digest: jNFkdH8/EqttuNJhDh3J6+Z9gZo=
+
+Name: org/eclipse/team/internal/ui/mapping/RemoveFromViewAction.java
+SHA1-Digest: cq+3VD9ivCb8IZqgI/bWrAZjSY8=
+
+Name: org/eclipse/team/ui/synchronize/ISynchronizePage.java
+SHA1-Digest: yPPfkJUhqhlJHnPoU9mCgqYG4G4=
+
+Name: org/eclipse/team/ui/synchronize/ParticipantPagePane.java
+SHA1-Digest: bHPr+OohqvE0DQmvUrsycD8qOcY=
+
+Name: org/eclipse/team/ui/ISaveableWorkbenchPart.java
+SHA1-Digest: iumR8IolzZO0ToGbuhOsQibAHFY=
+
+Name: org/eclipse/team/ui/TeamUI.java
+SHA1-Digest: kS6jN9milIMsYmjMB1Tyd52k7i8=
+
+Name: org/eclipse/team/internal/ui/wizards/PsfStore.java
+SHA1-Digest: rnyEuW2Umxukrxotj/vcKsScUjU=
+
+Name: META-INF/eclipse.inf
+SHA1-Digest: KyT9FF7C7t86NoBoa2kZT3ZJBfw=
+
+Name: org/eclipse/team/internal/ui/synchronize/ISynchronizeModelProvid
+ er.java
+SHA1-Digest: s+86o1lvl2ZXPkHdxuxDr/lF0b4=
+
+Name: org/eclipse/team/internal/ui/wizards/ConfigurationWizardElement.
+ java
+SHA1-Digest: aCkNeG259kDZasF53SCWraTMUrg=
+
+Name: org/eclipse/team/internal/ui/synchronize/SynchronizeModelElement
+ Sorter.java
+SHA1-Digest: dxseyEcsfMtQp3z8+SATlHkzQhw=
+
+Name: org/eclipse/team/internal/ui/synchronize/actions/DefaultSynchron
+ izePageActions.java
+SHA1-Digest: igmglU8KSRsQHkpJZaIRtU97DYw=
+
+Name: org/eclipse/team/internal/ui/dialogs/ResourceMappingSelectionAre
+ a.java
+SHA1-Digest: suYTAzEwgKDD1Wb9R+Cmgs7NETU=
+
+Name: org/eclipse/team/ui/mapping/SynchronizationOperation.java
+SHA1-Digest: 40gPCr4gEiORLzbtvdWd0ny7kJE=
+
+Name: org/eclipse/team/internal/ui/synchronize/patch/ApplyPatchSynchro
+ nizationActionProvider.java
+SHA1-Digest: jws2WD1AK9bXGffZYvCVP7wNTmM=
+
+Name: org/eclipse/team/internal/ui/synchronize/DiffNodeWorkbenchAdapte
+ r.java
+SHA1-Digest: jRb0ttc0kp0ne1LuJceXtJPLXp0=
+
+Name: org/eclipse/team/ui/synchronize/ModelMergeOperation.java
+SHA1-Digest: 3l96EaS8Nf/KRmA+5+d4KppZk7Y=
+
+Name: org/eclipse/team/internal/ui/dialogs/PromptingDialog.java
+SHA1-Digest: naUX95IND8QKNph/uNIjfh8fkrM=
+
+Name: org/eclipse/team/internal/ui/preferences/SyncViewerPreferencePag
+ e.java
+SHA1-Digest: Hy2AAWZ80zzwAz0/ARj7HFzPUNE=
+
+Name: org/eclipse/team/internal/ui/synchronize/patch/PatchSyncContentP
+ rovider.java
+SHA1-Digest: hA/JZkA9baEKY7BEkE1KGgmRyI4=
+
+Name: org/eclipse/team/internal/ui/mapping/LineComparator.java
+SHA1-Digest: bDT8RaWxjhLqR/tdx7nZJH1W3GM=
+
+Name: org/eclipse/team/ui/synchronize/ISynchronizeScope.java
+SHA1-Digest: /Xjlbfw70xMq6SwV/ZVbzEDM0u4=
+
+Name: org/eclipse/team/internal/ui/mapping/StorageStreamMerger.java
+SHA1-Digest: U0sn+/DUhe+a4j3gKbdKLl10OBQ=
+
+Name: org/eclipse/team/internal/ui/synchronize/patch/HunkResourceMappi
+ ng.java
+SHA1-Digest: jj3TrD2a2n/2t8rznxwkPP23Bqc=
+
+Name: org/eclipse/team/ui/history/IHistoryView.java
+SHA1-Digest: IJUX72GqTrgCFKNH9628c49N9pM=
+
+Name: org/eclipse/team/ui/synchronize/SynchronizePageActionGroup.java
+SHA1-Digest: aIHAFO/ELvPfImC9D73nMAgQ5LY=
+
+Name: org/eclipse/team/ui/synchronize/ParticipantSynchronizeWizard.jav
+ a
+SHA1-Digest: 9okWEclvoWcChWcymJzku1HymNc=
+
+Name: org/eclipse/team/internal/ui/mapping/MergeAllActionHandler.java
+SHA1-Digest: b4tSQZvQC6GbSaH4GlFzfKvrrBM=
+
+Name: plugin.properties
+SHA1-Digest: W9nAmnWj8KPVwn58fCdfnQ8Wnpk=
+
+Name: org/eclipse/team/ui/synchronize/AbstractSynchronizeScope.java
+SHA1-Digest: S5coK1f9L01znvEcQmxJ50wEKdI=
+
+Name: org/eclipse/team/ui/synchronize/ISynchronizeParticipantDescripto
+ r.java
+SHA1-Digest: 5pnSeueEyDa0mqgjIYjxnPsGJfg=
+
+Name: org/eclipse/team/internal/ui/history/GenericHistoryDropAdapter.j
+ ava
+SHA1-Digest: WRyzNZb1BM/hwYA5i4L++oV78Fo=
+
+Name: org/eclipse/team/internal/ui/mapping/FuzzFactorAction.java
+SHA1-Digest: CsVQckz2lrs5JELjlB14xr7MqQc=
+
+Name: org/eclipse/team/internal/ui/registry/TeamDecoratorManager.java
+SHA1-Digest: unAhow9wY4nc+G3maYy51dL8J+g=
+
+Name: org/eclipse/team/internal/ui/synchronize/actions/OpenFileInSyste
+ mEditorAction.java
+SHA1-Digest: 0JUqE98OqjZXXwKHPlSseLv7BPg=
+
+Name: org/eclipse/team/internal/ui/preferences/TextPreferencePage.java
+SHA1-Digest: nAz6FvUhjMfj+j2fxchqj1P4dNk=
+
+Name: org/eclipse/team/internal/ui/synchronize/actions/GlobalRefreshAc
+ tion.java
+SHA1-Digest: Av6gm6ixE9muwMb5cASA3/yER4w=
+
+Name: org/eclipse/team/ui/IConfigurationWizard.java
+SHA1-Digest: obYdBYAenLtwuiLRJ2437EPDKd0=
+
+Name: org/eclipse/team/internal/ui/synchronize/actions/StatusLineContr
+ ibutionGroup.java
+SHA1-Digest: an483bEROtrWU0raX+SYU4OVz+k=
+
+Name: org/eclipse/team/internal/ui/actions/JobRunnableContext.java
+SHA1-Digest: oRRSUkL8wmcRodaV0mAg+2jZjFs=
+
+Name: org/eclipse/team/internal/ui/synchronize/SynchronizeView.java
+SHA1-Digest: IGGJCpir9hbg5XLK1KcnXZFJr4U=
+
+Name: org/eclipse/team/internal/ui/history/AbstractHistoryCategory.jav
+ a
+SHA1-Digest: tc1qxKN0rUzijhPVshgXA26lLWQ=
+
+Name: org/eclipse/team/internal/ui/IHelpContextIds.java
+SHA1-Digest: k5k5f/glhZ8L3tE9Udyye18OwT4=
+
+Name: org/eclipse/team/ui/synchronize/TeamStateProvider.java
+SHA1-Digest: 1E+lysarYPBxKi+CCZAinh6XFz8=
+
+Name: org/eclipse/team/ui/mapping/SynchronizationActionProvider.java
+SHA1-Digest: CjmQgxWJqajJemlZQ/uItLfADkA=
+
+Name: org/eclipse/team/internal/ui/registry/TeamContentProviderManager
+ .java
+SHA1-Digest: iwoDPAzTNHzfLQQn0OyjEcp3ycc=
+
+Name: org/eclipse/team/internal/ui/history/GenericHistoryView.java
+SHA1-Digest: eSGLxCHua4BQ2kHj60nKPycQSjA=
+
+Name: org/eclipse/team/ui/PageCompareEditorInput.java
+SHA1-Digest: Us6n2QCofeOQIyjfxMTu1m4srFg=
+
+Name: org/eclipse/team/internal/ui/synchronize/actions/CopyToClipboard
+ Action.java
+SHA1-Digest: UBtKEOjHb0sISxm0+c1Cx9nBDV8=
+
+Name: org/eclipse/team/internal/ui/dialogs/DetailsDialog.java
+SHA1-Digest: ORYR0W6EsXDztW+6ATMUBs30Je8=
+
+Name: org/eclipse/team/ui/synchronize/ModelOperation.java
+SHA1-Digest: PPIK3sMvoQBSNL+Y2Lg0Eucq6xQ=
+
+Name: org/eclipse/team/ui/mapping/ISynchronizationCompareInput.java
+SHA1-Digest: Rsydeq/lI+MKEOf0h46Koxf1TDo=
+
+Name: org/eclipse/team/internal/ui/synchronize/actions/RemoveSynchroni
+ zeParticipantAction.java
+SHA1-Digest: PHyqp4bUcNuHTI3beqnhVbeMERU=
+
+Name: org/eclipse/team/internal/ui/history/LocalHistoryPageSource.java
+SHA1-Digest: WK6oqf0M63lHgYGP82XXWLERE/w=
+
+Name: org/eclipse/team/internal/ui/synchronize/actions/OpenInCompareAc
+ tion.java
+SHA1-Digest: GDx+HIQcwdu50/hT5nhuTbBObZY=
+
+Name: org/eclipse/team/internal/ui/mapping/GererateRejFileAction.java
+SHA1-Digest: GvWeogoxblyofs9iLIg8iMi3SMo=
+
+Name: org/eclipse/team/internal/ui/mapping/FuzzFactorDialog.java
+SHA1-Digest: T/9WN2rouy1cJyrC2Rhp38E4XBA=
+
+Name: org/eclipse/team/internal/ui/synchronize/actions/SynchronizePage
+ DropDownAction.java
+SHA1-Digest: qOFjeUDWhuQSC5FmeKbGbOL+oL8=
+
+Name: org/eclipse/team/internal/ui/actions/TeamAction.java
+SHA1-Digest: rlchNGkCn+6yfHdUzgXU5QZKN4o=
+
+Name: org/eclipse/team/ui/synchronize/SyncInfoCompareInput.java
+SHA1-Digest: pfN3iTgvAcUB9d063SUGIH8+CXs=
+
+Name: org/eclipse/team/internal/ui/synchronize/patch/AdapterFactory.ja
+ va
+SHA1-Digest: OzXjcxI96tcN2HpAFp71/FAXT+Y=
+
+Name: org/eclipse/team/internal/ui/synchronize/ChangeSetModelSorter.ja
+ va
+SHA1-Digest: 9ySeVCgZNi69QfqEVuL9nUrRCyc=
+
+Name: org/eclipse/team/internal/ui/wizards/ProjectSetImportWizard.java
+SHA1-Digest: 7wE+gp9oY6W1OfcnWT6MMFYGpJQ=
+
+Name: org/eclipse/team/internal/ui/synchronize/patch/ApplyPatchSubscri
+ berMergeContext.java
+SHA1-Digest: dutz+6z8bz9mGa7jH264JbHpEYY=
+
+Name: org/eclipse/team/internal/ui/mapping/IgnoreLeadingPathSegmentsAc
+ tion.java
+SHA1-Digest: WFAsOwcdkN+XLlFSVY2jw4vX8sg=
+
+Name: org/eclipse/team/internal/ui/synchronize/ForwardingChangesSectio
+ n.java
+SHA1-Digest: kcszr4YvaX44H05uj86VodYIS3c=
+
+Name: org/eclipse/team/internal/ui/synchronize/RefreshEvent.java
+SHA1-Digest: YsGBeFywvLCg9/uwvibUiS+yHZ4=
+
+Name: schema/synchronizeWizards.exsd
+SHA1-Digest: 1n9EDDCt32IFj7T4d1xqeXKWi3Q=
+
+Name: org/eclipse/team/internal/ui/synchronize/actions/ExpandAllAction
+ .java
+SHA1-Digest: OFwmO9HOEo0wks4McyD/jWMDxUU=
+
+Name: org/eclipse/team/internal/ui/synchronize/actions/RemoveFromViewA
+ ction.java
+SHA1-Digest: 3joscQFtZmEtdU6QVL4ve79zyYE=
+
+Name: org/eclipse/team/internal/ui/synchronize/IRefreshEvent.java
+SHA1-Digest: SJlfG+9jST4noSEx1SFQHYM+F48=
+
+Name: org/eclipse/team/ui/synchronize/AbstractSynchronizeParticipant.j
+ ava
+SHA1-Digest: QsNGcU1Xhxv8tkSP+z7SuR0g3jA=
+
+Name: org/eclipse/team/internal/ui/synchronize/StartupPreferencePage.j
+ ava
+SHA1-Digest: aDm3/Ss0zW5HknKpFUm0jUULh+k=
+
+Name: org/eclipse/team/ui/history/RevisionAnnotationController.java
+SHA1-Digest: 6bnACWnTyZhhv6kw2fy0Mx3Kh5k=
+
+Name: org/eclipse/team/ui/synchronize/SubscriberParticipantWizard.java
+SHA1-Digest: LV9ARpVT/TPAkjVkAoY4CYMn8+I=
+
+Name: org/eclipse/team/ui/synchronize/WorkspaceScope.java
+SHA1-Digest: 2Z8b9Lvn2sGtQHwl4HV8vIBAaT8=
+
+Name: org/eclipse/team/internal/ui/synchronize/MultiLabelDecorator.jav
+ a
+SHA1-Digest: NH22n9sx4Ix8oFTgwuqyZXTZmY8=
+
+Name: org/eclipse/team/ui/synchronize/ModelParticipantMergeOperation.j
+ ava
+SHA1-Digest: NBLc3G4oa45cTnf9CAMHOHAGhsA=
+
+Name: org/eclipse/team/internal/ui/mapping/ResourceModelLabelProvider.
+ java
+SHA1-Digest: HV9Up3+AkoqteXnft3p+CoYa54k=
+
+Name: org/eclipse/team/internal/ui/synchronize/DecoratingColorLabelPro
+ vider.java
+SHA1-Digest: yieRqNzO6NFHmjVR54sLI+unKWQ=
+
+Name: org/eclipse/team/internal/ui/synchronize/IRefreshable.java
+SHA1-Digest: EhwdVvx4m0OXGSi1Qj0AN0+6CEM=
+
+Name: org/eclipse/team/internal/ui/mapping/ResourceCompareInputChangeN
+ otifier.java
+SHA1-Digest: 0v2wYanwJIpl6BYvUQCH08EWDko=
+
+Name: org/eclipse/team/ui/history/IHistoryPage.java
+SHA1-Digest: ZoCM9MgZ41VSocLC6lRuEAyYjVU=
+
+Name: org/eclipse/team/internal/ui/synchronize/patch/PatchedFileVarian
+ t.java
+SHA1-Digest: h/H6tPsStGQEJhwixubGTubkPO4=
+
+Name: org/eclipse/team/internal/ui/synchronize/patch/ApplyPatchSubscri
+ ber.java
+SHA1-Digest: bGdaVnkr2Tuqhl6a5r68Pp8emgo=
+
+Name: org/eclipse/team/internal/ui/synchronize/ChangeSetModelProvider.
+ java
+SHA1-Digest: c/TCuunOi06HCrI9JuOh/Ej6PRk=
+
+Name: org/eclipse/team/ui/TeamOperation.java
+SHA1-Digest: xfRRstSrugi0YNA//izmbwz1C1I=
+
+Name: org/eclipse/team/internal/ui/mapping/ResourceModelTraversalCalcu
+ lator.java
+SHA1-Digest: myTJ2FAvSLmnJveYqfo4I8aI4lI=
+
+Name: org/eclipse/team/ui/synchronize/ISynchronizeModelChangeListener.
+ java
+SHA1-Digest: uPvYm04dVF6uvYURHMJZXRkyFTs=
+
+Name: org/eclipse/team/internal/ui/synchronize/actions/RestoreRemovedI
+ temsAction.java
+SHA1-Digest: U0qvAbmsf0K1lQQx9HPhybP3JLo=
+
+Name: org/eclipse/team/internal/ui/ITeamUIImages.java
+SHA1-Digest: QA8TsBHahOjvy7LYXZwD/oNJu5w=
+
+Name: org/eclipse/team/internal/ui/mapping/ShowModelProviderAction.jav
+ a
+SHA1-Digest: aqDOT60HCIB5k09dQCBPalExe0s=
+
+Name: org/eclipse/team/internal/ui/dialogs/IResourceMappingResourceFil
+ ter.java
+SHA1-Digest: LJehCCQOiFzaYvPv6URRGed+CyM=
+
+Name: org/eclipse/team/internal/ui/history/EditionHistoryPage.java
+SHA1-Digest: gZgB/5Qxsc3UjfpsCrPsoHHGZNI=
+
+Name: org/eclipse/team/internal/ui/preferences/ResourceModelPreference
+ Page.java
+SHA1-Digest: LSemtlrYjmbLLtPmAqtbhKx+Lxg=
+
+Name: org/eclipse/team/internal/ui/TeamUIMessages.java
+SHA1-Digest: x0WV4faRF3FGTPIOMRrGsoC8lQ4=
+
+Name: org/eclipse/team/internal/ui/synchronize/patch/PatchCompareAdapt
+ er.java
+SHA1-Digest: SVIxmU3ps+AVYVRZBy+kb0nfY3g=
+
+Name: org/eclipse/team/internal/ui/mapping/ResourceModelPersistenceAda
+ pter.java
+SHA1-Digest: tz6x3kroHXUJjFu3ztWum2s9cfQ=
+
+Name: org/eclipse/team/internal/ui/synchronize/RefreshModelParticipant
+ Job.java
+SHA1-Digest: wc7L6Tk5f887jJJQp3/WxdTpEkM=
+
+Name: schema/configurationWizards.exsd
+SHA1-Digest: fpAKwSzmWnWTU0BJvpZUUDqkF5o=
+
+Name: org/eclipse/team/internal/ui/wizards/WorkingSetsDialog.java
+SHA1-Digest: bziDNYSJc38AJ6/PCUyN+rn1Q6o=
+
+Name: org/eclipse/team/internal/ui/synchronize/ConfigureRefreshSchedul
+ eDialog.java
+SHA1-Digest: gMtqXyzVVF6jYA4yNJwqH/tFRqU=
+
+Name: org/eclipse/team/internal/ui/Policy.java
+SHA1-Digest: z6/cL7WoS81q7a4wnpdjWuHhYvk=
+
+Name: org/eclipse/team/internal/ui/mapping/ResourceModelContentProvide
+ r.java
+SHA1-Digest: UJJzEsNLebgdmGD7EcXAv6vVXYw=
+
+Name: org/eclipse/team/ui/PageSaveablePart.java
+SHA1-Digest: fFFvr5GcmKx76TE5pZZ+nJfjOA8=
+
+Name: org/eclipse/team/internal/ui/synchronize/SyncInfoSetChangesSecti
+ on.java
+SHA1-Digest: k1mPxSqMu1tKARYqFxu9GlabBtE=
+
+Name: org/eclipse/team/internal/ui/registry/TeamContentProviderDescrip
+ tor.java
+SHA1-Digest: L9gix4NpXDMEBn5MK7MYdJTkT/U=
+
+Name: org/eclipse/team/internal/ui/synchronize/LocalResourceSaveableCo
+ mparison.java
+SHA1-Digest: H/5YNvrk9Px8Pfyg/4GXdYpD9R4=
+
+Name: org/eclipse/team/internal/ui/synchronize/actions/RefactorActionG
+ roup.java
+SHA1-Digest: 6w6tT0+Ak1+L3Dnk0ZG+2DM1IfM=
+
+Name: org/eclipse/team/internal/ui/mapping/ResourceMappingLabelProvide
+ r.java
+SHA1-Digest: XIyP79TXGDF0JKS07Um83XpRQB8=
+
+Name: org/eclipse/team/internal/ui/actions/ApplyPatchAction.java
+SHA1-Digest: 7qGE8ggZlzXKRzYtnpg4Fo7XZho=
+
+Name: org/eclipse/team/ui/synchronize/WorkingSetScope.java
+SHA1-Digest: 4xJzVYZF4aS7ufQF0zyeTqjVaAA=
+
+Name: org/eclipse/team/ui/synchronize/ISynchronizePageConfiguration.ja
+ va
+SHA1-Digest: pZjsCLh5nPW2outLpdzgTE9C2VE=
+
+Name: org/eclipse/team/internal/ui/StorageTypedElement.java
+SHA1-Digest: QvfuJYGwIrZYARy1Ht7sU94C9dU=
+
+Name: org/eclipse/team/internal/ui/UIProjectSetSerializationContext.ja
+ va
+SHA1-Digest: nPFXZDObJeyqhdxB4yeCiA6TFOA=
+
+Name: org/eclipse/team/internal/ui/mapping/ResourceModelProviderOperat
+ ion.java
+SHA1-Digest: HcsWCa2mAs2+T7HUjO9Psc9Chj0=
+
+Name: org/eclipse/team/internal/ui/synchronize/SynchronizeManager.java
+SHA1-Digest: hD57m2fgW30u+VB/pKCJaCGwgiw=
+
+Name: org/eclipse/team/internal/ui/actions/ConfigureProjectAction.java
+SHA1-Digest: 2uLr3tPBQUxad8UhYhjJmxmkXjI=
+
+Name: org/eclipse/team/internal/ui/ProjectSetImporter.java
+SHA1-Digest: UrybMv5vayE0SjjOYOSoh0bvIe4=
+
+Name: org/eclipse/team/internal/ui/synchronize/ChangeSetCapability.jav
+ a
+SHA1-Digest: P/VADbNHYRblH7C6yQ2+/AsNauw=
+
+Name: org/eclipse/team/internal/ui/mapping/DefaultResourceMappingMerge
+ r.java
+SHA1-Digest: Gkpn5stw8IWKGi3o2JOPW5pHDrI=
+
+Name: schema/teamDecorators.exsd
+SHA1-Digest: MsttgjBDtmHOX7rMfFL3SmlaV00=
+
+Name: org/eclipse/team/internal/ui/mapping/ModelSynchronizePage.java
+SHA1-Digest: c9I4jQc81icMLpo+byJ9y9mVNW4=
+
+Name: org/eclipse/team/internal/ui/history/DialogHistoryPageSite.java
+SHA1-Digest: wT0zbN6/rEABRVuQnm75Qvwa5FE=
+
+Name: org/eclipse/team/internal/ui/synchronize/SynchronizePageConfigur
+ ation.java
+SHA1-Digest: zEVvmgKFml8PzqzOBZoVJYH+8vo=
+
+Name: org/eclipse/team/internal/ui/mapping/CommonViewerAdvisor.java
+SHA1-Digest: jydQjQ6nBr75bO8H5DnGkwLLwdc=
+
+Name: org/eclipse/team/internal/ui/preferences/FileTypeTable.java
+SHA1-Digest: 4YRcm7ZBtGNxdSSsw5ZAtLinA+o=
+
+Name: org/eclipse/team/ui/history/HistoryPageSaveablePart.java
+SHA1-Digest: N4q36iV2dhPGFN7Sy3GqrSf1KE8=
+
+Name: org/eclipse/team/internal/ui/mapping/ModelSelectionDropDownActio
+ n.java
+SHA1-Digest: KMwBwA16cxH/zn3xigCw/L4YGG4=
+
+Name: org/eclipse/team/internal/ui/history/LocalHistoryTableProvider.j
+ ava
+SHA1-Digest: mWS0Wi3l2BtxpsZvNg5mHFB5i7Y=
+
+Name: org/eclipse/team/internal/ui/synchronize/ChangeSetDiffNode.java
+SHA1-Digest: NL6Duox+iXZKnYJLH9r131nj5Q4=
+
+Name: org/eclipse/team/ui/synchronize/ParticipantPageSaveablePart.java
+SHA1-Digest: XbXNKoqxigcUQRxrBEWXnsUwY0s=
+
+Name: org/eclipse/team/internal/ui/synchronize/actions/ToggleLinkingAc
+ tion.java
+SHA1-Digest: tj5y5GwBV0rUsiPqkhEribgcq14=
+
+Name: org/eclipse/team/internal/ui/synchronize/ActionDelegateWrapper.j
+ ava
+SHA1-Digest: MVdQzhQCwph3kafi6PN1vbajlY0=
+
+Name: org/eclipse/team/internal/ui/synchronize/patch/PatchSyncLabelPro
+ vider.java
+SHA1-Digest: RuTx7IQghVv6EZ0gDtmfK+G+G00=
+
+Name: org/eclipse/team/internal/ui/synchronize/actions/ShowSynchronize
+ ParticipantAction.java
+SHA1-Digest: CMdH7kqoMLfNNAl6pxmb+u7bg3A=
+
+Name: org/eclipse/team/internal/ui/dialogs/ResourceMappingResourceDisp
+ layArea.java
+SHA1-Digest: anemDAgXc7X0cD2g3QM0BmyAT+M=
+
+Name: org/eclipse/team/ui/mapping/ITeamStateChangeListener.java
+SHA1-Digest: aVlbbK3ZFnKHuYSauj1Yj+wKxVw=
+
+Name: org/eclipse/team/ui/mapping/ITeamContentProviderManager.java
+SHA1-Digest: PJ1B1TBAJjQlSTvh+hfekMRI9IM=
+
+Name: org/eclipse/team/internal/ui/wizards/ConfigureMultipleProjectsWi
+ zard.java
+SHA1-Digest: E8OpeJxv1d+4yarcYjH6WB4FZG0=
+
+Name: org/eclipse/team/internal/ui/TeamUIPlugin.java
+SHA1-Digest: dULdMGvO41rz0ijcmhqSybirahg=
+
+Name: org/eclipse/team/internal/ui/registry/SynchronizeWizardDescripti
+ on.java
+SHA1-Digest: j+NAJ3DCXE4PBUPdVMYt6lQdE8Q=
+
+Name: org/eclipse/team/ui/synchronize/SaveableCompareEditorInput.java
+SHA1-Digest: cvlgZN6PElj5MGn9PjxWqVQnfyk=
+
+Name: org/eclipse/team/internal/ui/synchronize/actions/SyncInfoSetStat
+ usLineContributionGroup.java
+SHA1-Digest: eISmSwwS563clUM8eZrvd8c/9FM=
+
+Name: org/eclipse/team/internal/ui/history/ShowLocalHistory.java
+SHA1-Digest: u85b5SOoLAMp36h7ZpZiwiafna8=
+
+Name: org/eclipse/team/internal/ui/synchronize/actions/SubscriberActio
+ nContribution.java
+SHA1-Digest: 1zSczAxsqn5ykpPGOI4OVpnd/PE=
+
+Name: org/eclipse/team/internal/ui/wizards/ImportProjectSetMainPage.ja
+ va
+SHA1-Digest: 1A2Gp8jOoiRM59nYXkfRnxL7Z8A=
+
+Name: about.html
+SHA1-Digest: ejOZra0kypGLQQ2bJtGTX+LI8tU=
+
+Name: org/eclipse/team/internal/ui/history/FileRevisionEditorInput.jav
+ a
+SHA1-Digest: /2yp6gBbmP3JO9x2IPe9NQlVR6M=
+
+Name: org/eclipse/team/internal/ui/mapping/ModelElementSelectionPage.j
+ ava
+SHA1-Digest: hcOT3VMR/8f9a4PCGGlDQ9K8Qc8=
+
+Name: org/eclipse/team/internal/ui/synchronize/ISynchronizeModelProvid
+ erDescriptor.java
+SHA1-Digest: BT2Zzn0zR6H+06Ioz0pwOOTJxKk=
+
+Name: org/eclipse/team/ui/synchronize/ISynchronizeParticipantReference
+ .java
+SHA1-Digest: AKwZgq8LnFIchs+JZx+drnX948Y=
+
+Name: org/eclipse/team/internal/ui/synchronize/FlatModelProvider.java
+SHA1-Digest: t/VbqLNilJlrfmHBeeZgZAMLWfQ=
+
+Name: org/eclipse/team/internal/ui/mapping/ModelCompareEditorInput.jav
+ a
+SHA1-Digest: WcER6Zikgm3Xtx2L/ZSCRDYzU5w=
+
+Name: org/eclipse/team/internal/ui/synchronize/AbstractSynchronizePage
+ .java
+SHA1-Digest: s6VgFHfiJ5GEHv3DVSI1iTdzUOs=
+
+Name: org/eclipse/team/internal/ui/synchronize/StructuredViewerAdvisor
+ .java
+SHA1-Digest: thM5R7ELUPC1QGIYzegA/KiybTQ=
+
+Name: org/eclipse/team/ui/synchronize/ModelSynchronizeParticipant.java
+SHA1-Digest: Zpjz3hPsqDZqoD5E10WsEDLFOBM=
+
+Name: org/eclipse/team/internal/ui/mapping/ResourceModelScopeParticipa
+ nt.java
+SHA1-Digest: wuiJkzB/Hn8AjO/D0qw/5w4wx0k=
+
+Name: org/eclipse/team/internal/ui/synchronize/SaveablesCompareEditorI
+ nput.java
+SHA1-Digest: ZBG8Wbsu5geZb4gl/bk/ITtEGCQ=
+
+Name: org/eclipse/team/ui/synchronize/SynchronizeModelAction.java
+SHA1-Digest: wJibpnoA4XsWoT4UoVbSEzuYEMg=
+
+Name: org/eclipse/team/internal/ui/synchronize/patch/PatchWorkbenchAda
+ pter.java
+SHA1-Digest: GZzFJbKNB3MOVJA+H7cFYTM1wpU=
+
+Name: org/eclipse/team/ui/SaveablePartAdapter.java
+SHA1-Digest: B8YJTecKW7JZg574fYBxNYLQrls=
+
+Name: org/eclipse/team/internal/ui/synchronize/ActiveChangeSetCollecto
+ r.java
+SHA1-Digest: oUM6zctg/AXdfI3OUuQd6K67A+E=
+
+Name: org/eclipse/team/internal/ui/synchronize/AbstractTreeViewerAdvis
+ or.java
+SHA1-Digest: XXEqkYWz7C4sROHdNk2T4gWqBo0=
+
+Name: org/eclipse/team/internal/ui/actions/ITeamRunnableContext.java
+SHA1-Digest: iW6rVl8vQALQAEMhmVV3rif8kVQ=
+
+Name: org/eclipse/team/internal/ui/synchronize/LocalResourceTypedEleme
+ nt.java
+SHA1-Digest: dyWI7hzMNV89TRCIPjhFEJNbcNs=
+
+Name: org/eclipse/team/internal/ui/synchronize/SynchronizeModelUpdateH
+ andler.java
+SHA1-Digest: 42uyjUeiiYdfyPUsZopZuMLQxb4=
+
+Name: org/eclipse/team/ui/IScmUrlImportWizardPage.java
+SHA1-Digest: lNIww3pjVMSqRVuEZhJxDhM4Qkw=
+
+Name: org/eclipse/team/internal/ui/registry/SynchronizeParticipantDesc
+ riptor.java
+SHA1-Digest: 3YVAWUAkN/zvZhVixW2MZlMQGWk=
+
+Name: org/eclipse/team/internal/ui/synchronize/RefreshUserNotification
+ Policy.java
+SHA1-Digest: gnldHIWMpJnoaNSQhF/mwIJlE6U=
+
+Name: org/eclipse/team/internal/ui/mapping/RestoreRemovedItemsAction.j
+ ava
+SHA1-Digest: ReqcW7TP6R3Mv0P3t7aR5OitMvA=
+
+Name: org/eclipse/team/internal/ui/mapping/ResourceModelScopeParticipa
+ ntFactory.java
+SHA1-Digest: MoZRhu/NNR6x0e+/KkIGC+ZwM8c=
+
+Name: org/eclipse/team/internal/ui/synchronize/ImageManager.java
+SHA1-Digest: 0UlD+uYafemPZO+osPX28uLfXIk=
+
+Name: org/eclipse/team/ui/synchronize/ModelSynchronizeParticipantActio
+ nGroup.java
+SHA1-Digest: /h6zKT2DEx1l0uCJlZr4YHE7yZw=
+
+Name: org/eclipse/team/internal/ui/wizards/ProjectSetExportWizard.java
+SHA1-Digest: 6PUVHR6hgwpbZMnI42fpIXxe4QY=
+
+Name: schema/teamContentProviders.exsd
+SHA1-Digest: uMFyup9YptigrG9Ddq8WQl8IW2o=
+
+Name: org/eclipse/team/internal/ui/synchronize/ChangeSetLabelDecorator
+ .java
+SHA1-Digest: hvyr0YC2xO5bnOttHxyiUN8Znvs=
+
+Name: org/eclipse/team/ui/TeamImages.java
+SHA1-Digest: ygFuDZqUrS1fom/TDCNlLcXrTp0=
+
+Name: org/eclipse/team/internal/ui/synchronize/actions/SynchronizeAndR
+ efreshAction.java
+SHA1-Digest: mjNJQjGKliCfB56xy6+5wQ8yS2E=
+
+Name: org/eclipse/team/internal/ui/synchronize/SynchronizeModelManager
+ .java
+SHA1-Digest: mAQIICU571F4CGpQYpMRQdjb72s=
+
+Name: org/eclipse/team/internal/ui/TeamCapabilityHelper.java
+SHA1-Digest: C43VntxmNV66v08EnAUkxnuzPfU=
+
+Name: org/eclipse/team/internal/ui/wizards/ImportProjectSetOperation.j
+ ava
+SHA1-Digest: 2VU/orkZAt3GeeYAR4y6uarEBlY=
+
+Name: org/eclipse/team/internal/ui/synchronize/SynchronizeModelElement
+ LabelProvider.java
+SHA1-Digest: noYqEF5E8yvNPtCX5++bXmaXgIQ=
+
+Name: org/eclipse/team/internal/ui/actions/ProgressDialogRunnableConte
+ xt.java
+SHA1-Digest: 47RJ8TGMfyyJNgwptmnQAMq8HSw=
+
+Name: org/eclipse/team/ui/synchronize/SubscriberTeamStateProvider.java
+SHA1-Digest: suldLdfSVkwz76LiI/b+hOdovAw=
+
+Name: org/eclipse/team/ui/mapping/ITeamStateChangeEvent.java
+SHA1-Digest: lqG1aAjIR0dqTqMztQbIrF/WCMs=
+
+Name: org/eclipse/team/internal/ui/PixelConverter.java
+SHA1-Digest: aU61FD1hZCguKPb8EM3GSfXDScE=
+
+Name: org/eclipse/team/internal/ui/TeamAdapterFactory.java
+SHA1-Digest: srs7rctvzT4BwbAgRer6q3uGhls=
+
+Name: org/eclipse/team/internal/ui/dialogs/AdditionalMappingsDialog.ja
+ va
+SHA1-Digest: X7QCzZZz2ICtS8CuqwdgFaLHFEk=
+
+Name: org/eclipse/team/internal/ui/mapping/IEmptyTreeListener.java
+SHA1-Digest: GJsjGuZnavB0DL+7Q4tE/AaIw+I=
+
+Name: org/eclipse/team/internal/ui/history/GenericHistoryTableProvider
+ .java
+SHA1-Digest: zx22fh49sLJSOf0cExjtkkBAE8Q=
+
+Name: org/eclipse/team/internal/ui/actions/ImportProjectSetAction.java
+SHA1-Digest: gZInEJuHh7nLmJ5qkd8XyoulWho=
+
+Name: org/eclipse/team/ui/mapping/SaveableComparison.java
+SHA1-Digest: YrhztgloOEjuDTiQM3K1SVT/C48=
+
+Name: org/eclipse/team/internal/ui/mapping/DiffTreeStatusLineContribut
+ ionGroup.java
+SHA1-Digest: kK83ldGoDjzfuoqLV/VR9KCfUKw=
+
+Name: org/eclipse/team/internal/ui/IPreferenceIds.java
+SHA1-Digest: DW5W+gv+4xY7vlOdNBJyyN9GARE=
+
+Name: org/eclipse/team/internal/ui/synchronize/SynchronizeModelElement
+ .java
+SHA1-Digest: lzmNhLM+U2lOqRbhC1hYdjsu/5A=
+
+Name: org/eclipse/team/internal/ui/mapping/WorkspaceTeamStateProvider.
+ java
+SHA1-Digest: +DwCWLaMTkr4yq4H0YK2REf758Q=
+
+Name: org/eclipse/team/internal/ui/mapping/BuildScopeOperation.java
+SHA1-Digest: 1uJv3UdGH4RGgnPcUtaj/Db050g=
+
+Name: org/eclipse/team/internal/ui/synchronize/RefreshChangeListener.j
+ ava
+SHA1-Digest: VWXfW8iWUF3sw1t4k2RWEq/Ns+U=
+
+Name: org/eclipse/team/internal/ui/synchronize/UnchangedResourceModelE
+ lement.java
+SHA1-Digest: kJNxDHcBgIFajTTN2l0scC3Q+0Y=
+
+Name: org/eclipse/team/ui/mapping/ITeamStateDescription.java
+SHA1-Digest: NMuATOx8Oto6EGFkWuPMJu8wRz4=
+
+Name: org/eclipse/team/internal/ui/synchronize/RefreshUserNotification
+ PolicyInModalDialog.java
+SHA1-Digest: h/z6eaCVLa52XE6FirUnhurQAzQ=
+
+Name: org/eclipse/team/ui/synchronize/AbstractSynchronizeLabelProvider
+ .java
+SHA1-Digest: NsO1FrXN9iYWL7o1jUU+FfwUZVk=
+
+Name: org/eclipse/team/ui/synchronize/ISynchronizeParticipant.java
+SHA1-Digest: iTT8oO1zXqCE9Tv3A+KEVh0ZYSU=
+
+Name: org/eclipse/team/ui/synchronize/SubscriberParticipant.java
+SHA1-Digest: pVTL9rCNGvwlxKTFGzqNfzWwdbQ=
+
+Name: org/eclipse/team/internal/ui/mapping/DiffTreeChangesSection.java
+SHA1-Digest: zlDKZezb8pSyYS2iQyJUvuOg7iM=
+
+Name: org/eclipse/team/internal/ui/mapping/ModelEnablementPreferencePa
+ ge.java
+SHA1-Digest: gOr9UPyeghQ+4DbZQb6c7PmcFwg=
+
+Name: org/eclipse/team/internal/ui/synchronize/TreeViewerAdvisor.java
+SHA1-Digest: gTLCU1eE2CnNQg9STshQZuCxapA=
+
+Name: org/eclipse/team/internal/ui/SWTUtils.java
+SHA1-Digest: c2DjYDWo7svHViG+mID1o4ZxRlM=
+
+Name: org/eclipse/team/ui/history/HistoryPageSource.java
+SHA1-Digest: BOUxasCTyElK4+ZeSH+JIvw5ciU=
+
+Name: org/eclipse/team/internal/ui/wizards/PsfUrlStore.java
+SHA1-Digest: wu02KrpFSXdmIFDzkhKcmlVpEgc=
+
+Name: org/eclipse/team/internal/ui/mapping/MergeAction.java
+SHA1-Digest: 0Uox60v9Tpr049B7e/QtK/DIKXQ=
+
+Name: org/eclipse/team/internal/ui/synchronize/AbstractViewerAdvisor.j
+ ava
+SHA1-Digest: /sdFSEpX8zDsYli16h+qjk2LlCg=
+
+Name: org/eclipse/team/ui/history/HistoryPageCompareEditorInput.java
+SHA1-Digest: 6UZFgGoXrg3S9WfqNyXFc9osJSc=
+
+Name: org/eclipse/team/internal/ui/mapping/MergeIncomingChangesAction.
+ java
+SHA1-Digest: 7Pp8oCzORvdO0J8/HxfT4MvIB4o=
+
+Name: org/eclipse/team/internal/ui/synchronize/patch/FilePatchResource
+ Mapping.java
+SHA1-Digest: Tph2HPUQSSxcLFHO+yjvo7LnQkg=
+
+Name: org/eclipse/team/internal/ui/synchronize/patch/PatchWorkbenchLab
+ elProvider.java
+SHA1-Digest: 2Eo4NRsA7192H2ldnVFw7kSGxm8=
+
+Name: org/eclipse/team/internal/ui/synchronize/patch/PatchWorkspace.ja
+ va
+SHA1-Digest: 3ieKcN9mH2OEDFQHziUpD/uAqfg=
+
+Name: org/eclipse/team/internal/ui/preferences/IgnorePreferencePage.ja
+ va
+SHA1-Digest: NiEBSeGPE/d6yAyoH7hQ9ZIj2x0=
+
+Name: org/eclipse/team/internal/ui/synchronize/CompositeModelProvider.
+ java
+SHA1-Digest: WCRPmgR3fKdZB0GPITD0SzhWp5Q=
+
+Name: org/eclipse/team/internal/ui/wizards/ProjectSelectionPage.java
+SHA1-Digest: 6Dnj67drG8EA7Bk2iVupkxX5rLQ=
+
+Name: org/eclipse/team/internal/ui/synchronize/actions/PinParticipantA
+ ction.java
+SHA1-Digest: FzCxmCVrwVgLxMzkSKY5YsKmVVo=
+
+Name: org/eclipse/team/internal/ui/synchronize/actions/SyncViewerShowP
+ referencesAction.java
+SHA1-Digest: swx5/Mskm5CdPPf7KtmmNw3OZjk=
+
+Name: org/eclipse/team/ui/ISharedImages.java
+SHA1-Digest: 2zhHBV0hLYs1NvaAuihCzVICvfc=
+
+Name: org/eclipse/team/internal/ui/registry/TeamDecoratorDescription.j
+ ava
+SHA1-Digest: dhO2S8mskQ2XvnCV8lzWetPSjqQ=
+
+Name: org/eclipse/team/internal/ui/synchronize/patch/PatchedFileVarian
+ tComparator.java
+SHA1-Digest: h8Ner1Zi8QiAz+adc5q8qimd7e8=
+
+Name: org/eclipse/team/internal/ui/synchronize/RefreshSubscriberPartic
+ ipantJob.java
+SHA1-Digest: qo9UUkCYgtQ3Qsn8MAiMuSaxcIw=
+
+Name: org/eclipse/team/internal/ui/synchronize/EditableSharedDocumentA
+ dapter.java
+SHA1-Digest: mMUpt+Vs1uEJsAFZPWg75ZixgG8=
+
+Name: org/eclipse/team/internal/ui/ProjectSetContentHandler.java
+SHA1-Digest: g2HJwLFgQiDETk3cejkyrY4YytQ=
+
+Name: org/eclipse/team/internal/ui/mapping/ResourceDiffCompareInput.ja
+ va
+SHA1-Digest: H1oqkb/3Jw3cP1PNrY+BwJuccyU=
+
+Name: org/eclipse/team/internal/ui/history/DateHistoryCategory.java
+SHA1-Digest: RBAhBO5T+1nkL7PD6HvOjU/2qpY=
+
+Name: org/eclipse/team/internal/ui/PropertyChangeHandler.java
+SHA1-Digest: blIT+mXobovl08YxXubxvZAVh3k=
+
+Name: org/eclipse/team/internal/ui/mapping/ResourceModelSorter.java
+SHA1-Digest: OgfDyZ4taltr8tUPbFn4gGXxr8g=
+
+Name: org/eclipse/team/internal/ui/synchronize/WorkbenchPartSynchroniz
+ ePageSite.java
+SHA1-Digest: MURrtXFVKcxmG4hKVjDElBy4/RI=
+
+Name: org/eclipse/team/internal/ui/mapping/ResourceDragAdapterAssistan
+ t.java
+SHA1-Digest: 432u94Yj21E8pAOlFevAxfMTZgk=
+
+Name: org/eclipse/team/internal/ui/mapping/ResourceModelActionProvider
+ .java
+SHA1-Digest: sYVOAbd9M9jjx73v2Iqpd72DO6U=
+
+Name: org/eclipse/team/ui/history/ElementLocalHistoryPageSource.java
+SHA1-Digest: qcUMp4IhMcXxyAnW8KcBhmR9+lo=
+

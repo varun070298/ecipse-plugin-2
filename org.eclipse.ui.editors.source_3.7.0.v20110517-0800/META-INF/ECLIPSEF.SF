@@ -1,0 +1,441 @@
+Signature-Version: 1.0
+SHA1-Digest-Manifest: 0TejN8p6r/xFMvvfWLnFVp1rFlI=
+Created-By: 1.6.0 (IBM Corporation)
+SHA1-Digest-Manifest-Main-Attributes: Y+rp48GkQ4oELo8WLks1lx+As9g=
+
+Name: org/eclipse/ui/texteditor/AddTaskAction.java
+SHA1-Digest: hCeCc93p4E4PMOp2o7hVT5XWfFc=
+
+Name: org/eclipse/ui/internal/editors/text/QuickDiffPreferencePage.jav
+ a
+SHA1-Digest: +ThxY9HSvXIH9R/h9zVJgeV4qgI=
+
+Name: org/eclipse/ui/editors/text/TextEditor.java
+SHA1-Digest: LSVpCASf+necFGvLtouUu+j71WI=
+
+Name: org/eclipse/ui/texteditor/SelectMarkerRulerAction.java
+SHA1-Digest: iiLF8XaLlf1CMrABZzIWkw5j/9k=
+
+Name: schema/templates.exsd
+SHA1-Digest: 2/unvDWFY6UekCfodLHMAFynlpQ=
+
+Name: org/eclipse/ui/editors/text/TextFileDocumentProvider.java
+SHA1-Digest: MaqaPvB/HXZxHTyvMPgvNqK+NjI=
+
+Name: org/eclipse/ui/editors/text/IEncodingSupport.java
+SHA1-Digest: zdgiY8Ar7lJFiSidfZeS1544KLI=
+
+Name: org/eclipse/ui/internal/texteditor/PropertyEventDispatcher.java
+SHA1-Digest: wQrNhTfjmQq66+T1NHoos67Duzw=
+
+Name: org/eclipse/ui/editors/text/ILocationProviderExtension.java
+SHA1-Digest: KgD82SY58uImX8vqctoDKvIr9uM=
+
+Name: org/eclipse/ui/internal/texteditor/ITextEditorThemeConstants.jav
+ a
+SHA1-Digest: JPjYJxbe3i3AhfFYuF2Hjm58u80=
+
+Name: org/eclipse/ui/editors/text/ILocationProvider.java
+SHA1-Digest: PXxFxAfR268LR543ef7p4ohj6qk=
+
+Name: org/eclipse/ui/editors/text/ForwardingDocumentProvider.java
+SHA1-Digest: +13uTPqyLc1Yh/ZhH1Nzca67pcA=
+
+Name: org/eclipse/ui/editors/text/TextEditorMessages.java
+SHA1-Digest: gXkgZq7aOb1iFoDYMnQWFfdPF6w=
+
+Name: org/eclipse/ui/internal/editors/text/SpellingPreferencePage.java
+SHA1-Digest: Vur2XftpI/qrZHOBmgDLTmt8Qw0=
+
+Name: org/eclipse/ui/internal/editors/quickdiff/RevertBlockAction.java
+SHA1-Digest: yRPa/yQ0T5yNmkFZDKE5pia8ZTo=
+
+Name: org/eclipse/ui/editors/text/templates/ContributionContextTypeReg
+ istry.java
+SHA1-Digest: zakLwf7eHfDxlj50e7jy6ONrbtM=
+
+Name: org/eclipse/ui/editors/text/IStorageDocumentProvider.java
+SHA1-Digest: HXJE3kZnLofzBkCcp/GYNbVKJZs=
+
+Name: org/eclipse/ui/texteditor/MessageRegion.java
+SHA1-Digest: 6hla5CrRa0kjW548nWYYhvTykAM=
+
+Name: org/eclipse/ui/internal/editors/quickdiff/QuickDiffMessages.java
+SHA1-Digest: /+fMFZHB8THRfCEEQSdVnRM825k=
+
+Name: org/eclipse/ui/texteditor/SimpleMarkerAnnotation.java
+SHA1-Digest: 7DXmrRXCNbJTZzQuVR2d0a7xwJc=
+
+Name: org/eclipse/ui/texteditor/RevisionHoverInformationControlCreator
+ .java
+SHA1-Digest: ogtntiZqvd6v4Lu97r1uaoocfds=
+
+Name: org/eclipse/ui/internal/editors/text/IURIEditorInputAdapterFacto
+ ry.java
+SHA1-Digest: Cf14/+pCy8SLLUm2lOOETM3h5O4=
+
+Name: org/eclipse/ui/texteditor/ResourceMarkerAnnotationModel.java
+SHA1-Digest: abnQlLs3t90NusVbevlrWAopNjU=
+
+Name: org/eclipse/ui/texteditor/AddMarkerAction.java
+SHA1-Digest: IRG6cZvq4UJh4R8ng8YhGegOsek=
+
+Name: org/eclipse/ui/internal/texteditor/AnnotationTypeHierarchy.java
+SHA1-Digest: MAcyalPf5pK13WglI2LDmpWuWFE=
+
+Name: org/eclipse/ui/internal/editors/text/EditorsPluginPreferenceInit
+ ializer.java
+SHA1-Digest: MGBBqcq9jWRCa++qtWBLx49scBw=
+
+Name: org/eclipse/ui/internal/editors/text/NextPreviousPulldownActionD
+ elegate.java
+SHA1-Digest: rxuVy/yQ9GhHBhoAfPQ9pLxceb0=
+
+Name: org/eclipse/ui/texteditor/TaskRulerAction.java
+SHA1-Digest: xfhfoFEfe0Gr4RAyusTnS/R+cXM=
+
+Name: org/eclipse/ui/editors/text/FileDocumentProvider.java
+SHA1-Digest: mohI6kVA0IAcfgIk6SKogWwLhlU=
+
+Name: schema/documentProviders.exsd
+SHA1-Digest: wcyNEA1ThWEn8aA8VebVD8jvgzI=
+
+Name: org/eclipse/ui/internal/texteditor/TextChangeHover.java
+SHA1-Digest: XJIslc9ornCQBGWlmrzdgq+wWo8=
+
+Name: org/eclipse/ui/internal/editors/text/SelectResourcesBlock.java
+SHA1-Digest: WJbSsuIQnTKPV4TWvnn0OC65uXA=
+
+Name: org/eclipse/ui/internal/editors/text/AbstractConfigurationBlockP
+ referencePage.java
+SHA1-Digest: U5oZfThVo1FJmPp4yL+vELknDXk=
+
+Name: org/eclipse/ui/texteditor/AbstractMarkerAnnotationModel.java
+SHA1-Digest: /FB3sF6so5NOhX/YIzX4s/roH4I=
+
+Name: org/eclipse/ui/editors/text/FileBufferOperationHandler.java
+SHA1-Digest: jS8Y/2GdDGHnqTomYKHfZPvI05w=
+
+Name: org/eclipse/ui/editors/text/DocumentReader.java
+SHA1-Digest: /fFSu3/URLEOxwIgSnkI4SDlNUI=
+
+Name: org/eclipse/ui/internal/editors/text/AccessibilityPreferencePage
+ .java
+SHA1-Digest: Ci3g7ge+SVYh+zm0q7ug8ysB+P0=
+
+Name: org/eclipse/ui/internal/editors/text/UntitledTextFileWizard.java
+SHA1-Digest: GNAs0RgZqnffI+Piv+5ETvQgvKk=
+
+Name: org/eclipse/ui/texteditor/ChangeEncodingAction.java
+SHA1-Digest: OLQwuVxyk43xpl0xESgfNxgDQmE=
+
+Name: org/eclipse/ui/internal/editors/text/ConvertLineDelimitersToWind
+ ows.java
+SHA1-Digest: /BNv8LSQH8wvOoJKBlnuRG49V+s=
+
+Name: org/eclipse/ui/internal/texteditor/BooleanPreferenceToggleAction
+ .java
+SHA1-Digest: BjEaWtg1AWBS3bVmP+ajDu7FAvo=
+
+Name: org/eclipse/ui/internal/editors/text/LanguageEditorPreferencePag
+ e.java
+SHA1-Digest: Swi+ia6yM1YUuZo+THnPudLtveg=
+
+Name: org/eclipse/ui/editors/text/ITextEditorHelpContextIds.java
+SHA1-Digest: IVv9YgOh0aPqVRBTL+g7deezXaM=
+
+Name: org/eclipse/ui/internal/texteditor/DelegatingAnnotationPreferenc
+ e.java
+SHA1-Digest: MNkYUcRrWkd+DRKIsfu783n9M2s=
+
+Name: org/eclipse/ui/editors/text/TextEditorPreferencePage.java
+SHA1-Digest: r/K/3aQ1u0TA+NNg0aPGpIqRTUk=
+
+Name: org/eclipse/ui/texteditor/ChainedPreferenceStore.java
+SHA1-Digest: U396zmdvgPnCRY+TRc2v+DzITY0=
+
+Name: org/eclipse/ui/editors/text/templates/ContributionTemplateStore.
+ java
+SHA1-Digest: Ouw48VtcW5RD18IpZjMRDTVXZIQ=
+
+Name: schema/markerUpdaters.exsd
+SHA1-Digest: 8PyI132QyW2eDql+NmR99QOB01Q=
+
+Name: schema/markerAnnotationSpecification.exsd
+SHA1-Digest: uZLj0qen86B3rqT5LV1d/JkxsT0=
+
+Name: org/eclipse/ui/texteditor/BookmarkRulerAction.java
+SHA1-Digest: tD41CBAkNPU7G9ujwkvGOLAWu+0=
+
+Name: org/eclipse/ui/editors/text/TextEditorPreferenceConstants.java
+SHA1-Digest: ARjx1gW+cbyEK6FqH5iQO90zS84=
+
+Name: org/eclipse/ui/texteditor/ResourceMarkerAnnotationModelFactory.j
+ ava
+SHA1-Digest: cK6Vud859nl7KP+ZT8Qs9XWhcrk=
+
+Name: org/eclipse/ui/internal/editors/text/ConvertLineDelimitersToMacO
+ S9.java
+SHA1-Digest: upAdZmke555TpkN0yIHQ8kjVyS8=
+
+Name: org/eclipse/ui/internal/editors/text/OverlayPreferenceStore.java
+SHA1-Digest: Xn0gmqLMIqaF1MmfYvPL5knf2No=
+
+Name: about.html
+SHA1-Digest: M+fykt9heyWoEv1LNiIEeBhi/2Q=
+
+Name: org/eclipse/ui/texteditor/SelectRulerAction.java
+SHA1-Digest: Xd0j+nblN4rSuMBqjRjtoV7CvZE=
+
+Name: org/eclipse/ui/internal/editors/text/LinkedModeConfigurationBloc
+ k.java
+SHA1-Digest: pVd31L1YpnfpbauKp/Q2OP2TWCE=
+
+Name: org/eclipse/ui/texteditor/DefaultMarkerAnnotationAccess.java
+SHA1-Digest: g5jL4glkPS0wfklzi6jdVrPYttw=
+
+Name: org/eclipse/ui/internal/editors/text/AnnotationsPreferencePage.j
+ ava
+SHA1-Digest: cxszSpUA6+/hcW8jUCNSzrhBr/0=
+
+Name: org/eclipse/ui/internal/editors/text/TabFolderLayout.java
+SHA1-Digest: aKoElOyKJ1nUr/9iy9tNhu2Ltqk=
+
+Name: org/eclipse/ui/internal/editors/text/QuickDiffConfigurationBlock
+ .java
+SHA1-Digest: +E50ZZZddpRewRr2kz29I0Jyi4c=
+
+Name: org/eclipse/ui/texteditor/ReadOnlyAnnotationPreference.java
+SHA1-Digest: X5pyGJktnfT5FLv+iRfRN/71vQQ=
+
+Name: org/eclipse/ui/internal/editors/text/NonExistingFileEditorInput.
+ java
+SHA1-Digest: tlG5DMOOFEK/m5KDBYS6WJ6vKRM=
+
+Name: org/eclipse/ui/internal/texteditor/RulerMessages.java
+SHA1-Digest: sxQDlH7riQRznlelENtuWoVyikQ=
+
+Name: org/eclipse/ui/texteditor/DocumentProviderRegistry.java
+SHA1-Digest: f/XoA3Jyy94zd8St5be+S/NaWDw=
+
+Name: org/eclipse/ui/internal/editors/quickdiff/RestoreAction.java
+SHA1-Digest: I/+5ZAYDdbVQpFfee0fuKOhOXtM=
+
+Name: org/eclipse/ui/internal/editors/text/RefreshEditorAction.java
+SHA1-Digest: RDqDX7XmzNDZ3ynNOAwm899KVjA=
+
+Name: org/eclipse/ui/editors/text/EditorsUI.java
+SHA1-Digest: 0F1Dyk9zTfmgEplsjyB/j2viBR8=
+
+Name: org/eclipse/ui/internal/editors/text/ConvertLineDelimitersToUnix
+ .java
+SHA1-Digest: TRB9uoiB/MFPBVb2G3mTXRKH3M4=
+
+Name: org/eclipse/ui/texteditor/MarkerAnnotationPreferences.java
+SHA1-Digest: Njob3lSsShZkfeHBaAP/neAZCVg=
+
+Name: org/eclipse/ui/internal/editors/quickdiff/QuickDiffRestoreAction
+ .java
+SHA1-Digest: OoLc7fLG7ZlJxlwozfreDlL6USM=
+
+Name: org/eclipse/ui/internal/editors/text/SpellingConfigurationBlock.
+ java
+SHA1-Digest: yfd6XpTLLfq+oJL7hcWxo+PiMP0=
+
+Name: org/eclipse/ui/editors/text/templates/ContributionTemplateMessag
+ es.java
+SHA1-Digest: 6k8SUvsLHpinjkwR9VkYtiZP4Co=
+
+Name: org/eclipse/ui/texteditor/ImageUtilities.java
+SHA1-Digest: Rp5Q8HfjlyPEZWnjgyrD2HoVYDY=
+
+Name: org/eclipse/ui/editors/text/IEncodingActionsHelpContextIds.java
+SHA1-Digest: mWcpGl953JGymB6UvMhiO8RTJtY=
+
+Name: org/eclipse/ui/internal/editors/quickdiff/LastSaveReferenceProvi
+ der.java
+SHA1-Digest: XsJc7qfrHv+umayKNk+k89Xg2pU=
+
+Name: org/eclipse/ui/texteditor/MarkerRulerInfoAction.java
+SHA1-Digest: 9aqIQ1mqLx+PDudUUllWlCdPq6U=
+
+Name: org/eclipse/ui/texteditor/IMarkerUpdater.java
+SHA1-Digest: mjDkzI7ghZIaoANy9IcdBxYvqoo=
+
+Name: org/eclipse/ui/editors/text/IEncodingActionsDefinitionIds.java
+SHA1-Digest: yBfSohAK9XTjTSPK6qWGZK0/+sg=
+
+Name: org/eclipse/ui/texteditor/AnnotationPreferenceLookup.java
+SHA1-Digest: 5s7RRWthOJqNA0oP8gPImS9qeec=
+
+Name: org/eclipse/ui/internal/editors/quickdiff/CompositeRevertAction.
+ java
+SHA1-Digest: /seccZmvd1jWFXYgq0q1LVjwIHw=
+
+Name: org/eclipse/ui/editors/text/FileBufferOperationAction.java
+SHA1-Digest: s7QfiGygb/Wwf6tkzu/PFQwMv0Q=
+
+Name: org/eclipse/ui/texteditor/BasicMarkerUpdater.java
+SHA1-Digest: 7yJ1EB6prI7mxm+RcnSkPURpNnM=
+
+Name: org/eclipse/ui/internal/editors/text/FileEditorInputAdapterFacto
+ ry.java
+SHA1-Digest: v8+9q8eTqotz7jcQwXmsCTc+UmA=
+
+Name: META-INF/eclipse.inf
+SHA1-Digest: SAqY+5ITAL0mkdYeijlSRhyIaZk=
+
+Name: org/eclipse/ui/editors/text/DefaultEncodingSupport.java
+SHA1-Digest: OMGmIx/CijT4yjuYCZrh/IS4Y4E=
+
+Name: org/eclipse/ui/internal/editors/text/EditorsPlugin.java
+SHA1-Digest: 5eEyT+K9VGg3u/37yhypSxmAlVw=
+
+Name: org/eclipse/ui/internal/texteditor/SourceViewerInformationContro
+ l.java
+SHA1-Digest: 83w6p9DuGtkehzFjH7OfwZLIJZ4=
+
+Name: org/eclipse/ui/internal/editors/text/PreviousPulldownActionDeleg
+ ate.java
+SHA1-Digest: NgksT+T1IGq05wjdRZT+5Z1+Skk=
+
+Name: org/eclipse/ui/internal/editors/text/NLSUtility.java
+SHA1-Digest: FSv6w4yiVgI4dBttZBQi7dazD1w=
+
+Name: org/eclipse/ui/texteditor/MarkerRulerAction.java
+SHA1-Digest: iAhDIOFKYrGMBhXE7W1ppEwwuHo=
+
+Name: org/eclipse/ui/internal/editors/text/NextPulldownActionDelegate.
+ java
+SHA1-Digest: oK/kRPWBwQ2cANzufjcDV+Uz27s=
+
+Name: org/eclipse/ui/internal/editors/quickdiff/RevertLineAction.java
+SHA1-Digest: EDWVFiOMpvqTJoy+MMelUREFaQA=
+
+Name: org/eclipse/ui/internal/editors/text/RemoveTrailingWhitespaceHan
+ dler.java
+SHA1-Digest: QzYQzyP7CMetWidpYNv0orWJ0xg=
+
+Name: org/eclipse/ui/editors/text/TextEditorActionContributor.java
+SHA1-Digest: AVEZhc+2PNmp/RNDiP8X6DGrhKc=
+
+Name: org/eclipse/ui/editors/text/IFoldingCommandIds.java
+SHA1-Digest: NYZkv6+5HpbINKl2vXn/NPxbkEU=
+
+Name: org/eclipse/ui/internal/editors/text/SharedTextColors.java
+SHA1-Digest: GVUjm8tZ5aLxuSfV/wAyFo0tiM4=
+
+Name: org/eclipse/ui/internal/editors/text/StatusInfo.java
+SHA1-Digest: Ansh1GvdXpwFOy6muR9RMzkSJPs=
+
+Name: org/eclipse/ui/internal/editors/quickdiff/RevertSelectionAction.
+ java
+SHA1-Digest: GnDWmaGAUED3M38+1TQl+O9EeHM=
+
+Name: org/eclipse/ui/internal/editors/text/HyperlinkDetectorsConfigura
+ tionBlock.java
+SHA1-Digest: /Xlkel6QIH4EDmItFuz1q/PAB4Q=
+
+Name: org/eclipse/ui/internal/editors/text/URLHyperlinkDetector.java
+SHA1-Digest: DqnSUZuHOilR2BePLrbS+LU6Wnc=
+
+Name: org/eclipse/ui/editors/text/TextSourceViewerConfiguration.java
+SHA1-Digest: af6ekoQKr3TWMAQaAUsr91JqY28=
+
+Name: plugin.properties
+SHA1-Digest: t05lz8ydwgh/MOP+3Jr1XD95+Rc=
+
+Name: org/eclipse/ui/internal/editors/text/HyperlinkDetectorsPreferenc
+ ePage.java
+SHA1-Digest: R99qAUjreahj83zpeOjzu7tbS0Q=
+
+Name: org/eclipse/ui/internal/editors/text/ConvertLineDelimitersAction
+ .java
+SHA1-Digest: liCjjXQLzdE4ZYXUnBDfnBDg3cs=
+
+Name: schema/annotationTypes.exsd
+SHA1-Digest: 5nUogt+PGd5o8N5CCJJ2fy+O+Bw=
+
+Name: org/eclipse/ui/editors/text/StorageDocumentProvider.java
+SHA1-Digest: 74cRn4puHtP+U2tRQ/+akolfgOg=
+
+Name: org/eclipse/ui/internal/editors/text/TextEditorMessages.java
+SHA1-Digest: 6P6DrOnGG824pGApIbX0O3sNOgI=
+
+Name: org/eclipse/ui/texteditor/AbstractDecoratedTextEditorPreferenceC
+ onstants.java
+SHA1-Digest: ZWolGi9QIFq0F/e3/oXNZxTqvC0=
+
+Name: org/eclipse/ui/internal/editors/text/UISynchronizationContext.ja
+ va
+SHA1-Digest: ogUIjfPH2VarSV6S/YCNol1nOWI=
+
+Name: org/eclipse/ui/internal/editors/text/WorkspaceOperationRunner.ja
+ va
+SHA1-Digest: XhS1PRFbKD0FiEVX92cUcbSU1oA=
+
+Name: org/eclipse/ui/internal/texteditor/AnnotationColumn.java
+SHA1-Digest: QeK5d30sJI5VF4dMh0GpbKv+v64=
+
+Name: org/eclipse/ui/texteditor/AnnotationTypeLookup.java
+SHA1-Digest: VYsiTMgJt9s7GhJQZ2Btkyo1k0M=
+
+Name: org/eclipse/ui/internal/editors/text/IPreferenceConfigurationBlo
+ ck.java
+SHA1-Digest: V3gEmQTtd9Lo0CJaFoLqrACoMiA=
+
+Name: org/eclipse/ui/internal/editors/text/AnnotationsConfigurationBlo
+ ck.java
+SHA1-Digest: 8qAVNjB6DnTLqlEVGUlX8mNBeLE=
+
+Name: org/eclipse/ui/internal/editors/text/URLHyperlink.java
+SHA1-Digest: x9G9mh1OZTNfbvTiyPR+DMdqr7c=
+
+Name: org/eclipse/ui/internal/editors/text/TextEditorDefaultsPreferenc
+ ePage.java
+SHA1-Digest: 2vybp5fsmCb8VNy3g1GZquWTC8g=
+
+Name: org/eclipse/ui/editors/text/EncodingActionGroup.java
+SHA1-Digest: RHHa6nByeuFyR4YKHvoZKyTnmfw=
+
+Name: org/eclipse/ui/internal/editors/text/StatusUtil.java
+SHA1-Digest: 8EKoem8Ua1q7i+QsJD4JXIAbbbI=
+
+Name: org/eclipse/ui/texteditor/MarkerUtilities.java
+SHA1-Digest: TVUP0CbI/aVOgKR9l1Anxa15YVE=
+
+Name: org/eclipse/ui/texteditor/AbstractDecoratedTextEditor.java
+SHA1-Digest: d/94x4dII6v/4GWiGHI4ObRSRo0=
+
+Name: org/eclipse/ui/internal/editors/text/SelectResourcesDialog.java
+SHA1-Digest: 1B1T2bMimf0a8fX9QOdtRzew5hY=
+
+Name: org/eclipse/ui/internal/texteditor/LineNumberColumn.java
+SHA1-Digest: 5RGdMRLOX13ROh4VKLUVn+Q6zII=
+
+Name: org/eclipse/ui/editors/text/IEncodingActionsConstants.java
+SHA1-Digest: +ArxzMHHkzeq6qHK4dPJ6LZVh+g=
+
+Name: org/eclipse/ui/texteditor/SelectMarkerRulerInfoAction.java
+SHA1-Digest: dvT5NaXMYlbfRNHffDlBn5Ii+O8=
+
+Name: org/eclipse/ui/texteditor/MarkerAnnotation.java
+SHA1-Digest: SLyV2e8rpp1BjC3ok5rLj/K6/U0=
+
+Name: org/eclipse/ui/internal/editors/text/LinkedModePreferencePage.ja
+ va
+SHA1-Digest: EHeDKE9UyvNu7fw4t59ByuR9Jho=
+
+Name: org/eclipse/ui/internal/texteditor/AnnotationType.java
+SHA1-Digest: nvIQae+gLljOhR73zUL1hSgjdrE=
+
+Name: org/eclipse/ui/texteditor/TextEditorMessages.java
+SHA1-Digest: UIoCa0jV4PBhH6Anj/J1Ph1iq9U=
+
+Name: org/eclipse/ui/internal/editors/text/IEditorsStatusConstants.jav
+ a
+SHA1-Digest: Zd6BGhWNBnF33Z2gQX2tCZmQ+yI=
+
+Name: org/eclipse/ui/texteditor/MessageDialogPage.java
+SHA1-Digest: 3PDbblYgD1Tl9epbyPD4Rw3oCzQ=
+

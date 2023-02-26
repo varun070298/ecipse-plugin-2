@@ -1,0 +1,44 @@
+Manifest-Version: 1.0
+Eclipse-SourceBundle: org.eclipse.team.cvs.ssh2;version="3.2.300.I2011
+ 0511-0800";roots:="."
+Bundle-Vendor: %providerName
+Bundle-Localization: plugin
+Bundle-Name: %pluginName
+Bundle-SymbolicName: org.eclipse.team.cvs.ssh2.source
+Bundle-Version: 3.2.300.I20110511-0800
+Bundle-ManifestVersion: 2
+
+Name: org/eclipse/team/internal/ccvs/ssh2/CVSSSH2Messages.java
+SHA1-Digest: DYL+J1nuHCey853uAoxbi0T0lsY=
+
+Name: META-INF/eclipse.inf
+SHA1-Digest: KyT9FF7C7t86NoBoa2kZT3ZJBfw=
+
+Name: org/eclipse/team/internal/ccvs/ssh2/Policy.java
+SHA1-Digest: UWAsRIjfQ7HET6IhklrCMPxFs6c=
+
+Name: org/eclipse/team/internal/ccvs/ssh2/PServerSSH2ServerConnection.
+ java
+SHA1-Digest: nhu/hD4ONafRsbxQTxe3gcNkquE=
+
+Name: org/eclipse/team/internal/ccvs/ssh2/PServerSSH2Method.java
+SHA1-Digest: l03sm93tHoovbFT+BJGZo9fgoYo=
+
+Name: org/eclipse/team/internal/ccvs/ssh2/CVSSSH2Plugin.java
+SHA1-Digest: XYPD5ufV8zITicDmzTS8lUaKNGU=
+
+Name: org/eclipse/team/internal/ccvs/ssh2/CVSSSH2ServerConnection.java
+SHA1-Digest: h8IOsO+PgIL59AE6Mc4886T8bwc=
+
+Name: org/eclipse/team/internal/ccvs/ssh2/CVSSSH2Method.java
+SHA1-Digest: /pPe6EAj+e8kUBGkb47PvopRxH8=
+
+Name: about.html
+SHA1-Digest: ejOZra0kypGLQQ2bJtGTX+LI8tU=
+
+Name: org/eclipse/team/internal/ccvs/ssh2/JSchSession.java
+SHA1-Digest: dpJAfTEpiI5NmfZobK5YiDilSxI=
+
+Name: plugin.properties
+SHA1-Digest: MDeaQHWQFfLYG5Nbj1c+/kpsOBU=
+

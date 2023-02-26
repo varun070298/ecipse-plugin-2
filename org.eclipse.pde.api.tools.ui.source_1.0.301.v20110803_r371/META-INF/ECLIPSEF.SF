@@ -1,0 +1,340 @@
+Signature-Version: 1.0
+SHA1-Digest-Manifest: K5JUSjNYml/Ummuu+ZmylINAAcg=
+Created-By: 1.6.0 (IBM Corporation)
+SHA1-Digest-Manifest-Main-Attributes: enbog/D/iOErOpc75drseOZXxnE=
+
+Name: org/eclipse/pde/api/tools/ui/internal/use/ApiUseTabGroup.java
+SHA1-Digest: kCqILMpgBLaegLF8FjGpGPfV1oc=
+
+Name: org/eclipse/pde/api/tools/ui/internal/actions/RemoveAllSessionsA
+ ction.java
+SHA1-Digest: M6eYHNp+3TTtyypOy/i672+gxyw=
+
+Name: org/eclipse/pde/api/tools/ui/internal/actions/NavigateAction.jav
+ a
+SHA1-Digest: pmIXvxe9kGrEl1heSP7PICGKaRU=
+
+Name: org/eclipse/pde/api/tools/ui/internal/actions/CollapseAllAction.
+ java
+SHA1-Digest: dADS/MPALDGnQevzHgckIHwpJK4=
+
+Name: org/eclipse/pde/api/tools/ui/internal/CompositeApiImageDescripto
+ r.java
+SHA1-Digest: s3IYuonkR3yA2Gic90f6hHX9x/k=
+
+Name: org/eclipse/pde/api/tools/ui/internal/actions/TreeViewerNavigato
+ r.java
+SHA1-Digest: Ty9tMxq9P64I1t2CdxpozhsppQY=
+
+Name: org/eclipse/pde/api/tools/ui/internal/IApiToolsHelpContextIds.ja
+ va
+SHA1-Digest: TGnnkSnE6BpE7OjdWuJCei85X2w=
+
+Name: org/eclipse/pde/api/tools/ui/internal/ApiImageDescriptor.java
+SHA1-Digest: U8lWYy+aIGtohnNDm7zH5i1qeBs=
+
+Name: org/eclipse/pde/api/tools/ui/internal/actions/CompareWithAction.
+ java
+SHA1-Digest: g3KqPA4kd1+uLypZhuEUyuDD58w=
+
+Name: org/eclipse/pde/api/tools/ui/internal/markers/JavadocTagOperatio
+ n.java
+SHA1-Digest: jgR9uzZvckAneO2wBgVnQFTUly8=
+
+Name: org/eclipse/pde/api/tools/ui/internal/wizards/CompareToBaselineW
+ izard.java
+SHA1-Digest: c11PLTNi78s8nXjMRP318UkbYU0=
+
+Name: org/eclipse/pde/api/tools/ui/internal/markers/CreateApiFilterOpe
+ ration.java
+SHA1-Digest: EY6jRY+Ms5qArGhurO01uHZLWlM=
+
+Name: org/eclipse/pde/api/tools/ui/internal/actions/ConfigureProblemFi
+ ltersAction.java
+SHA1-Digest: sB+ylPeyB8/XJAHyP4emSPLSBUM=
+
+Name: org/eclipse/pde/api/tools/ui/internal/refactoring/FilterDeletePa
+ rticipant.java
+SHA1-Digest: g+paxjzcUGgeyxpiHbPuch7hTkc=
+
+Name: org/eclipse/pde/api/tools/ui/internal/wizards/WizardMessages.jav
+ a
+SHA1-Digest: lfL3meeCqBBM6l3FigtaDDUc5Cs=
+
+Name: META-INF/eclipse.inf
+SHA1-Digest: SAqY+5ITAL0mkdYeijlSRhyIaZk=
+
+Name: org/eclipse/pde/api/tools/ui/internal/SWTFactory.java
+SHA1-Digest: f9IXFX4qc456ruEw4EOKtZEMZHg=
+
+Name: org/eclipse/pde/api/tools/ui/internal/properties/PropertiesMessa
+ ges.java
+SHA1-Digest: wlfjX9WsnRvUeaw2jvxX+A8a89E=
+
+Name: org/eclipse/pde/api/tools/ui/internal/use/Messages.java
+SHA1-Digest: FBt85RE6LrALuaAOwkHM2WX1aQA=
+
+Name: org/eclipse/pde/api/tools/ui/internal/refactoring/TypeFilterChan
+ ge.java
+SHA1-Digest: VsIewJlKjClDSEyalG5tinYT6GQ=
+
+Name: org/eclipse/pde/api/tools/ui/internal/preferences/ApiBaselinePre
+ ferencePage.java
+SHA1-Digest: Sl1+iDpTTyZHhW9+CSoBl2EjULA=
+
+Name: org/eclipse/pde/api/tools/ui/internal/markers/OpenPropertyPageRe
+ solution.java
+SHA1-Digest: QyrrxMVcbkr93UI0A+fd1RRVz1U=
+
+Name: org/eclipse/pde/api/tools/ui/internal/completion/APIToolsJavadoc
+ CompletionProposal.java
+SHA1-Digest: AAxnVyISNiQXZ9okm3rTL7oiXX4=
+
+Name: org/eclipse/pde/api/tools/ui/internal/wizards/ApiBaselineWizardP
+ age.java
+SHA1-Digest: ZQZRXKjkVttv7B/IFt76zRN1bnM=
+
+Name: org/eclipse/pde/api/tools/ui/internal/wizards/ApiToolingSetupWiz
+ ard.java
+SHA1-Digest: ptkAhGSiW+pVODtdJGu0daC3pg8=
+
+Name: org/eclipse/pde/api/tools/ui/internal/actions/RemoveActiveSessio
+ nAction.java
+SHA1-Digest: Hd5UBC6HXDgsCVQ7huFqjhpQJ/8=
+
+Name: org/eclipse/pde/api/tools/ui/internal/refactoring/FilterRenamePa
+ rticipant.java
+SHA1-Digest: nr26XcLeDECvvDknnSN9qwLATLg=
+
+Name: org/eclipse/pde/api/tools/ui/internal/Messages.java
+SHA1-Digest: Xu5W4+Y55sMo1sHyl1YeH5BHpJU=
+
+Name: org/eclipse/pde/api/tools/ui/internal/wizards/ProjectUpdateChang
+ e.java
+SHA1-Digest: uDmlW84xI/E/mnKuoh1AgOMIit8=
+
+Name: org/eclipse/pde/api/tools/ui/internal/use/ApiUseScanJob.java
+SHA1-Digest: D8t1vvQ8ZxzBbb4Rv83Ww/XzpaI=
+
+Name: org/eclipse/pde/api/tools/ui/internal/ActionFilterAdapterFactory
+ .java
+SHA1-Digest: Q0+zgIvdzV7gVgWMRwiFovrSa/w=
+
+Name: org/eclipse/pde/api/tools/ui/internal/use/ArchivePatternPage.jav
+ a
+SHA1-Digest: VnrTMpHJ4r5i/mPY/J6kTyaLbn0=
+
+Name: org/eclipse/pde/api/tools/ui/internal/markers/VersionNumberingRe
+ solution.java
+SHA1-Digest: +nWQGiWhjuTO/20TzYziXoDv6wo=
+
+Name: org/eclipse/pde/api/tools/ui/internal/markers/UpdateProjectSetti
+ ngResolution.java
+SHA1-Digest: hPMepgJqhcQjPHRWwavXqqvVUcc=
+
+Name: org/eclipse/pde/api/tools/ui/internal/preferences/PreferenceMess
+ ages.java
+SHA1-Digest: RmuUgoifO67GA6yaGGxtFQHDyIA=
+
+Name: org/eclipse/pde/api/tools/ui/internal/actions/SelectSessionActio
+ n.java
+SHA1-Digest: Z4eSF9dHVcfSM9xJwzYQPcSc96g=
+
+Name: org/eclipse/pde/api/tools/ui/internal/markers/MarkerMessages.jav
+ a
+SHA1-Digest: qFTfxwsVMKnpRQ0t3TV/QZEdC4Y=
+
+Name: org/eclipse/pde/api/tools/ui/internal/refactoring/RefactoringMes
+ sages.java
+SHA1-Digest: f7vMJsSDdfRpaoQkYHT+GAU8vE0=
+
+Name: org/eclipse/pde/api/tools/ui/internal/refactoring/FilterMovePart
+ icipant.java
+SHA1-Digest: gbytjpd4tGdV436YTjTuPBTL2EM=
+
+Name: org/eclipse/pde/api/tools/ui/internal/preferences/ApiUseScanConf
+ igurationBlock.java
+SHA1-Digest: qXHYpM0tjSfIAtASMyEbrQiCz/Q=
+
+Name: org/eclipse/pde/api/tools/ui/internal/refactoring/FilterChange.j
+ ava
+SHA1-Digest: nBP8G1k/aKJ6eAUnUvgNHGxyAY4=
+
+Name: org/eclipse/pde/api/tools/ui/internal/markers/RemoveFilterProble
+ mResolution.java
+SHA1-Digest: Sj/9WyRf1sANa27JUxpa8vsgs+s=
+
+Name: org/eclipse/pde/api/tools/ui/internal/wizards/CompareToBaselineW
+ izardPage.java
+SHA1-Digest: Xglpas/W3cer53D445mqrYO8z2U=
+
+Name: org/eclipse/pde/api/tools/ui/internal/actions/ActionMessages.jav
+ a
+SHA1-Digest: v4bUymvi1eHGvdhI4QsCcc4z5J8=
+
+Name: org/eclipse/pde/api/tools/ui/internal/use/PatternSelectionPage.j
+ ava
+SHA1-Digest: 3hcSI9bi7RKL772UsglyXs76y0c=
+
+Name: org/eclipse/pde/api/tools/ui/internal/use/PatternWizard.java
+SHA1-Digest: cX9imciNuaV0Yx5GikCPUptJSnw=
+
+Name: plugin.properties
+SHA1-Digest: Q+2m6P9GIZNTaIrh5uJj1Ae9K7o=
+
+Name: org/eclipse/pde/api/tools/ui/internal/actions/ExportDialog.java
+SHA1-Digest: gsKbyE+ZL9qlK3YhfA4HlqKO4wI=
+
+Name: org/eclipse/pde/api/tools/ui/internal/use/ApiUseLaunchDelegate.j
+ ava
+SHA1-Digest: a3FLnLoTkL312ZobrTUX83nG/pE=
+
+Name: org/eclipse/pde/api/tools/ui/internal/completion/APIToolsJavadoc
+ CompletionProposalComputer.java
+SHA1-Digest: 06RskiOwi9ksRg0d3aWXkp3Kk7s=
+
+Name: org/eclipse/pde/api/tools/ui/internal/preferences/ApiUseScanPref
+ erencePage.java
+SHA1-Digest: IfqyxtTrrXzeAhEe97Ym8VdGPAM=
+
+Name: org/eclipse/pde/api/tools/ui/internal/markers/UpdateProjectSetti
+ ngsOperation.java
+SHA1-Digest: pVzY8JZLpN3i5EYrEu409okueEg=
+
+Name: org/eclipse/pde/api/tools/ui/internal/markers/ApiMarkerResolutio
+ nGenerator.java
+SHA1-Digest: mqWRpKwRq/Lt70INC9XxJhvKFko=
+
+Name: org/eclipse/pde/api/tools/ui/internal/wizards/CompareOperation.j
+ ava
+SHA1-Digest: lqNRwTS/Wq7q/tYoWXdMpdWXtZ8=
+
+Name: org/eclipse/pde/api/tools/ui/internal/markers/UnsupportedTagReso
+ lution.java
+SHA1-Digest: 3dPuHqDpLkgKYQxbh21/6IWsDQY=
+
+Name: org/eclipse/pde/api/tools/ui/internal/markers/UpdateSinceTagOper
+ ation.java
+SHA1-Digest: UfgRySmRq+9/bCz21R6pcOKJhc8=
+
+Name: org/eclipse/pde/api/tools/ui/internal/JavaElementActionFilter.ja
+ va
+SHA1-Digest: SW40/mmPbb34qZ7CFtj2G17cwK4=
+
+Name: org/eclipse/pde/api/tools/ui/internal/IApiToolsConstants.java
+SHA1-Digest: FDE2tqF2bmqbirlz7rs99WztWLY=
+
+Name: org/eclipse/pde/api/tools/ui/internal/properties/ApiErrorsWarnin
+ gsPropertyPage.java
+SHA1-Digest: sqJrCfLLYSch9gW3Q+lka7xaD5g=
+
+Name: org/eclipse/pde/api/tools/ui/internal/markers/SinceTagResolution
+ .java
+SHA1-Digest: 9J4/l+106nXL6QZn84q9HZ6Iu28=
+
+Name: org/eclipse/pde/api/tools/ui/internal/ApiToolsLabelProvider.java
+SHA1-Digest: a2kJFRljl7U/SBnv5+Q2N7uDDJ8=
+
+Name: org/eclipse/pde/api/tools/ui/internal/preferences/ApiBaselinesCo
+ nfigurationBlock.java
+SHA1-Digest: qhEpyzeD4wLnEd8PFtBGkQuMSKw=
+
+Name: org/eclipse/pde/api/tools/ui/internal/use/ApiUseScanTab.java
+SHA1-Digest: Y2Fq6u0Do0AyYl9U6z0fb/x/0ac=
+
+Name: org/eclipse/pde/api/tools/ui/internal/ApiUIPlugin.java
+SHA1-Digest: dw0ubZ6MK71joye4wKV0ZWCh06g=
+
+Name: org/eclipse/pde/api/tools/ui/internal/properties/ApiFiltersPrope
+ rtyPage.java
+SHA1-Digest: TnaVgSFOxZo2XUmPY6bWvvotLIA=
+
+Name: org/eclipse/pde/api/tools/ui/internal/markers/NodeFinder.java
+SHA1-Digest: qtyq5HHQ1t8ivMlStTwWKjDlUB0=
+
+Name: org/eclipse/pde/api/tools/ui/internal/wizards/ApiToolingSetupWiz
+ ardPage.java
+SHA1-Digest: PT1WEIjXBudsG5jYVr+LEKLyJbc=
+
+Name: org/eclipse/pde/api/tools/ui/internal/markers/FilterProblemResol
+ ution.java
+SHA1-Digest: 7Vy4Zms4IjGs0IvqdjN0Uf7WMME=
+
+Name: org/eclipse/pde/api/tools/ui/internal/preferences/ApiErrorsWarni
+ ngsConfigurationBlock.java
+SHA1-Digest: 8J2RCdItGZzj5gnfgWTp7GWzk3c=
+
+Name: org/eclipse/pde/api/tools/ui/internal/use/ApiUsePatternTab.java
+SHA1-Digest: TfFaT3/C/w08nb+cov31iZL4qL8=
+
+Name: org/eclipse/pde/api/tools/ui/internal/wizards/ApiToolingSetupRef
+ actoring.java
+SHA1-Digest: mQbq+RuWO38w9XzCEwtQcw2gdgc=
+
+Name: org/eclipse/pde/api/tools/ui/internal/views/APIToolingView.java
+SHA1-Digest: FM8DA42DlKdUb7FEblOrmE3Ohqc=
+
+Name: org/eclipse/pde/api/tools/ui/internal/markers/FilterProblemWithC
+ ommentResolution.java
+SHA1-Digest: oNVdJroTDVFJjTYhyd91lF8i0wY=
+
+Name: about.html
+SHA1-Digest: M+fykt9heyWoEv1LNiIEeBhi/2Q=
+
+Name: org/eclipse/pde/api/tools/ui/internal/preferences/ProjectSelecti
+ onDialog.java
+SHA1-Digest: /vNqGgovI4n26u5GIEKz9jZdZxg=
+
+Name: org/eclipse/pde/api/tools/ui/internal/markers/DuplicateTagResolu
+ tion.java
+SHA1-Digest: ua89aVHZYUBI5AHBF98OhoyyvIQ=
+
+Name: org/eclipse/pde/api/tools/ui/internal/markers/UpdateBundleVersio
+ nOperation.java
+SHA1-Digest: ekK42OMFI13cLJi501ydPLNTgCw=
+
+Name: org/eclipse/pde/api/tools/ui/internal/actions/DeltaSession.java
+SHA1-Digest: 2Kz15rjAbWE4gqW3OXTJvEJ3gg4=
+
+Name: org/eclipse/pde/api/tools/ui/internal/preferences/ApiErrorsWarni
+ ngsPreferencePage.java
+SHA1-Digest: qY6GPptBwmY0mIWKvLlojzzXe+I=
+
+Name: org/eclipse/pde/api/tools/ui/internal/use/DescriptionPatternPage
+ .java
+SHA1-Digest: mJar25rBkvP+pbgCGj91u89DRME=
+
+Name: org/eclipse/pde/api/tools/ui/internal/actions/ExpandAllAction.ja
+ va
+SHA1-Digest: I46Yb0tJaiE4qE5kL5RiCsmrjZM=
+
+Name: org/eclipse/pde/api/tools/ui/internal/actions/ApiToolingSetupObj
+ ectContribution.java
+SHA1-Digest: nCCmFHI95Y8UEJzjcGPYx3jytnU=
+
+Name: org/eclipse/pde/api/tools/ui/internal/markers/RemoveUnsupportedT
+ agOperation.java
+SHA1-Digest: lq3JCsAW0CvJJ5n2ywDVPBhfN6Q=
+
+Name: org/eclipse/pde/api/tools/ui/internal/markers/DefaultApiProfileR
+ esolution.java
+SHA1-Digest: sSzQ2jl5qFkaonYinatvYEsuJ3o=
+
+Name: org/eclipse/pde/api/tools/ui/internal/actions/ExportSessionActio
+ n.java
+SHA1-Digest: 5wAnxorDTqrMKDZTFZPcmV64WSY=
+
+Name: org/eclipse/pde/api/tools/ui/internal/use/ReportPatternPage.java
+SHA1-Digest: vItv8UiE6Jaqh0tE5ORUgF6j0hc=
+
+Name: org/eclipse/pde/api/tools/ui/internal/wizards/ApiBaselineWizard.
+ java
+SHA1-Digest: 75+qAJphorPsANuODrYcb7zDE94=
+
+Name: org/eclipse/pde/api/tools/ui/internal/refactoring/RefactoringUti
+ ls.java
+SHA1-Digest: OHo+mqoZ0BN3ljmviOSdzTDhpEA=
+
+Name: org/eclipse/pde/api/tools/ui/internal/use/UsePatternPage.java
+SHA1-Digest: c6sDXaFSHhlx0HiPuNoZ0LAjT94=
+

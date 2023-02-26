@@ -1,0 +1,1064 @@
+Manifest-Version: 1.0
+Eclipse-SourceBundle: org.eclipse.jface.text;version="3.7.1.r371_v2011
+ 0825-0800";roots:="."
+Bundle-Vendor: %providerName
+Bundle-Localization: plugin
+Bundle-Name: %pluginName
+Bundle-SymbolicName: org.eclipse.jface.text.source
+Bundle-Version: 3.7.1.r371_v20110825-0800
+Bundle-ManifestVersion: 2
+
+Name: org/eclipse/jface/text/source/OverviewRuler.java
+SHA1-Digest: 1EYwYmUKckz+lp6lpFc4F7pI4dQ=
+
+Name: org/eclipse/jface/text/rules/PatternRule.java
+SHA1-Digest: u2eHp/vhyvHiyvP7lbP/1I8at38=
+
+Name: org/eclipse/jface/text/rules/IWhitespaceDetector.java
+SHA1-Digest: XZ80OKcdwjeJ0kNbZhxFg9CrAc0=
+
+Name: org/eclipse/jface/text/hyperlink/URLHyperlinkDetector.java
+SHA1-Digest: sc5dLJvD/claKdXpkoQh6b8F4Zc=
+
+Name: org/eclipse/jface/text/IPainter.java
+SHA1-Digest: SBaK7M61vbcQRxiYVU9bKo21xFs=
+
+Name: org/eclipse/jface/text/TextAttribute.java
+SHA1-Digest: QqvipYr029n2JN0f8jRd4MhYD40=
+
+Name: org/eclipse/jface/text/formatter/ContextBasedFormattingStrategy.
+ java
+SHA1-Digest: /8VF6RRHnxdFyl8N27UuiTzLsCk=
+
+Name: org/eclipse/jface/text/WhitespaceCharacterPainter.java
+SHA1-Digest: JmcyPaXedPOg6RcGPYqXzuZc4OA=
+
+Name: org/eclipse/jface/text/templates/persistence/TemplatePersistence
+ Messages.java
+SHA1-Digest: 613UkvoBfLuJrjGvEP+wY/vFQX4=
+
+Name: org/eclipse/jface/internal/text/html/BrowserInformationControl.j
+ ava
+SHA1-Digest: 4XqYeDia01wS2AvHIkl2d9t1zoc=
+
+Name: org/eclipse/jface/text/source/CompositeRuler.java
+SHA1-Digest: Bwek6FAG/MFix5np8wiQ6FH6QkI=
+
+Name: org/eclipse/jface/text/information/IInformationPresenter.java
+SHA1-Digest: cqA4fb15zCWkRYHvtw8sS7QTMQk=
+
+Name: org/eclipse/jface/text/rules/Token.java
+SHA1-Digest: tTdBv/vgNcRoaoxv9ia103wSzls=
+
+Name: org/eclipse/jface/internal/text/link/contentassist/ContextInform
+ ationPopup2.java
+SHA1-Digest: BVnICMnfafeHf/z2JD0InK3hgLM=
+
+Name: org/eclipse/jface/text/hyperlink/AbstractHyperlinkDetector.java
+SHA1-Digest: Lmw6hP84aM0fj9LmvFXGU6nTmaU=
+
+Name: org/eclipse/jface/text/ITextViewerExtension6.java
+SHA1-Digest: XmcjpK2hndiVX1FDLhf0wdZKgAo=
+
+Name: org/eclipse/jface/text/ITextOperationTargetExtension.java
+SHA1-Digest: rfFLORekTmJ/5aAmiv2tV0+hQ4s=
+
+Name: org/eclipse/jface/text/source/ILineDifferExtension2.java
+SHA1-Digest: vlrDAmZTC4Hi/hqxEnyZvzHtFXQ=
+
+Name: org/eclipse/jface/internal/text/html/HTMLMessages.java
+SHA1-Digest: 8ucz37+FHJAW6YtnEE9AfTalTPA=
+
+Name: org/eclipse/jface/contentassist/TextContentAssistSubjectAdapter.
+ java
+SHA1-Digest: LRQ7twHnRjv3TSSPqwuYNPbmarA=
+
+Name: org/eclipse/jface/text/TextPresentation.java
+SHA1-Digest: 6/f7Dc8gRkQch8fMWYUguW0fzwU=
+
+Name: org/eclipse/jface/text/IDocumentAdapterExtension.java
+SHA1-Digest: +XCL8SjWGduwpONEP0VzkTeU2zw=
+
+Name: org/eclipse/jface/internal/text/link/contentassist/Helper2.java
+SHA1-Digest: s8Mp0+wNpBG66OK2jsWxgUP9uqA=
+
+Name: org/eclipse/jface/internal/text/revisions/HunkComputer.java
+SHA1-Digest: 4JjkbvnwZluR8Iiilhn1jafowj4=
+
+Name: org/eclipse/jface/text/information/InformationPresenter.java
+SHA1-Digest: f3xrpPoqjU4yBJWBob4HVV5xofY=
+
+Name: org/eclipse/jface/text/source/IAnnotationPresentation.java
+SHA1-Digest: X67wdA7tPxtDjkencrcrEzsSos4=
+
+Name: org/eclipse/jface/text/source/projection/ProjectionSummary.java
+SHA1-Digest: RfL4hsFhBU7NnzNEGnjXtVS9e0s=
+
+Name: org/eclipse/jface/text/source/DefaultCharacterPairMatcher.java
+SHA1-Digest: XmhWOKGvAPEKCgToiAk/MsLB61I=
+
+Name: org/eclipse/jface/text/information/IInformationProviderExtension
+ .java
+SHA1-Digest: ta/Cw21YMv0KAJV13cI7n+omCBQ=
+
+Name: org/eclipse/jface/internal/text/html/HTML2TextReader.java
+SHA1-Digest: IHiDcKi8CuiOnI9P3SbN6qBUabs=
+
+Name: org/eclipse/jface/text/formatter/ContentFormatter.java
+SHA1-Digest: tubEjiryA3SwDSqGENtSDcPx+ME=
+
+Name: org/eclipse/jface/text/templates/persistence/TemplateStore.java
+SHA1-Digest: lcQ29EZcg3BeVI7ULvwzVKqF9qw=
+
+Name: org/eclipse/jface/text/source/SourceViewer.java
+SHA1-Digest: /ZF5uYeMOdycHjUAHzSpX0lb2Hg=
+
+Name: org/eclipse/jface/text/presentation/IPresentationReconciler.java
+SHA1-Digest: HhNvuUB4mLsAi95NO1cW6XsnCas=
+
+Name: org/eclipse/jface/text/source/IVerticalRulerListener.java
+SHA1-Digest: 0/qu4oqYiTAtOpLHKdafi9kYCLY=
+
+Name: org/eclipse/jface/internal/text/link/contentassist/IProposalList
+ ener.java
+SHA1-Digest: fGODP1mLcVUz+BtyenIYR2FL0Tc=
+
+Name: org/eclipse/jface/text/source/ISourceViewerExtension.java
+SHA1-Digest: 1FksPYdLMnc00w1F/41CV9ivvAc=
+
+Name: org/eclipse/jface/text/rules/DefaultPartitioner.java
+SHA1-Digest: NyYNw6XaeI35wIV7jgZWGr//rqM=
+
+Name: org/eclipse/jface/text/ITextViewerExtension3.java
+SHA1-Digest: HS0QG+4SG/7lp7zdO4a4d0kxRxU=
+
+Name: org/eclipse/jface/text/source/LineNumberChangeRulerColumn.java
+SHA1-Digest: /WNpM6YYo1DWNq2vUcD7qhUod70=
+
+Name: org/eclipse/jface/text/DefaultUndoManager.java
+SHA1-Digest: uaNlH8dYJjmnKrs8WVZYK8tThck=
+
+Name: org/eclipse/jface/internal/text/InternalAccessor.java
+SHA1-Digest: tv73c3gzqdz0BdaHOGqPzw49vUY=
+
+Name: org/eclipse/jface/text/contentassist/IContentAssistantExtension3
+ .java
+SHA1-Digest: WUagq0qcIyzWJ8GvuUFO0YDTDMM=
+
+Name: org/eclipse/jface/text/contentassist/JFaceTextMessages.java
+SHA1-Digest: Yc1w049sOOToIYXMQMMCtNes7J0=
+
+Name: org/eclipse/jface/text/IInformationControlExtension5.java
+SHA1-Digest: J4dmd2Myq7aymY2HTJjwBevAmvc=
+
+Name: org/eclipse/jface/text/DefaultIndentLineAutoEditStrategy.java
+SHA1-Digest: CPOrBLW/ecl+avNdSS/W6dXU6Lw=
+
+Name: org/eclipse/jface/text/reconciler/DirtyRegion.java
+SHA1-Digest: 27me7azZ5QkU8WGQBxMouItLRyw=
+
+Name: org/eclipse/jface/text/ITextViewerExtension.java
+SHA1-Digest: ER9OZWJawI11ra5uZG8nq0cllFc=
+
+Name: org/eclipse/jface/internal/text/source/DiffPainter.java
+SHA1-Digest: 3HBsyYcvrgYbZasRtncgR9bGNKQ=
+
+Name: org/eclipse/jface/text/ITextPresentationListener.java
+SHA1-Digest: vpj/qbkyE/VWALlVor4tqnUYSGY=
+
+Name: org/eclipse/jface/text/reconciler/IReconcilingStrategy.java
+SHA1-Digest: SUw1OUzR2uDsQM2Ew4zhx0y5NXc=
+
+Name: org/eclipse/jface/text/BlockTextSelection.java
+SHA1-Digest: yoZVtbewzoHLUqj8Lo86UGFCy+A=
+
+Name: org/eclipse/jface/text/IMarkRegionTarget.java
+SHA1-Digest: hgv05du/Afz+zvhK0DcGbOZh8O8=
+
+Name: org/eclipse/jface/text/source/AnnotationColumn.java
+SHA1-Digest: yC4ut0K5g3CpBwpZ66RNoplVj0A=
+
+Name: org/eclipse/jface/internal/text/link/contentassist/LineBreakingR
+ eader.java
+SHA1-Digest: xvKzKPludwhoLiHKZtEdRudh3Z8=
+
+Name: org/eclipse/jface/text/ITextInputListener.java
+SHA1-Digest: pu9DwKviEpwWVmGaRcmu467Xtu4=
+
+Name: org/eclipse/jface/text/formatter/IFormattingContext.java
+SHA1-Digest: qo3zIjbJ+jZo1m2pktbnilDc710=
+
+Name: org/eclipse/jface/text/source/ContentAssistantFacade.java
+SHA1-Digest: 3YMGW1TZztG5VpfFiUKMBoaO1gc=
+
+Name: org/eclipse/jface/text/reconciler/MonoReconciler.java
+SHA1-Digest: +tx7S6eX6H0aFx/aELA1/jrZ9gQ=
+
+Name: org/eclipse/jface/text/AbstractHoverInformationControlManager.ja
+ va
+SHA1-Digest: XfegaVytdH9Bn5lImkpZmwgaH7U=
+
+Name: org/eclipse/jface/text/IInformationControlExtension2.java
+SHA1-Digest: Kd75zepghn9Rtn8fvVX1H8Nja8E=
+
+Name: org/eclipse/jface/text/rules/WordRule.java
+SHA1-Digest: ABQiwXh8FhvQ9BPcTgk6yNwsGiA=
+
+Name: org/eclipse/jface/text/contentassist/AdditionalInfoController.ja
+ va
+SHA1-Digest: M3oFVYwB26hIFODpCxDcxdTvdmA=
+
+Name: org/eclipse/jface/text/revisions/RevisionRange.java
+SHA1-Digest: ATdUv7+to7EDjkV4ygtwrfxmIGc=
+
+Name: org/eclipse/jface/text/templates/persistence/TemplatePersistence
+ Data.java
+SHA1-Digest: vI9V3rnC24z4c69UiCgUGacWjS4=
+
+Name: org/eclipse/jface/text/ITextViewer.java
+SHA1-Digest: ZUA/RmDxlCiGvReI8rpQkPHfy30=
+
+Name: org/eclipse/jface/text/ITextDoubleClickStrategy.java
+SHA1-Digest: 3mCw2RJx6d4ptAamK9Uz2lpv09E=
+
+Name: org/eclipse/jface/internal/text/TableOwnerDrawSupport.java
+SHA1-Digest: 878NqXssONwN4WLxLwv/+9IBipM=
+
+Name: org/eclipse/jface/text/source/projection/IProjectionListener.jav
+ a
+SHA1-Digest: Vqleq+ZnkYS6ZSgPdOG1y8ujrDc=
+
+Name: org/eclipse/jface/text/revisions/IRevisionRulerColumnExtension.j
+ ava
+SHA1-Digest: MaPAvlt3MHOMyc6RDYQS04trvb0=
+
+Name: org/eclipse/jface/text/contentassist/ICompletionProposalExtensio
+ n4.java
+SHA1-Digest: X5Awd6FIFxWU0/Ywb7d3gyBi16c=
+
+Name: org/eclipse/jface/text/hyperlink/HyperlinkManager.java
+SHA1-Digest: pBLvOi5elyJytsaPjqAxNAulhvw=
+
+Name: org/eclipse/jface/text/source/IVerticalRulerInfo.java
+SHA1-Digest: RdAQkjFttbbj/UulLEE0FYeqs3Y=
+
+Name: org/eclipse/jface/text/source/AnnotationPainter.java
+SHA1-Digest: 19hNI+OkGK/BQElHAIymYjGXQXU=
+
+Name: org/eclipse/jface/text/JFaceTextUtil.java
+SHA1-Digest: ohARimnHlSp51GUxuup9BBTdSuQ=
+
+Name: org/eclipse/jface/text/IEventConsumer.java
+SHA1-Digest: 5vZEQ8EUt+lFiJXshGiYeNdkdPw=
+
+Name: org/eclipse/jface/internal/text/revisions/Hunk.java
+SHA1-Digest: rW2pzeGxm4s17TyAZ3vURqNqqh4=
+
+Name: org/eclipse/jface/internal/text/link/contentassist/CompletionPro
+ posalPopup2.java
+SHA1-Digest: FbImfIEss7zNYobIawN0AKplNhM=
+
+Name: org/eclipse/jface/text/rules/IRule.java
+SHA1-Digest: rm/hpxTfL3EHiUWE5ET4pxvW5xo=
+
+Name: org/eclipse/jface/text/source/IVerticalRuler.java
+SHA1-Digest: ckIAZIAtFWqk5b4xcLxRuTkNyE8=
+
+Name: org/eclipse/jface/text/source/IAnnotationAccessExtension2.java
+SHA1-Digest: CgqimtaGjUplMEdcnG4w/CiEZLw=
+
+Name: org/eclipse/jface/text/contentassist/IContextInformationValidato
+ r.java
+SHA1-Digest: tzHf6bTDhoyw7igjYICp5pJ+qO8=
+
+Name: org/eclipse/jface/text/IWidgetTokenOwnerExtension.java
+SHA1-Digest: uF0bc/W5mqpLKupnrbLxdrt+hz8=
+
+Name: org/eclipse/jface/text/IFindReplaceTargetExtension3.java
+SHA1-Digest: OxCG48ky+R+9FTwJmjBbvngo4gM=
+
+Name: org/eclipse/jface/text/DefaultDocumentAdapter.java
+SHA1-Digest: tng4dp3MtqCndcKm+9K86m/Xp9w=
+
+Name: org/eclipse/jface/text/rules/SingleLineRule.java
+SHA1-Digest: UjcyIE5BXMdiBgfzO+HnAxjHHiY=
+
+Name: org/eclipse/jface/contentassist/ISubjectControlContentAssistant.
+ java
+SHA1-Digest: kV3Vk46U5b3JCTqq+AkXxtxSz00=
+
+Name: org/eclipse/jface/text/DefaultTextHover.java
+SHA1-Digest: ps7aP9YIP3tdB2XYx0o+mwFxo/U=
+
+Name: org/eclipse/jface/text/formatter/IFormattingStrategy.java
+SHA1-Digest: 9KNLV1eETjDsdkjZFryoLWIEszU=
+
+Name: org/eclipse/jface/text/IBlockTextSelection.java
+SHA1-Digest: SrQ++SmEBHsRPLKB6ILCqXUI2l4=
+
+Name: org/eclipse/jface/text/source/projection/SourceViewerInformation
+ Control.java
+SHA1-Digest: kFHHzJ+leE5mz1WrQw5kvLhWO8s=
+
+Name: org/eclipse/jface/text/presentation/IPresentationRepairer.java
+SHA1-Digest: 3jLJYnrCwZRXO9mMuTyv+8CQtTM=
+
+Name: org/eclipse/jface/text/formatter/IContentFormatter.java
+SHA1-Digest: 1szA5VTkeB5MyKyUviAIZ4MiU+w=
+
+Name: org/eclipse/jface/text/hyperlink/IHyperlink.java
+SHA1-Digest: wB+dUZIFyllrtWO9o7sRfPraxZU=
+
+Name: META-INF/eclipse.inf
+SHA1-Digest: KyT9FF7C7t86NoBoa2kZT3ZJBfw=
+
+Name: org/eclipse/jface/text/DefaultInformationControl.java
+SHA1-Digest: VkjMAsGrHFnuYMeD3u3dKvMXHLs=
+
+Name: org/eclipse/jface/text/source/projection/ProjectionRulerColumn.j
+ ava
+SHA1-Digest: JZZUsg/wUPiB/5HMxUijb4861EU=
+
+Name: org/eclipse/jface/text/quickassist/QuickAssistAssistant.java
+SHA1-Digest: CzvK59Xa7nPDiIP9VUcOq2HeiPw=
+
+Name: org/eclipse/jface/text/revisions/IRevisionRulerColumn.java
+SHA1-Digest: DCcD0jCedE8t33gFd8AvMt+oFrs=
+
+Name: org/eclipse/jface/text/rules/BufferedRuleBasedScanner.java
+SHA1-Digest: uroIFUESXkpEGyBjkoMmlNqFStw=
+
+Name: org/eclipse/jface/text/source/IAnnotationHoverExtension2.java
+SHA1-Digest: 4cW4nrh9LNnyZEkwzUMiT2XjJ9Y=
+
+Name: org/eclipse/jface/text/hyperlink/MultipleHyperlinkPresenter.java
+SHA1-Digest: f+KsXH2ggFWh5ZO7QcBv75Rcx9g=
+
+Name: org/eclipse/jface/text/source/ISourceViewerExtension2.java
+SHA1-Digest: u8zLHE6fVwrb2nOhsJeSGZr+Mqg=
+
+Name: org/eclipse/jface/internal/text/html/SingleCharReader.java
+SHA1-Digest: dpEwfZw3VCTcsEvanKxKadG0j8o=
+
+Name: org/eclipse/jface/text/IInformationControlCreator.java
+SHA1-Digest: FnWGYe3LLllrAMwADu2ix9P9yWE=
+
+Name: org/eclipse/jface/text/ITextViewerExtension7.java
+SHA1-Digest: o0/qiViiEIzL8RWlYTg9ae3fsr0=
+
+Name: org/eclipse/jface/text/MarkSelection.java
+SHA1-Digest: eApTZQOpktlnr0EhCyYWnZJWmTY=
+
+Name: org/eclipse/jface/internal/text/link/contentassist/ContentAssist
+ Messages.java
+SHA1-Digest: eT8ZGTRYE2RMGR4nU68+DSBvxB0=
+
+Name: org/eclipse/jface/text/MarginPainter.java
+SHA1-Digest: UrXpGjHFil9co3O3TN1VFyK+bcc=
+
+Name: org/eclipse/jface/text/IInformationControl.java
+SHA1-Digest: aRcJvz/3LScT31vDNpUZZP1RTiA=
+
+Name: org/eclipse/jface/text/templates/InclusivePositionUpdater.java
+SHA1-Digest: fXIxhjX95SpkzvA/BLjvl3FJfBg=
+
+Name: org/eclipse/jface/text/source/AnnotationRulerColumn.java
+SHA1-Digest: yraovZDGd3MpjBdlfJdACbiwbE8=
+
+Name: org/eclipse/jface/text/reconciler/DirtyRegionQueue.java
+SHA1-Digest: NoDudPKS7+QN+GKbuB/Nr3DMfSI=
+
+Name: org/eclipse/jface/text/formatter/MultiPassContentFormatter.java
+SHA1-Digest: wUTbE5vsa54m90P8/nsuVXQGrlc=
+
+Name: org/eclipse/jface/text/quickassist/IQuickAssistAssistantExtensio
+ n.java
+SHA1-Digest: Ixf7uvZwefbuYq/exQzOv7GSXvU=
+
+Name: org/eclipse/jface/text/IAutoEditStrategy.java
+SHA1-Digest: X0n+mzip4NIkr8MaWDgjstkmbAg=
+
+Name: org/eclipse/jface/text/source/MatchingCharacterPainter.java
+SHA1-Digest: IN63DJiNNW/Qc8/tHbYkQtL8tZ0=
+
+Name: org/eclipse/jface/text/presentation/PresentationReconciler.java
+SHA1-Digest: waJYyJ5DyE5lEU/OlbXL3xfSa90=
+
+Name: org/eclipse/jface/text/source/ICharacterPairMatcher.java
+SHA1-Digest: AtM1vBPTCk6I1ssl33KA/jYbNR8=
+
+Name: org/eclipse/jface/text/contentassist/CompletionProposalPopup.jav
+ a
+SHA1-Digest: i/uBBYfq4TxeeDj9LjEiXZdKXRI=
+
+Name: org/eclipse/jface/text/source/VerticalRulerEvent.java
+SHA1-Digest: LnkMdCn2q1UoWn9Y7dhcItjcMlc=
+
+Name: org/eclipse/jface/text/TextEvent.java
+SHA1-Digest: 8eAXvSR+Nua8ewMKbVyFx9l31KM=
+
+Name: org/eclipse/jface/text/quickassist/IQuickAssistProcessor.java
+SHA1-Digest: SDnC/kyfhn43ygxW1Ga9O02yGuo=
+
+Name: org/eclipse/jface/text/rules/NumberRule.java
+SHA1-Digest: 9iP9jV+Ltaefgk/o+bqD99emrm0=
+
+Name: org/eclipse/jface/text/ITextListener.java
+SHA1-Digest: nPUnxrXJLqYI8C4rE43DmWv/8zg=
+
+Name: org/eclipse/jface/text/TextViewerUndoManager.java
+SHA1-Digest: UED7EmJhciaqqKTqetzPoUxm2Qk=
+
+Name: plugin.properties
+SHA1-Digest: V6zt59FE46qO1kBAhZEAVcLcFto=
+
+Name: org/eclipse/jface/text/contentassist/Helper.java
+SHA1-Digest: QHlheDcxT0itmr/TFshAm65k60s=
+
+Name: org/eclipse/jface/text/source/IOverviewRuler.java
+SHA1-Digest: rgQLS6YCfcKuGS6pJOm13VSvW8U=
+
+Name: org/eclipse/jface/text/source/ImageUtilities.java
+SHA1-Digest: wXdPGalN/ioz4tSLtH3J6jQ/Gkg=
+
+Name: org/eclipse/jface/text/source/IVerticalRulerExtension.java
+SHA1-Digest: lokww58kzjYXb5QjG0DqY5Fabic=
+
+Name: org/eclipse/jface/text/DocumentClone.java
+SHA1-Digest: 9cWSYw+7enAib1YagW7ZN7XJPdU=
+
+Name: org/eclipse/jface/text/IUndoManagerExtension.java
+SHA1-Digest: PdVf4zdny6kC9eQTsORHQH865Aw=
+
+Name: org/eclipse/jface/internal/text/link/contentassist/ContentAssist
+ ant2.java
+SHA1-Digest: DceCJyK9Q2OSZegQJ0JwxtxIcS0=
+
+Name: org/eclipse/jface/text/ITextViewerExtension4.java
+SHA1-Digest: i7k/YcHeO+gMFvvVKo4Gbr686PQ=
+
+Name: org/eclipse/jface/internal/text/revisions/Colors.java
+SHA1-Digest: FNGYcTpVoKO0Y2e1FRRqZrRAGbE=
+
+Name: org/eclipse/jface/text/contentassist/PopupCloser.java
+SHA1-Digest: z4NtBh19iT65k8qkjmkQ5uCTJPU=
+
+Name: org/eclipse/jface/text/contentassist/ContentAssistSubjectControl
+ Adapter.java
+SHA1-Digest: Sr7Bz2rsTfBJiHiUWhdg6UUoOx0=
+
+Name: org/eclipse/jface/text/contentassist/IContentAssistantExtension4
+ .java
+SHA1-Digest: KRJzMaw6e/iGyuQacCvx9w9z3A8=
+
+Name: org/eclipse/jface/text/presentation/IPresentationDamager.java
+SHA1-Digest: zIlCHrpAsiX6sOy5IZ7uniw0JOE=
+
+Name: org/eclipse/jface/internal/text/revisions/RevisionPainter.java
+SHA1-Digest: zvf+uVJpJdIDmM5KQXGeqVzIIsM=
+
+Name: org/eclipse/jface/text/source/projection/ProjectionAnnotationHov
+ er.java
+SHA1-Digest: jML4KvavWgQBzXw28+TTzCw0488=
+
+Name: org/eclipse/jface/text/IDelayedInputChangeProvider.java
+SHA1-Digest: Eq/5G/fu4TABaXv4E3FApQSICPY=
+
+Name: org/eclipse/jface/text/IPaintPositionManager.java
+SHA1-Digest: BetU6ZdhTsut7PeVWLaLQZilHws=
+
+Name: org/eclipse/jface/text/source/projection/AnnotationBag.java
+SHA1-Digest: lX60+h/8GUGG9R5moV9GHGz8IRQ=
+
+Name: org/eclipse/jface/text/rules/IPartitionTokenScanner.java
+SHA1-Digest: 01jt8baFZQCRl2jRkPk/oM0SYbA=
+
+Name: org/eclipse/jface/internal/text/link/contentassist/PopupCloser2.
+ java
+SHA1-Digest: 5GazxuT9wBah5/94YIZUOe7xLjQ=
+
+Name: org/eclipse/jface/contentassist/ISubjectControlContentAssistProc
+ essor.java
+SHA1-Digest: CLkkFeLA7YPYISP3G9L2WglzqcU=
+
+Name: org/eclipse/jface/text/formatter/FormattingContext.java
+SHA1-Digest: whOfM+pnKnDsuSfuU65jBNMQLSc=
+
+Name: org/eclipse/jface/text/templates/persistence/TemplateReaderWrite
+ r.java
+SHA1-Digest: 2AUJ93ayPomm9UXUOKiSFbPzVTo=
+
+Name: org/eclipse/jface/text/source/AbstractRulerColumn.java
+SHA1-Digest: LcCxFrot01uignNglaRr+wHHH6Q=
+
+Name: org/eclipse/jface/text/IViewportListener.java
+SHA1-Digest: LiEqXGv3449/5DPTgt4TQlb+Edc=
+
+Name: org/eclipse/jface/text/contentassist/ICompletionProposalExtensio
+ n.java
+SHA1-Digest: fx0TFjVL4Ey5mhbov3UbdGiZf1w=
+
+Name: org/eclipse/jface/text/AbstractInformationControl.java
+SHA1-Digest: 032NIdp2jQRewpwE3g8MG1QgkTk=
+
+Name: org/eclipse/jface/text/IEditingSupport.java
+SHA1-Digest: FBbNvc3pR0UnwHiSOtHhkRolr94=
+
+Name: org/eclipse/jface/internal/text/DelayedInputChangeListener.java
+SHA1-Digest: 7+WLXoVoJrm5oiZJVUgYvJdpEIY=
+
+Name: org/eclipse/jface/text/contentassist/IContextInformationPresente
+ r.java
+SHA1-Digest: 3eR56ehgzCGXBdos+cYFCN0KkX8=
+
+Name: org/eclipse/jface/text/hyperlink/DefaultHyperlinkPresenter.java
+SHA1-Digest: p3LhpntR0k9mTVe+QyLGtNpaGRI=
+
+Name: org/eclipse/jface/text/formatter/FormattingContextProperties.jav
+ a
+SHA1-Digest: AZyDjvuWcQcy/BBaG4HAfAHfAPI=
+
+Name: org/eclipse/jface/text/rules/IToken.java
+SHA1-Digest: P9rdCHtmj+fmMKflRXVVOyy1oGk=
+
+Name: org/eclipse/jface/text/hyperlink/IHyperlinkDetectorExtension.jav
+ a
+SHA1-Digest: dM8nl2myLhonw8iOmWodnHR2tog=
+
+Name: org/eclipse/jface/text/templates/TemplateProposal.java
+SHA1-Digest: 1g+/CbHnvxhEfqVnGuc7nVo+UmA=
+
+Name: org/eclipse/jface/text/IInformationControlExtension3.java
+SHA1-Digest: QOfLzuNUKSNJchLaETbl2FAjDwg=
+
+Name: org/eclipse/jface/text/reconciler/IReconcileResult.java
+SHA1-Digest: YYH6/C2JaWQd589RKHgc4vuTgDs=
+
+Name: org/eclipse/jface/text/IInformationControlCreatorExtension.java
+SHA1-Digest: zblkjw3gDxRxjMct1DO3Wy/Xe8I=
+
+Name: org/eclipse/jface/text/contentassist/ICompletionListener.java
+SHA1-Digest: Jj6eY0hwvtWnVc+Ucwxjgfcv5Uc=
+
+Name: org/eclipse/jface/text/source/IChangeRulerColumn.java
+SHA1-Digest: AaRc9jlzKH9imeqGC6iBWRJizZE=
+
+Name: org/eclipse/jface/text/link/LinkedModeUI.java
+SHA1-Digest: RwKFDjGrJA1MoaCwpdXheeSneeU=
+
+Name: org/eclipse/jface/text/source/SourceViewerConfiguration.java
+SHA1-Digest: QDEzVcRGgeTMD1vOP/u9Bl7+G6w=
+
+Name: org/eclipse/jface/text/FindReplaceDocumentAdapterContentProposal
+ Provider.java
+SHA1-Digest: NEnVww+D/vBNC2lD14gmBT3Vgrc=
+
+Name: org/eclipse/jface/contentassist/SubjectControlContextInformation
+ Validator.java
+SHA1-Digest: kbsdiLx1+iWncUzOxqs3yfFiZk4=
+
+Name: org/eclipse/jface/text/rules/DefaultDamagerRepairer.java
+SHA1-Digest: Omj1kLa4sUXFlRbQ+Nngxw3g/F4=
+
+Name: org/eclipse/jface/text/IRewriteTarget.java
+SHA1-Digest: 7tmxkPJWEVV4QlGufqbGk8SOQ74=
+
+Name: org/eclipse/jface/text/contentassist/ContextInformationPopup.jav
+ a
+SHA1-Digest: ThLg4ySOiEKT6/SZqswbSK+4Pj4=
+
+Name: org/eclipse/jface/text/rules/IWordDetector.java
+SHA1-Digest: 7cH9FESH19yNJ6phEgLMJahLcBk=
+
+Name: org/eclipse/jface/text/revisions/IRevisionListener.java
+SHA1-Digest: igpXoK1/5x7pBkPeoV8sZbBTzHk=
+
+Name: org/eclipse/jface/internal/text/InformationControlReplacer.java
+SHA1-Digest: YL8eEYXu3kJLfQXqYjiUX5epX4Q=
+
+Name: org/eclipse/jface/text/IWidgetTokenKeeperExtension.java
+SHA1-Digest: qhlQ23YWlPGB/t4UEki08qM5Akw=
+
+Name: org/eclipse/jface/text/source/DefaultAnnotationHover.java
+SHA1-Digest: bLxjiAp3O2ZbljbGUQdA70WnpUM=
+
+Name: org/eclipse/jface/text/contentassist/ICompletionProposalExtensio
+ n5.java
+SHA1-Digest: SWxo05O45DaYBdnwthKFUctkHGw=
+
+Name: org/eclipse/jface/text/source/projection/ProjectionAnnotationMod
+ el.java
+SHA1-Digest: qqiaYjaO8auD+Pvglueknz2vUJY=
+
+Name: org/eclipse/jface/text/TextSelection.java
+SHA1-Digest: 7VU1LrrUdyLWRA6H9FDVJub1tvw=
+
+Name: org/eclipse/jface/internal/text/html/HTMLTextPresenter.java
+SHA1-Digest: g/MEzK2AcqfXIvh1uos18buAHoI=
+
+Name: org/eclipse/jface/text/PaintManager.java
+SHA1-Digest: VL3OIhD+3yukKseL6+3n5a4xUV0=
+
+Name: org/eclipse/jface/text/IFindReplaceTargetExtension.java
+SHA1-Digest: TFdN0yw/P1qJHrVnlpEt28u/vkE=
+
+Name: org/eclipse/jface/text/revisions/RevisionInformation.java
+SHA1-Digest: 0HlmVovDKe2f90fAQA2fsi7xfk4=
+
+Name: org/eclipse/jface/text/reconciler/IReconcilableModel.java
+SHA1-Digest: TBzTBprYPNPJRSkcfPk8ko3oL5U=
+
+Name: org/eclipse/jface/text/source/IAnnotationAccessExtension.java
+SHA1-Digest: 3h0Cu7P08ncwiKYFPOcD2ID99jY=
+
+Name: org/eclipse/jface/text/source/projection/IProjectionPosition.jav
+ a
+SHA1-Digest: NZvAdrE4C3i5Mtf+LjQGm0PgV6Y=
+
+Name: org/eclipse/jface/text/source/IVerticalRulerInfoExtension.java
+SHA1-Digest: DmvKVwrbEn4M3JMYXxZWQsTerC0=
+
+Name: org/eclipse/jface/internal/text/html/BrowserInformationControlIn
+ put.java
+SHA1-Digest: +zX3zkDaoghjLDj3z0tF56z2LQs=
+
+Name: org/eclipse/jface/text/DocumentCommand.java
+SHA1-Digest: q3EaIgvBVLkpjf5jrBSbK2Gay4c=
+
+Name: org/eclipse/jface/text/source/AnnotationBarHoverManager.java
+SHA1-Digest: 02rbz8om5VLzwW1/bvTho0bEhgM=
+
+Name: org/eclipse/jface/text/AbstractReusableInformationControlCreator
+ .java
+SHA1-Digest: /s3XlT2ll1Uvb05R37ZW8EqSsv4=
+
+Name: org/eclipse/jface/text/IUndoManager.java
+SHA1-Digest: 4FqmjV7bDZ/TZSDf2e53D6BsW0M=
+
+Name: org/eclipse/jface/text/hyperlink/URLHyperlink.java
+SHA1-Digest: rMu/Q4aj03S+yyhr67PvbuzgKgw=
+
+Name: org/eclipse/jface/text/TextViewer.java
+SHA1-Digest: r8w/Wb8PeGdW3XipkYjbERDgdGk=
+
+Name: org/eclipse/jface/text/hyperlink/IHyperlinkDetectorExtension2.ja
+ va
+SHA1-Digest: jW1veg0NYSptHQX9gHRqeBexqqE=
+
+Name: org/eclipse/jface/text/IWidgetTokenKeeper.java
+SHA1-Digest: +T1IlRBbu51898LRJjMp7g8P3SE=
+
+Name: org/eclipse/jface/text/revisions/RevisionEvent.java
+SHA1-Digest: uxOrmjXOTIYys1qJFcIFnncfDNI=
+
+Name: org/eclipse/jface/contentassist/SubjectControlContentAssistant.j
+ ava
+SHA1-Digest: EqBqBS8SVWh3rfbXa17jzDtntvY=
+
+Name: org/eclipse/jface/text/contentassist/ICompletionListenerExtensio
+ n.java
+SHA1-Digest: LGZ+5rr7eNJ7rtVb6nRDl72nepM=
+
+Name: org/eclipse/jface/text/contentassist/IContentAssistant.java
+SHA1-Digest: ZkjdIFJsHbv2u+eZnf/pI6uT5Ic=
+
+Name: org/eclipse/jface/text/contentassist/ICompletionProposalExtensio
+ n2.java
+SHA1-Digest: qrHt3Mn9OJtp+/aLrEFfMxCpAVo=
+
+Name: org/eclipse/jface/text/source/JFaceTextMessages.java
+SHA1-Digest: qXz8PEHIGHT9pk84L65cribN61M=
+
+Name: org/eclipse/jface/contentassist/AbstractControlContentAssistSubj
+ ectAdapter.java
+SHA1-Digest: Om6Xvqhqy41W7LMyk0kXb3e47+4=
+
+Name: org/eclipse/jface/text/source/IAnnotationHoverExtension.java
+SHA1-Digest: QIc0UeTxKudEYYGBoBhDCAxPbJs=
+
+Name: org/eclipse/jface/text/contentassist/ContentAssistEvent.java
+SHA1-Digest: GtIqJHy6d0F0VcwqsfchAcpXW+U=
+
+Name: org/eclipse/jface/text/reconciler/AbstractReconciler.java
+SHA1-Digest: uA8JnQ/AYllJdvGL/+KROcr2ImU=
+
+Name: org/eclipse/jface/text/ISelectionValidator.java
+SHA1-Digest: WxG/ovgzleFND/Pik0SeIy6yY8E=
+
+Name: org/eclipse/jface/text/rules/RuleBasedScanner.java
+SHA1-Digest: aIe5pzsOwhZHAXFKxSQwwATQCPM=
+
+Name: org/eclipse/jface/contentassist/ISubjectControlContextInformatio
+ nValidator.java
+SHA1-Digest: B17/OSPRycTB28wigLeD0lWBOnk=
+
+Name: org/eclipse/jface/text/IWidgetTokenOwner.java
+SHA1-Digest: Hamtjv5+VAq5Ty/IJYV7MkjoNNg=
+
+Name: org/eclipse/jface/text/source/ISourceViewerExtension3.java
+SHA1-Digest: VfU9UOGObI+3+PyBVpQEcdWB+Rc=
+
+Name: org/eclipse/jface/text/IMarkSelection.java
+SHA1-Digest: qlsDcRovpi5qMWlkz1exMp2ktQ8=
+
+Name: org/eclipse/jface/text/source/LineRange.java
+SHA1-Digest: Y2qudYiDTidPu0CVZRqmmI71QeQ=
+
+Name: org/eclipse/jface/text/ITextViewerExtension8.java
+SHA1-Digest: Bu8iZeI07vk6NFohR0YvRjGRmkw=
+
+Name: org/eclipse/jface/internal/text/html/HTMLPrinter.java
+SHA1-Digest: lykelXdXHDHAk3VpAivVXcfbDZI=
+
+Name: org/eclipse/jface/text/information/IInformationProviderExtension
+ 2.java
+SHA1-Digest: gaKbGVDTooWw5ywPInd5WPsrEJU=
+
+Name: org/eclipse/jface/text/rules/ITokenScanner.java
+SHA1-Digest: NIrObSFy055ebWsmNLF9RXSO0cQ=
+
+Name: org/eclipse/jface/internal/text/link/contentassist/IContentAssis
+ tListener2.java
+SHA1-Digest: 9uvmQ9Es2e8b31Eg0/hr9RGahwo=
+
+Name: org/eclipse/jface/internal/text/link/contentassist/AdditionalInf
+ oController2.java
+SHA1-Digest: W4SmhsDDts5F+i8tJSg2+8Eb2As=
+
+Name: org/eclipse/jface/text/reconciler/IReconcilingStrategyExtension.
+ java
+SHA1-Digest: Y0hkTGtzKV0m91WBaUANxUqP9hY=
+
+Name: org/eclipse/jface/text/contentassist/IContentAssistantExtension.
+ java
+SHA1-Digest: vnN1P1YZRjfsgvtBe4zR9gJOd2Q=
+
+Name: about.html
+SHA1-Digest: ejOZra0kypGLQQ2bJtGTX+LI8tU=
+
+Name: org/eclipse/jface/text/information/IInformationPresenterExtensio
+ n.java
+SHA1-Digest: ZKoVWy9FMf6HGJLrKuEsVynN48Y=
+
+Name: org/eclipse/jface/text/source/ILineDiffInfo.java
+SHA1-Digest: yIE1Io7J9Tdw0AeiqMWJMFqo83g=
+
+Name: org/eclipse/jface/text/rules/EndOfLineRule.java
+SHA1-Digest: 4bFsbo77/gWI8Vo+7h7EZa/ZnoI=
+
+Name: org/eclipse/jface/text/source/ISharedTextColors.java
+SHA1-Digest: vs3XbWPY9Md+KHAK5nMsKijGoaM=
+
+Name: org/eclipse/jface/text/templates/JFaceTextTemplateMessages.java
+SHA1-Digest: XpfG2N8eiU0tsB/uu3O6Kg/kSbU=
+
+Name: org/eclipse/jface/text/rules/FastPartitioner.java
+SHA1-Digest: ocOWx0ENZjceFOD2Zkh0H++cxHg=
+
+Name: org/eclipse/jface/internal/text/html/BrowserInput.java
+SHA1-Digest: Qe1Py39EpgPAxy3PrUwU8PYJWzQ=
+
+Name: org/eclipse/jface/internal/text/revisions/Range.java
+SHA1-Digest: NLG/iIMEk11J3zPAUIewQNiEnAg=
+
+Name: org/eclipse/jface/text/contentassist/ContentAssistant.java
+SHA1-Digest: U27HYSRRWG/M+RT76S8Rnr9PS1s=
+
+Name: org/eclipse/jface/text/ITextViewerExtension5.java
+SHA1-Digest: NKozR16ulgSox3Q3c/WPBNiE7ww=
+
+Name: org/eclipse/jface/internal/text/NonDeletingPositionUpdater.java
+SHA1-Digest: 1XasWP4UsWUXgsZZgXzKA3rgGkI=
+
+Name: org/eclipse/jface/text/reconciler/IReconcileStep.java
+SHA1-Digest: aHhN7OmPDrMFLejhIlL/gQYU7V8=
+
+Name: org/eclipse/jface/text/source/projection/ProjectionViewer.java
+SHA1-Digest: n6ptgyTSZeF/rdq2khtmtDF2aVQ=
+
+Name: org/eclipse/jface/text/AbstractInformationControlManager.java
+SHA1-Digest: SKVyn/Ct2I/li9njNfOPjAa6Q4o=
+
+Name: org/eclipse/jface/text/hyperlink/IHyperlinkDetector.java
+SHA1-Digest: D6FYFqdEaRNfHr/ACjR80u71tY4=
+
+Name: org/eclipse/jface/text/quickassist/IQuickAssistInvocationContext
+ .java
+SHA1-Digest: A1fXQCknHI5Nvr45PZK1elL2eI8=
+
+Name: org/eclipse/jface/text/IDocumentAdapter.java
+SHA1-Digest: AztSGrMTd2VcoVjyOeY/Ssy5eoE=
+
+Name: org/eclipse/jface/contentassist/IContentAssistSubjectControl.jav
+ a
+SHA1-Digest: 89CfoINj/8ehHnMEZR4O33AdUns=
+
+Name: org/eclipse/jface/text/source/projection/ProjectionAnnotation.ja
+ va
+SHA1-Digest: V4YBDQqjXoA3eLL3SFLxqNeunU0=
+
+Name: org/eclipse/jface/text/source/IAnnotationHover.java
+SHA1-Digest: xlAwOQmAi0wehrAtBs1vAsOuUoc=
+
+Name: org/eclipse/jface/internal/text/revisions/LineIndexOutOfBoundsEx
+ ception.java
+SHA1-Digest: MYdIatGRXLAyCpmrODKPUNRBU9k=
+
+Name: org/eclipse/jface/text/formatter/IContentFormatterExtension.java
+SHA1-Digest: l0CMw53Jv0Vsi/TCreKZ9TGSZxk=
+
+Name: org/eclipse/jface/text/hyperlink/IHyperlinkPresenterExtension2.j
+ ava
+SHA1-Digest: RlRB+ZhPPt4TkA8aIqHCUNxTb20=
+
+Name: org/eclipse/jface/text/ITextHover.java
+SHA1-Digest: 6hVy10KDpWfW+t/4fooiolSdekk=
+
+Name: org/eclipse/jface/text/IFindReplaceTarget.java
+SHA1-Digest: 5HNr1ZouLpVibV2V64JJ916bdNQ=
+
+Name: org/eclipse/jface/text/templates/ContextTypeRegistry.java
+SHA1-Digest: oR9HAymcAHiayYVubiFFZKupqgg=
+
+Name: org/eclipse/jface/text/source/ISourceViewer.java
+SHA1-Digest: 0nfJOF/pP6rR2COYpLUy+P7+nPg=
+
+Name: org/eclipse/jface/text/DefaultAutoIndentStrategy.java
+SHA1-Digest: tpofTfgsMdOILRTFtPqZdJ6TjCE=
+
+Name: org/eclipse/jface/text/presentation/IPresentationReconcilerExten
+ sion.java
+SHA1-Digest: +qbYztVBmNMMd99DvIXYB5GLbfI=
+
+Name: org/eclipse/jface/internal/text/revisions/ChangeRegion.java
+SHA1-Digest: odtWKHmA2YxPlZdTgqHHbya0CsU=
+
+Name: org/eclipse/jface/internal/text/StickyHoverManager.java
+SHA1-Digest: M3as60PootSa+6/vNKoO6HknXv8=
+
+Name: org/eclipse/jface/text/DefaultTextDoubleClickStrategy.java
+SHA1-Digest: 4UkoHVTBBrydgeLeztSUc/PTXxQ=
+
+Name: org/eclipse/jface/text/contentassist/ICompletionProposal.java
+SHA1-Digest: DJS865XMUqQLn3XoNDPRCoYxS4w=
+
+Name: org/eclipse/jface/text/contentassist/CompletionProposal.java
+SHA1-Digest: mOnbjKK78V4gAclH1Pjw4YSmQ8Q=
+
+Name: org/eclipse/jface/text/hyperlink/HyperlinkMessages.java
+SHA1-Digest: 6K9EvgpkcA3ZyB/yYCOMIbh1qYk=
+
+Name: org/eclipse/jface/text/IInputChangedListener.java
+SHA1-Digest: EBxUt+74L8Oe4yoSkLENFlcZJos=
+
+Name: org/eclipse/jface/text/rules/ICharacterScanner.java
+SHA1-Digest: Sg6x+TuJJL5CTTsSoSW0/IwBZVg=
+
+Name: org/eclipse/jface/text/templates/PositionBasedCompletionProposal
+ .java
+SHA1-Digest: r8kPwPuSIc7nJAyqyizPhEtxZfA=
+
+Name: org/eclipse/jface/text/quickassist/IQuickFixableAnnotation.java
+SHA1-Digest: +m4yBBY0LoC3ZJkLuvz4grn1i68=
+
+Name: org/eclipse/jface/text/revisions/Revision.java
+SHA1-Digest: X2D5q5+44OqXTW07YTsTYr6RSMM=
+
+Name: org/eclipse/jface/text/rules/WhitespaceRule.java
+SHA1-Digest: vCJCoOFx95c+53xTnRiPWbmKBCk=
+
+Name: org/eclipse/jface/text/ITextViewerExtension2.java
+SHA1-Digest: gITeaZ4qBaUekBaEvEUrDHz/LH8=
+
+Name: org/eclipse/jface/text/IAutoIndentStrategy.java
+SHA1-Digest: SNWeR/ZVrZLi+euRO662BM3WktE=
+
+Name: org/eclipse/jface/text/source/projection/ProjectionSupport.java
+SHA1-Digest: qOxEI/gGpjhSdotDNhatyoSCfoo=
+
+Name: org/eclipse/jface/text/source/ILineRange.java
+SHA1-Digest: 0hF7VLlwg6ml3doauMkEOuCQSH4=
+
+Name: org/eclipse/jface/text/contentassist/IContentAssistantExtension2
+ .java
+SHA1-Digest: 4wTRcBBA+BcaiNYcgmvhhlVbnx0=
+
+Name: org/eclipse/jface/text/RegExMessages.java
+SHA1-Digest: HPaoxI7YLnBXXbdnpFlrp6HySmc=
+
+Name: org/eclipse/jface/text/rules/MultiLineRule.java
+SHA1-Digest: UT2TqbQHoeQa3MzOKrtwCiSAFcw=
+
+Name: org/eclipse/jface/text/formatter/IFormattingStrategyExtension.ja
+ va
+SHA1-Digest: hzz/7T/3FYqP186LVm22+9YMf7M=
+
+Name: org/eclipse/jface/text/link/ProposalPosition.java
+SHA1-Digest: vG+JJq2shoY5qBWjeQdtfnHGygM=
+
+Name: org/eclipse/jface/text/ITextOperationTarget.java
+SHA1-Digest: TcUVq/5zyRJYkNclLphmFbnuzOU=
+
+Name: org/eclipse/jface/text/IInformationControlExtension4.java
+SHA1-Digest: Z2fFNf8B4n1Vdh5j1iq4DUFOSkc=
+
+Name: org/eclipse/jface/text/rules/RuleBasedDamagerRepairer.java
+SHA1-Digest: FeNQ1sas2pfmPdtj43cvcnugFTs=
+
+Name: org/eclipse/jface/text/hyperlink/IHyperlinkPresenterExtension.ja
+ va
+SHA1-Digest: qHZ+uOhUu74BmANK+DSXUoWZ1yQ=
+
+Name: org/eclipse/jface/text/rules/WordPatternRule.java
+SHA1-Digest: ynhpOHdA8u3AMwdUnBMNUgZR4MM=
+
+Name: org/eclipse/jface/text/source/ILineDiffer.java
+SHA1-Digest: DKeHmd0AaGkGszU7xfskRegcxW0=
+
+Name: org/eclipse/jface/text/source/OverviewRulerHoverManager.java
+SHA1-Digest: jflItk48T7iN4xUfRawYk2UBVXg=
+
+Name: org/eclipse/jface/text/contentassist/ContextInformationValidator
+ .java
+SHA1-Digest: EVNsORwVZN2W2TgpCMw49HXjcuk=
+
+Name: org/eclipse/jface/text/contentassist/IContentAssistListener.java
+SHA1-Digest: 3s9Efc/Y800hdUifnJVG/JeLRkc=
+
+Name: org/eclipse/jface/text/ITextHoverExtension2.java
+SHA1-Digest: geIM2cI30IV5TMw8+HjUwWF2ank=
+
+Name: org/eclipse/jface/text/ITextSelection.java
+SHA1-Digest: Hx70U32hCUAH4MtMNtlwaWTtXaM=
+
+Name: org/eclipse/jface/text/contentassist/ICompletionProposalExtensio
+ n6.java
+SHA1-Digest: LVRS8Wu3ysvP7AClmBIo3e3SOVc=
+
+Name: org/eclipse/jface/contentassist/ISubjectControlContextInformatio
+ nPresenter.java
+SHA1-Digest: IHVBogPQ/YMJNTLwCulwMgdJbIw=
+
+Name: org/eclipse/jface/text/link/TabStopIterator.java
+SHA1-Digest: MqARp97MLSXHJBzkZmCarRShkJU=
+
+Name: org/eclipse/jface/text/IEditingSupportRegistry.java
+SHA1-Digest: 4zYc8aU7Khx0Bo7tZJpRPuTVuGA=
+
+Name: org/eclipse/jface/text/reconciler/AbstractReconcileStep.java
+SHA1-Digest: Uv2Swxs2w5nlZiw+g6wUBv2ipMQ=
+
+Name: org/eclipse/jface/text/link/LinkedPositionAnnotations.java
+SHA1-Digest: drg+QP1UjMQrnOgXwWOIlb3UQmg=
+
+Name: org/eclipse/jface/text/source/VerticalRuler.java
+SHA1-Digest: Z1T/2HCPESwjyhB+DgBR7JLx4I0=
+
+Name: org/eclipse/jface/text/TabsToSpacesConverter.java
+SHA1-Digest: pjvDI5b9cuKu3DbaE4G3Gv5YjDU=
+
+Name: org/eclipse/jface/text/ITextHoverExtension.java
+SHA1-Digest: s2E8fQeQp2c8imNFIByD1UkBUs0=
+
+Name: org/eclipse/jface/text/source/ChangeRulerColumn.java
+SHA1-Digest: O6UX5LBL14b3AxTdjrTrE/mP1y8=
+
+Name: org/eclipse/jface/text/contentassist/IContextInformationExtensio
+ n.java
+SHA1-Digest: iCtpzfhDyftcwQIdE5NxbBVRrzc=
+
+Name: org/eclipse/jface/text/IInformationControlExtension.java
+SHA1-Digest: 4l+NzaCZD9b/R01OFRxbg7NNJS8=
+
+Name: org/eclipse/jface/text/source/LineChangeHover.java
+SHA1-Digest: xa/KHqy/LGbnGAmlvIofGixuX9c=
+
+Name: org/eclipse/jface/text/reconciler/Reconciler.java
+SHA1-Digest: myasvXkmmHUvGvRfLPNkojstbdE=
+
+Name: org/eclipse/jface/text/source/TextInvocationContext.java
+SHA1-Digest: y1d7OOYDWXaDNOvl96BGq2z83tQ=
+
+Name: org/eclipse/jface/text/contentassist/IContentAssistProcessor.jav
+ a
+SHA1-Digest: d1HF6WM6vtU3z+4hjZOsfGtEe2A=
+
+Name: org/eclipse/jface/internal/text/revisions/RevisionSelectionProvi
+ der.java
+SHA1-Digest: E0kGdEq+cTumdS4gyx9+f58kV0E=
+
+Name: org/eclipse/jface/text/rules/RuleBasedPartitioner.java
+SHA1-Digest: Dx6XFhXcJDEhul7YN/abuE0SqmE=
+
+Name: org/eclipse/jface/text/hyperlink/IHyperlinkPresenter.java
+SHA1-Digest: gvHj7mF47OpftvnY1BJs5lMpQ4o=
+
+Name: org/eclipse/jface/text/source/IVerticalRulerColumn.java
+SHA1-Digest: Q1udtZENio0NeOKUS+gqYdtT1Bo=
+
+Name: org/eclipse/jface/text/TextViewerHoverManager.java
+SHA1-Digest: 9C0Cn0gxY2PkcHCCsGiO92solXc=
+
+Name: org/eclipse/jface/text/contentassist/ICompletionProposalExtensio
+ n3.java
+SHA1-Digest: CAQY5a7HGea9jj/3n5UNRCupEeM=
+
+Name: org/eclipse/jface/text/reconciler/IReconcilerExtension.java
+SHA1-Digest: S6np8GLJVIQKvRX8ooLcat1q2m0=
+
+Name: org/eclipse/jface/text/contentassist/IContextInformation.java
+SHA1-Digest: nevsaNQDmiX6NGJFDFOBuZb4JXE=
+
+Name: org/eclipse/jface/text/contentassist/ContextInformation.java
+SHA1-Digest: gQf6g/RiAsYdfAfBUmf+EoUg82Q=
+
+Name: org/eclipse/jface/text/source/IAnnotationAccess.java
+SHA1-Digest: yJYkL96QtQyoa/L4Nz4q/cy2qUg=
+
+Name: org/eclipse/jface/text/rules/RuleBasedPartitionScanner.java
+SHA1-Digest: IhPmH85YU86Oa2W645k4G5ip0D4=
+
+Name: org/eclipse/jface/text/rules/IPredicateRule.java
+SHA1-Digest: dfge+VRvo8+hlBHfIG4aKjZgb9w=
+
+Name: org/eclipse/jface/text/reconciler/IReconciler.java
+SHA1-Digest: AnrlSPtJyz9cMTvyT+n0hdvf6t4=
+
+Name: org/eclipse/jface/internal/text/html/SubstitutionTextReader.java
+SHA1-Digest: JF3zt1inzxSr6wTopfTkVymLzsg=
+
+Name: org/eclipse/jface/text/source/LineNumberRulerColumn.java
+SHA1-Digest: miobn79m+IwKE5CE5K1cGoHALYE=
+
+Name: org/eclipse/jface/text/templates/TemplateCompletionProcessor.jav
+ a
+SHA1-Digest: SqKMCtW9K6UBrlvPsGZK+M8/UZg=
+
+Name: org/eclipse/jface/contentassist/ComboContentAssistSubjectAdapter
+ .java
+SHA1-Digest: i9VCSIdxF16/+XmBB2kt4pwVvgM=
+
+Name: org/eclipse/jface/text/source/ISourceViewerExtension4.java
+SHA1-Digest: V5Mt8sgyi6RHdmGI02b4CpQztvE=
+
+Name: org/eclipse/jface/text/information/IInformationProvider.java
+SHA1-Digest: qRfAcs09IE/gmYqTZAUw4glHKZg=
+
+Name: org/eclipse/jface/text/source/ILineDifferExtension.java
+SHA1-Digest: s4E92rH2utsWoVGCU35+DexZsg4=
+
+Name: org/eclipse/jface/text/CursorLinePainter.java
+SHA1-Digest: v4BzuiwfUYqJ746PkCn8CM9PW98=
+
+Name: org/eclipse/jface/text/JFaceTextMessages.java
+SHA1-Digest: kON9MQEYm8w9ItG2dmUiahi67Qw=
+
+Name: org/eclipse/jface/text/PropagatingFontFieldEditor.java
+SHA1-Digest: jtvnoU4n2uTx9cLPsxuc7+mlvOU=
+
+Name: org/eclipse/jface/text/quickassist/IQuickAssistAssistant.java
+SHA1-Digest: 5vpzIYfTafX+OsBFFIBL7RQSWuo=
+
+Name: org/eclipse/jface/internal/text/SelectionProcessor.java
+SHA1-Digest: +AzxyCLHzNNhVz48ptILQn4uw6s=
+

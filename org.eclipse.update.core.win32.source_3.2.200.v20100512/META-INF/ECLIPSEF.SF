@@ -1,0 +1,32 @@
+Signature-Version: 1.0
+SHA1-Digest-Manifest: EDxWE/EBYNs+BxCbThA1FDdQlz0=
+Created-By: 1.6.0 (IBM Corporation)
+SHA1-Digest-Manifest-Main-Attributes: Y3fOprgD0ZfoqUpu5fkYizy26D0=
+
+Name: src/make.bat
+SHA1-Digest: uW1KhtOmwKNsJaQseGQuRe0A9tI=
+
+Name: src/make_ia64.bat
+SHA1-Digest: VVUhQuLsVGwd3aSlz67eUHO5fBs=
+
+Name: META-INF/eclipse.inf
+SHA1-Digest: SAqY+5ITAL0mkdYeijlSRhyIaZk=
+
+Name: src/setup.bat
+SHA1-Digest: r/A9BuT4UZw/2+7mfTaDf2z+a1k=
+
+Name: src/update.cpp
+SHA1-Digest: 27XpQYGP5WjtBNpUMyriC25nOAg=
+
+Name: about.html
+SHA1-Digest: M+fykt9heyWoEv1LNiIEeBhi/2Q=
+
+Name: src/build.xml
+SHA1-Digest: KTtKrWojxC/7jOua5DsrHGqs7IQ=
+
+Name: plugin.properties
+SHA1-Digest: MIBouLRUqhlxYzUiKr/HTO0dK3U=
+
+Name: src/update.h
+SHA1-Digest: Jx2zyI+DxrAT6w/yDE6f2Qk8Kh8=
+

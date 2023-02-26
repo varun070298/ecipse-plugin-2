@@ -1,0 +1,177 @@
+Signature-Version: 1.0
+SHA1-Digest-Manifest: WJm+EVUj1WsGFbWAWgmovbeJXq0=
+Created-By: 1.6.0 (IBM Corporation)
+SHA1-Digest-Manifest-Main-Attributes: Q8aT3qmb+WGwA9reJOGdtJF9swQ=
+
+Name: org/eclipse/pde/internal/runtime/registry/RegistryFilteredTree.j
+ ava
+SHA1-Digest: 0FeLfk5ikC/ZK9+ivjPRpbDl7Xg=
+
+Name: org/eclipse/pde/internal/runtime/PDERuntimePluginImages.java
+SHA1-Digest: lz9pxVTjkF3H3GKKSIPAehFw4jY=
+
+Name: org/eclipse/pde/internal/runtime/spy/SpyFormToolkit.java
+SHA1-Digest: BKC7iDIG1TJ/hVbHMuDj9j4Iu0Q=
+
+Name: org/eclipse/pde/internal/runtime/spy/handlers/MenuSpyHandler.jav
+ a
+SHA1-Digest: 0n6r5jc6yeGmZcMUOa5YVMi/RKA=
+
+Name: org/eclipse/pde/internal/runtime/MessageHelper.java
+SHA1-Digest: 2ykp7e74XLK4C4mIAKNA0ddkO44=
+
+Name: org/eclipse/pde/internal/runtime/registry/RegistryBrowserLabelPr
+ ovider.java
+SHA1-Digest: QuhUjrx+2oBve8ed2aoZmQYI9+s=
+
+Name: org/eclipse/pde/internal/runtime/PDERuntimePlugin.java
+SHA1-Digest: 9rcYQe0dIU0XIrQlu7jBFHwNDGw=
+
+Name: org/eclipse/pde/internal/runtime/registry/model/ExtensionPoint.j
+ ava
+SHA1-Digest: 6l5oRaO7WGF+BXHe3qZGVj88o40=
+
+Name: org/eclipse/pde/internal/runtime/registry/RegistryBrowser.java
+SHA1-Digest: QNGIIxFNxJTWt8ocXrC6TDvAk6c=
+
+Name: org/eclipse/pde/internal/runtime/registry/model/ModelChangeListe
+ ner.java
+SHA1-Digest: vtX6WLRvrSVnCxJB21oj5vSuNsU=
+
+Name: META-INF/eclipse.inf
+SHA1-Digest: SAqY+5ITAL0mkdYeijlSRhyIaZk=
+
+Name: org/eclipse/pde/internal/runtime/registry/model/RegistryModel.ja
+ va
+SHA1-Digest: eC1VBZmxYlBbZsXA/Kpj98kY/vg=
+
+Name: org/eclipse/pde/internal/runtime/registry/model/ConfigurationEle
+ ment.java
+SHA1-Digest: 8hA4kkZHLmoeled6OJuBEcOtD4c=
+
+Name: org/eclipse/pde/internal/runtime/registry/model/ServiceName.java
+SHA1-Digest: YcPbloljO0zwh++iDT3WN3yTxZk=
+
+Name: org/eclipse/pde/internal/runtime/registry/model/Extension.java
+SHA1-Digest: b5oZbPbAKSBEyVCvN1fp6qgEUWA=
+
+Name: org/eclipse/pde/internal/runtime/registry/model/BundlePrerequisi
+ te.java
+SHA1-Digest: FU2v8B3VtIs+v2xcAs7OI+/BRv4=
+
+Name: org/eclipse/pde/internal/runtime/spy/dialogs/MenuSpyDialog.java
+SHA1-Digest: orUhbhtGq94mfTvu/IY5Cj68rR0=
+
+Name: org/eclipse/pde/internal/runtime/OverlayIcon.java
+SHA1-Digest: VhZ62yCbveOaH2RDB/MQcT0lAyk=
+
+Name: org/eclipse/pde/internal/runtime/registry/model/ServiceRegistrat
+ ion.java
+SHA1-Digest: OI6otxWELjryJXBh+Xu0Vbv/GGk=
+
+Name: org/eclipse/pde/internal/runtime/spy/sections/ActiveHelpSection.
+ java
+SHA1-Digest: CRFG5LtYxH/m6zNSea0/tKu7hto=
+
+Name: org/eclipse/pde/internal/runtime/registry/model/ModelObject.java
+SHA1-Digest: WTr1rLgRl/Ln5+DfGf4B2rrS2nY=
+
+Name: plugin.properties
+SHA1-Digest: HoJWF/tllyI3C1IZlzq2fF/5HQk=
+
+Name: org/eclipse/pde/internal/runtime/registry/model/Bundle.java
+SHA1-Digest: 9Che4jf6Lkl+zk7/1Mo19OahGcg=
+
+Name: org/eclipse/pde/internal/runtime/registry/model/RegistryModelFac
+ tory.java
+SHA1-Digest: gJBT3C8NYENK664Vh5FqQepbAXA=
+
+Name: org/eclipse/pde/internal/runtime/registry/RegistryBrowserModelCh
+ angeListener.java
+SHA1-Digest: 1xku1z7NyHAJ/DIRH9fngx2xTu0=
+
+Name: org/eclipse/pde/internal/runtime/spy/SpyIDEUtil.java
+SHA1-Digest: D0CdUyCujNa5y9dm2tLBM+hUsWY=
+
+Name: org/eclipse/pde/internal/runtime/registry/DiagnosticsDialog.java
+SHA1-Digest: rKcF8K4XITUjCBpLdKiKiUlZZd8=
+
+Name: org/eclipse/pde/internal/runtime/registry/model/BundleLibrary.ja
+ va
+SHA1-Digest: MJ2tGwEjhAjzWi/rikUwAN4dAUc=
+
+Name: org/eclipse/pde/internal/runtime/registry/model/BackendChangeLis
+ tener.java
+SHA1-Digest: wbgjSu39taqReCE38YwlTWpTZ/g=
+
+Name: org/eclipse/pde/internal/runtime/spy/sections/ActiveFormEditorSe
+ ction.java
+SHA1-Digest: 10tykzeAbGrm/XnadYSNQftJssk=
+
+Name: org/eclipse/pde/internal/runtime/registry/model/RegistryBackend.
+ java
+SHA1-Digest: V5d1gyQQJFdlh0LyCRr25mFr1c0=
+
+Name: org/eclipse/pde/internal/runtime/registry/model/Property.java
+SHA1-Digest: oVzCvpadHI4APCUqPYVhAvE9nWE=
+
+Name: org/eclipse/pde/internal/runtime/spy/sections/ActiveSelectionSec
+ tion.java
+SHA1-Digest: PDcUT8lc/0MI8pc+MgChbS72ric=
+
+Name: org/eclipse/pde/internal/runtime/registry/model/Folder.java
+SHA1-Digest: O2tH2S7ezLa+As0yBqOwfdL3aes=
+
+Name: org/eclipse/pde/internal/runtime/registry/model/LocalRegistryBac
+ kend.java
+SHA1-Digest: /fAkaoTcNqar8SLf+P6fgYIzhVg=
+
+Name: org/eclipse/pde/internal/runtime/PDERuntimeMessages.java
+SHA1-Digest: Cs8mfJIK0ZSoXuHuP8lXwiCqdkU=
+
+Name: org/eclipse/pde/internal/runtime/spy/sections/ActiveMenuSection.
+ java
+SHA1-Digest: 4rpq1LKMY2ipN2TrRMYvf/jgWj8=
+
+Name: org/eclipse/pde/internal/runtime/spy/handlers/SpyHandler.java
+SHA1-Digest: +8ZanvkKSmJw2X/VmFh4UBQPkkg=
+
+Name: about.html
+SHA1-Digest: M+fykt9heyWoEv1LNiIEeBhi/2Q=
+
+Name: org/eclipse/pde/internal/runtime/registry/model/ModelChangeDelta
+ .java
+SHA1-Digest: WdNkzuyiswUo/B9g/l05bpn/iZA=
+
+Name: org/eclipse/pde/internal/runtime/spy/sections/ActiveWizardSectio
+ n.java
+SHA1-Digest: Tpn1Ku9uMDZyJ1LJtWTZ9AwsHZk=
+
+Name: org/eclipse/pde/internal/runtime/registry/model/Attribute.java
+SHA1-Digest: s9HtcrGitc2tbWAJlrI/izSS5eo=
+
+Name: org/eclipse/pde/internal/runtime/spy/sections/ISpySection.java
+SHA1-Digest: HGXozhj9cXCbNe/FXWc2UsXzEbM=
+
+Name: org/eclipse/pde/internal/runtime/IHelpContextIds.java
+SHA1-Digest: 5Xk4Dc+NVp0VactwzdVkjxjMk4o=
+
+Name: org/eclipse/pde/internal/runtime/registry/RegistryBrowserContent
+ Provider.java
+SHA1-Digest: QGCBOfp02hqONu5Rptg9KhD7lIE=
+
+Name: org/eclipse/pde/internal/runtime/spy/sections/ActivePartSection.
+ java
+SHA1-Digest: Twq/ElkJ88rnlZ3kyuEV2kQ7qZ8=
+
+Name: org/eclipse/pde/internal/runtime/spy/dialogs/SpyDialog.java
+SHA1-Digest: qiQ8LMx+aOjTOds11oMGZFt6Q8g=
+
+Name: org/eclipse/pde/internal/runtime/spy/sections/ActiveDialogPageSe
+ ction.java
+SHA1-Digest: vHs3WqymiHyYYuxKlwD5yWyie6E=
+
+Name: org/eclipse/pde/internal/runtime/spy/sections/ActiveShellSection
+ .java
+SHA1-Digest: wnP6IazQJWRifniH54R7YpKUdr0=
+

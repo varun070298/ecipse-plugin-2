@@ -1,0 +1,167 @@
+Signature-Version: 1.0
+SHA1-Digest-Manifest: oytir784LdMUvA8CFJcXCT/sVi8=
+Created-By: 1.6.0 (IBM Corporation)
+SHA1-Digest-Manifest-Main-Attributes: CeyqfCyAhpstyz3OUJoJ412I5WI=
+
+Name: schema/commonExpression.exsd
+SHA1-Digest: Kuc9t/Gp62zMcfHN9iYzqECRQgE=
+
+Name: schema/viewActions.exsd
+SHA1-Digest: T3V58Nw08o/3gzV2UqlG2m4WYzU=
+
+Name: schema/exportWizards.exsd
+SHA1-Digest: 8wDQkSEVj1awJFh9Vx3pjV75V2E=
+
+Name: schema/propertiesView.exsd
+SHA1-Digest: nSzXF3fQra0yyFE/wLRsbEx3yps=
+
+Name: schema/fontDefinitions.exsd
+SHA1-Digest: b7LBoIV36oVY0TDkmHm44gomYPg=
+
+Name: schema/propertyPages.exsd
+SHA1-Digest: TKLC9492/W5EiFiSKFK5VkDpcCQ=
+
+Name: schema/helpSupport.exsd
+SHA1-Digest: wIVvAT/6WZ3DYT/LfqXiQP17Wf8=
+
+Name: schema/splashHandlers.exsd
+SHA1-Digest: kc80qgPaHNFZWWVemFD8sEVb3wQ=
+
+Name: schema/preferencePages.exsd
+SHA1-Digest: RmWVDXSbaJFwQ9aC2Ms1SjA0J7E=
+
+Name: schema/acceleratorConfigurations.exsd
+SHA1-Digest: /Yhr8NiKYKiYR8/II9UaJz/b4lE=
+
+Name: schema/internalTweaklets.exsd
+SHA1-Digest: YTqsyhtrctE47tlNGLX0RisLU+Y=
+
+Name: schema/keywords.exsd
+SHA1-Digest: 8wvtKBPnTwhwQdtQIgvT2xz7IG0=
+
+Name: org/eclipse/ui/internal/UIPlugin.java
+SHA1-Digest: MYOv15WxlQ5YhXdzrUdqMxTcHFk=
+
+Name: schema/encodings.exsd
+SHA1-Digest: adksHSB9BDxAhpnQdyHlpbVyRdk=
+
+Name: schema/commonAction.exsd
+SHA1-Digest: cy1HDH6q3llpjtIdpxhUyyQa9w4=
+
+Name: META-INF/eclipse.inf
+SHA1-Digest: SAqY+5ITAL0mkdYeijlSRhyIaZk=
+
+Name: schema/menus.exsd
+SHA1-Digest: 3TwRgx15GfLh/C0WbxKWuvNHiho=
+
+Name: schema/perspectives.exsd
+SHA1-Digest: tk0KYQvYCHCCyOZG5DaHt9g0Cvw=
+
+Name: schema/actionSetPartAssociations.exsd
+SHA1-Digest: kPvIqqcz8PCsrSw7UY/dEwlYdu4=
+
+Name: schema/perspectiveExtensions.exsd
+SHA1-Digest: lBIEspnA1lkZrPb82lKMjy17SIs=
+
+Name: schema/presentationFactories.exsd
+SHA1-Digest: D0KDlcwvvbLbqVbwfxlMMNltcqk=
+
+Name: schema/intro.exsd
+SHA1-Digest: 2Vl1pfq0Ra0RkVjcd90HU3Klejk=
+
+Name: schema/installationPages.exsd
+SHA1-Digest: Py/Ylhm82BZyt5I57h78tAbDZdY=
+
+Name: schema/bindings.exsd
+SHA1-Digest: 24lSM856XmrDoPaNULBFFSTFGpA=
+
+Name: schema/activities.exsd
+SHA1-Digest: s4AdCPdIbBTxxTI2Jv16AT4bB1I=
+
+Name: schema/editors.exsd
+SHA1-Digest: kUk4IWcfAZ5kZcAM1uYAEV3dd4s=
+
+Name: schema/handlers.exsd
+SHA1-Digest: v8IWZKwCYxtZW5GwBlpKkqTaagE=
+
+Name: schema/actionSets.exsd
+SHA1-Digest: B1YuJqm1x4AN5ir2qx+d2SUOnzA=
+
+Name: schema/workingSets.exsd
+SHA1-Digest: MDFo/1n/a38Rm8i8kF5pYhNC6OM=
+
+Name: schema/startup.exsd
+SHA1-Digest: mbuVFDtMCpa/48KQgiNwYSx8UG0=
+
+Name: schema/acceleratorSets.exsd
+SHA1-Digest: FxXtQlmA2mE6KWvjlimaHzi5H8o=
+
+Name: org/eclipse/ui/internal/UIPreferenceInitializer.java
+SHA1-Digest: c5NFLOaBucKJDEwmGEzZO+Kwp2Q=
+
+Name: plugin.properties
+SHA1-Digest: rwenUZmnm2z9gE7hCkLx+HK/j3k=
+
+Name: schema/editorActions.exsd
+SHA1-Digest: Bi6D5Dz9wkMKNFmnDGrJ3e2zedI=
+
+Name: schema/dropActions.exsd
+SHA1-Digest: vIYzBgw2bSEQPcM5vo7eR1+IvjI=
+
+Name: schema/newWizards.exsd
+SHA1-Digest: SjVjTcKgJyPgNDsfzIeKoUUzaic=
+
+Name: schema/popupMenus.exsd
+SHA1-Digest: C1Tni3QjNgPy+wFiqQ7a6nJp1ps=
+
+Name: schema/commandImages.exsd
+SHA1-Digest: NYrQgVE2f6Y0aO1dlEAH3KqH+nw=
+
+Name: schema/browserSupport.exsd
+SHA1-Digest: AgZwDWOix7N7gupFK1IypL752Is=
+
+Name: schema/preferenceTransfer.exsd
+SHA1-Digest: ROiU1oo8i3biTWwn1Dklfkf1JVw=
+
+Name: schema/contexts.exsd
+SHA1-Digest: CIXftBLFUZclbHwVGyAS7QQVviU=
+
+Name: schema/activitySupport.exsd
+SHA1-Digest: 4Jq2XilyZe4L/HpIWCEyoGSrpzA=
+
+Name: schema/services.exsd
+SHA1-Digest: gOBvKB1Tys+SUCsOLaPv0scNT90=
+
+Name: schema/statusHandlers.exsd
+SHA1-Digest: 6khJ23x+Q8hFiOCRHJHejzTKUlg=
+
+Name: schema/decorators.exsd
+SHA1-Digest: t06yXwj96CFBgnyRhoSNcIyq/Tg=
+
+Name: about.html
+SHA1-Digest: M+fykt9heyWoEv1LNiIEeBhi/2Q=
+
+Name: schema/views.exsd
+SHA1-Digest: 9awpz7HVa+ABzLdkNtG6Gp+HMqc=
+
+Name: schema/actionDefinitions.exsd
+SHA1-Digest: tlPqTjGTSeocFSULL515FOURWv4=
+
+Name: schema/acceleratorScopes.exsd
+SHA1-Digest: pXs3W8R9shT0ncVF3T25AFMIT+c=
+
+Name: schema/elementFactories.exsd
+SHA1-Digest: Uj2f2PP3kLDhnYiYtPXbkN+jvtk=
+
+Name: schema/themes.exsd
+SHA1-Digest: BDZ/aw5zc4x9QoZr+kqlO2eQy5w=
+
+Name: schema/systemSummarySections.exsd
+SHA1-Digest: yG6jcnJnPd9FgcACeAGEfWYDQsE=
+
+Name: schema/commands.exsd
+SHA1-Digest: z0Md/1oq+BErgvAdW5ONMUy+enc=
+
+Name: schema/importWizards.exsd
+SHA1-Digest: lxvMndk6lQfHs1GMB0U6BGoY634=
+

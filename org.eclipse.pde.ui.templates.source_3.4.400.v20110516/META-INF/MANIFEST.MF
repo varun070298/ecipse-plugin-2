@@ -1,0 +1,208 @@
+Manifest-Version: 1.0
+Eclipse-SourceBundle: org.eclipse.pde.ui.templates;version="3.4.400.v2
+ 0110516";roots:="."
+Bundle-Vendor: %bundleVendor
+Bundle-Localization: plugin
+Bundle-Name: %bundleName
+Bundle-SymbolicName: org.eclipse.pde.ui.templates.source
+Bundle-Version: 3.4.400.v20110516
+Bundle-ManifestVersion: 2
+
+Name: org/eclipse/pde/internal/ui/templates/osgi/OSGiEventAdminTemplat
+ e.java
+SHA1-Digest: vL/fGAcx9wgc068YcZm+xYXZl/Y=
+
+Name: org/eclipse/pde/internal/ui/templates/ide/EditorNewWizard.java
+SHA1-Digest: G1BvYWStoVXxb8tPzl6akoV+5zc=
+
+Name: org/eclipse/pde/internal/ui/templates/ide/HelloWorldCmdNewWizard
+ .java
+SHA1-Digest: tEusatnl352/mkTfRj10USRZ1uU=
+
+Name: org/eclipse/pde/internal/ui/templates/ide/DecoratorTemplate.java
+SHA1-Digest: Vpwi2Qd4K1Q454lhNkt041jQ2eY=
+
+Name: org/eclipse/pde/internal/ui/templates/ide/HelpNewWizard.java
+SHA1-Digest: zWMankHf5sw/VxXNqqJnBinwzas=
+
+Name: org/eclipse/pde/internal/ui/templates/ide/PropertyPageNewWizard.
+ java
+SHA1-Digest: v2TXm0rGHhAWk51QGm6doyCnvgg=
+
+Name: org/eclipse/pde/internal/ui/templates/ide/NewWizardTemplate.java
+SHA1-Digest: ZQW3P0zvoWiOZCMDpzwrtthiL+Q=
+
+Name: org/eclipse/pde/internal/ui/templates/ide/PopupMenuTemplate.java
+SHA1-Digest: G7yqITZRtpTFB4m0BVuKX8YU7GU=
+
+Name: META-INF/eclipse.inf
+SHA1-Digest: KyT9FF7C7t86NoBoa2kZT3ZJBfw=
+
+Name: org/eclipse/pde/internal/ui/templates/rcp/HelloNonUIRCPTemplate.
+ java
+SHA1-Digest: qa2H9f8dHVT7TfPmxxEqfIKKyFA=
+
+Name: org/eclipse/pde/internal/ui/templates/osgi/OSGiSimpleLogServiceN
+ ewWizard.java
+SHA1-Digest: TsrUEc535xGtTJ+o0g08zDrv+YI=
+
+Name: org/eclipse/pde/internal/ui/templates/PDETemplateMessages.java
+SHA1-Digest: IxeDM7Makkcbk/wwbSpDbb3B6oU=
+
+Name: org/eclipse/pde/internal/ui/templates/rcp/IntroTemplate.java
+SHA1-Digest: t7/VtWZ8TA1rpjtU0N5qjzXK678=
+
+Name: org/eclipse/pde/internal/ui/templates/ide/UniversalWelcomeTempla
+ te.java
+SHA1-Digest: scNMBpy4c6Dfam7nTApmaOCV3/8=
+
+Name: org/eclipse/pde/internal/ui/templates/IHelpContextIds.java
+SHA1-Digest: ZBTMw254vIqETvSFhSbGBClonSE=
+
+Name: org/eclipse/pde/internal/ui/templates/ide/SplashHandlersTemplate
+ .java
+SHA1-Digest: Gfga+gn5huKvMwfwMUvpaQvHR0g=
+
+Name: org/eclipse/pde/internal/ui/templates/rcp/HelloRCPNewWizard.java
+SHA1-Digest: Z27wvZQPfS6qJW4mTQXzMEA2cHE=
+
+Name: org/eclipse/pde/internal/ui/templates/osgi/OSGiSimpleLogServiceT
+ emplate.java
+SHA1-Digest: BQPpBHTP+5Necu9Yhpgmt8JNHyk=
+
+Name: org/eclipse/pde/internal/ui/templates/osgi/HelloServiceComponent
+ Template.java
+SHA1-Digest: A51rQ/HHAiQzi1PYHDWPeR6G7yw=
+
+Name: org/eclipse/pde/internal/ui/templates/ide/HelloWorldNewWizard.ja
+ va
+SHA1-Digest: /aUKzAlsRVVelaaZfGHBG+Ve3UQ=
+
+Name: org/eclipse/pde/internal/ui/templates/osgi/OSGiPreferencesServic
+ eTemplate.java
+SHA1-Digest: VSKdXLuVtuj8Z1Q7EGJFWqT8qEA=
+
+Name: org/eclipse/pde/internal/ui/templates/ide/PopupMenuNewWizard.jav
+ a
+SHA1-Digest: WQTxloP4vyaz9buuFACva24rOkg=
+
+Name: org/eclipse/pde/internal/ui/templates/rcp/MailNewWizard.java
+SHA1-Digest: d4FxGMOGLAbMqc2VAEnYNsN/Y/Q=
+
+Name: org/eclipse/pde/internal/ui/templates/ide/HelpTemplate.java
+SHA1-Digest: vmaSHoSyEY3/sG11LrnVCZZNIYQ=
+
+Name: org/eclipse/pde/internal/ui/templates/ide/HelloWorldTemplate.jav
+ a
+SHA1-Digest: PhIVaRF4EkRY081xVnSZ6szSDS4=
+
+Name: org/eclipse/pde/internal/ui/templates/ide/BaseEditorTemplate.jav
+ a
+SHA1-Digest: qvOrqMO5pyR6wu34OyJqk69cTvo=
+
+Name: org/eclipse/pde/internal/ui/templates/osgi/HelloOSGiNewWizard.ja
+ va
+SHA1-Digest: I+GVn2WlcPfEZpmPFkpvKlu8K2k=
+
+Name: org/eclipse/pde/internal/ui/templates/ide/MultiPageEditorNewWiza
+ rd.java
+SHA1-Digest: V3N7cJ/mgN+Iink276ribrW5xQ0=
+
+Name: org/eclipse/pde/internal/ui/templates/PDETemplateSection.java
+SHA1-Digest: EW2sBy4GOGJk2wZNm1pf2DlwBag=
+
+Name: org/eclipse/pde/internal/ui/templates/rcp/HelloRCPTemplate.java
+SHA1-Digest: ak7AYkRByENGFF4bn/KFqGqYg7M=
+
+Name: org/eclipse/pde/internal/ui/templates/osgi/HelloServiceComponent
+ TemplateWizard.java
+SHA1-Digest: Ag6daQuLZAL4yjp1LHIJ0K/eW5w=
+
+Name: org/eclipse/pde/internal/ui/templates/Activator.java
+SHA1-Digest: s8RIjeMmkvQs5avT4MIJuKr5i0c=
+
+Name: plugin.properties
+SHA1-Digest: YquWAKVxZPuP/80H9YV54DFPuUI=
+
+Name: org/eclipse/pde/internal/ui/templates/ide/EditorTemplate.java
+SHA1-Digest: jqmm9AvbYs49jp6IbEv2t+KhJFo=
+
+Name: org/eclipse/pde/internal/ui/templates/ide/MultiPageEditorTemplat
+ e.java
+SHA1-Digest: u7gijBlXjW6ybowER74Bgh5/4Ic=
+
+Name: org/eclipse/pde/internal/ui/templates/ide/PreferencePageTemplate
+ .java
+SHA1-Digest: bBHTYwQsMbyNiOAUpArMKdGOuNc=
+
+Name: org/eclipse/pde/internal/ui/templates/osgi/OSGiEventAdminTemplat
+ eWizard.java
+SHA1-Digest: MwXVOv/zZZFeynwBZRMzpG+/8s4=
+
+Name: org/eclipse/pde/internal/ui/templates/rcp/ViewRCPTemplate.java
+SHA1-Digest: 257urxx1+3y/IFFVrIbWs5yLFJM=
+
+Name: org/eclipse/pde/internal/ui/templates/ide/ViewTemplate.java
+SHA1-Digest: Il0CydgEpxiAXKQZI44vvehkGiQ=
+
+Name: org/eclipse/pde/internal/ui/templates/ide/PropertyPageTemplate.j
+ ava
+SHA1-Digest: 4Lhwzcsm7I2Kz3Zj0pHPfltUKFI=
+
+Name: org/eclipse/pde/internal/ui/templates/osgi/HelloOSGiServiceTempl
+ ate.java
+SHA1-Digest: WoFLM16wwUH4ydOWq2ivh2GHck4=
+
+Name: org/eclipse/pde/internal/ui/templates/osgi/OSGiPreferencesServic
+ eNewWizard.java
+SHA1-Digest: g3EZ14XpxVy3dOCYTbfB9ZSJHfU=
+
+Name: org/eclipse/pde/internal/ui/templates/ide/BuilderNewWizard.java
+SHA1-Digest: WcSO6MkJKtgNtXI/u2441c8lVBs=
+
+Name: about.html
+SHA1-Digest: ejOZra0kypGLQQ2bJtGTX+LI8tU=
+
+Name: org/eclipse/pde/internal/ui/templates/ide/PerspectiveTemplate.ja
+ va
+SHA1-Digest: 7dDbI8RYMzWIW/RV95IjowK6Uzk=
+
+Name: org/eclipse/pde/internal/ui/templates/ide/BuilderTemplate.java
+SHA1-Digest: AX1hgtYyft16MFr+/jUKm6sg+SM=
+
+Name: org/eclipse/pde/internal/ui/templates/rcp/IntroNewWizard.java
+SHA1-Digest: n3aSz3MluipVYvY0xnqYzSTaXUw=
+
+Name: org/eclipse/pde/internal/ui/templates/ide/ImportWizardTemplate.j
+ ava
+SHA1-Digest: DuasWmRLNA495TyagdFBiIXn4dY=
+
+Name: org/eclipse/pde/internal/ui/templates/ide/HelloWorldCmdTemplate.
+ java
+SHA1-Digest: moW8NSkZcoy+XLyTJLd6WN5GkCE=
+
+Name: org/eclipse/pde/internal/ui/templates/rcp/HelloNonUIRCPNewWizard
+ .java
+SHA1-Digest: CH/LsiDz+EYx7quzRAChKn1yOsY=
+
+Name: org/eclipse/pde/internal/ui/templates/osgi/HelloOSGiTemplate.jav
+ a
+SHA1-Digest: UzBPGluaJWDt6ZQXOkUDK+WFnuA=
+
+Name: org/eclipse/pde/internal/ui/templates/osgi/HelloOSGiServiceNewWi
+ zard.java
+SHA1-Digest: yVowpGX0Z1p7bFiZJVvOFWEIDqU=
+
+Name: org/eclipse/pde/internal/ui/templates/rcp/ViewRCPNewWizard.java
+SHA1-Digest: k6WvVSBQ8cvix/uxk9Y+gOARYAY=
+
+Name: org/eclipse/pde/internal/ui/templates/rcp/MailTemplate.java
+SHA1-Digest: L8wxRT8mRgrUy8mo4xYdD00XvAc=
+
+Name: org/eclipse/pde/internal/ui/templates/ide/CommonNavigatorTemplat
+ e.java
+SHA1-Digest: +kVu5BJ0s4+cZhR1yfWS1JcVYxY=
+
+Name: org/eclipse/pde/internal/ui/templates/ide/ViewNewWizard.java
+SHA1-Digest: 4uZshxQeeFk8PuvUt8n6rs+c/kE=
+

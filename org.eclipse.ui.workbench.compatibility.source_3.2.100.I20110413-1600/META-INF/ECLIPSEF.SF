@@ -1,0 +1,22 @@
+Signature-Version: 1.0
+SHA1-Digest-Manifest: P7c143+lPJ1Y4RcGfNPDYhC5424=
+Created-By: 1.6.0 (IBM Corporation)
+SHA1-Digest-Manifest-Main-Attributes: R9kLeJw+CgXRv4+zLTaEvm1FVUE=
+
+Name: META-INF/eclipse.inf
+SHA1-Digest: SAqY+5ITAL0mkdYeijlSRhyIaZk=
+
+Name: compatibilitysrc/org/eclipse/ui/internal/ICompatibleWorkbenchPag
+ e.java
+SHA1-Digest: j5PnpHdkQaQspsVLDLvivOgIpAQ=
+
+Name: compatibilitysrc/org/eclipse/ui/internal/CompatibleWorkbenchPage
+ .java
+SHA1-Digest: TuXBvszJU9Pl+G5QjC+r3hmVtME=
+
+Name: about.html
+SHA1-Digest: M+fykt9heyWoEv1LNiIEeBhi/2Q=
+
+Name: fragment-compatibility.properties
+SHA1-Digest: ET/m2QKitptzdwV1B5nbJ2WV4i0=
+
